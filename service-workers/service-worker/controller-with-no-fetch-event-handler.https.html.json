@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"global setup","status":"TIMEOUT"},{"name":"cross-origin request, no-cors mode","status":"NOTRUN"},{"name":"cross-origin request, cors denied","status":"NOTRUN"},{"name":"cross-origin request, cors approved","status":"NOTRUN"},{"name":"cleanup global state","status":"NOTRUN"}]}
