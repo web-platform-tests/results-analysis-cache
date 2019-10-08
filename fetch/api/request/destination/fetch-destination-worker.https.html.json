@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initialize global state","status":"PASS"},{"name":"Worker fetches with a \"worker\" Request.destination","status":"PASS"}]}
