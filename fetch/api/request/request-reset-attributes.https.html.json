@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Request.isReloadNavigation is reset with non-empty RequestInit","status":"TIMEOUT"},{"name":"Request.isHistoryNavigation is reset with non-empty RequestInit","status":"NOTRUN"},{"name":"Request.mode is reset with non-empty RequestInit when it's \"navigate\"","status":"NOTRUN"}]}
