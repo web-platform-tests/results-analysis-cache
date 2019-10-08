@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"import() must reject when there is a wrong MIME type","status":"FAIL"}]}
