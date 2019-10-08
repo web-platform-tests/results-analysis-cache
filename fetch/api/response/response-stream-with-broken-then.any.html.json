@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Inject {done: false, value: bye} via Object.prototype.then.","status":"PASS"},{"name":"Inject {done: false, value: undefined} via Object.prototype.then.","status":"PASS"},{"name":"Inject undefined via Object.prototype.then.","status":"PASS"},{"name":"Inject 8.2 via Object.prototype.then.","status":"PASS"}]}
