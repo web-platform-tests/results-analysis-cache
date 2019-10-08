@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Calling createOffer() and setLocalDescription() again after one round of local-offer/remote-answer should succeed","status":"PASS"},{"name":"Switching role from answerer to offerer after going back to stable state should succeed","status":"PASS"},{"name":"onsignalingstatechange fires before setLocalDescription resolves","status":"PASS"}]}
