@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"currentTime initial value","status":"PASS"},{"name":"setting currentTime when readyState is HAVE_NOTHING","status":"FAIL"},{"name":"setting currentTime when readyState is greater than HAVE_NOTHING","status":"PASS"}]}
