@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"new CloseEvent() without dictionary","status":"PASS"},{"name":"new CloseEvent() with dictionary","status":"PASS"}]}
