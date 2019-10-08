@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"W3C WebSocket API - Create WebSocket - wsocket.protocol should be empty before connection is established","status":"PASS"}]}
