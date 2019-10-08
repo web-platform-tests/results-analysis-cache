@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"sessionStorage mutations fire StorageEvents that are caught by the event listener attached via setattribute.","status":"PASS"},{"name":"localStorage mutations fire StorageEvents that are caught by the event listener attached via setattribute.","status":"PASS"}]}
