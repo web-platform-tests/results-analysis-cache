@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"location assign","status":"FAIL"},{"name":"URL that fails to parse","status":"FAIL"}]}
