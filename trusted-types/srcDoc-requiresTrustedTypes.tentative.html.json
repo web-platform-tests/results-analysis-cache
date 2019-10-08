@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"srcdoc = TrustedHTML.escape().","status":"PASS"},{"name":"srcdoc = TrustedHTML.unsafelyCreate().","status":"PASS"},{"name":"'srcdoc = string' throws.","status":"FAIL"}]}
