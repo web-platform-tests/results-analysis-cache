@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.open: safe URL, safe construction.","status":"PASS"},{"name":"window.open: safe URL, unsafe construction.","status":"PASS"},{"name":"document.open: safe URL, safe construction.","status":"PASS"},{"name":"document.open: safe URL, unsafe construction.","status":"PASS"}]}
