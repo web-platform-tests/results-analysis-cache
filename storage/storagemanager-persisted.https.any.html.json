@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"navigator.storage.persisted() returns a promise that resolves.","status":"TIMEOUT"}]}
