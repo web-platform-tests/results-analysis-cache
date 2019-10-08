@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"insecure/same-origin websocket","status":"TIMEOUT"},{"name":"secure/same-origin websocket","status":"TIMEOUT"},{"name":"insecure/cross-origin websocket","status":"TIMEOUT"},{"name":"secure/cross-origin websocket","status":"TIMEOUT"}]}
