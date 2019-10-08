@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XMLHttpRequest: open() resolving URLs - fragment identifier","status":"PASS"},{"name":"make sure fragment is removed from URL before request","status":"PASS"},{"name":"make sure fragment is removed from URL before request (with query string)","status":"PASS"},{"name":"make sure escaped # is not removed","status":"PASS"}]}
