@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.HTMLCanvasElement has prototype, which is { ReadOnly, DontDelete }. prototype has getContext, which is not","status":"PASS"}]}
