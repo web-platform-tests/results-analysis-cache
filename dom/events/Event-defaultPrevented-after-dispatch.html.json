@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Default prevention via preventDefault","status":"FAIL"},{"name":"Default prevention via returnValue","status":"FAIL"}]}
