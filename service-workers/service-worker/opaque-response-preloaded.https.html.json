@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Opaque responses should not be reused for XHRs, loading case","status":"TIMEOUT"},{"name":"Opaque responses should not be reused for XHRs, done case","status":"NOTRUN"}]}

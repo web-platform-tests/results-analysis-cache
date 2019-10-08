@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Service Worker should respond to fetch event after the hash changes","status":"TIMEOUT"},{"name":"Service Worker should respond to fetch event after the pushState","status":"NOTRUN"}]}
