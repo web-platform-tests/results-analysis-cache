@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Redirects should not reset the timer","status":"PASS"},{"name":"CORS preflights should not reset the timer","status":"TIMEOUT"}]}
