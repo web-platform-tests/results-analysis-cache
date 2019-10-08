@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Basic processing: safe URL, safe construction.","status":"FAIL"},{"name":"Basic processing: safe URL, unsafe construction.","status":"FAIL"},{"name":"`location.replace = string` throws","status":"FAIL"},{"name":"`location.replace = null` throws","status":"FAIL"}]}
