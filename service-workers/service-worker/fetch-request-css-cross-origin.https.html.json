@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"setup global state","status":"TIMEOUT"},{"name":"MIME checking of CSS resources fetched via service worker when Content-Type is not set.","status":"NOTRUN"},{"name":"Same-origin policy for access to CSS resources fetched via service worker","status":"NOTRUN"}]}
