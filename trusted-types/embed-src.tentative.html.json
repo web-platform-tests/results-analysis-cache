@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"src = TrustedScriptURL.unsafelyCreate(URLS.safe)","status":"PASS"},{"name":"src = TrustedScriptURL.unsafelyCreate(URLS.javascript)","status":"PASS"},{"name":"src = TrustedScriptURL.unsafelyCreate(URLS.external)","status":"PASS"}]}
