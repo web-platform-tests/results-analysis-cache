@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Update the registration with a different script type (classic => module).","status":"FAIL"},{"name":"Update the registration with a different script type (module => classic).","status":"FAIL"}]}
