@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test interfaces","status":"PASS"},{"name":"Partial interface HTMLIFrameElement: original interface defined","status":"PASS"},{"name":"HTMLIFrameElement interface: attribute allow","status":"FAIL"},{"name":"Unscopable handled correctly for allow property on HTMLIFrameElement","status":"PASS"}]}
