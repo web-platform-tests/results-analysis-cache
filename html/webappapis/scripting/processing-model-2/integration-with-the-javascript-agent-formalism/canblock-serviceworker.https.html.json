@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Service worker test setup","status":"PASS"},{"name":"[[CanBlock]] in a ServiceWorkerGlobalScope","status":"FAIL"}]}
