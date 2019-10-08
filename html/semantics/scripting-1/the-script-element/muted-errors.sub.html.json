@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Errors for same-origin script shouldn't be muted","status":"PASS"},{"name":"Errors for cross-origin script should be muted","status":"FAIL"},{"name":"Errors for cross-origin script should be muted even if the script is once loaded as same-origin","status":"FAIL"}]}
