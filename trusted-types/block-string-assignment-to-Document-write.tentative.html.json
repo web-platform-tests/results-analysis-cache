@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"`document.write(string)` throws","status":"FAIL"},{"name":"`document.write(null)` throws","status":"FAIL"}]}
