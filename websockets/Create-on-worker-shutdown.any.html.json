@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"WebSocket created after a worker self.close()","status":"TIMEOUT"}]}
