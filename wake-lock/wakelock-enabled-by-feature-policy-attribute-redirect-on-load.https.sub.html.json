@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Feature-Policy allow=\"wake-lock\" allows same-origin relocation","status":"FAIL"},{"name":"Feature-Policy allow=\"wake-lock\" disallows cross-origin relocation","status":"PASS"}]}
