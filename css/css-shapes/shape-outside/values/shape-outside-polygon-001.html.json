@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Nonzero - inline","status":"PASS"},{"name":"Evenodd - inline","status":"PASS"},{"name":"Nonzero - computed","status":"PASS"},{"name":"Evenodd - computed","status":"PASS"}]}
