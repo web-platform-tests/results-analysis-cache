@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Recover from a bad service worker by updating after a failed navigation.","status":"PASS"}]}
