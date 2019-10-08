@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"User created event is initialized properly with default values","status":"PASS"},{"name":"User created event is initialized properly using dictionary","status":"PASS"}]}
