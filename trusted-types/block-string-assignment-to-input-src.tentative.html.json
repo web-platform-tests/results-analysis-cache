@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"src = TrustedURL.create().","status":"FAIL"},{"name":"src = TrustedURL.unsafelyCreate().","status":"FAIL"},{"name":"'src = string' throws.","status":"FAIL"}]}
