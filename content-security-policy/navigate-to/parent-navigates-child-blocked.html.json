@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test that the parent can't navigate the child because the relevant policy belongs to the navigation initiator (in this case the parent, which has the policy `navigate-to support/wait_for_navigation.html;`)","status":"NOTRUN"},{"name":"Violation report status OK.","status":"PASS"}]}
