@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"innerTextOfDoc = TrustedHTML.escape().","status":"PASS"},{"name":"innerTextOfDoc = TrustedHTML.unsafelyCreate().","status":"PASS"},{"name":"'innerTextOfDoc = null' throws","status":"FAIL"},{"name":"`innerTextOfDoc = string` throws.","status":"FAIL"}]}
