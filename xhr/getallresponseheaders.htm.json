@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XMLHttpRequest: getAllResponseHeaders()","status":"FAIL"},{"name":"XMLHttpRequest: getAllResponseHeaders() 1","status":"FAIL"},{"name":"XMLHttpRequest: getAllResponseHeaders() 2","status":"FAIL"}]}
