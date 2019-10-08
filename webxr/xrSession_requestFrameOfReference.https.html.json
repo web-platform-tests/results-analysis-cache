@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Immersive XRSession requestFrameOfReference returns expected objects","status":"FAIL"},{"name":"Non-immersive XRSession requestFrameOfReference returns expected objects","status":"FAIL"}]}
