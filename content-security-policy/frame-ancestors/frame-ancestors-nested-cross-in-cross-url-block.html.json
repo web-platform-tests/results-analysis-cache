@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"A 'frame-ancestors' CSP directive with a URL value should block or allow rendering in nested frames as appropriate.","status":"NOTRUN"}]}
