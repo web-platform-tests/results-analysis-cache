@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"webappsec-subresource-integrity interfaces","status":"FAIL"},{"name":"Partial interface HTMLLinkElement: original interface defined","status":"PASS"},{"name":"Partial interface HTMLScriptElement: original interface defined","status":"PASS"}]}
