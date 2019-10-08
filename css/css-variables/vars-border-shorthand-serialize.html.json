@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"border-color should serialize to the empty string when border references a variable","status":"PASS"},{"name":"border-style should serialize to the empty string when border references a variable","status":"PASS"},{"name":"border-width should serialize to the empty string when border references a variable","status":"PASS"}]}
