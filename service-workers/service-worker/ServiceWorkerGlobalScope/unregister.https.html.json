@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Unregister on script evaluation","status":"TIMEOUT"},{"name":"Unregister on installing event","status":"NOTRUN"},{"name":"Unregister on activate event","status":"NOTRUN"},{"name":"Unregister controlling service worker","status":"NOTRUN"}]}
