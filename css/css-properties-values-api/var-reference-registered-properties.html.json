@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"var() references work with registered properties","status":"FAIL"},{"name":"References to registered var()-properties work in registered lists","status":"FAIL"},{"name":"References to mixed registered and unregistered var()-properties work in registered lists","status":"FAIL"},{"name":"Registered lists may be concatenated","status":"FAIL"}]}
