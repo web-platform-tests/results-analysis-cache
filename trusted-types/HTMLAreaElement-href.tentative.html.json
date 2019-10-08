@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"area.href = URLS.safe, TrustedURL.create","status":"PASS"},{"name":"area.href = URLS.safe, TrustedURL.unsafelyCreate","status":"PASS"}]}
