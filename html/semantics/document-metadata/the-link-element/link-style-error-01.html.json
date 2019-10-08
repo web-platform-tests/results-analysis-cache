@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Should get an error event for a 404 error.","status":"PASS"},{"name":"Should get an error event for an unsupported URL.","status":"PASS"},{"name":"Should get an error event for a text/plain response.","status":"FAIL"}]}
