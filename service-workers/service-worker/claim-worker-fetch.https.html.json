@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"fetch() in Worker should be intercepted after the client is claimed.","status":"TIMEOUT"},{"name":"fetch() in nested Worker should be intercepted after the client is claimed.","status":"NOTRUN"}]}
