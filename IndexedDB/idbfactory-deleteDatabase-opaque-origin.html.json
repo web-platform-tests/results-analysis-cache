@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IDBFactory.deleteDatabase() in non-sandboxed iframe should not throw","status":"PASS"},{"name":"IDBFactory.deleteDatabase() in sandboxed iframe should throw SecurityError","status":"PASS"}]}
