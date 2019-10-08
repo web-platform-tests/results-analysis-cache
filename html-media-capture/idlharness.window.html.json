@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"idl_test setup","status":"PASS"},{"name":"Partial interface HTMLInputElement: original interface defined","status":"PASS"},{"name":"HTMLInputElement interface: attribute capture","status":"FAIL"},{"name":"HTMLInputElement interface: input must inherit property \"capture\" with the proper type","status":"FAIL"}]}
