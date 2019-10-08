@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_handle_prompt_dismiss[capabilities0]","status":"PASS"},{"name":"test_handle_prompt_accept[capabilities0]","status":"PASS"},{"name":"test_handle_prompt_missing_value","status":"PASS"}]}
