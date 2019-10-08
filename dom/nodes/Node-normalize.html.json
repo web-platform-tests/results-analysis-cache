@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Node.normalize()","status":"PASS"},{"name":"Empty text nodes separated by a non-empty text node","status":"PASS"},{"name":"Empty text nodes","status":"PASS"},{"name":"Non-text nodes with empty textContent values.","status":"PASS"}]}
