@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CORB cannot block polyglot HTML/JS: html-js-polyglot.js","status":"PASS"},{"name":"CORB cannot block polyglot HTML/JS: html-js-polyglot2.js","status":"PASS"}]}
