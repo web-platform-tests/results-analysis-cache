@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"WebAssembly module as an IndexedDB value","status":"PASS"},{"name":"WebAssembly module in a JavaScript object IndexedDB value","status":"PASS"},{"name":"WebAssembly module in an IndexedDB value with an inline key","status":"PASS"}]}
