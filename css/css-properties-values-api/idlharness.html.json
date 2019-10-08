@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test IDL implementation of CSS Properties Values API","status":"PASS"},{"name":"Partial namespace CSS: original namespace defined","status":"PASS"},{"name":"CSS namespace: operation escape(CSSOMString)","status":"FAIL"},{"name":"CSS namespace: operation registerProperty(PropertyDescriptor)","status":"FAIL"}]}
