@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Registered properties are correctly inherited (or not) depending on the inherits flag.","status":"PASS"}]}
