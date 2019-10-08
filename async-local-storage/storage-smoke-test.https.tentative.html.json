@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"backingStore returns the correct object","status":"PASS"},{"name":"storage methods work, at least for one entry with string key and value","status":"PASS"}]}
