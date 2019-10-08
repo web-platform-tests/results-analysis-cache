@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test IDL implementation of css-masking","status":"PASS"},{"name":"Partial namespace CSS: original namespace defined","status":"PASS"},{"name":"CSS namespace: operation escape(CSSOMString)","status":"PASS"}]}
