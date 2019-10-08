@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"relatedTarget should not leak at capturing phase, at window object.","status":"PASS"},{"name":"relatedTarget should not leak at target.","status":"PASS"}]}
