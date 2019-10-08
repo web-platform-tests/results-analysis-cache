@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"createStream() returns an RTCQuicStream with initial properties set.","status":"FAIL"},{"name":"createStream() throws if the transport is closed.","status":"FAIL"},{"name":"RTCQuicTransport.stop() closes all streams.","status":"FAIL"}]}
