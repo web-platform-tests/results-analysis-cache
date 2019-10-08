@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"base.href = URLS.safe, TrustedURL.create","status":"PASS"},{"name":"base.href = URLS.safe, TrustedURL.unsafelyCreate","status":"PASS"},{"name":"`base.href = string` throws","status":"FAIL"},{"name":"`base.href = null` throws","status":"FAIL"}]}
