@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that read() method resolves with valid reading when signal is null","status":"FAIL"},{"name":"Test that read() method resolves with valid reading","status":"FAIL"},{"name":"Test that read() method rejects 'AbortError' if signal's aborted flag is set","status":"FAIL"}]}
