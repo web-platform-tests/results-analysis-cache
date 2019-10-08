@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"non-secure origins should be able to force out insecure cookies.","status":"FAIL"}]}
