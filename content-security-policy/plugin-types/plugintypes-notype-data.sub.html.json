@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Expecting logs: [\"PASS: object tag onerror handler fired\",\"violated-directive=plugin-types\"]","status":"FAIL"}]}

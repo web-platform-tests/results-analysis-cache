@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"var() references work with registered properties","status":"FAIL"}]}
