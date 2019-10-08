@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"response.headers.get('foo-test')","status":"PASS"},{"name":"response.headers.get('www-authenticate')","status":"PASS"}]}
