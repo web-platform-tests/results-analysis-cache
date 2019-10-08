@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"push-api interfaces","status":"FAIL"},{"name":"Partial interface ServiceWorkerRegistration: original interface defined","status":"PASS"},{"name":"Partial interface ServiceWorkerGlobalScope: original interface defined","status":"PASS"},{"name":"Partial interface ServiceWorkerGlobalScope: valid exposure set","status":"PASS"}]}
