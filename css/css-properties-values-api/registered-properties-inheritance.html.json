@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Registered properties are correctly inherited (or not) depending on the inherits flag.","status":"PASS"},{"name":"Explicitly inheriting from a parent with an invalid value results in initial value.","status":"PASS"},{"name":"Explicitly inheriting from a parent with no value results in initial value.","status":"PASS"}]}
