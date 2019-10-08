@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Secure cookies cannot be set by insecure origins","status":"FAIL"}]}
