@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Initialize global state","status":"PASS"},{"name":"iframe fetches with a \"document\" Request.destination","status":"TIMEOUT"}]}
