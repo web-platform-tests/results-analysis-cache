@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Call register() on ServiceWorkerContainer owned by closed window.","status":"PASS"}]}
