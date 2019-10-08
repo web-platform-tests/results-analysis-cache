@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"setDirection should change transceiver.direction","status":"FAIL"},{"name":"setDirection with same direction should have no effect","status":"FAIL"},{"name":"setDirection should change transceiver.direction independent of transceiver.currentDirection","status":"FAIL"}]}
