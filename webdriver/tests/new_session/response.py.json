@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_sessionid","status":"PASS"},{"name":"test_capabilites","status":"FAIL"},{"name":"test_data","status":"FAIL"},{"name":"test_timeouts","status":"PASS"},{"name":"test_pageLoadStrategy","status":"PASS"}]}
