@@ -21,7 +21,7 @@ jobs:
       run: npm ci
       working-directory: ../ad-hoc-wpt-results-analysis
     - name: Update
-      run: node git-write.js --limit=100
+      run: node git-write.js --limit=200
       working-directory: ../ad-hoc-wpt-results-analysis
     - name: Push new runs
       run: |
