@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Initial iceGatheringState should be new","status":"PASS"},{"name":"iceGatheringState should eventually become complete after setLocalDescription","status":"TIMEOUT"},{"name":"connection with one data channel should eventually have connected connection state","status":"FAIL"}]}
