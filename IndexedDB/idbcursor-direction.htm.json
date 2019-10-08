@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IDBCursor.direction - undefined","status":"FAIL"},{"name":"IDBCursor.direction - next","status":"FAIL"},{"name":"IDBCursor.direction - prev","status":"FAIL"},{"name":"IDBCursor.direction - nextunique","status":"FAIL"},{"name":"IDBCursor.direction - prevunique","status":"FAIL"}]}
