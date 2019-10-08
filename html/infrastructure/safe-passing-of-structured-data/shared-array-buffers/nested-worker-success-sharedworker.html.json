@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Structured cloning of SharedArrayBuffers into a dedicated worker nested inside a shared worker","status":"FAIL"}]}
