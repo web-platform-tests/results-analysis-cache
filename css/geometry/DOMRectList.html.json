@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"DOMRectList is not [NoInterfaceObject]","status":"PASS"},{"name":"DOMRectList is not [LegacyArrayClass]","status":"PASS"},{"name":"DOMRectList length","status":"PASS"},{"name":"DOMRectList indexed getter","status":"PASS"},{"name":"DOMRectList item()","status":"PASS"}]}
