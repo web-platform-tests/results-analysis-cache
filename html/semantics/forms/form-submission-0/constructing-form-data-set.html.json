@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"FormData constructor always produces UTF-8 _charset_ value.","status":"PASS"},{"name":"_charset_ control sets the expected encoding name.","status":"PASS"},{"name":"The button cannot be setted if it is not a submitter.","status":"PASS"}]}
