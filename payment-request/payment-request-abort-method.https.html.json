@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Throws if the promise [[state]] is not \"interactive\"","status":"PASS"},{"name":"Test for PaymentRequest.abort() method","status":"PASS"},{"name":"Test for PaymentRequest.abort() method 1","status":"PASS"}]}
