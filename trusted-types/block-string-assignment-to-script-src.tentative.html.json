@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"'string'","status":"PASS"},{"name":"TrustedURL(safe)","status":"PASS"},{"name":"TrustedScriptURL(safe)","status":"PASS"},{"name":"TrustedScriptURL(javascript)","status":"PASS"},{"name":"TrustedScriptURL(external)","status":"PASS"}]}
