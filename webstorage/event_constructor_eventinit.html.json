@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"StorageEvent constructor and nulls - Construct StorageEvent with StorageEventInit.","status":"PASS"}]}
