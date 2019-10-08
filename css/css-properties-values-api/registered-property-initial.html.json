@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initial values of registered properties can be referenced when no custom properties are explicitly set.","status":"FAIL"}]}
