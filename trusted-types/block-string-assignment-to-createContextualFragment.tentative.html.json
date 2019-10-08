@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"DocumentFragment.textContent = TrustedHTML.escape().","status":"PASS"},{"name":"DocumentFragment.textContent = TrustedHTML.unsafelyCreate().","status":"PASS"},{"name":"`DocumentFragment.textContent = null` throws.","status":"FAIL"},{"name":"`DocumentFragment.textContent = string` throws.","status":"FAIL"}]}
