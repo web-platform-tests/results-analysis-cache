@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IDBObjectStore.count() - returns the number of records in the object store ","status":"PASS"}]}
