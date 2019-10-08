@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"`innerHTML = string` throws.","status":"FAIL"},{"name":"innerHTML = TrustedHTML.escape().","status":"FAIL"},{"name":"innerHTML = TrustedHTML.unsafelyCreate().","status":"FAIL"}]}

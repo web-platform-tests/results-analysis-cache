@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Basic processing: safe URL, unsafe construction.","status":"FAIL"},{"name":"Basic processing: javascript URL, unsafe construction.","status":"FAIL"},{"name":"Basic processing: external protocol URL, unsafe construction.","status":"FAIL"}]}
