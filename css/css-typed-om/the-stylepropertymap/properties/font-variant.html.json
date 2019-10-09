@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"'font-variant' does not supported 'normal'","status":"PASS"},{"name":"'font-variant' does not supported 'no-common-ligatures proportional-nums'","status":"PASS"},{"name":"'font-variant' does not supported 'common-ligatures tabular-nums'","status":"PASS"},{"name":"'font-variant' does not supported 'small-caps slashed-zero'","status":"PASS"}]}
