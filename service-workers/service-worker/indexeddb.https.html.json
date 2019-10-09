@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify Indexed DB operation in a Service Worker","status":"PASS"},{"name":"clean up: registration","status":"PASS"},{"name":"clean up: database","status":"PASS"}]}
