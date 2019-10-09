@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property resize value 'none' computes to 'none'","status":"PASS"},{"name":"Property resize value 'both' computes to 'both'","status":"PASS"},{"name":"Property resize value 'horizontal' computes to 'horizontal'","status":"PASS"},{"name":"Property resize value 'vertical' computes to 'vertical'","status":"PASS"}]}

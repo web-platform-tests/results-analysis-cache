@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"-0.5 - inline - invalid","status":"PASS"},{"name":"-100 - inline - invalid","status":"PASS"},{"name":"nonNumber - inline - invalid","status":"PASS"},{"name":"3/4 - inline - invalid","status":"PASS"},{"name":"20% - inline - invalid","status":"PASS"}]}

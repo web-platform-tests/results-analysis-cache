@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Expecting logs: [\"TEST COMPLETE\"]","status":"PASS"},{"name":"worker-importscripts-blocked","status":"FAIL"}]}

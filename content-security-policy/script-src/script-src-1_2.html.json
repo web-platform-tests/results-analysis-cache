@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Inline script block","status":"PASS"},{"name":"Inline event handler","status":"PASS"},{"name":"Should fire policy violation events","status":"PASS"}]}
