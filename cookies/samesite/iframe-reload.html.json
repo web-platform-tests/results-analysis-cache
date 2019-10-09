@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Reloaded same-host fetches are strictly same-site","status":"TIMEOUT"},{"name":"Reloaded subdomain fetches are strictly same-site","status":"NOTRUN"},{"name":"Reloaded cross-site fetches are cross-site","status":"NOTRUN"}]}

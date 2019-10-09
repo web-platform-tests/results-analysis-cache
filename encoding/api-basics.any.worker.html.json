@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Default encodings","status":"FAIL"},{"name":"Default inputs","status":"FAIL"},{"name":"Encode/decode round trip: utf-8","status":"FAIL"},{"name":"Decode sample: utf-16le","status":"FAIL"},{"name":"Decode sample: utf-16be","status":"FAIL"},{"name":"Decode sample: utf-16","status":"FAIL"}]}

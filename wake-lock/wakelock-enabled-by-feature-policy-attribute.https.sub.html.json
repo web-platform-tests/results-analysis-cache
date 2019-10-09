@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Feature policy \"wake-lock\" can be enabled in same-origin iframe using allow=\"wake-lock\" attribute","status":"FAIL"},{"name":"Feature policy \"wake-lock\" can be enabled in cross-origin iframe using allow=\"wake-lock\" attribute","status":"FAIL"}]}

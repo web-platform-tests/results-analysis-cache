@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Gyroscope: sensor is suspended and resumed when focus traverses from to cross-origin frame","status":"FAIL"},{"name":"Gyroscope: sensor is not suspended when focus traverses from to same-origin frame","status":"FAIL"},{"name":"Gyroscope: losing a document's frame with an active sensor does not crash","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"setParameters() when transceiver is stopped should reject with InvalidStateError","status":"FAIL"}]}
