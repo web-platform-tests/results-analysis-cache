@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-origin script","status":"FAIL"},{"name":"Same-site script","status":"FAIL"},{"name":"Cross-site script","status":"FAIL"},{"name":"Same-origin CORS script","status":"FAIL"}]}
