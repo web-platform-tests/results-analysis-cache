@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Setting strokeStyle to a pattern of a different-origin image makes the canvas origin-unclean","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Requesting non-immersive session outside of a user gesture succeeds","status":"FAIL"}]}

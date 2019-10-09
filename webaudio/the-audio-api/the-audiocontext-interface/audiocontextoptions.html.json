@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"# AUDIT TASK RUNNER STARTED.","status":"PASS"},{"name":"> [test-audiocontextoptions-latencyHint-basic] Test creating contexts with basic latencyHint types.","status":"PASS"},{"name":"X context = new AudioContext() incorrectly threw ReferenceError: \"Can't find variable: AudioContext\".","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Document#exitFullscreen() when the document is not the active document","status":"FAIL"}]}
