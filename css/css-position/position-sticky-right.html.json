@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"before reaching the sticking point the sticky box should not be offset","status":"PASS"},{"name":"after reaching the sticking point the sticky box should be offset","status":"PASS"},{"name":"the sticky box should not be pushed outside its containing block","status":"PASS"}]}

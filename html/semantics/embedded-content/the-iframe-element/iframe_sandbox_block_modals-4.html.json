@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Frames without `allow-modals` should not be able to open modal dialogs","status":"TIMEOUT"}]}

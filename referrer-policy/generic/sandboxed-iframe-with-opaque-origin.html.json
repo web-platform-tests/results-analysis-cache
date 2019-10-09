@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Sandboxed iframe with opaque origin doesn't send referrers.","status":"PASS"},{"name":"Sandboxed iframe with tuple origin sends referrers.","status":"PASS"}]}

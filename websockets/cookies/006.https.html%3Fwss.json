@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"WebSockets: setting Secure cookie with document.cookie, checking ws request","status":"PASS"}]}
