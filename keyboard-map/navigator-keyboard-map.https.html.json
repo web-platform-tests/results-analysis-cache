@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.keyboard instanceof Keyboard","status":"PASS"},{"name":"navigator.keyboard SameObject","status":"PASS"},{"name":"navigator.keyboard.getLayoutMap instanceof Function","status":"PASS"},{"name":"navigator.keyboard.getLayoutMap() returns a Promise<KeyboardLayoutMap> when successful","status":"PASS"}]}

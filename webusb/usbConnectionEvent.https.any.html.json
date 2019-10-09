@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Can construct a USBConnectionEvent with a device","status":"FAIL"},{"name":"Cannot construct a USBConnectionEvent without a device","status":"PASS"}]}
