@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Custom Elements: Upgrading custom elements should enqueue attributeChanged and connected callbacks","status":"PASS"}]}
