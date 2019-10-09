@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that calling OffscreenCanvas's constructor generates correct width and height.","status":"PASS"},{"name":"Test that OffscreenCanvas constructor handles invalid arguments correctly in a worker","status":"PASS"}]}

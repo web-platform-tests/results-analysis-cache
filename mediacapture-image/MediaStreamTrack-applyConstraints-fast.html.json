@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"MediaStreamTrack.applyConstraints()","status":"PASS"},{"name":"MediaStreamTrack.applyConstraints({advanced: []})","status":"PASS"},{"name":"MediaStreamTrack.applyConstraints() with unsupported constraint","status":"PASS"},{"name":"MediaStreamTrack.applyConstraints() with non Image-Capture constraint","status":"PASS"}]}

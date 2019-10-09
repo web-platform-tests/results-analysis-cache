@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"GeolocationSensor: Feature-Policy allow='geolocation' attribute allows same-origin iframe","status":"FAIL"},{"name":"GeolocationSensor: Feature-Policy allow='geolocation' attribute allows cross-origin iframe","status":"FAIL"}]}
