@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IntersectionObserver in a single document using the implicit root.","status":"PASS"},{"name":"First rAF.","status":"PASS"},{"name":"document.scrollingElement.scrollTop = 300","status":"PASS"},{"name":"document.scrollingElement.scrollTop = 100","status":"PASS"}]}
