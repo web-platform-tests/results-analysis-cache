@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"the typemustmatch attribute is specified","status":"FAIL"},{"name":"the typemustmatch attribute is not specified","status":"PASS"}]}
