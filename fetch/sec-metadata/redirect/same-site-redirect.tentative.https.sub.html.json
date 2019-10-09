@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-Site -> Same-Origin redirect","status":"FAIL"},{"name":"Same-Site -> Same-Site redirect","status":"FAIL"},{"name":"Same-Site -> Cross-Site redirect","status":"FAIL"}]}
