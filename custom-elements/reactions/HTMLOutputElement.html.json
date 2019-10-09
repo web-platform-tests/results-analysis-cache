@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"value on HTMLOutputElement must enqueue disconnectedCallback when removing a custom element","status":"PASS"},{"name":"defaultValue on HTMLOutputElement must enqueue disconnectedCallback when removing a custom element","status":"PASS"}]}
