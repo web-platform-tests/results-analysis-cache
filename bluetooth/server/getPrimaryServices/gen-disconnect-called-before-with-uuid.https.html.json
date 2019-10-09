@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"disconnect() called before getPrimaryServices. Reject with NetworkError.","status":"FAIL"}]}
