@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window object","status":"PASS"},{"name":"Window.prototype","status":"FAIL"},{"name":"Global scope polluter","status":"PASS"},{"name":"EventTarget.prototype","status":"FAIL"},{"name":"Object.prototype","status":"PASS"}]}
