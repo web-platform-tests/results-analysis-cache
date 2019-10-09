@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The number of frames must be a positive integer greater than 1, or we fallback to the previously-set easing","status":"FAIL"},{"name":"The serialization of frames is 'frames(n)', n is the number of frames","status":"FAIL"}]}
