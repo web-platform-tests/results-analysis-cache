@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"audio events - playing","status":"PASS"},{"name":"calling play() on audio should trigger playing event","status":"PASS"},{"name":"video events - playing","status":"PASS"},{"name":"calling play() on video should trigger playing event","status":"PASS"}]}
