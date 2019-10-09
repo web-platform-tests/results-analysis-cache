@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Reset the entries number","status":"PASS"},{"name":"Set the buffer size","status":"PASS"},{"name":"Overflow the buffer","status":"PASS"},{"name":"Clear and add another entry to the buffer","status":"PASS"},{"name":"Wait for entry to be added","status":"PASS"}]}
