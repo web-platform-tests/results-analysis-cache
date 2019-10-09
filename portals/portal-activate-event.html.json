@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Tests that the PortalActivateEvent is dispatched when a portal is activated.","status":"TIMEOUT"},{"name":"Tests that the portalactivate event handler is dispatched when a portal is activated.","status":"TIMEOUT"},{"name":"Tests that the HTMLBodyElement has the portalactivate event handler.","status":"TIMEOUT"}]}
