@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IDBDatabase.createObjectStore() - create 1000 object stores, add one item and delete","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A page with no encoding declarations, but with a UTF-16 big-endian BOM will be recognized as UTF-16.","status":"PASS"}]}
