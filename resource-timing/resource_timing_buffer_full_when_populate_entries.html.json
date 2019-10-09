@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"There should only be |bufferSize| resource entries.","status":"PASS"},{"name":"onresourcetimingbufferfull should have been invoked once buffer is full.","status":"PASS"}]}
