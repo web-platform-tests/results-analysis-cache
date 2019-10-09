@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"createRadialGradient() throws INDEX_SIZE_ERR if either radius is negative","status":"FAIL"}]}
