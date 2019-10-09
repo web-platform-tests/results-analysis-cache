@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The Device Information service is composed of blocklisted characteristics so we shouldn't find any.","status":"FAIL"}]}

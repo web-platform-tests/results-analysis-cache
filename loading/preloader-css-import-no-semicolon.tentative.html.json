@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Imported inline CSS with no semicolon is not blocked on pending CSS","status":"PASS"}]}

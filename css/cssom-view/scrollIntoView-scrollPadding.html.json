@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"scrollIntoView({block: \"center\", inline: \"center\"})","status":"PASS"},{"name":"scrollIntoView({block: \"start\", inline: \"start\"})","status":"PASS"},{"name":"scrollIntoView({block: \"end\", inline: \"end\"})","status":"PASS"}]}

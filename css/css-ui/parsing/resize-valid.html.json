@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['resize'] = \"none\" should set the property value","status":"PASS"},{"name":"e.style['resize'] = \"both\" should set the property value","status":"PASS"},{"name":"e.style['resize'] = \"horizontal\" should set the property value","status":"PASS"},{"name":"e.style['resize'] = \"vertical\" should set the property value","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IDBIndex.get() - returns the record where the index contains duplicate values ","status":"PASS"}]}
