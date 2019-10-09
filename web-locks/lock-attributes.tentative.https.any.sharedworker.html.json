@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Lock attributes reflect requested properties (exclusive)","status":"PASS"},{"name":"Lock attributes reflect requested properties (shared)","status":"PASS"}]}

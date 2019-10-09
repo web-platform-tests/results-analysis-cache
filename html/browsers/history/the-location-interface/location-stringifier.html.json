@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Location stringifier","status":"PASS"},{"name":"Location stringifier 1","status":"PASS"},{"name":"Location stringifier 2","status":"PASS"},{"name":"Location stringifier 3","status":"PASS"},{"name":"Location stringifier 4","status":"PASS"},{"name":"Location stringifier 5","status":"FAIL"}]}

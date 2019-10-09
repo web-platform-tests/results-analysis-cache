@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The class string of an interface prototype object is the concatenation of the interface's identifier and the string 'Prototype'.","status":"FAIL"},{"name":"[Unscopable] extended attribute makes @@unscopables object on the prototype object, whose prototype is null.","status":"PASS"}]}

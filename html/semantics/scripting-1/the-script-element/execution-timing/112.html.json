@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":" scheduler: removing async attribute at runtime, script also has defer attribute","status":"PASS"}]}

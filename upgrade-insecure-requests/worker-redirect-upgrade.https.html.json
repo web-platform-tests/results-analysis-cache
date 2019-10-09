@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"secure/same-origin => secure/same-origin worker","status":"PASS"},{"name":"insecure/same-origin => secure/same-origin worker","status":"FAIL"},{"name":"secure/same-origin => insecure/same-origin worker","status":"PASS"},{"name":"insecure/same-origin => insecure/same-origin worker","status":"FAIL"}]}
