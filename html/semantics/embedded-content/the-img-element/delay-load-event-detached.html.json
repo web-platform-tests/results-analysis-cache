@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"setting img.src is async","status":"PASS"},{"name":"DOMContentLoaded doesn't wait for images","status":"PASS"},{"name":"load waits for images","status":"PASS"}]}
