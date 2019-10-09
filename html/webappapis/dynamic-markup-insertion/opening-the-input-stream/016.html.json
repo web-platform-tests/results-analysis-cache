@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Timeout on original window, scope","status":"FAIL"},{"name":"Timeout on original window, this object","status":"PASS"},{"name":"Timeout on new window, scope","status":"FAIL"},{"name":"Timeout on new window, this object","status":"PASS"}]}
