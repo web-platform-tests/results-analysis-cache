@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Verify Indexed DB operation in a Service Worker","status":"TIMEOUT"},{"name":"clean up: registration","status":"NOTRUN"},{"name":"clean up: database","status":"NOTRUN"}]}
