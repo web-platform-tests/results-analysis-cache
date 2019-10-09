@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The submit event must be fired when click a button in submit status","status":"PASS"},{"name":"The reset event must be fired when click a button in reset status","status":"PASS"}]}
