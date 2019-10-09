@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['column-span'] = \"auto\" should not set the property value","status":"PASS"},{"name":"e.style['column-span'] = \"none all\" should not set the property value","status":"PASS"}]}
