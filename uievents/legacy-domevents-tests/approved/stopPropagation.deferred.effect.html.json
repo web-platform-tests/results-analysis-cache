@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test Description: stopPropagation() prevents other event listeners from being triggered but its effect must be deferred until all event listeners attached on the Event.currentTarget have been triggered.","status":"PASS"}]}

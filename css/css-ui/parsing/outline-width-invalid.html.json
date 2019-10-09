@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['outline-width'] = \"auto\" should not set the property value","status":"PASS"},{"name":"e.style['outline-width'] = \"1%\" should not set the property value","status":"PASS"},{"name":"e.style['outline-width'] = \"thin medium thick medium thin\" should not set the property value","status":"PASS"}]}

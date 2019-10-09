@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"drawImage with zero-sized source rectangle draws nothing without exception","status":"PASS"}]}

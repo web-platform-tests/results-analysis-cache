@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['pointer-events'] = \"markers\" should not set the property value","status":"PASS"},{"name":"e.style['pointer-events'] = \"0\" should not set the property value","status":"PASS"},{"name":"e.style['pointer-events'] = \"visiblePainted visibleFill\" should not set the property value","status":"PASS"}]}

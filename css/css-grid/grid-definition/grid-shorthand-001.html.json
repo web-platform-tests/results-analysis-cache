@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check gutter properties initial values","status":"PASS"},{"name":"Check gutter properties after setting 'grid' shorthand","status":"PASS"}]}

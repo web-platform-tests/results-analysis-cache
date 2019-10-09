@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"There are 4 scripts, and setResourceTimingBufferSize does not reduce the size.","status":"PASS"},{"name":"onresourcetimingbufferfull should not be invoked during setResourceTimingBufferSize.","status":"PASS"}]}
