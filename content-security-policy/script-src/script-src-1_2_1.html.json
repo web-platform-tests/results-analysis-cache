@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that securitypolicyviolation event is fired","status":"FAIL"},{"name":"DOM manipulation inline tests","status":"PASS"}]}
