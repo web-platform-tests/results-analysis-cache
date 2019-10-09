@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test IDL implementation of audio-output API","status":"PASS"},{"name":"Partial interface HTMLMediaElement: original interface defined","status":"PASS"},{"name":"HTMLMediaElement interface: attribute sinkId","status":"PASS"},{"name":"HTMLMediaElement interface: operation setSinkId(DOMString)","status":"PASS"}]}
