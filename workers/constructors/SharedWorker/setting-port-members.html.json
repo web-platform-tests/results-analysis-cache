@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"postMessage","status":"PASS"},{"name":"start","status":"PASS"},{"name":"close","status":"PASS"},{"name":"onmessage","status":"FAIL"},{"name":"addEventListener","status":"PASS"},{"name":"removeEventListener","status":"PASS"},{"name":"despatchEvent","status":"PASS"}]}

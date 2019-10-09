@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"no exception is thrown when invoking cancel() twice","status":"FAIL"}]}
