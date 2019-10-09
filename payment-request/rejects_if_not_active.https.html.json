@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"PaymentRequest.show() aborts if the document is not active","status":"TIMEOUT"},{"name":"PaymentRequest.show() aborts if the document is active, but not fully active","status":"NOTRUN"},{"name":"If a payment request is showing, but its document is navigated away (so no longer fully active), the payment request aborts.","status":"NOTRUN"}]}

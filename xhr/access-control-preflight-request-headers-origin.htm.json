@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"'Origin' should not be included in CORS Request-Headers","status":"PASS"}]}

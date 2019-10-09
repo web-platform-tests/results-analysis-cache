@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['continue'] = \"auto\" should set the property value","status":"FAIL"},{"name":"e.style['continue'] = \"discard\" should set the property value","status":"FAIL"}]}
