@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"transition padding-left on ::before","status":"PASS"},{"name":"transition padding-left on ::after","status":"PASS"}]}
