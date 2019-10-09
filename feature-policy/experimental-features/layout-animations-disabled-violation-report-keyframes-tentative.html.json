@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Sanity-check: 'layout-animations' is not in document's feature list.","status":"PASS"},{"name":"Verify that when 'layout-animations' is disabled, a keyframes which includes a blocked property generates violation report.","status":"PASS"}]}
