@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"A 'frame-ancestors' CSP directive with a value 'none' should block rendering.","status":"NOTRUN"}]}
