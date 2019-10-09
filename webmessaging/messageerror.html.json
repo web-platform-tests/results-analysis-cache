@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The default value of onmessageerror is null","status":"PASS"},{"name":"The onmessageerror content attribute must be compiled into the onmessageerror property","status":"PASS"},{"name":"The onmessageerror content attribute must execute when an event is dispatched on the window","status":"PASS"}]}

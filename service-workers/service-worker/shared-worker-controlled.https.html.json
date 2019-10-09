@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify subresource loads in SharedWorker are controlled by a Service Worker","status":"PASS"},{"name":"Verify SharedWorker construction is controlled by a Service Worker","status":"PASS"},{"name":"Verify importScripts from SharedWorker is controlled by a Service Worker","status":"PASS"}]}
