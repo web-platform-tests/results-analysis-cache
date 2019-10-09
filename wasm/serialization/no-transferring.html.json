@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Trying to transfer a WebAssembly.Module to this window throws","status":"FAIL"},{"name":"Trying to transfer a WebAssembly.Module to a worker throws","status":"FAIL"},{"name":"Trying to transfer a WebAssembly.Module through a MessagePort throws","status":"FAIL"}]}
