@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"constructor with no arguments","status":"PASS"},{"name":"constructor with just type argument","status":"PASS"},{"name":"constructor with sensible type argument and members","status":"PASS"},{"name":"constructor with null type argument and members","status":"PASS"},{"name":"constructor with undefined type argument and members","status":"PASS"}]}
