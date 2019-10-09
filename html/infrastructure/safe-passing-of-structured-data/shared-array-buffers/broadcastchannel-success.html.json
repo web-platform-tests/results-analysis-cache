@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Structured cloning of SharedArrayBuffers: BroadcastChannel within the same agent cluster","status":"TIMEOUT"}]}

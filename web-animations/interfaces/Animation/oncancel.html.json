@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"oncancel event is fired when animation.cancel() is called.","status":"FAIL"}]}
