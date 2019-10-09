@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"It exists and is a function","status":"FAIL"},{"name":"It throws when given non-functions","status":"FAIL"},{"name":"It calls the callback asynchronously","status":"FAIL"},{"name":"It does not pass any arguments","status":"FAIL"},{"name":"It interleaves with promises as expected","status":"FAIL"}]}
