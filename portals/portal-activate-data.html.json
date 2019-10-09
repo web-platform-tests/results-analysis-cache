@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A string can be passed through activate data.","status":"FAIL"},{"name":"A message port can be passed through activate data.","status":"FAIL"},{"name":"Uncloneable data has its exception propagated.","status":"FAIL"},{"name":"Errors during transfer list processing are propagated.","status":"FAIL"}]}
