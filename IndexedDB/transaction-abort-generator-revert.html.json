@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"The current number of a key generator is reverted when a versionchange transaction aborts","status":"TIMEOUT"},{"name":"The current number of a key generator is reverted when a readwrite transaction aborts","status":"NOTRUN"}]}
