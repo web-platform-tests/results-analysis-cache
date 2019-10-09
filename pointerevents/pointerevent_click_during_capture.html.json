@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"mouse click target during capture","status":"NOTRUN"},{"name":"Click target when pointerup/down targeted at the same element with no capture","status":"FAIL"},{"name":"Click target when pointerup/down targeted at different elements with no capture","status":"FAIL"}]}

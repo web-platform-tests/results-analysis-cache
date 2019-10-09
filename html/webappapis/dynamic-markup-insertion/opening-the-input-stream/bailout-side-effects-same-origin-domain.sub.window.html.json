@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document.open bailout should not have any side effects (same origin-domain (but not same origin) document)","status":"PASS"}]}

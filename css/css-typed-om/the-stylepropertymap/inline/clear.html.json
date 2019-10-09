@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Clearing an empty inline style is a no-op","status":"FAIL"},{"name":"Can clear an inline style containing properties","status":"FAIL"},{"name":"Inline StylePropertyMap.clear updates the element inline style","status":"FAIL"}]}

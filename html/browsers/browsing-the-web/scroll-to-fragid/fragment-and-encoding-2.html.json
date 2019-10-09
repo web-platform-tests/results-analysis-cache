@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Invalid percent-encoded UTF-8 byte should decode as U+FFFD","status":"FAIL"},{"name":"Percent-encoded UTF-8 BOM followed by invalid UTF-8 byte should decode as U+FEFF U+FFFD","status":"FAIL"},{"name":"Percent-encoded UTF-8 byte sequence for U+FFFD should decode as U+FFFD","status":"FAIL"}]}
