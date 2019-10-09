@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"audio events - loadeddata","status":"PASS"},{"name":"setting src attribute on autoplay audio should trigger loadeddata event","status":"PASS"},{"name":"video events - loadeddata","status":"PASS"},{"name":"setting src attribute on autoplay video should trigger loadeddata event","status":"PASS"}]}
