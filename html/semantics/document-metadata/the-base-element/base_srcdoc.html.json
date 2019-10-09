@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"base element in srcdoc document should resolve against its fallback base URI","status":"PASS"}]}
