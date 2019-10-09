@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"UTF-16 with BOM, no encoding in content-type","status":"PASS"},{"name":"UTF-16 without BOM, with charset label in content-type","status":"PASS"},{"name":"UTF-16 without BOM, mislabelled as UTF-8 in content-type","status":"PASS"}]}
