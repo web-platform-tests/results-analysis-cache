@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test sequence AppendMode appendBuffer(first media segment)","status":"FAIL"},{"name":"Test sequence AppendMode appendBuffer(second media segment)","status":"FAIL"},{"name":"Test sequence AppendMode appendBuffer(second media segment, then first media segment)","status":"FAIL"}]}
