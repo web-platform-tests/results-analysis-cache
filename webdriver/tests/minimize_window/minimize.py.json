@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_no_browsing_context","status":"PASS"},{"name":"test_fully_exit_fullscreen","status":"PASS"},{"name":"test_minimize","status":"PASS"},{"name":"test_payload","status":"PASS"},{"name":"test_minimize_twice_is_idempotent","status":"PASS"}]}

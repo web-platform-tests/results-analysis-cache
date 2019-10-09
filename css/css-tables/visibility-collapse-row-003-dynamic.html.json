@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"row visibility:collapse doesn't change table width, unlike display:none","status":"PASS"},{"name":"row visibility:collapse changes table height, unlike visibility:hidden","status":"FAIL"}]}

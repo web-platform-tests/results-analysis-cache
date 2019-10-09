@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"border-color should serialize to empty when border shorthand references a variable","status":"PASS"}]}

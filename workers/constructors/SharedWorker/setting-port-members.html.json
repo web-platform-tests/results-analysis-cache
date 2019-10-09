@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"postMessage","status":"FAIL"},{"name":"start","status":"FAIL"},{"name":"close","status":"FAIL"},{"name":"onmessage","status":"FAIL"},{"name":"addEventListener","status":"FAIL"},{"name":"removeEventListener","status":"FAIL"},{"name":"despatchEvent","status":"FAIL"}]}

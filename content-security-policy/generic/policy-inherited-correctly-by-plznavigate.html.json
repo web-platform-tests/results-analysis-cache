@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"iframe still inherits correct CSP","status":"NOTRUN"},{"name":"Violation report status OK.","status":"FAIL"}]}

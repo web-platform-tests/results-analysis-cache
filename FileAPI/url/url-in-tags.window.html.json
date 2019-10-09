@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Blob URLs can be used in <script> tags","status":"PASS"},{"name":"Blob URLs can be used in iframes, and are treated same origin","status":"PASS"},{"name":"Blob URL fragment is implemented.","status":"TIMEOUT"}]}

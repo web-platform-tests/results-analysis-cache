@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Auxiliary browsing context created via `window.open` and setting `window.opener` to `null` should report `window.opener` `null`","status":"TIMEOUT"},{"name":"Auxiliary browsing context created via `window.open` and setting `window.opener` to `test` should report `test`","status":"TIMEOUT"}]}

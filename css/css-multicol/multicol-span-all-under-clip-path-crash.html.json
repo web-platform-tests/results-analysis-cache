@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Should not crash on composited column-span:all under a clip-path","status":"PASS"}]}
