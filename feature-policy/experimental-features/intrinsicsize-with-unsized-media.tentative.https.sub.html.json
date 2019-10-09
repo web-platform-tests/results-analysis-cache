@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test image with src=/feature-policy/experimental-features/resources/image.svg","status":"PASS"},{"name":"Test image with src=/feature-policy/experimental-features/resources/image.jpg","status":"PASS"},{"name":"Test image with src=/feature-policy/experimental-features/resources/image.png","status":"PASS"},{"name":"Test video","status":"PASS"}]}

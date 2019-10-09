@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['column-rule-color'] = \"currentcolor\" should set the property value","status":"PASS"},{"name":"e.style['column-rule-color'] = \"red\" should set the property value","status":"PASS"}]}

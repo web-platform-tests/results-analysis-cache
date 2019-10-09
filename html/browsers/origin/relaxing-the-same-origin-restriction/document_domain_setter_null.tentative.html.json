@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Access allowed with no 'document.domain' modification. (Sanity check)","status":"PASS"},{"name":"No access when frame sets a `null` 'document.domain'.","status":"PASS"},{"name":"No access when parent sets a `null` 'document.domain'.","status":"PASS"},{"name":"No access when both sides set a `null` 'document.domain'.","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"importScripts() supports redirects","status":"FAIL"},{"name":"importScripts() supports redirects and can be updated","status":"FAIL"}]}
