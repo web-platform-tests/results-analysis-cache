@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IDBTransaction - request gotten by the handler","status":"PASS"},{"name":"IDBTransaction - request returned by open()","status":"PASS"}]}

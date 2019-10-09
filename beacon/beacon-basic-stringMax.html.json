@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify 'navigator.sendbeacon()' successfully sends for variant: MaxString","status":"PASS"}]}

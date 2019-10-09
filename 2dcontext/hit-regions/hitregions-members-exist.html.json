@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"context.addHitRegion Exists","status":"FAIL"},{"name":"context.removeHitRegion Exists","status":"FAIL"},{"name":"context.clearHitRegions Exists","status":"FAIL"}]}

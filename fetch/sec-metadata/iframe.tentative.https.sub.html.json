@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-origin iframe","status":"FAIL"},{"name":"Same-site iframe","status":"FAIL"},{"name":"Cross-site iframe","status":"FAIL"}]}

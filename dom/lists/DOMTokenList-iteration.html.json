@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"classList","status":"PASS"},{"name":"classList.keys","status":"PASS"},{"name":"classList.values","status":"PASS"},{"name":"classList.entries","status":"PASS"},{"name":"classList.forEach","status":"PASS"},{"name":"classList inheritance from Array.prototype","status":"PASS"}]}

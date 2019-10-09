@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Setting event handlers to null onclose","status":"PASS"},{"name":"Setting event handlers to null onopen","status":"PASS"},{"name":"Setting event handlers to null onerror","status":"PASS"},{"name":"Setting event handlers to null onmessage","status":"PASS"}]}
