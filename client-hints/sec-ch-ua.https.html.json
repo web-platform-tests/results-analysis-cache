@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Open HTTPS window prior to opt-in: `Sec-CH-UA` header with minor version.","status":"PASS"},{"name":"Open HTTPS window post-opt-in: `Sec-CH-UA` header with minor version.","status":"PASS"}]}
