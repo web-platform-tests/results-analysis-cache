@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"self.performance.now() is a function that returns a number","status":"PASS"},{"name":"self.performance.now() returns a positive number","status":"PASS"},{"name":"self.performance.now() difference is not negative","status":"PASS"},{"name":"High resolution time has approximately the right relative magnitude","status":"PASS"}]}
