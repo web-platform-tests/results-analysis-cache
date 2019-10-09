@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"ServiceWorkerRegistration.update() from client throws while installing service worker.","status":"TIMEOUT"},{"name":"ServiceWorkerRegistration.update() from installing service worker throws.","status":"NOTRUN"}]}
