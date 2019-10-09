@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Same-Origin style","status":"TIMEOUT"},{"name":"Same-Site style","status":"NOTRUN"},{"name":"Cross-Site style","status":"NOTRUN"},{"name":"Same-Origin, cors style","status":"NOTRUN"}]}
