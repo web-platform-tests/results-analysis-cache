@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that failure to fetch root leads to error event on script.","status":"PASS"}]}

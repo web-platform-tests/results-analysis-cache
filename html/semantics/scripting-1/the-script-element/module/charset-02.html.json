@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Module scripts should ignore BOMs and always use UTF-8","status":"PASS"}]}

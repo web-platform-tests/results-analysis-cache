@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Fetch in service worker: referrer with origin-when-cross-origin policy","status":"PASS"},{"name":"Request's referrer is origin","status":"PASS"}]}
