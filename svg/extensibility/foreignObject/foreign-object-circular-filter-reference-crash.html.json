@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Should not crash on circular filter reference containing a foreignObject.","status":"PASS"}]}
