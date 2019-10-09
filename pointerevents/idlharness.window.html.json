@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"idl_test setup","status":"FAIL"},{"name":"Partial interface Element: original interface defined","status":"PASS"},{"name":"Partial interface mixin GlobalEventHandlers: original interface mixin defined","status":"PASS"},{"name":"Partial interface Navigator: original interface defined","status":"PASS"}]}
