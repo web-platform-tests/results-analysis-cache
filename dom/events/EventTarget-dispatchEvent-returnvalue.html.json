@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Return value of EventTarget.dispatchEvent() affected by preventDefault().","status":"PASS"},{"name":"Return value of EventTarget.dispatchEvent() affected by returnValue.","status":"PASS"}]}

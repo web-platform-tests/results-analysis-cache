@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Top-level module loading should be intercepted by a service worker.","status":"FAIL"},{"name":"Static import should be intercepted by a service worker.","status":"FAIL"},{"name":"Dynamic import should be intercepted by a service worker.","status":"FAIL"}]}

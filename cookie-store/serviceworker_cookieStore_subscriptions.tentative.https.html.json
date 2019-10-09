@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getChangeSubscriptions returns subscriptions passed to subscribeToChanges","status":"PASS"},{"name":"subscribeToChanges rejects when called outside the install handler","status":"PASS"},{"name":"cookiechange dispatched with cookie change that matches subscription","status":"PASS"}]}
