@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Should fire securitypolicyviolation event","status":"NOTRUN"},{"name":"External script in a script tag with matching SRI hash should run.","status":"FAIL"}]}
