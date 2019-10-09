@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Expecting logs: [\"PASS IFrame #1 generated a load event.\",\"PASS IFrame #2 generated a load event.\",\"PASS IFrame #3 generated a load event.\", \"violated-directive=frame-src\"]","status":"PASS"},{"name":"Expecting alerts: [\"PASS\",\"PASS\"]","status":"PASS"}]}
