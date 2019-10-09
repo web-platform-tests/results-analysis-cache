@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Browser supports prefetch.","status":"PASS"},{"name":"Browser supports performance APIs.","status":"PASS"},{"name":"Blocked prefetch generates report.","status":"FAIL"}]}
