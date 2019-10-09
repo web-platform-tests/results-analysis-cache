@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IntersectionObserver should only report intersections if root is a containing block ancestor of target.","status":"FAIL"}]}

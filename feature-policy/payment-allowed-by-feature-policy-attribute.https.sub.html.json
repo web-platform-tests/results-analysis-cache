@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Feature policy \"payment\" can be enabled in same-origin iframe using allow=\"payment\" attribute","status":"PASS"},{"name":"Feature policy \"payment\" can be enabled in cross-origin iframe using allow=\"payment\" attribute","status":"FAIL"}]}

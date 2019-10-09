@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property color-interpolation value 'auto' computes to 'auto'","status":"PASS"},{"name":"Property color-interpolation value 'srgb' computes to 'srgb'","status":"FAIL"},{"name":"Property color-interpolation value 'linearrgb' computes to 'linearrgb'","status":"FAIL"}]}

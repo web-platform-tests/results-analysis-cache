@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Initialize global state","status":"PASS"},{"name":"HTMLLinkElement with rel=prefetch fetches with an empty string Request.destination","status":"TIMEOUT"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A new ready promise is created when play()/pause() is called","status":"FAIL"},{"name":"Redundant calls to play() do not generate new ready promise objects","status":"FAIL"},{"name":"The ready promise is fulfilled with its Animation","status":"FAIL"}]}
