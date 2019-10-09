@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Inline style element should not load without 'unsafe-inline'","status":"PASS"},{"name":"Should fire a securitypolicyviolation event","status":"FAIL"}]}

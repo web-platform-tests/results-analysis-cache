@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Lock available","status":"FAIL"},{"name":"Lock not available","status":"FAIL"},{"name":"Broken lock's release promise rejects","status":"FAIL"},{"name":"Requested lock's release promise is deferred","status":"FAIL"},{"name":"Last caller wins","status":"FAIL"}]}

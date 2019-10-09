@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Send \"sensible\" default value, whatever that means","status":"PASS"},{"name":"XMLHttpRequest: send() - Accept-Language","status":"PASS"}]}
