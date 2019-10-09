@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"secure/same-origin image","status":"PASS"},{"name":"insecure/same-origin image","status":"PASS"},{"name":"secure/cross-origin image","status":"PASS"},{"name":"insecure/cross-origin image","status":"PASS"}]}

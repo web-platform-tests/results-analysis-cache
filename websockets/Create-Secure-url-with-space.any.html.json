@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Create Secure WebSocket - Pass a URL with a space - SYNTAX_ERR should be thrown","status":"PASS"}]}
