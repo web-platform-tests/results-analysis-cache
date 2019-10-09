@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"2 cursors","status":"TIMEOUT"},{"name":"10 cursors","status":"NOTRUN"},{"name":"100 cursors","status":"NOTRUN"},{"name":"1000 cursors","status":"NOTRUN"},{"name":"10000 cursors","status":"NOTRUN"}]}
