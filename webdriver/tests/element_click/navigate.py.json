@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_numbers_link","status":"FAIL"},{"name":"test_multi_line_link","status":"FAIL"},{"name":"test_link_unload_event","status":"FAIL"},{"name":"test_link_hash","status":"FAIL"},{"name":"test_link_closes_window","status":"FAIL"}]}
