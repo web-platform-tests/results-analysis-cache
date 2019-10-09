@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"::part cannot be chained to reach elements in the inner host","status":"PASS"},{"name":"Chained ::part selectors are dropped","status":"PASS"}]}

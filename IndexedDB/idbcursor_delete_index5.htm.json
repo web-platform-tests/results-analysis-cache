@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IDBCursor.delete() - index - throw InvalidStateError when the cursor is being iterated","status":"PASS"}]}

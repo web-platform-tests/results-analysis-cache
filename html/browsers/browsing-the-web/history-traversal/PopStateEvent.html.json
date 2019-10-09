@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"initPopStateEvent","status":"PASS"},{"name":"Initial value of PopStateEvent.state must be null","status":"PASS"},{"name":"Dispatching a synthetic PopStateEvent","status":"PASS"}]}
