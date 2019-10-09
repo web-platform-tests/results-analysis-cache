@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Tests that setting an optional constraint in getUserMedia is handled as optional","status":"PASS"}]}

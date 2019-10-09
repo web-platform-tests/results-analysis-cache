@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"waiting is set after installation","status":"TIMEOUT"},{"name":"The ServiceWorker objects returned from waiting attribute getter that represent the same service worker are the same objects","status":"NOTRUN"}]}
