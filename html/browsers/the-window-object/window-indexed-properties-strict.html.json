@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Indexed properties of the window object (strict mode)","status":"PASS"},{"name":"Indexed properties of the window object (strict mode) 1","status":"FAIL"},{"name":"Indexed properties of the window object (strict mode) 2","status":"FAIL"},{"name":"Indexed properties of the window object (strict mode) 3","status":"PASS"}]}
