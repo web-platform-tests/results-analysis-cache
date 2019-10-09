@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Null is returned when policy is not exposed - by default","status":"FAIL"},{"name":"Null is returned when policy is non-existent.","status":"FAIL"},{"name":"Policy is returned when exposed == true.","status":"FAIL"}]}

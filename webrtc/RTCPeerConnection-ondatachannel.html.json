@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"datachannel event should fire when new data channel is announced to the remote peer","status":"PASS"},{"name":"Data channel created on remote peer should match the same configuration as local peer","status":"FAIL"},{"name":"Data channel created with negotiated set to true should not fire datachannel event on remote peer","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"innerHTML on ShadowRoot must upgrade a custom element","status":"PASS"},{"name":"innerHTML on ShadowRoot must enqueue connectedCallback on newly upgraded custom elements when the shadow root is connected","status":"PASS"},{"name":"innerHTML on ShadowRoot must enqueue disconnectedCallback when removing a custom element","status":"PASS"}]}
