@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property table-layout value 'auto' computes to 'auto'","status":"PASS"},{"name":"Property table-layout value 'fixed' computes to 'fixed'","status":"PASS"}]}
