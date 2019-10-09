@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that calling cancelWatchAvailability() with an id does remove the callback.","status":"FAIL"},{"name":"Test that calling cancelWatchAvailability() without an id removes all the callbacks.","status":"FAIL"}]}
