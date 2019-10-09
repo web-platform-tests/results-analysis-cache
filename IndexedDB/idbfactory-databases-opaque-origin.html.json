@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"IDBFactory.databases() in non-sandboxed iframe should not reject","status":"TIMEOUT"},{"name":"IDBFactory.databases() in sandboxed iframe should reject","status":"NOTRUN"}]}
