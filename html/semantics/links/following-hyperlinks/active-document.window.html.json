@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"<a> in navigated away <iframe>'s document cannot follow hyperlinks","status":"PASS"},{"name":"<area> in navigated away <iframe>'s document cannot follow hyperlinks","status":"PASS"},{"name":"<link> in navigated away <iframe>'s document cannot follow hyperlinks","status":"PASS"}]}
