@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"deleteCell() on HTMLTableRowElement must enqueue disconnectedCallback when removing a custom element","status":"PASS"}]}

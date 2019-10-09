@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check that a securitypolicyviolation event is fired","status":"PASS"}]}

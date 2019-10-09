@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XMLHttpRequest: sync requests should block events on pending async requests","status":"PASS"}]}

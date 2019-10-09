@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A lost webglCanvasContext should not be able to set device","status":"FAIL"}]}
