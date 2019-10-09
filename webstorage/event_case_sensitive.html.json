@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"sessionStorage storage events fire even when only the case of the value changes.","status":"PASS"},{"name":"localStorage storage events fire even when only the case of the value changes.","status":"PASS"}]}

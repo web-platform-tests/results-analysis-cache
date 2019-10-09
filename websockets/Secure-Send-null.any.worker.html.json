@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Send null data on a Secure WebSocket - Connection should be opened","status":"PASS"},{"name":"Send null data on a Secure WebSocket - Message should be received","status":"PASS"},{"name":"Send null data on a Secure WebSocket - Connection should be closed","status":"FAIL"}]}

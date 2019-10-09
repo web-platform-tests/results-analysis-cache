@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"drm, temporary, update() immediately after createSession()","status":"PASS"},{"name":"drm, temporary, close() immediately after createSession()","status":"PASS"},{"name":"drm, temporary, remove() immediately after createSession()","status":"PASS"}]}
