@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"searchParams on location object","status":"PASS"},{"name":"<a> and <area>.searchParams should be undefined","status":"PASS"},{"name":"Setting URL's href attribute and base URLs","status":"PASS"},{"name":"URL.domainToASCII should be undefined","status":"PASS"},{"name":"URL.domainToUnicode should be undefined","status":"PASS"}]}

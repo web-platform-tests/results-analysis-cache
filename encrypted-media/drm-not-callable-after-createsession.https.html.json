@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"drm, temporary, update() immediately after createSession()","status":"TIMEOUT"},{"name":"drm, temporary, close() immediately after createSession()","status":"NOTRUN"},{"name":"drm, temporary, remove() immediately after createSession()","status":"NOTRUN"}]}
