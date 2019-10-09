@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that anchor navigation is allowed regardless of the `navigate-to` directive","status":"PASS"}]}

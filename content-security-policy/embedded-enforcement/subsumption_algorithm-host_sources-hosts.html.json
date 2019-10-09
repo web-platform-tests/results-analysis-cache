@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Host must match.","status":"FAIL"},{"name":"Hosts without wildcards must match.","status":"FAIL"},{"name":"More specific subdomain should not match.","status":"FAIL"},{"name":"Specified host should not match a wildcard host.","status":"FAIL"},{"name":"A wildcard host should match a more specific host.","status":"PASS"}]}

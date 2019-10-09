@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"ontrack: track goes from muted to unmuted","status":"PASS"},{"name":"Changing transceiver direction to 'inactive' mutes the remote track","status":"TIMEOUT"},{"name":"Changing transceiver direction to 'sendrecv' unmutes the remote track","status":"NOTRUN"},{"name":"pc.close() mutes remote tracks","status":"NOTRUN"}]}

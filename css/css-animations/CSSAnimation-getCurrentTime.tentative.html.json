@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"currentTime can be used to seek a CSS animation","status":"PASS"},{"name":"Setting currentTime to null on a CSS animation throws","status":"PASS"}]}
