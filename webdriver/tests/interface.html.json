@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test IDL implementation of webdriver API","status":"PASS"},{"name":"Navigator interface: attribute webdriver","status":"PASS"},{"name":"Navigator interface: navigator must inherit property \"webdriver\" with the proper type","status":"PASS"}]}

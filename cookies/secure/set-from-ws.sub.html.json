@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"'secure' cookie not sent in WSS request when set from WS","status":"PASS"}]}

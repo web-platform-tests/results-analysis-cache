@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getAnimations returns CSSAnimation objects","status":"PASS"},{"name":"getAnimations returns CSS transitions/animations, and script-generated animations in the expected order","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A 'frame-ancestors' CSP directive with a value 'self' should allow rendering.","status":"PASS"}]}
