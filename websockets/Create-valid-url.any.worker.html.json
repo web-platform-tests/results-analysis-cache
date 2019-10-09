@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Create WebSocket - Pass a valid URL - Connection should be opened","status":"PASS"},{"name":"Create WebSocket - Pass a valid URL - Connection should be closed","status":"FAIL"}]}

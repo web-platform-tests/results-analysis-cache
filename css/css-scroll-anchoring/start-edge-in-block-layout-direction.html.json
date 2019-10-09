@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Horizontal LTR.","status":"PASS"},{"name":"Horizontal RTL.","status":"PASS"},{"name":"Vertical-LR LTR.","status":"PASS"},{"name":"Vertical-LR RTL.","status":"PASS"},{"name":"Vertical-RL LTR.","status":"PASS"},{"name":"Vertical-RL RTL.","status":"PASS"}]}

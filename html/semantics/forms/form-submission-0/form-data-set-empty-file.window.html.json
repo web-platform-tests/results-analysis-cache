@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Empty <input type=file> is still serialized","status":"PASS"}]}
