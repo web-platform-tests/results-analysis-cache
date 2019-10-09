@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getTotalLength and getPointAtLength do not take pathLength into account","status":"PASS"},{"name":"getPointAtLength() returns instance of DOMPoint","status":"FAIL"}]}

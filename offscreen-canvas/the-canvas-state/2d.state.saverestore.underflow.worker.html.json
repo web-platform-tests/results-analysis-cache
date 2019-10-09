@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"restore() with an empty stack has no effect","status":"PASS"}]}

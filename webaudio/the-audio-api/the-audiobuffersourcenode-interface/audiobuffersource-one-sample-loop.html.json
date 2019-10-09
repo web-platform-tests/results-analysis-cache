@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"# AUDIT TASK RUNNER STARTED.","status":"PASS"},{"name":"> [one-sample-loop] ","status":"PASS"},{"name":"  Rendered data contains only the constant 1.","status":"PASS"},{"name":"< [one-sample-loop] All assertions passed. (total 1 assertions)","status":"PASS"},{"name":"# AUDIT TASK RUNNER FINISHED: 1 tasks ran successfully.","status":"PASS"}]}

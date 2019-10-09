@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A lang|= value will match a lang attribute value when the latter contains additional subtags.","status":"PASS"}]}
