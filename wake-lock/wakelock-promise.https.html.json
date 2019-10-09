@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.getWakeLock() for the same Document always return same WakeLock promise","status":"PASS"}]}
