@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Reading a characteristic should fire an event.","status":"FAIL"}]}
