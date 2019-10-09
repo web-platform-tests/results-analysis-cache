@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Request for absent characteristics. Reject with NotFoundError.","status":"FAIL"}]}
