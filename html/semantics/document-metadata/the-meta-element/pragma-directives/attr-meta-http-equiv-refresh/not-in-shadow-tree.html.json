@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Meta refresh only applies while in the document tree, not in a shadow tree","status":"PASS"}]}
