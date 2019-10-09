@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that removing the src attribute of an iframe loads about:blank\n  instead of whatever was loaded previously.","status":"PASS"}]}

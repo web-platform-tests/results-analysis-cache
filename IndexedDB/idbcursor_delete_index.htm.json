@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IDBCursor.delete() - index - remove a record from the object store","status":"PASS"}]}
