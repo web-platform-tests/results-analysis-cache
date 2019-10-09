@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"same-origin report","status":"PASS"},{"name":"same-site report","status":"PASS"},{"name":"cross-site report","status":"PASS"}]}
