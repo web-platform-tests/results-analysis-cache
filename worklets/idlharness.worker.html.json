@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"worklets interfaces","status":"PASS"},{"name":"WorkletGlobalScope interface: existence and properties of interface object","status":"PASS"},{"name":"Worklet interface: existence and properties of interface object","status":"PASS"}]}

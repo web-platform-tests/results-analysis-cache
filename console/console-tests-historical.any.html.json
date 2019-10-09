@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"'timeline' function should not exist on the console object","status":"PASS"},{"name":"'timelineEnd' function should not exist on the console object","status":"PASS"},{"name":"'markTimeline' function should not exist on the console object","status":"PASS"}]}

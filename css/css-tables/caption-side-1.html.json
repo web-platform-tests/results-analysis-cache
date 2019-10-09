@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Caption-side inherits and reorder captions properly","status":"PASS"},{"name":"Multiple captions can be rendered","status":"FAIL"}]}

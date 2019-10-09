@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"setting timeout attribute on sync request","status":"PASS"},{"name":"open() with async false when timeout is set","status":"PASS"}]}

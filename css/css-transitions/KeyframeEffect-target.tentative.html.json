@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Returned CSS transitions have the correct Animation.target","status":"FAIL"},{"name":"effect.target should return the same CSSPseudoElement object each time","status":"FAIL"},{"name":"effect.target from the script-generated animation should return the same CSSPseudoElement object as that from the CSS generated transition","status":"FAIL"}]}

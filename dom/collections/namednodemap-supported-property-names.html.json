@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Object.getOwnPropertyNames on NamedNodeMap","status":"PASS"},{"name":"Object.getOwnPropertyNames on NamedNodeMap of input","status":"PASS"},{"name":"Object.getOwnPropertyNames on NamedNodeMap after attribute removal","status":"PASS"}]}
