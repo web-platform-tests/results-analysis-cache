@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"data:text/javascript,log.push('data:foo'): <script src type=module>","status":"NOTRUN"},{"name":"data:text/javascript,log.push('data:foo'): <script src type=text/javascript>","status":"NOTRUN"}]}
