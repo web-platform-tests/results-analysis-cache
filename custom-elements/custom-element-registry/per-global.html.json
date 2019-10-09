@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Discarding the browsing context must not change window.customElements","status":"PASS"},{"name":"Navigating from the initial about:blank must not replace window.customElements","status":"PASS"},{"name":"document.open() must replace window.customElements","status":"PASS"}]}
