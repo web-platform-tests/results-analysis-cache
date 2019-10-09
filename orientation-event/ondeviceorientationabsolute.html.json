@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Provide an event handler IDL attribute named ondeviceorientationabsolute","status":"PASS"},{"name":"The type of this event handler must be 'DeviceOrientationEvent'","status":"PASS"},{"name":"The absolute property must be set to true.","status":"PASS"}]}
