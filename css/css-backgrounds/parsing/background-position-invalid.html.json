@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['background-position'] = \"left right\" should not set the property value","status":"PASS"},{"name":"e.style['background-position'] = \"top bottom\" should not set the property value","status":"PASS"},{"name":"e.style['background-position'] = \"1% center 2px\" should not set the property value","status":"PASS"}]}
