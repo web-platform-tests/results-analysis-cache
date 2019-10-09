@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"spanning row visibility:collapse doesn't change table width","status":"PASS"},{"name":"spanning row visibility:collapse doesn't change height in this case","status":"PASS"}]}

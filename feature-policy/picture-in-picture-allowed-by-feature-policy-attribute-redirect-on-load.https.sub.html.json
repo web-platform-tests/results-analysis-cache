@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Feature-Policy allow=\"picture-in-picture\" allows same-origin navigation in an iframe.","status":"FAIL"},{"name":"Feature-Policy allow=\"picture-in-picture\" disallows cross-origin navigation in an iframe.","status":"FAIL"}]}

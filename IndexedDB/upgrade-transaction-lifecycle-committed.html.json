@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"in the complete event handler for a committed transaction","status":"PASS"},{"name":"in a setTimeout(0) callback after the complete event is fired for a committed transaction","status":"PASS"}]}

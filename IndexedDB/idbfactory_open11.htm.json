@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IDBFactory.open() - second open's transaction is available to get objectStores","status":"PASS"}]}

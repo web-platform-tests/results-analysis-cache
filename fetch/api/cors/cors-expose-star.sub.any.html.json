@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Basic Access-Control-Expose-Headers: * support","status":"FAIL"},{"name":"* for credentialed fetches only matches literally","status":"PASS"},{"name":"* can be one of several values","status":"FAIL"}]}

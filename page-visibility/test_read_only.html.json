@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document.hidden is defined and not null.","status":"PASS"},{"name":"document.visibilityState is defined and not null.","status":"PASS"},{"name":"document.hidden is read only.","status":"PASS"},{"name":"document.visibilityState is read only.","status":"PASS"}]}
