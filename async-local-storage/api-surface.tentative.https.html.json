@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"StorageArea constructor","status":"PASS"},{"name":"StorageArea.prototype methods and properties","status":"FAIL"},{"name":"Instances don't have any properties","status":"PASS"},{"name":"Built-in storage export is a StorageArea","status":"PASS"},{"name":"No custom toStringTag","status":"PASS"}]}

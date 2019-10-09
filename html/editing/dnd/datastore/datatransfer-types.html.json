@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"type's state on DataTransfer creation","status":"PASS"},{"name":"Relationship between types and items","status":"PASS"},{"name":"type's identity","status":"PASS"},{"name":"Verify type is a read-only attribute","status":"PASS"}]}
