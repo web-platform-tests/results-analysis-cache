@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"decoding one UTF-8 chunk should give one output string","status":"PASS"},{"name":"decoding an empty chunk should give no output chunks","status":"PASS"},{"name":"an initial empty chunk should be ignored","status":"PASS"},{"name":"a trailing empty chunk should be ignored","status":"PASS"}]}

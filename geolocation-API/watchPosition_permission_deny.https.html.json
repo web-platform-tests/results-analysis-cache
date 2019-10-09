@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Check that watchPosition returns synchronously before any callbacks are invoked.","status":"NOTRUN"},{"name":"Check that watchPosition returns a long","status":"PASS"}]}
