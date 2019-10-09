@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Inserting a custom element into the owner document must not enqueue and invoke adoptedCallback","status":"PASS"}]}
