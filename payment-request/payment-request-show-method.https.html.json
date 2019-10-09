@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Calling show() without being triggered by user interaction throws","status":"FAIL"}]}
