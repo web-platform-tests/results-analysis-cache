@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Checking document metadata for text file","status":"PASS"},{"name":"Checking DOM for text file","status":"PASS"},{"name":"Checking contents for text file","status":"PASS"}]}
