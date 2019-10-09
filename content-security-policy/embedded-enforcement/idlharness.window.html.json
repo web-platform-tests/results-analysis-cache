@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"idl_test setup","status":"PASS"},{"name":"Partial interface HTMLIFrameElement: original interface defined","status":"PASS"},{"name":"HTMLIFrameElement interface: attribute csp","status":"PASS"},{"name":"HTMLIFrameElement interface: document.createElement(\"iframe\") must inherit property \"csp\" with the proper type","status":"PASS"}]}
