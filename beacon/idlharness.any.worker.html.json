@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"beacon interfaces","status":"PASS"},{"name":"Partial interface Navigator: original interface defined","status":"PASS"},{"name":"Navigator interface: existence and properties of interface object","status":"PASS"},{"name":"Navigator interface: navigator must not have property \"sendBeacon\"","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"secure/same-origin worklet","status":"FAIL"},{"name":"insecure/same-origin worklet","status":"FAIL"},{"name":"secure/cross-origin worklet","status":"FAIL"},{"name":"insecure/cross-origin worklet","status":"FAIL"}]}

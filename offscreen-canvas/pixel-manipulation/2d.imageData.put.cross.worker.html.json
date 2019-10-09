@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"putImageData() accepts image data got from a different canvas","status":"FAIL"}]}

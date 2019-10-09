@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Placeholder label options within a select","status":"FAIL"},{"name":"Placeholder label-like options within optgroup","status":"FAIL"},{"name":"Validation on selects with display size set as more than one","status":"FAIL"},{"name":"Validation on selects with multiple set","status":"FAIL"}]}

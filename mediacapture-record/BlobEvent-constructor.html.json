@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The BlobEventInit dictionary is required","status":"FAIL"},{"name":"The BlobEventInit dictionary's data member is required.","status":"FAIL"},{"name":"The BlobEvent instance's data attribute is set.","status":"FAIL"}]}

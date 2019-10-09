@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XML document, windows-1252","status":"FAIL"},{"name":"HTML document, invalid UTF-8","status":"FAIL"},{"name":"HTML document, shift-jis","status":"FAIL"},{"name":"plain text file","status":"FAIL"},{"name":"image file","status":"FAIL"},{"name":"img tag","status":"FAIL"},{"name":"empty div","status":"FAIL"}]}

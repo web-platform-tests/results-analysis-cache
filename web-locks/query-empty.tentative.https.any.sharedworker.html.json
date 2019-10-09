@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Web Locks API: navigator.locks.query method - no locks held","status":"FAIL"}]}

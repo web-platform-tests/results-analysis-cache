@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"insecure/same-origin websocket","status":"FAIL"},{"name":"secure/same-origin websocket","status":"FAIL"},{"name":"insecure/cross-origin websocket","status":"FAIL"},{"name":"secure/cross-origin websocket","status":"FAIL"}]}
