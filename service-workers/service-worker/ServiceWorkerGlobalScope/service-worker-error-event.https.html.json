@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Error handlers inside serviceworker should see the attributes of ErrorEvent","status":"PASS"}]}
