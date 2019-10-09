@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"registerContentHandler() is removed","status":"PASS"},{"name":"isProtocolHandlerRegistered() is removed","status":"PASS"},{"name":"isContentHandlerRegistered() is removed","status":"PASS"},{"name":"unregisterContentHandler() is removed","status":"PASS"}]}
