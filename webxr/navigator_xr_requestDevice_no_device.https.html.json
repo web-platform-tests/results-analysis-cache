@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.xr.requestDevice properly rejects when there are 0 devices","status":"FAIL"}]}
