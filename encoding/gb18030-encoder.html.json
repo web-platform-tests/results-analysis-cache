@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"gb18030 encoder: very basic","status":"PASS"},{"name":"gb18030 encoder: Euro","status":"PASS"},{"name":"gb18030 encoder: character","status":"PASS"},{"name":"gb18030 encoder: PUA","status":"PASS"},{"name":"gb18030 encoder: PUA #2","status":"PASS"},{"name":"gb18030 encoder: poo","status":"PASS"}]}

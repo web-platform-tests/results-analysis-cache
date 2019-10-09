@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":" ErrorEvent and Worker.dispatchEvent() ","status":"PASS"},{"name":"initErrorEvent","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Smoke test.","status":"PASS"},{"name":"Tries to convert data member during Payment Request construction, irrespective of PMI.","status":"PASS"},{"name":"Converts PaymentMethodData's data to mandated IDL type during PaymentRequest construction.","status":"PASS"}]}
