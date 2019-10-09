@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"query() returns dictionary with empty arrays when no locks are held","status":"PASS"}]}

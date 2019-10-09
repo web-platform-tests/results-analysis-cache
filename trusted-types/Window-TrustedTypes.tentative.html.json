@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"factory = window.TrustedTypes","status":"PASS"},{"name":"factory construction fails","status":"PASS"}]}
