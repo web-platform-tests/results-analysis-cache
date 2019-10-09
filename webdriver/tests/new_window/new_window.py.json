@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_type_with_window","status":"FAIL"},{"name":"test_new_window_opens_about_blank","status":"FAIL"},{"name":"test_new_window_sets_no_window_name","status":"FAIL"},{"name":"test_new_window_sets_no_opener","status":"FAIL"}]}
