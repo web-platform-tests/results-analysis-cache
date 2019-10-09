@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test Performance Timeline API in Service Worker","status":"TIMEOUT"},{"name":"empty service worker fetch event included in performance timings","status":"NOTRUN"},{"name":"User Timing","status":"FAIL"},{"name":"Resource Timing","status":"TIMEOUT"}]}
