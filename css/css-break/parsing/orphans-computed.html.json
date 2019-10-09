@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property orphans value '1' computes to '1'","status":"PASS"},{"name":"Property orphans value '234' computes to '234'","status":"PASS"},{"name":"Property orphans value 'calc(1 + 234)' computes to '235'","status":"PASS"}]}

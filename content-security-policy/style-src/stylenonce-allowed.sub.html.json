@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Should fire securitypolicyviolation","status":"PASS"},{"name":"stylenonce-allowed","status":"PASS"},{"name":"stylenonce-allowed 1","status":"PASS"}]}

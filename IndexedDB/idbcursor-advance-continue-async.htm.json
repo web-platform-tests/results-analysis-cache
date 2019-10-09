@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IDBCursor asyncness - advance","status":"PASS"},{"name":"IDBCursor asyncness - continue","status":"PASS"},{"name":"IDBCursor asyncness - fresh advance still async","status":"PASS"},{"name":"IDBCursor asyncness - fresh continue still async","status":"PASS"}]}
