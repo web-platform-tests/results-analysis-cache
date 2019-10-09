@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The computed value of float with absolute positioning when there is no box should be \"none\"","status":"PASS"}]}
