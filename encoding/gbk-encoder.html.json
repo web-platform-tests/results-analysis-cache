@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"gbk encoder: very basic","status":"PASS"},{"name":"gbk encoder: Euro","status":"PASS"},{"name":"gbk encoder: character","status":"PASS"},{"name":"gbk encoder: PUA","status":"PASS"},{"name":"gbk encoder: PUA #2","status":"PASS"},{"name":"gbk encoder: poo","status":"PASS"}]}
