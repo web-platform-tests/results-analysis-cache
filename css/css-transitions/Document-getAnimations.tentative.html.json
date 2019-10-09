@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getAnimations for non-animated content","status":"PASS"},{"name":"getAnimations for CSS Transitions","status":"PASS"},{"name":"CSS Transitions targetting (pseudo-)elements should have correct order after sorting","status":"FAIL"},{"name":"Transitions are not returned after they have finished","status":"PASS"}]}
