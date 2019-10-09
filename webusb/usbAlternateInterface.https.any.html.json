@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Can construct a USBAlternateInterface.","status":"FAIL"},{"name":"Constructing a USBAlternateInterface with an invalid alternate setting throws a range error.","status":"FAIL"}]}
