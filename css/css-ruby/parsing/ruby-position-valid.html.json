@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['ruby-position'] = \"over\" should set the property value","status":"PASS"},{"name":"e.style['ruby-position'] = \"under\" should set the property value","status":"PASS"},{"name":"e.style['ruby-position'] = \"inter-character\" should set the property value","status":"FAIL"}]}
