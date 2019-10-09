@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"iso-2022-jp encoder: very basic","status":"PASS"},{"name":"iso-2022-jp encoder: basics","status":"FAIL"},{"name":"iso-2022-jp encoder: SO/SI ESC","status":"FAIL"},{"name":"iso-2022-jp encoder: U+FFFD","status":"PASS"}]}

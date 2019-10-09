@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Children of a slot in a document tree should not be counted in flattened assigned nodes.","status":"FAIL"},{"name":"Slot fallback content in shadow tree should be counted in flattened assigned nodes.","status":"PASS"}]}

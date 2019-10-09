@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Zero-length line segments from quadraticCurveTo and bezierCurveTo are removed before stroking","status":"PASS"}]}

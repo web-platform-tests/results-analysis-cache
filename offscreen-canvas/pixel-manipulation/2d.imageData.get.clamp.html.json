@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getImageData() clamps colours to the range [0, 255]","status":"FAIL"}]}

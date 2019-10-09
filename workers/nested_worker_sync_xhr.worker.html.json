@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Nested worker that issues a sync XHR","status":"FAIL"}]}

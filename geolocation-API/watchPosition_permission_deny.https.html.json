@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check that watchPosition returns synchronously before any callbacks are invoked.","status":"PASS"},{"name":"Check that watchPosition returns a long","status":"PASS"}]}

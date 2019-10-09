@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that the target's border bounding box is used to calculate intersection.","status":"FAIL"}]}

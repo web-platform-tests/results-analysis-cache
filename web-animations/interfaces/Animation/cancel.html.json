@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Animated style is cleared after calling Animation.cancel()","status":"FAIL"},{"name":"After cancelling an animation, it can still be seeked","status":"FAIL"},{"name":"After cancelling an animation, it can still be re-used","status":"FAIL"}]}

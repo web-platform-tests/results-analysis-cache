@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IntersectionObserver should send a not-intersecting notification for a target that gets display:none.","status":"FAIL"}]}
