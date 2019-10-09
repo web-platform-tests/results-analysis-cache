@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that securitypolicyviolation event is fired","status":"PASS"},{"name":"Unsafe eval ran in Function() constructor.","status":"PASS"}]}

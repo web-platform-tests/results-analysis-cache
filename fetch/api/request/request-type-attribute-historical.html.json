@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"'type' getter should not exist on Request objects","status":"PASS"}]}
