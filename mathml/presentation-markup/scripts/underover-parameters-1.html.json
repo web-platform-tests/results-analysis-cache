@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"LowerLimitBaselineDropMin","status":"FAIL"},{"name":"LowerLimitGapMin","status":"FAIL"},{"name":"UpperLimitBaselineRiseMin","status":"FAIL"},{"name":"UpperLimitGapMin","status":"FAIL"}]}
