@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"HTMLcollection as a prototype should not allow getting .length on the base object","status":"PASS"}]}
