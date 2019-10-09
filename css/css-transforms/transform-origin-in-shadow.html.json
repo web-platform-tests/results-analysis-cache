@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"'transform-origin' on <svg> being direct descendant of shadow root","status":"PASS"}]}
