@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Create Secure WebSocket - Server initiated Close - Client sends back a CLOSE - Connection should be opened","status":"PASS"},{"name":"Create Secure WebSocket - Server initiated Close - Client sends back a CLOSE - readyState should be in CLOSED state and wasClean is TRUE - Connection should be closed","status":"FAIL"}]}
