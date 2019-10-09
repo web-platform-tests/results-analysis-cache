@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Test import.meta.url on the top-level module script.","status":"FAIL"},{"name":"Test import.meta.url on the imported module script.","status":"FAIL"},{"name":"Test import.meta.url on the imported module script with a fragment.","status":"FAIL"}]}
