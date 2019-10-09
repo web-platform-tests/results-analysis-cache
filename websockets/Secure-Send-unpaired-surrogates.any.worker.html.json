@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Send unpaired surrogates on a Secure WebSocket - Connection should be opened","status":"PASS"},{"name":"Send unpaired surrogates on a Secure WebSocket - Message should be received","status":"PASS"},{"name":"Send unpaired surrogates on a Secure WebSocket - Connection should be closed","status":"PASS"}]}

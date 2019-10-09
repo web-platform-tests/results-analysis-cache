@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"elementsFromPoint on the root document for points in iframe elements","status":"PASS"},{"name":"elementsFromPoint on inner documents","status":"PASS"}]}
