@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"iframe-same-origin-allowfullscreen","status":"FAIL"},{"name":"iframe-cross-origin-allowfullscreen","status":"FAIL"},{"name":"iframe-noload-noallowfullscreen","status":"FAIL"},{"name":"iframe-noload-allowfullscreen","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Constructor with 'new'","status":"PASS"},{"name":"Constructor without 'new'","status":"PASS"}]}

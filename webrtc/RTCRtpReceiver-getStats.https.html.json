@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"receiver.getStats() via addTransceiver should return stats report containing inbound-rtp stats","status":"FAIL"},{"name":"receiver.getStats() via addTrack should return stats report containing inbound-rtp stats","status":"FAIL"}]}

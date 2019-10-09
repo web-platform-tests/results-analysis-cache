@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Send binary data on a WebSocket - Blob - Connection should be opened","status":"PASS"},{"name":"Send binary data on a WebSocket - Blob - Message should be received","status":"PASS"},{"name":"Send binary data on a WebSocket - Blob - Connection should be closed","status":"PASS"}]}
