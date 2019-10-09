@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"drawImage with zero-sized source rectangle throws INDEX_SIZE_ERR","status":"FAIL"}]}
