@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test preflight","status":"PASS"},{"name":"preflight for x-print should be cached","status":"PASS"},{"name":"age = 0, should not be cached","status":"PASS"},{"name":"age = -1, should not be cached","status":"PASS"},{"name":"preflight first request, second from cache, wait, third should preflight again","status":"PASS"}]}
