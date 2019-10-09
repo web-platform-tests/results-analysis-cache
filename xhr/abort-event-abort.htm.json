@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XMLHttpRequest: The abort() method: do not fire abort event in OPENED state when send() flag is unset.","status":"PASS"}]}

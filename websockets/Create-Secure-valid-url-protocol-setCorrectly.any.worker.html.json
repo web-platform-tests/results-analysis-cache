@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Create Secure WebSocket - Pass a valid URL and protocol string - protocol should be set correctly - Connection should be opened","status":"PASS"},{"name":"Create Secure WebSocket - Pass a valid URL and protocol string - Connection should be closed","status":"PASS"}]}

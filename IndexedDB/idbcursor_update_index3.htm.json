@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IDBCursor.update() - index - attempt to modify a record in an inactive transaction","status":"PASS"}]}

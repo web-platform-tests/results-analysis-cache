@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Error handler outside the worker should not see the error value","status":"PASS"},{"name":"Error handlers inside a worker should see the error value","status":"PASS"},{"name":"Worker_ErrorEvent_error","status":"PASS"}]}

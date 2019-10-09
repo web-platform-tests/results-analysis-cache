@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['border-image-source'] = \"auto\" should not set the property value","status":"PASS"},{"name":"e.style['border-image-source'] = \"none, url(\\\"http://www.example.com/\\\")\" should not set the property value","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"global setup","status":"PASS"},{"name":"base URL when service worker does respondWith(fetch(responseUrl)).","status":"FAIL"},{"name":"base URL when service worker does respondWith(new Response()).","status":"PASS"},{"name":"cleanup global state","status":"PASS"}]}

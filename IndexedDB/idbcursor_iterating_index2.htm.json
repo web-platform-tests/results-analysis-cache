@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IDBCursor.continue() - index - add next element, and iterate to it","status":"PASS"}]}

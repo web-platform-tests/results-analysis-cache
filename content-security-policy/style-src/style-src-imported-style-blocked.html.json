@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"@import stylesheet should not load because it does not match style-src","status":"PASS"},{"name":"Should fire a securitypolicyviolation event","status":"FAIL"}]}
