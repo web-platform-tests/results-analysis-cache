@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Has basics","status":"PASS"},{"name":"has() following delete()","status":"PASS"}]}
