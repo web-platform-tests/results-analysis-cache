@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"body.onresize should set the window.onload handler","status":"PASS"},{"name":"document.onresize should set the document.onresize handler","status":"PASS"},{"name":"meta.onresize should set the meta.onresize handler","status":"PASS"}]}
