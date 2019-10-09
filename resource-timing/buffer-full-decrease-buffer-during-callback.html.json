@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify that reducing the size of the resource timing buffer during resourcetimingbufferfull call works","status":"PASS"}]}
