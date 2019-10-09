@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-Origin embed","status":"PASS"},{"name":"Same-Site embed","status":"PASS"},{"name":"Cross-Site embed","status":"PASS"}]}
