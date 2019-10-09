@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"throw a 'SecurityError' when invoking navigator.getBattery() within iframe","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-origin request accepted","status":"PASS"},{"name":"Cross-origin request denied","status":"PASS"}]}
