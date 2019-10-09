@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Create Secure WebSocket - Pass a valid URL  - Connection should be opened","status":"NOTRUN"},{"name":"Create Secure WebSocket - Pass a valid URL - Connection should be closed","status":"FAIL"}]}
