@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SharedArrayBuffer cannot cross agent clusters, BroadcastChannel edition","status":"FAIL"}]}
