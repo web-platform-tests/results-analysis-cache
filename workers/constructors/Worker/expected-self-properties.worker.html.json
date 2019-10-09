@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"existence of XMLHttpRequest","status":"PASS"},{"name":"existence of WebSocket","status":"PASS"},{"name":"existence of EventSource","status":"PASS"},{"name":"existence of MessageChannel","status":"PASS"},{"name":"existence of Worker","status":"PASS"},{"name":"existence of SharedWorker","status":"FAIL"}]}
