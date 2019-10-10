@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['border-width'] = \"none\" should not set the property value","status":"PASS"},{"name":"e.style['border-width'] = \"thin medium thick medium thin\" should not set the property value","status":"PASS"},{"name":"e.style['border-width'] = \"-1px\" should not set the property value","status":"PASS"}]}
