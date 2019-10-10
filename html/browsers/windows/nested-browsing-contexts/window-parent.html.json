@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"`window.parent` for top-level browsing context","status":"PASS"},{"name":"`window.parent` on single nested browsing context","status":"PASS"},{"name":"`window.parent` for multiple nested browsing contexts","status":"PASS"}]}
