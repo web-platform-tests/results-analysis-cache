@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Sanity-check: Contents do not load immediately (no eager-loading) when the loading attribute is 'lazy' and frame is in viewport.","status":"FAIL"},{"name":"When 'lazyload' feature is enabled, a frame can avoid lazyloading by setting 'loading' attribute to 'eager'","status":"PASS"}]}
