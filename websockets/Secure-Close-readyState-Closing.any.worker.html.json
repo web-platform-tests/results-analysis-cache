@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Create Secure WebSocket - Close the Connection - readyState should be in CLOSING state just before onclose is called","status":"PASS"}]}
