@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"All tests ran","status":"PASS"},{"name":"loading documents from original origin after setting document.domain","status":"PASS"},{"name":"loading documents from the origin document.domain was set to should throw","status":"PASS"}]}
