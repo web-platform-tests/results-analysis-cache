@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property stop-color has initial value rgb(0, 0, 0)","status":"FAIL"},{"name":"Property stop-color does not inherit","status":"FAIL"},{"name":"Property stop-opacity has initial value 1","status":"FAIL"},{"name":"Property stop-opacity does not inherit","status":"FAIL"}]}
