@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Shared worker","status":"FAIL"},{"name":"Nested worker in shared worker","status":"FAIL"},{"name":"Shared worker from https subframe","status":"FAIL"},{"name":"Nested worker from shared worker from https subframe","status":"FAIL"}]}
