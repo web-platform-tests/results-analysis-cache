@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A constructed EventTarget can be used as expected","status":"FAIL"},{"name":"EventTarget can be subclassed","status":"FAIL"}]}
