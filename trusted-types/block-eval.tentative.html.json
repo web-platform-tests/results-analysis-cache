@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"eval with plain string throws.","status":"PASS"},{"name":"eval with TrustedScript works.","status":"FAIL"},{"name":"eval obeys default policy.","status":"FAIL"}]}
