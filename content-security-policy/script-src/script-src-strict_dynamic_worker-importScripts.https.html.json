@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"`importScripts(...)` is allowed by 'strict-dynamic'","status":"TIMEOUT"}]}
