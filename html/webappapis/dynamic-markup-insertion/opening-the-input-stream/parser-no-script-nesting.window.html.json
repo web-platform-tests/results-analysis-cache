@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"open() should reset the DOM even if there's an active parser, if that parser's script insertion level is 0","status":"FAIL"}]}
