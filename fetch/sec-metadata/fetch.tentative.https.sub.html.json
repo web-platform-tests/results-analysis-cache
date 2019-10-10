@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-origin fetch","status":"PASS"},{"name":"Same-site fetch","status":"PASS"},{"name":"Cross-site fetch","status":"PASS"},{"name":"Same-origin mode","status":"PASS"},{"name":"CORS mode","status":"PASS"},{"name":"no-CORS mode","status":"PASS"}]}
