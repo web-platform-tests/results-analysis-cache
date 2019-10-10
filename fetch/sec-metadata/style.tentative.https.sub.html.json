@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-Origin style","status":"PASS"},{"name":"Same-Site style","status":"PASS"},{"name":"Cross-Site style","status":"PASS"},{"name":"Same-Origin, cors style","status":"PASS"}]}
