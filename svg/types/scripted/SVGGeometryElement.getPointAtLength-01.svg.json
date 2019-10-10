@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":", less than zero (SVGLineElement).","status":"FAIL"},{"name":", less than zero (SVGPathElement).","status":"PASS"},{"name":", greater than 'length' (SVGLineElement).","status":"FAIL"},{"name":", greater than 'length' (SVGPathElement).","status":"PASS"}]}
