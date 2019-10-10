@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that exceptions from the constructor of a custom element inside a module are propagated as expected.\n","status":"PASS"}]}
