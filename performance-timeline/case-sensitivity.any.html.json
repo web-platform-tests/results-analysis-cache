@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getEntriesByType values are case sensitive","status":"PASS"},{"name":"getEntriesByName values are case sensitive","status":"PASS"}]}
