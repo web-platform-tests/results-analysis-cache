@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"import the same script URL multiple times","status":"PASS"},{"name":"call importScripts() with multiple arguments","status":"PASS"}]}
