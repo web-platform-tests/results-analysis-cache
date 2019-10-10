@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test that securitypolicyviolation event is fired","status":"NOTRUN"},{"name":"eval() should throw without 'unsafe-eval' keyword source in script-src directive.","status":"PASS"},{"name":"eval() should not run without 'unsafe-eval' script-src directive.","status":"PASS"}]}
