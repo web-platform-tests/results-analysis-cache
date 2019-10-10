@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property scroll-snap-stop value 'normal' computes to 'normal'","status":"FAIL"},{"name":"Property scroll-snap-stop value 'always' computes to 'always'","status":"FAIL"}]}
