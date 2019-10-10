@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Blob.stream()","status":"FAIL"},{"name":"Blob.stream() empty Blob","status":"FAIL"},{"name":"Blob.stream() non-unicode input","status":"FAIL"},{"name":"Blob.stream() garbage collection of blob shouldn't break streamconsumption","status":"FAIL"}]}
