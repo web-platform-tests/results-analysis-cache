@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"No snapping occurs if there is no valid snap position","status":"FAIL"},{"name":"No snapping occurs if there is no valid snap position matches scroll-snap-type","status":"FAIL"}]}
