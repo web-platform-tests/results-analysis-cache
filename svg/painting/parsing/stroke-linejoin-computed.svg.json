@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property stroke-linejoin value 'miter' computes to 'miter'","status":"FAIL"},{"name":"Property stroke-linejoin value 'round' computes to 'round'","status":"FAIL"},{"name":"Property stroke-linejoin value 'bevel' computes to 'bevel'","status":"FAIL"}]}
