@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property flex-shrink value '1' computes to '1'","status":"PASS"},{"name":"Property flex-shrink value '2.34e+06' computes to '2.34e+06'","status":"FAIL"},{"name":"Property flex-shrink value '6.78e+08' computes to '6.78e+08'","status":"FAIL"},{"name":"Property flex-shrink value '0' computes to '0'","status":"PASS"}]}
