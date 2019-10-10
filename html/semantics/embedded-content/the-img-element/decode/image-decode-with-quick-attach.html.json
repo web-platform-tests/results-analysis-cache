@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"HTMLImageElement.prototype.decode(), attach to DOM before promise resolves.","status":"PASS"}]}
