@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A WakeLock request with an AbortSignal whose abort flag is set always aborts","status":"FAIL"},{"name":"The same AbortSignal can be used to cause multiple wake locks to abort","status":"FAIL"}]}
