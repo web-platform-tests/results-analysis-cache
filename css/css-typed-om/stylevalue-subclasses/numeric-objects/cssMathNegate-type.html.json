@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Negating a type with empty map returns the empty map","status":"FAIL"},{"name":"Negating a type returns the same type","status":"FAIL"}]}
