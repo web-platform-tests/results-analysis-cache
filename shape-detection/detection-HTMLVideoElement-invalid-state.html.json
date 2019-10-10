@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Face - detect(HTMLVideoElement) - HAVE_NOTHING","status":"PASS"},{"name":"Face - detect(HTMLVideoElement) - HAVE_METADATA","status":"PASS"},{"name":"Barcode - detect(HTMLVideoElement) - HAVE_NOTHING","status":"PASS"},{"name":"Barcode - detect(HTMLVideoElement) - HAVE_METADATA","status":"FAIL"}]}
