@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Cleanup to setup test environment","status":"FAIL"},{"name":"remove() to remove a file","status":"FAIL"},{"name":"remove() on an already removed file should fail","status":"FAIL"},{"name":"remove() to remove an empty directory","status":"FAIL"},{"name":"remove() on a non-empty directory should fail","status":"FAIL"}]}
