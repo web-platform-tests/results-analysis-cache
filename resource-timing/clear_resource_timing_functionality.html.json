@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"4 resource timing entries should be stored in this page.","status":"PASS"},{"name":"No resource timing entries should be stored after clearResourceTimings.","status":"PASS"}]}
