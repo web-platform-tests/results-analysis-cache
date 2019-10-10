@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Face Detector detect(ImageBitmap) on worker","status":"FAIL"},{"name":"Barcode Detector detect(ImageBitmap) on worker","status":"FAIL"}]}
