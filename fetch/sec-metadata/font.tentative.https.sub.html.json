@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-Origin font","status":"FAIL"},{"name":"Same-Site font","status":"FAIL"},{"name":"Cross-Site font","status":"FAIL"}]}
