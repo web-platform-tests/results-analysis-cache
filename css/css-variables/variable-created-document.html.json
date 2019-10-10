@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Variable definition appearing in a created document should work once spliced into the creating document","status":"PASS"},{"name":"Variable reference appearing in a created document should work once spliced into the creating document","status":"PASS"}]}
