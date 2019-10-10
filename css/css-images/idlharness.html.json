@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"idl_test setup","status":"PASS"},{"name":"Partial namespace CSS: original namespace defined","status":"PASS"},{"name":"CSS namespace: operation escape(CSSOMString)","status":"FAIL"}]}
