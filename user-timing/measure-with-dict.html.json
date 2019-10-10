@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"measure entries' detail and start/end are customizable","status":"PASS"},{"name":"measure should throw exception when passing option object and end at the same time","status":"PASS"}]}
