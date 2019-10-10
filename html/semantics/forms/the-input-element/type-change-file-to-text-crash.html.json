@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Changing type from file to text should not crash.","status":"PASS"}]}
