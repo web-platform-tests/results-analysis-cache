@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['border-style'] = \"auto\" should not set the property value","status":"PASS"},{"name":"e.style['border-style'] = \"solid double groove ridge none\" should not set the property value","status":"PASS"}]}
