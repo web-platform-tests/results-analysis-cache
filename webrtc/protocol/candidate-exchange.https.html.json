@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Two way ICE exchange works","status":"FAIL"},{"name":"Adding only caller -> callee candidates gives a connection","status":"FAIL"},{"name":"Adding only callee -> caller candidates gives a connection","status":"FAIL"}]}
