@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check cues from resources/settings.vtt","status":"FAIL"},{"name":"Check cues from resources/settings-bad-separation.vtt","status":"FAIL"}]}
