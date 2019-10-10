@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"history.state should initially be null","status":"PASS"},{"name":"history.pushState support is needed for this testcase","status":"PASS"},{"name":"history.state should reflect pushed state","status":"PASS"}]}
