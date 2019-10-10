@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Tests that a portal can adopt its predecessor.","status":"FAIL"},{"name":"Tests that trying to adopt the predecessor twice will throw an exception.","status":"FAIL"},{"name":"Tests that trying to adopt the predecessor after the PortalActivateEvent will throw an exception.","status":"FAIL"}]}
