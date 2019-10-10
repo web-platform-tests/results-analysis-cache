@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Cross-origin image is observable, with startTime equal to 0.","status":"FAIL"}]}
