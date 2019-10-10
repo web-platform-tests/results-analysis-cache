@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Check that popups from a sandboxed iframe escape the sandbox if\n       allow-popups-to-escape-sandbox is used","status":"TIMEOUT"}]}
