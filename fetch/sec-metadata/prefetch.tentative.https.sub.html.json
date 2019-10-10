@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Browser supports prefetch.","status":"FAIL"},{"name":"<link rel='prefetch' href='https://web-platform.test:8443/...'>","status":"TIMEOUT"},{"name":"<link rel='prefetch' href='https://www.web-platform.test:8443/...'>","status":"TIMEOUT"},{"name":"<link rel='prefetch' href='https://www.not-web-platform.test:8443/...'>","status":"TIMEOUT"}]}
