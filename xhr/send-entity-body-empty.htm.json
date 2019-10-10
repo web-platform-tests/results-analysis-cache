@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XMLHttpRequest: send(\"\") - empty entity body (POST)","status":"PASS"},{"name":"XMLHttpRequest: send(\"\") - empty entity body (PUT)","status":"PASS"},{"name":"XMLHttpRequest: send(\"\") - empty entity body (HEAD)","status":"FAIL"}]}
