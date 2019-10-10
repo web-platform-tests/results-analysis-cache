@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"location [PutForwards]","status":"FAIL"},{"name":"location.assign()","status":"FAIL"},{"name":"location.replace()","status":"FAIL"},{"name":"location.href","status":"FAIL"},{"name":"location.search","status":"FAIL"}]}
