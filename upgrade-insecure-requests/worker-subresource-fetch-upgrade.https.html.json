@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"secure/same-origin fetch","status":"PASS"},{"name":"insecure/same-origin fetch","status":"PASS"},{"name":"secure/cross-origin fetch","status":"PASS"},{"name":"insecure/cross-origin fetch","status":"PASS"}]}
