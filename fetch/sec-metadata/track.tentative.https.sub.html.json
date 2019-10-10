@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Same-Origin track","status":"TIMEOUT"},{"name":"Same-Site track","status":"NOTRUN"},{"name":"Cross-Site track","status":"NOTRUN"},{"name":"Same-Origin, CORS track","status":"NOTRUN"}]}
