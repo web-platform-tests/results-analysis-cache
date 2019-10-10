@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"global setup","status":"TIMEOUT"},{"name":"base URL when service worker does respondWith(fetch(responseUrl)).","status":"NOTRUN"},{"name":"base URL when service worker does respondWith(new Response()).","status":"NOTRUN"},{"name":"cleanup global state","status":"NOTRUN"}]}
