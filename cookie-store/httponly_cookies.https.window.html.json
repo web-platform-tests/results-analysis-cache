@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"HttpOnly cookies are not observed","status":"FAIL"},{"name":"HttpOnly cookies can not be set by document.cookie","status":"FAIL"},{"name":"HttpOnly cookies can not be set by CookieStore","status":"FAIL"}]}
