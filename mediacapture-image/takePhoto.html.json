@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"exercises ImageCapture.takePhoto()","status":"FAIL"},{"name":"exercises ImageCapture.takePhoto(null)","status":"FAIL"},{"name":"takePhoto() of an ended Track should throw \"InvalidStateError\"","status":"FAIL"}]}
