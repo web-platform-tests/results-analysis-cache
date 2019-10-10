@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"location hash","status":"PASS"},{"name":"Setting location.hash on srcdoc iframe","status":"FAIL"}]}
