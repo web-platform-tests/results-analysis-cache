@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"srcdoc can access with no 'document.domain' modification.","status":"TIMEOUT"},{"name":"srcdoc can access with valid 'document.domain'.","status":"NOTRUN"},{"name":"srcdoc can access when parent modifies 'document.domain'.","status":"NOTRUN"}]}
