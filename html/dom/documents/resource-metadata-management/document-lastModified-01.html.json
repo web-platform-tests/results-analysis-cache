@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Date returned by lastModified is current at page load","status":"PASS"},{"name":"Date returned by lastModified is in the form \"MM/DD/YYYY hh:mm:ss\".","status":"PASS"},{"name":"Date returned by lastModified is in the user's local time zone.","status":"PASS"},{"name":"Date returned by lastModified is current after timeout.","status":"PASS"}]}
