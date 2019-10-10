@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"304 without appropriate CORS header","status":"TIMEOUT"},{"name":"304 with appropriate CORS header","status":"FAIL"}]}
