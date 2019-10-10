@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"<link disabled> prevents the stylesheet from being in document.styleSheets (from parser)","status":"PASS"},{"name":"HTMLLinkElement.disabled reflects the <link disabled> attribute, and behaves consistently","status":"FAIL"}]}
