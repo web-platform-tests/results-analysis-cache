@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"base-uri 'self' works with same-origin sandboxed iframes.","status":"TIMEOUT"},{"name":"base-uri 'self' blocks foreign-origin sandboxed iframes.","status":"TIMEOUT"}]}
