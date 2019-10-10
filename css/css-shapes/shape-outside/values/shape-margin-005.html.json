@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"shape-margin can be assigned 'inherit' value","status":"PASS"},{"name":"shape-margin is not inherited and defaults to 0px","status":"FAIL"},{"name":"shape-margin is not inherited","status":"PASS"}]}
