@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"deleteRule should throw RangeError","status":"FAIL"}]}
