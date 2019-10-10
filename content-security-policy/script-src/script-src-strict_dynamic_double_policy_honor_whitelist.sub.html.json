@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Script injected via `appendChild` is allowed with `strict-dynamic` + a nonce+whitelist double policy.","status":"PASS"},{"name":"Non-whitelisted script injected via `appendChild` is not allowed with `strict-dynamic` + a nonce+whitelist double policy.","status":"PASS"}]}
