@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Image submit button should not add extra form data if 'value' attribute is present with non-empty value","status":"FAIL"}]}
