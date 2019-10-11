@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Can construct a USBConfiguration.","status":"FAIL"},{"name":"Constructing a USBConfiguration with an invalid configuration value throws a range error.","status":"FAIL"}]}
