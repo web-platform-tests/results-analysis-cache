@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"XRInputSources with a target ray mode of 'tracked-pointer' properly communicate their poses","status":"FAIL"}]}
