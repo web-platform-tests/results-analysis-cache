@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"navigator.cookieEnabled behavior on frames without cookie access","status":"TIMEOUT"}]}
