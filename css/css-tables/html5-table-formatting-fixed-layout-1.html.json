@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Redundant columns of fixed-layout tables are not being merged","status":"FAIL"},{"name":"Redundant rows of fixed-layout tables are not being merged","status":"FAIL"}]}
