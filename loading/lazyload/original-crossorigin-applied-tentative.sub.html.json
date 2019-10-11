@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that when deferred image is loaded, it uses the crossorigin attribute specified at parse time.","status":"PASS"}]}
