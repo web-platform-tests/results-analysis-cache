@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"idl_test setup","status":"FAIL"},{"name":"Partial interface Window: original interface defined","status":"FAIL"},{"name":"Partial interface ServiceWorkerGlobalScope: original interface defined","status":"PASS"}]}
