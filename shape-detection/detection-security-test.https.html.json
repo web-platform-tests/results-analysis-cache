@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Face - detect(broken image)","status":"PASS"},{"name":"Barcode - detect(broken image)","status":"PASS"},{"name":"Face - detect(broken video)","status":"PASS"},{"name":"Barcode - detect(broken video)","status":"PASS"}]}
