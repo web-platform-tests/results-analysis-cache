@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"idl_test setup","status":"PASS"},{"name":"Partial interface Document: original interface defined","status":"PASS"},{"name":"Document interface: operation hasStorageAccess()","status":"PASS"},{"name":"Document interface: operation requestStorageAccess()","status":"PASS"}]}
