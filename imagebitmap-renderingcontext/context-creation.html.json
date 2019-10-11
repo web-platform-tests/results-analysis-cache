@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that canvas.getContext('bitmaprenderer') returns an instance of ImageBitmapRenderingContext","status":"FAIL"}]}
