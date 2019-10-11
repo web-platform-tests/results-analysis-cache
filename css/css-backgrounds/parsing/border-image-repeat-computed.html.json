@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property border-image-repeat value 'round' computes to 'round'","status":"PASS"},{"name":"Property border-image-repeat value 'stretch repeat' computes to 'stretch repeat'","status":"PASS"},{"name":"Property border-image-repeat value 'round space' computes to 'round space'","status":"PASS"}]}
