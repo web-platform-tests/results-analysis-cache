@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"idl_test setup","status":"FAIL"},{"name":"Partial interface CSSStyleSheet: original interface defined","status":"PASS"},{"name":"Partial interface mixin DocumentOrShadowRoot: original interface mixin defined","status":"FAIL"},{"name":"Partial interface Window: original interface defined","status":"FAIL"}]}
