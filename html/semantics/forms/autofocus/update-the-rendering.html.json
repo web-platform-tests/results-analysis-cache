@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"\"Flush autofocus candidates\" should be happen after the first animation frame callbacks, and before a resize event in the next iteration of window event loop.","status":"PASS"}]}
