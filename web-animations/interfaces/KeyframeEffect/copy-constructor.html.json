@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Copied KeyframeEffect has the same target","status":"PASS"},{"name":"Copied KeyframeEffect has the same keyframes","status":"PASS"},{"name":"Copied KeyframeEffect has the same KeyframeEffectOptions","status":"PASS"},{"name":"Copied KeyframeEffect has the same timing content","status":"PASS"}]}
