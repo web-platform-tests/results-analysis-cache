@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test Window.isSecureContext for HTTPS creator","status":"PASS"},{"name":"Test Window.isSecureContext in an iframe loading an https: URI","status":"PASS"},{"name":"Test Window.isSecureContext in an iframe loading a blob: URI","status":"PASS"},{"name":"Test Window.isSecureContext in an iframe loading a srcdoc","status":"TIMEOUT"}]}
