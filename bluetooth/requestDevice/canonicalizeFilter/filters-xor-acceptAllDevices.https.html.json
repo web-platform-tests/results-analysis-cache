@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"RequestDeviceOptions should have exactly one of 'filters' or 'acceptAllDevices:true'. Reject with TypeError if not.","status":"FAIL"}]}
