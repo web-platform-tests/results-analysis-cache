@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"NDEFRecord constructor without init dict","status":"PASS"},{"name":"NDEFRecord constructor with null init dict","status":"PASS"},{"name":"NDEFRecord constructor with opaque data","status":"PASS"},{"name":"NDEFRecord constructor with json data","status":"PASS"}]}
