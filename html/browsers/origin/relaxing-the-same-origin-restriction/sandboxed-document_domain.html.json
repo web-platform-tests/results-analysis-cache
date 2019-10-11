@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Sandboxed document.domain","status":"PASS"},{"name":"Sandboxed document.domain 1","status":"PASS"},{"name":"Sandboxed document.domain 2","status":"PASS"},{"name":"Sandboxed document.domain 3","status":"PASS"},{"name":"Sandboxed document.domain 4","status":"PASS"}]}
