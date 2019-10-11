@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"importScripts() supports redirects","status":"PASS"},{"name":"an imported script redirects, and the body changes during the update check","status":"TIMEOUT"},{"name":"an imported script doesn't redirect initially, then redirects during the update check and the body changes","status":"NOTRUN"}]}
