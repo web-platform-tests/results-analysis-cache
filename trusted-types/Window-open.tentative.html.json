@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.open via policy (successful URL transformation).","status":"PASS"},{"name":"document.open via policy (successful URL transformation).","status":"PASS"}]}
