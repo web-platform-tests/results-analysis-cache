@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"idl_test setup","status":"FAIL"},{"name":"Partial interface Document: original interface defined","status":"PASS"},{"name":"Document interface: attribute hidden","status":"PASS"},{"name":"Document interface: attribute visibilityState","status":"PASS"},{"name":"Document interface: attribute onvisibilitychange","status":"PASS"}]}
