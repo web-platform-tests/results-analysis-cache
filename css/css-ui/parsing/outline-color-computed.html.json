@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property outline-color value 'currentColor' computes to 'rgb(0, 0, 255)'","status":"PASS"},{"name":"Property outline-color value 'red' computes to 'rgb(255, 0, 0)'","status":"PASS"},{"name":"invert, if supported, computes to invert","status":"PASS"}]}
