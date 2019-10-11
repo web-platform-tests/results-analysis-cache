@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property image-orientation value 'from-image' computes to 'from-image'","status":"FAIL"},{"name":"Property image-orientation value 'none' computes to 'none'","status":"FAIL"}]}
