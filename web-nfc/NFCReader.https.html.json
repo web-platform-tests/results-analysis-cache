@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that NFCReader.start fails if NFCReaderOptions.url is missing components.","status":"PASS"},{"name":"Test that NFCReader.start fails if NFCReaderOptions.url is invalid.","status":"PASS"},{"name":"Test that NFCReader.start fails if NFCReaderOptions.url has wrong protocol.","status":"PASS"}]}
