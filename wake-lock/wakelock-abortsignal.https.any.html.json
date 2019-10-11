@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"'TypeError' is thrown when the signal option is not an AbortSignal","status":"PASS"},{"name":"A WakeLock request with an AbortSignal whose abort flag is set always aborts","status":"PASS"},{"name":"The same AbortSignal can be used to cause multiple wake locks to abort","status":"PASS"}]}
