@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Tests that a portal can't navigate to a data URL.","status":"PASS"},{"name":"Tests that a portal can't navigate to about:blank.","status":"PASS"},{"name":"Tests that a portal can't navigate to javascript URLs.","status":"TIMEOUT"}]}
