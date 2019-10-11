@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['outline'] = \"3px ridge blue\" should set the longhand values","status":"PASS"}]}
