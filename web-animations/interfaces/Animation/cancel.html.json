@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Animated style is cleared after calling Animation.cancel()","status":"TIMEOUT"},{"name":"After cancelling an animation, it can still be seeked","status":"PASS"},{"name":"After cancelling an animation, it can still be re-used","status":"NOTRUN"}]}
