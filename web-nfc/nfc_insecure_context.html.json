@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"NFCWriter requires a secure context","status":"PASS"},{"name":"NFCReader requires a secure context","status":"PASS"}]}
