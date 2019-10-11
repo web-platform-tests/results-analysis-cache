@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Update should be triggered after a navigation (no fetch event worker).","status":"TIMEOUT"},{"name":"Update should be triggered after a navigation (fetch event worker).","status":"NOTRUN"},{"name":"Update should be triggered after a navigation (network error).","status":"NOTRUN"}]}
