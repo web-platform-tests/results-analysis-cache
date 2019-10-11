@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property font-synthesis value 'none' computes to 'none'","status":"FAIL"},{"name":"Property font-synthesis value 'weight' computes to 'weight'","status":"FAIL"},{"name":"Property font-synthesis value 'style' computes to 'style'","status":"FAIL"},{"name":"Property font-synthesis value 'weight style' computes to 'weight style'","status":"FAIL"}]}
