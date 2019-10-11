@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SXG error report must be downgraded when the cert URL is different from the reporting origin. And succeeded normal NEL report should not be sent  when success fraction is zero.","status":"FAIL"}]}
