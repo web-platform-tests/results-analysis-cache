@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test setup (worker registration)","status":"FAIL"},{"name":"navigator.serviceWorker is not available in a data: iframe","status":"FAIL"}]}
