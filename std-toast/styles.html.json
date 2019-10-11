@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"the computed style map of an open unstyled toast is the same as a span given toast defaults","status":"FAIL"},{"name":"the computed style map of a closed unstyled toast is the same as a span given toast defaults","status":"FAIL"}]}
