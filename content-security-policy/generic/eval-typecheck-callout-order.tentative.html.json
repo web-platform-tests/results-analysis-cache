@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"eval of a string should be checked by CSP","status":"PASS"},{"name":"eval of a non-string should not be checked by CSP","status":"FAIL"}]}
