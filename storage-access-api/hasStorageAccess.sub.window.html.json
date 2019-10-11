@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"[top-level-context] document.hasStorageAccess() should be supported on the document interface","status":"PASS"},{"name":"[top-level-context] document.hasStorageAccess() should be allowed by default: true","status":"PASS"},{"name":"[top-level-context] document.hasStorageAccess() should work on a document object.","status":"FAIL"}]}
