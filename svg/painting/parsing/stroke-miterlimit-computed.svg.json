@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property stroke-miterlimit value '0' computes to '0'","status":"PASS"},{"name":"Property stroke-miterlimit value '0.5' computes to '0.5'","status":"PASS"},{"name":"Property stroke-miterlimit value '1' computes to '1'","status":"PASS"},{"name":"Property stroke-miterlimit value '7.5' computes to '7.5'","status":"PASS"}]}
