@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['list-style'] = \"square url(\\\"https://web-platform.test/\\\") inside\" should set the longhand values","status":"PASS"}]}
