@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Eval is allowed because the CSP is report-only","status":"PASS"},{"name":"SPV event is still raised","status":"FAIL"},{"name":"Violation report status OK.","status":"FAIL"}]}
