@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Calling cursor => cursor.update({}) doesn't affect index iteration","status":"TIMEOUT"},{"name":"Calling cursor => cursor.delete() doesn't affect index iteration","status":"TIMEOUT"}]}
