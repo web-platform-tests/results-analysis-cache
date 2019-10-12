@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: '37 * * * *'
+    - cron: '5 5 * * *'
 name: results
 jobs:
   update:
