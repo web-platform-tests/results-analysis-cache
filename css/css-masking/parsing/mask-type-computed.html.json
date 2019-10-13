@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property mask-type value 'luminance' computes to 'luminance'","status":"PASS"},{"name":"Property mask-type value 'alpha' computes to 'alpha'","status":"PASS"}]}
