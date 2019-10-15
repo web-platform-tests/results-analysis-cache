@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"location.href assigned via policy (successful URL transformation).","status":"FAIL"},{"name":"`location.href = string` throws","status":"PASS"},{"name":"`location.href = null` throws","status":"PASS"}]}
