@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Feature-Policy allow=\"autoplay\" allows same-origin navigation in an iframe.","status":"TIMEOUT"},{"name":"Feature-Policy allow=\"autoplay\" disallows cross-origin navigation in an iframe.","status":"TIMEOUT"}]}
