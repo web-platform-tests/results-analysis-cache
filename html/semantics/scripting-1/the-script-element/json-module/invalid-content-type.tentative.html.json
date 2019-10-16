@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"application/json+protobuf","status":"FAIL"},{"name":"application/json+blah","status":"FAIL"},{"name":"text/x-json","status":"FAIL"},{"name":"text/json+blah","status":"FAIL"},{"name":"application/blahjson","status":"FAIL"},{"name":"image/json","status":"PASS"}]}
