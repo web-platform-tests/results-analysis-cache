@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"location.assign via policy (successful URL transformation).","status":"FAIL"},{"name":"`location.assign = string` throws","status":"PASS"},{"name":"`location.assign = null` throws","status":"PASS"}]}
