@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Setting iframe src navigates independently in a portal","status":"FAIL"},{"name":"Setting cross site iframe src navigates independently in a portal","status":"FAIL"},{"name":"iframe navigates itself independently in a portal","status":"FAIL"},{"name":"Cross site iframe navigates itself independently in a portal","status":"FAIL"}]}
