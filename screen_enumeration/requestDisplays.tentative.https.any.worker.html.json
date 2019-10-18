@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.screen.requestDisplays is present","status":"FAIL"},{"name":"navigator.screen.requestDisplays returns at least 1 Display","status":"FAIL"}]}
