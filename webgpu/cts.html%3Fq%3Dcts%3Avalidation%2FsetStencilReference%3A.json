@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"cts:validation/setStencilReference:use+of+setStencilReference={\"reference\":0}","status":"FAIL"},{"name":"cts:validation/setStencilReference:use+of+setStencilReference={\"reference\":4294967295}","status":"FAIL"}]}
