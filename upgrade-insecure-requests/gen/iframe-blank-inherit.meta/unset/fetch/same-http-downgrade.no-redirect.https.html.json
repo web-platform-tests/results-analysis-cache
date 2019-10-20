@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Upgrade-Insecure-Requests: Expects blocked for fetch to same-http-downgrade origin and no-redirect redirection from https context.","status":"TIMEOUT"}]}
