@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Feature-Policy allow=\"battery\" allows same-origin relocation.","status":"TIMEOUT"},{"name":"Feature-Policy allow=\"battery\" disallows cross-origin relocation.","status":"PASS"}]}
