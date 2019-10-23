@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"cts:validation/setVertexBuffer:vertex+buffers+inherit+from+previous+pipeline=","status":"FAIL"},{"name":"cts:validation/setVertexBuffer:vertex+buffers+do+not+inherit+between+render+passes=","status":"FAIL"}]}
