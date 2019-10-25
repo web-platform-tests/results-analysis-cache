@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"cts:validation/setBlendColor:basic+use+of+setBlendColor=","status":"FAIL"},{"name":"cts:validation/setBlendColor:setBlendColor+allows+any+number+value=","status":"FAIL"}]}
