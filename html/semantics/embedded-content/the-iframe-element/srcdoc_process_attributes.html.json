@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Adding `srcdoc` attribute triggers attributes processing","status":"FAIL"},{"name":"Changing `srcdoc` (via property) triggers attributes processing","status":"FAIL"},{"name":"Removing `srcdoc` attribute triggers attributes processing","status":"FAIL"}]}
