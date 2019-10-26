@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property on window.","status":"FAIL"},{"name":"Property on Window.prototype.","status":"FAIL"},{"name":"Property on EventTarget.prototype.","status":"FAIL"},{"name":"Property on Object.prototype.","status":"FAIL"}]}
