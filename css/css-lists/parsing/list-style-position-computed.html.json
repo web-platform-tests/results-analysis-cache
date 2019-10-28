@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property list-style-position value 'inside' computes to 'inside'","status":"PASS"},{"name":"Property list-style-position value 'outside' computes to 'outside'","status":"PASS"}]}
