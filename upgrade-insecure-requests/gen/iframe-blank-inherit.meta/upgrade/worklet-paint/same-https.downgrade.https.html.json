@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Upgrade-Insecure-Requests: Expects allowed for worklet-paint to same-https origin and downgrade redirection from https context.","status":"TIMEOUT"}]}
