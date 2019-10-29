@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"fill() does not affect pixels outside the clip region.","status":"FAIL"}]}
