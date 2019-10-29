@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"serialize/deserialize to IndexedDB","status":"PASS"},{"name":"Save to IDB and load in worker","status":"PASS"},{"name":"Save in worker to IDB and load in window","status":"PASS"}]}
