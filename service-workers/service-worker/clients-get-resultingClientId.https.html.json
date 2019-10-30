@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"get(resultingClientId) should resolve to undefined on cross-origin redirect","status":"PASS"},{"name":"get(resultingClientId) should resolve to undefined on sandboxed response","status":"PASS"}]}
