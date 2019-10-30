@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test default value","status":"PASS"},{"name":"set iterations 2","status":"PASS"},{"name":"set iterations Infinity","status":"PASS"},{"name":"set negative iterations","status":"PASS"},{"name":"set negative infinity iterations ","status":"PASS"},{"name":"set NaN iterations","status":"PASS"}]}
