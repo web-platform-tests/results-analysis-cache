@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Interoperability of HTTP Set-Cookie: with other APIs","status":"FAIL"},{"name":"HttpOnly cookies are not observed","status":"FAIL"},{"name":"Binary HTTP cookies","status":"FAIL"}]}
