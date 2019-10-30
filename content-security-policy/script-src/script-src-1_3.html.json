@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Violation report status OK.","status":"PASS"},{"name":"Inline script in a script tag should  run with an unsafe-inline directive","status":"PASS"}]}
