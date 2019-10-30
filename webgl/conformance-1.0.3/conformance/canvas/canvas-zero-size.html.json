@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Overall test","status":"PASS"},{"name":"WebGL test #0: program != null is true","status":"PASS"},{"name":"WebGL test #1: getError was expected value: NO_ERROR : Should be no errors from setup.","status":"PASS"},{"name":"WebGL test #2: successfullyParsed is true","status":"PASS"}]}
