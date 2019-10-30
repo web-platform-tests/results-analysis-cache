@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"localStorage.key","status":"FAIL"},{"name":"localStorage.key with value changes","status":"FAIL"},{"name":"sessionStorage.key","status":"FAIL"},{"name":"sessionStorage.key with value changes","status":"FAIL"}]}
