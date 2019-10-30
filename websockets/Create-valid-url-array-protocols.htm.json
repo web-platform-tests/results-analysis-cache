@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"W3C WebSocket API - Create WebSocket - Pass a valid URL and array of protocol strings - Connection should be opened","status":"NOTRUN"},{"name":"W3C WebSocket API - Create WebSocket - Pass a valid URL and array of protocol strings - Connection should be closed","status":"NOTRUN"}]}
