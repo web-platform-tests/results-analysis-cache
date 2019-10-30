@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Indexed getter on localStorage","status":"FAIL"},{"name":"Indexed getter on sessionStorage","status":"FAIL"}]}

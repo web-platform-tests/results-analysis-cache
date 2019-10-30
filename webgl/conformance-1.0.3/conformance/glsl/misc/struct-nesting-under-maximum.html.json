@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Overall test","status":"PASS"},{"name":"WebGL test #0: shader with struct nesting less than maximum in WebGL spec should succeed","status":"PASS"},{"name":"WebGL test #1: successfullyParsed is true","status":"PASS"}]}
