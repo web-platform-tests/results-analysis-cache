@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"response.py::test_resp_sessionid","status":"PASS"},{"name":"response.py::test_resp_capabilites","status":"FAIL"},{"name":"response.py::test_resp_data","status":"FAIL"},{"name":"response.py::test_timeouts","status":"PASS"},{"name":"response.py::test_pageLoadStrategy","status":"FAIL"}]}
