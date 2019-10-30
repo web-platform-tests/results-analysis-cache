@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"insecure/same-origin frame","status":"PASS"},{"name":"secure/same-origin frame","status":"PASS"},{"name":"insecure/cross-origin frame","status":"TIMEOUT"},{"name":"secure/cross-origin frame","status":"TIMEOUT"}]}
