@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test static import on DedicatedWorkerGlobalScope.","status":"TIMEOUT"},{"name":"Test nested static import on DedicatedWorkerGlobalScope.","status":"NOTRUN"}]}
