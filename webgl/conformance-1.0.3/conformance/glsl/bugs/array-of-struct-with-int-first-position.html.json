@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Overall test","status":"PASS"},{"name":"WebGL test #0: square should be 50% green","status":"PASS"},{"name":"WebGL test #1: square should be 50% green","status":"PASS"},{"name":"WebGL test #2: square should be 50% green","status":"PASS"},{"name":"WebGL test #3: successfullyParsed is true","status":"PASS"}]}
