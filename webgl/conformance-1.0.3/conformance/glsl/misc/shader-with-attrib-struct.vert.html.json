@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Overall test","status":"PASS"},{"name":"WebGL test #0: vertex shader that uses attribute struct should fail per GLSL ES section 4.4.3, \"Attribute\", p. 30","status":"PASS"},{"name":"WebGL test #1: successfullyParsed is true","status":"PASS"}]}
