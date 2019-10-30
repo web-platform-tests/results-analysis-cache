@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Service Worker: Claim() when update happens after redirect","status":"FAIL"}]}
