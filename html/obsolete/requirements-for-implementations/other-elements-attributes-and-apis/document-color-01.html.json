@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getting document color attributes with no body","status":"FAIL"},{"name":"setting document color attributes with no body","status":"FAIL"}]}

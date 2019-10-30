@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Overall test","status":"PASS"},{"name":"WebGL test #0: WebGL context exists","status":"PASS"},{"name":"WebGL test #1: No OES_vertex_array_object support -- this is legal","status":"PASS"},{"name":"WebGL test #2: successfullyParsed is true","status":"PASS"}]}
