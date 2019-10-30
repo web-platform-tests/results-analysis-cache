@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Registering normal scope","status":"TIMEOUT"},{"name":"Registering scope with fragment","status":"NOTRUN"},{"name":"Registering same scope as the script directory","status":"NOTRUN"}]}

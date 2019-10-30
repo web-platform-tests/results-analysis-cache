@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that the Screen Orientation API is present.","status":"PASS"},{"name":"Test Screen Orientation API property types.","status":"PASS"},{"name":"Test that screen.orientation is an EventTarget.","status":"PASS"}]}
