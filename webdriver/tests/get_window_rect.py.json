@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"get_window_rect.py::test_get_window_rect_no_browsing_context","status":"ERROR"},{"name":"get_window_rect.py::test_get_window_rect_prompt_accept","status":"FAIL"},{"name":"get_window_rect.py::test_get_window_rect_handle_prompt_missing_value","status":"ERROR"},{"name":"get_window_rect.py::test_get_window_rect_payload","status":"ERROR"}]}
