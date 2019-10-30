@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify canvas tainting of fetched image in a Service Worker","status":"PASS"}]}
