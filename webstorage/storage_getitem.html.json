@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Get value by getIten(key) and named access in localStorage.","status":"FAIL"},{"name":"Get value by getIten(key) and named access in sessionStorage.","status":"FAIL"}]}
