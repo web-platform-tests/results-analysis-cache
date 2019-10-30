@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The class string of an interface prototype object is the concatenation of the interface's identifier and the string 'Prototype'.","status":"FAIL"}]}
