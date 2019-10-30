@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.webdriver is present","status":"FAIL"},{"name":"navigator.webdriver is false when webdriver-active is not set","status":"FAIL"},{"name":"Navigator interface: attribute webdriver","status":"FAIL"}]}

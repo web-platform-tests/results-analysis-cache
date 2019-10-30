@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"initialize global state","status":"PASS"},{"name":"requests for EMBED elements should not be intercepted by service workers","status":"PASS"},{"name":"requests for OBJECT elements should not be intercepted by service workers","status":"PASS"},{"name":"restore global state","status":"PASS"}]}
