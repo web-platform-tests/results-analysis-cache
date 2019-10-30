@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A device can be opened twice and have the same device ID","status":"PASS"},{"name":"A device can be opened twice with different resolutions","status":"FAIL"}]}
