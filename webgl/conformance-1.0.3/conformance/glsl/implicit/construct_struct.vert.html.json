@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Overall test","status":"PASS"},{"name":"WebGL test #0: implicit cast from int to float in struct initializer should fail","status":"PASS"},{"name":"WebGL test #1: successfullyParsed is true","status":"PASS"}]}

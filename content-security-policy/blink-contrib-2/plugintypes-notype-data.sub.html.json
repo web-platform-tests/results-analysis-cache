@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Expecting logs: [\"PASS: object tag onerror handler fired\"]","status":"FAIL"},{"name":"Violation report status OK.","status":"PASS"}]}
