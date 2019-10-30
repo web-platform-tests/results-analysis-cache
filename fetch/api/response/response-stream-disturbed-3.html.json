@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Getting blob after reading the Response body","status":"FAIL"},{"name":"Getting text after reading the Response body","status":"FAIL"},{"name":"Getting json after reading the Response body","status":"FAIL"},{"name":"Getting arrayBuffer after reading the Response body","status":"FAIL"}]}
