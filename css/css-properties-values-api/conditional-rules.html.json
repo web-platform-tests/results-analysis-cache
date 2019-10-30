@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"@supports should ignore registered syntax","status":"NOTRUN"},{"name":"CSS.supports(conditionText) should ignore registered syntax","status":"NOTRUN"},{"name":"CSS.supports(property, value) should ignore registered syntax","status":"NOTRUN"}]}
