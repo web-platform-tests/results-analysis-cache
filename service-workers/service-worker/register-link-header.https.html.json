@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"fetch can trigger service worker installation","status":"FAIL"},{"name":"An iframe can trigger service worker installation","status":"FAIL"},{"name":"A stylesheet can trigger service worker installation","status":"FAIL"}]}
