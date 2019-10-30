@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test import.meta.url on the top-level module script.","status":"TIMEOUT"},{"name":"Test import.meta.url on the imported module script.","status":"NOTRUN"},{"name":"Test import.meta.url on the imported module script with a fragment.","status":"NOTRUN"}]}
