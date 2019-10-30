@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Delete basics","status":"FAIL"},{"name":"Deleting appended multiple","status":"FAIL"},{"name":"Deleting all params removes ? from URL","status":"FAIL"},{"name":"Removing non-existent param removes ? from URL","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"There should be only one entry","status":"FAIL"},{"name":"http://web-platform.test:8000/resource-timing/resources/blue.png?id=cached is expected to be in the Resource Timing buffer","status":"FAIL"}]}
