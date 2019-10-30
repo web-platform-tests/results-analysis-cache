@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"console exists on the global object","status":"FAIL"},{"name":"console has the right property descriptors","status":"FAIL"},{"name":"Console (uppercase, as if it were an interface) must not exist","status":"FAIL"},{"name":"The prototype chain must be correct","status":"FAIL"}]}
