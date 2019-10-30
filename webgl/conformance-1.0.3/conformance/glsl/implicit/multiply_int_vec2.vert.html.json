@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Overall test","status":"PASS"},{"name":"WebGL test #0: implicit cast of int to vec2 in multiply should fail","status":"PASS"},{"name":"WebGL test #1: successfullyParsed is true","status":"PASS"}]}
