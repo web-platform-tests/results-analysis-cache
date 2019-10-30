@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Event.defaultPrevented is not reset after dipatchEvent()","status":"PASS"}]}

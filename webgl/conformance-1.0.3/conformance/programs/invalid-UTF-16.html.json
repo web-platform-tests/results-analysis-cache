@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Overall test","status":"PASS"},{"name":"WebGL test #0: bindAttribLocation with invalid UTF-16 did not crash","status":"PASS"},{"name":"WebGL test #1: successfullyParsed is true","status":"PASS"}]}
