@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"sendBeacon should not throw.","status":"PASS"},{"name":"redirect case","status":"PASS"}]}
