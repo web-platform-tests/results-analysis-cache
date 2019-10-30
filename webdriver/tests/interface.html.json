@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.webdriver is always true","status":"FAIL"},{"name":"Navigator interface: attribute webdriver","status":"PASS"}]}
