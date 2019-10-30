@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Unset minlength is -1","status":"FAIL"},{"name":"Negative minlength is always -1","status":"FAIL"},{"name":"Non-numeric minlength is -1","status":"FAIL"},{"name":"Assigning negative integer throws IndexSizeError","status":"FAIL"},{"name":"Assigning non-numeric to minlength sets minlength to 0","status":"FAIL"}]}
