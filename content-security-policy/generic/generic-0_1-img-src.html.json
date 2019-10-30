@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify cascading of default-src to img-src policy","status":"PASS"},{"name":"Violation report status OK.","status":"FAIL"}]}
