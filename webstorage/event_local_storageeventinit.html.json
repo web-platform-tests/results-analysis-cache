@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"storageeventinit test - Storage event is fired due to set values for StorageEventInit.","status":"FAIL"}]}
