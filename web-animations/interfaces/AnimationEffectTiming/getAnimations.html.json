@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"when duration is changed","status":"FAIL"},{"name":"when endDelay is changed","status":"FAIL"},{"name":"when iterations is changed","status":"FAIL"},{"name":"when currentTime changed in duration:1000, delay: 500, endDelay: -500","status":"FAIL"},{"name":"when currentTime changed in duration:1000, delay: -500, endDelay: -500","status":"FAIL"}]}
