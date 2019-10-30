@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"idl_test setup","status":"PASS"},{"name":"idl_test validation","status":"FAIL"},{"name":"Partial interface XRSession: original interface defined","status":"PASS"},{"name":"XRSession interface: attribute environmentBlendMode","status":"FAIL"}]}
