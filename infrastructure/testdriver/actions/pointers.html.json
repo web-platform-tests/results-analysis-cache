@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"unrecognized type","status":"PASS"},{"name":"default type (mouse)","status":"PASS"},{"name":"specified type: mouse","status":"PASS"},{"name":"specified type: touch","status":"TIMEOUT"},{"name":"specified type: pen","status":"NOTRUN"}]}
