@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"W3C WebSocket API - Send unicode data on a WebSocket - Connection should be opened","status":"NOTRUN"},{"name":"W3C WebSocket API - Send unicode data on a WebSocket - Message should be received","status":"NOTRUN"},{"name":"W3C WebSocket API - Send unicode data on a WebSocket - Connection should be closed","status":"NOTRUN"}]}
