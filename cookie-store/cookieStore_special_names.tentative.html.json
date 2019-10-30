@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"cookieStore.set with __Secure- name on insecure origin","status":"FAIL"},{"name":"cookieStore.set with __Host- name on insecure origin","status":"FAIL"},{"name":"cookieStore.delete with __Secure- name on insecure origin","status":"FAIL"},{"name":"cookieStore.delete with __Host- name on insecure origin","status":"FAIL"}]}
