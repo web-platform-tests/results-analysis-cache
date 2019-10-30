@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Overall test","status":"PASS"},{"name":"WebGL test #0: Got 3d context.","status":"PASS"},{"name":"WebGL test #1: attempt to use a resource from the wrong context should fail with INVALID_OPERATION","status":"PASS"},{"name":"WebGL test #2: successfullyParsed is true","status":"PASS"}]}
