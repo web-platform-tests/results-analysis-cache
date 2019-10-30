@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Constructor MUST throw if given an invalid payment method identifier","status":"FAIL"}]}
