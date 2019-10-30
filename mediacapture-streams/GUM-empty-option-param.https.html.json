@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Tests that getUserMedia raises a NOT_SUPPORTED_ERR exception when used with an empty options parameter","status":"FAIL"}]}
