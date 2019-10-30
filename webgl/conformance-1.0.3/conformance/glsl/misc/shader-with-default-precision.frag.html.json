@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Overall test","status":"PASS"},{"name":"WebGL test #0: fragment shader with default precision should succeed","status":"PASS"},{"name":"WebGL test #1: successfullyParsed is true","status":"PASS"}]}
