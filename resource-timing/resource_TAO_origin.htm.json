@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"window.performance is defined","status":"PASS"},{"name":"window.performance.getEntriesByType is defined","status":"PASS"},{"name":"The iframe should have one resource timing entry.","status":"FAIL"}]}
