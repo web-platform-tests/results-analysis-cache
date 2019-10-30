@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"External script in a script tag with matching SRI hash should run.","status":"FAIL"},{"name":"Violation report status OK.","status":"PASS"}]}
