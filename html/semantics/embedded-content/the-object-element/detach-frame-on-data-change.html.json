@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify that changing 'data' attribute of an <object> element discards the old browsing context and creates a new browsing context.","status":"FAIL"}]}
