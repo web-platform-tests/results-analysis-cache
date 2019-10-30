@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Preconditions.","status":"PASS"},{"name":"Invalidate :matches() for simple selector arguments.","status":"FAIL"},{"name":"Invalidate :matches() for compound selector arguments.","status":"FAIL"}]}
