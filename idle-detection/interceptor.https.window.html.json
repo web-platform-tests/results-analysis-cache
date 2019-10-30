@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"query()","status":"FAIL"},{"name":"updates once","status":"FAIL"},{"name":"updates twice","status":"FAIL"},{"name":"locked screen","status":"FAIL"},{"name":"service unavailable","status":"FAIL"}]}
