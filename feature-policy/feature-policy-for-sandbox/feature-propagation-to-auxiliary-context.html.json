@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Verify feature policies are inherited by the auxiliary browsing context if opened from a non-sandboxed same-origin <iframe>.","status":"NOTRUN"},{"name":"Verify feature policies are NOT inherited by the auxiliary browsing context if opened from a sandboxed same-origin <iframe> which allows popups to escape sandbox.","status":"NOTRUN"}]}
