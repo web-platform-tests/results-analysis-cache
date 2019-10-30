@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"cts:command_buffer/render/storeop:storeOp+controls+whether+1x1+drawn+quad+is+stored={\"storeOp\":\"store\",\"expected\":255}","status":"FAIL"},{"name":"cts:command_buffer/render/storeop:storeOp+controls+whether+1x1+drawn+quad+is+stored={\"storeOp\":\"clear\",\"expected\":0}","status":"FAIL"}]}
