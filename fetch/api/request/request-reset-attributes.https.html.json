@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Request.isReloadNavigation is reset with non-empty RequestInit","status":"FAIL"}]}
