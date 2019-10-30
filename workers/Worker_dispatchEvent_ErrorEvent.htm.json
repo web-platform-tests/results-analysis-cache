@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":" ErrorEvent and Worker.dispatchEvent() ","status":"PASS"},{"name":"document.createEvent('ErrorEvent')","status":"FAIL"},{"name":"initErrorEvent","status":"PASS"}]}

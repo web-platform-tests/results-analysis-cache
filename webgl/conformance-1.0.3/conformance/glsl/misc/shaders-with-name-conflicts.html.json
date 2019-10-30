@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Overall test","status":"PASS"},{"name":"WebGL test #0: [unexpected link status] shaders with conflicting uniform/attribute names should fail","status":"FAIL"},{"name":"WebGL test #1: successfullyParsed is true","status":"PASS"}]}
