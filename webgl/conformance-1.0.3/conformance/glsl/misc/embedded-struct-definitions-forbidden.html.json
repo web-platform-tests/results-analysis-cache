@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Overall test","status":"PASS"},{"name":"WebGL test #0: embedded structure definitions are forbidden per GLSL ES section 4.1.8, \"Structures\", and should fail","status":"PASS"},{"name":"WebGL test #1: successfullyParsed is true","status":"PASS"}]}

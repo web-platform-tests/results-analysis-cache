@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Interfaces and attributes of ServiceWorkerContainer","status":"FAIL"},{"name":"Interfaces and attributes of ServiceWorker","status":"FAIL"},{"name":"Interfaces and attributes in ServiceWorkerGlobalScope","status":"FAIL"}]}
