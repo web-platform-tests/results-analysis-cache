@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.webdriver is present","status":"PASS"},{"name":"navigator.webdriver is true when webdriver-active is set","status":"PASS"},{"name":"Navigator interface: attribute webdriver","status":"PASS"},{"name":"Unscopable handled correctly for webdriver property on Navigator","status":"PASS"}]}
