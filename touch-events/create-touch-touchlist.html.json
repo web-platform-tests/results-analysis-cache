@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document.createTouchList exists and correctly creates a TouchList from zero Touch objects","status":"FAIL"},{"name":"document.createTouchList exists and correctly creates a TouchList from a single Touch","status":"FAIL"},{"name":"document.createTouchList exists and correctly creates a TouchList from two Touch objects","status":"FAIL"}]}
