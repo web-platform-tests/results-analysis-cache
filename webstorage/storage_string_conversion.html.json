@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"localStorage only stores strings","status":"FAIL"},{"name":"sessionStorage only stores strings","status":"FAIL"}]}

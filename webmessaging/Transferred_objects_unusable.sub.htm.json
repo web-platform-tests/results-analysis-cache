@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test Description: Objects listed in transfer are transferred, not just cloned, meaning that they are no longer usable on the sending side.","status":"TIMEOUT"},{"name":"MessageChannel is supported.","status":"PASS"}]}
