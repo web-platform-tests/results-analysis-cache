@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"URL query: first","status":"FAIL"},{"name":"URL query: uppercase","status":"FAIL"},{"name":"URL query: last","status":"PASS"},{"name":"URL query: quoted","status":"PASS"},{"name":"URL query: quoted-single","status":"PASS"},{"name":"URL query: no-x","status":"PASS"}]}
