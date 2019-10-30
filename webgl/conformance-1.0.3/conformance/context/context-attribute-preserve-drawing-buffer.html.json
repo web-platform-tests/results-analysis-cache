@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Overall test","status":"PASS"},{"name":"WebGL test #0: successfullyParsed is true","status":"PASS"},{"name":"WebGL test #1: Rendered ok with preserveDrawingBuffer false.","status":"PASS"},{"name":"WebGL test #2: Rendered ok with preserveDrawingBuffer true.","status":"PASS"},{"name":"WebGL test #3: successfullyParsed is true","status":"PASS"}]}
