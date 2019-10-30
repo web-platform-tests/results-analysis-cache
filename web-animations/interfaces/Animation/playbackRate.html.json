@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test the initial effect of setting playbackRate on currentTime","status":"PASS"},{"name":"Test the effect of setting playbackRate on currentTime","status":"PASS"},{"name":"Test the effect of setting playbackRate while playing animation","status":"PASS"}]}
