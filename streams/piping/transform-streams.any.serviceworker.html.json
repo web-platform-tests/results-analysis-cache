@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Piping through an identity transform stream should close the destination when the source closes","status":"TIMEOUT"}]}
