@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that the navigator.webdriver descriptor has expected properties or doesn't exist at all","status":"FAIL"}]}

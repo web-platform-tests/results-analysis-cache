@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"import() inside compiled strings uses the document base URL inside a classic script","status":"FAIL"}]}
