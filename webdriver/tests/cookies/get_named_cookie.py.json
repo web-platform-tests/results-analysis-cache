@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"get_named_cookie.py::test_get_named_cookie","status":"PASS"},{"name":"get_named_cookie.py::test_duplicated_cookie","status":"FAIL"}]}
