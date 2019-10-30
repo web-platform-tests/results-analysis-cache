@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"accept_alert.py::test_no_browsing_context","status":"FAIL"},{"name":"accept_alert.py::test_no_user_prompt","status":"FAIL"},{"name":"accept_alert.py::test_accept_alert","status":"PASS"},{"name":"accept_alert.py::test_accept_confirm","status":"PASS"},{"name":"accept_alert.py::test_accept_prompt","status":"PASS"}]}
