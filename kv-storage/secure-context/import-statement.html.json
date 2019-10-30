@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Prerequisite check","status":"PASS"},{"name":"Static import kv-storage in non-secure context","status":"FAIL"}]}
