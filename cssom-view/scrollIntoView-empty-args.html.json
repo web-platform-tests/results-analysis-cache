@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"scrollIntoView should behave correctly when the arg is not fully specified as ScrollIntoViewOptions","status":"FAIL"}]}

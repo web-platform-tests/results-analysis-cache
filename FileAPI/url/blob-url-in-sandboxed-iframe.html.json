@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"reading a Blob URL in an unconstrained iframe","status":"PASS"},{"name":"reading a Blob URL in a sandboxed iframe without the same-origin flag","status":"PASS"}]}
