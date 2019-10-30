@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Unset maxlength is -1","status":"FAIL"},{"name":"Negative maxlength is always -1","status":"FAIL"},{"name":"Non-numeric maxlength is -1","status":"FAIL"},{"name":"Assigning negative integer throws IndexSizeError","status":"FAIL"},{"name":"Assigning non-numeric to maxlength sets maxlength to 0","status":"PASS"}]}
