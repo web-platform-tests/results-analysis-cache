@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Throws if the promise [[state]] is not \"interactive\"","status":"FAIL"},{"name":"Calling abort must not change the [[state]] until after \"interactive\"","status":"FAIL"},{"name":"calling .abort() causes acceptPromise to reject and closes the request.","status":"FAIL"}]}
