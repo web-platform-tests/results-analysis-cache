@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"http://web-platform.test:8000/resource-timing/resources/blank_page_green.htm is expected to have initiatorType frame","status":"FAIL"}]}
