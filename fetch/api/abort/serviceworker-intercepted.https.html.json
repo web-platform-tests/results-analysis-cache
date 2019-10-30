@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Aborting fetch when intercepted by a service worker","status":"FAIL"}]}
