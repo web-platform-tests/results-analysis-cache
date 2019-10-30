@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"name property value for DedicatedWorkerGlobalScope","status":"PASS"},{"name":"name property value for SharedWorkerGlobalScope","status":"PASS"},{"name":"name property is replaceable for SharedWorkerGlobalScope","status":"PASS"},{"name":"name property is replaceable for DedicatedWorkerGlobalScope","status":"PASS"}]}
