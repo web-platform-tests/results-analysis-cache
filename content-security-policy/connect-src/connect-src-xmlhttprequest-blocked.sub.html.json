@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XHR should fire onerror.","status":"PASS"},{"name":"XHR should fire onerror after a redirect.","status":"PASS"}]}
