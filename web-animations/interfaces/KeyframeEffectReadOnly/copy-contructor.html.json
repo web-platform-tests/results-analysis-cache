@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test copied keyframeEffectReadOnly has the same target","status":"PASS"},{"name":"Test copied keyframeEffectReadOnly has the same keyframes","status":"PASS"},{"name":"Test copied keyframeEffectReadOnly has the same keyframeEffectOptions","status":"PASS"},{"name":"Test copied keyframeEffectReadOnly has the same timing content","status":"PASS"}]}
