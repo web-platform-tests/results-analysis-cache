@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Expected entry count for http://web-platform.test:8000/server-timing/resources/blue.png: 1","status":"PASS"},{"name":"Expected entry count for http://www1.web-platform.test:8000/server-timing/resources/blue.png: 0","status":"PASS"}]}
