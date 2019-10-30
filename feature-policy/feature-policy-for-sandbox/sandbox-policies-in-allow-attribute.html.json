@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Verify that when a sandbox related feature is enabled in 'allow' then  the feature will be enabled regardless of sandbox attribute's value.","status":"NOTRUN"}]}
