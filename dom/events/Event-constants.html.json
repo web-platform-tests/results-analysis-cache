@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Constants for eventPhase on Event interface object.","status":"FAIL"},{"name":"Constants for eventPhase on Event prototype object.","status":"FAIL"},{"name":"Constants for eventPhase on Event object.","status":"FAIL"},{"name":"Constants for eventPhase on CustomEvent object.","status":"FAIL"}]}
