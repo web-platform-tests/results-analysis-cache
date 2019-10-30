@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Overall test","status":"NOTRUN"},{"name":"WebGL test #0: null should be non-null. Was null","status":"FAIL"},{"name":"WebGL test #1: gl.getParameter(gl.ALPHA_BITS) should be 0. Threw exception TypeError: gl is null","status":"FAIL"}]}
