@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"new Document(): interfaces","status":"FAIL"},{"name":"new Document(): children","status":"FAIL"},{"name":"new Document(): metadata","status":"FAIL"},{"name":"new Document(): characterSet aliases","status":"FAIL"}]}
