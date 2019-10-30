@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"W3C WebSocket API - Create Secure WebSocket - Close the Connection - close(reason with unpaired surrogates) - connection should get opened","status":"NOTRUN"},{"name":"W3C WebSocket API - Create Secure WebSocket - Close the Connection - close(reason with unpaired surrogates) - connection should get closed","status":"NOTRUN"}]}
