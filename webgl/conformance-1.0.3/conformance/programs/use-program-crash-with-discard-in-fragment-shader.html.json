@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Overall test","status":"PASS"},{"name":"WebGL test #0: context exists","status":"PASS"},{"name":"WebGL test #1: Program linked successfully","status":"PASS"},{"name":"WebGL test #2: Color should be red","status":"PASS"},{"name":"WebGL test #3: successfullyParsed is true","status":"PASS"}]}
