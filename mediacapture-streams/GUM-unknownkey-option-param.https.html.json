@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getUserMedia({doesnotexist:true}) aborts with NOT_SUPPORTED_ERR","status":"FAIL"}]}

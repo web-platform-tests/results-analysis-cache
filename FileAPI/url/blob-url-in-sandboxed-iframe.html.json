@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"reading a Blob URL in an unconstrained iframe","status":"TIMEOUT"},{"name":"reading a Blob URL in a sandboxed iframe without the same-origin flag","status":"NOTRUN"}]}
