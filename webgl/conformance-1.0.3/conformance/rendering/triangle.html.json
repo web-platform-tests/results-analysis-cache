@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Overall test","status":"PASS"},{"name":"WebGL test #0: should be 0,0,0,0","status":"PASS"},{"name":"WebGL test #1: should be 255,0,0,255","status":"PASS"},{"name":"WebGL test #2: should be 0,0,0,0","status":"PASS"},{"name":"WebGL test #3: successfullyParsed is true","status":"PASS"}]}
