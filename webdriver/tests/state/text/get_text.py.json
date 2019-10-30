@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"get_text.py::test_getting_text_of_a_non_existant_element_is_an_error","status":"FAIL"},{"name":"get_text.py::test_getting_text_of_a_non_existant_element_is_an_error","status":"ERROR"},{"name":"get_text.py::test_read_element_text","status":"FAIL"},{"name":"get_text.py::test_read_element_text","status":"ERROR"}]}
