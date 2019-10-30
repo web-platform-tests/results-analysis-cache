@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Overall test","status":"PASS"},{"name":"WebGL test #0: fragment shader with static assignment to both gl_FragData[0] and gl_FragColor should fail.","status":"PASS"},{"name":"WebGL test #1: successfullyParsed is true","status":"PASS"}]}
