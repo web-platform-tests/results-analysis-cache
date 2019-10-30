@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"registration via <link> element `rel` rejected","status":"TIMEOUT"},{"name":"registration via <link> element `rel` accepted in presence of `allow-same-origin` directive","status":"NOTRUN"}]}
