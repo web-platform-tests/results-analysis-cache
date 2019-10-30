@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Overall test","status":"PASS"},{"name":"WebGL test #0: shared fragment shader should succeed","status":"PASS"},{"name":"WebGL test #1: shared fragment shader should succeed","status":"PASS"},{"name":"WebGL test #2: successfullyParsed is true","status":"PASS"}]}
