@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Overall test","status":"PASS"},{"name":"WebGL test #0: shader with too-deep struct nesting should fail per WebGL spec","status":"PASS"},{"name":"WebGL test #1: successfullyParsed is true","status":"PASS"}]}
