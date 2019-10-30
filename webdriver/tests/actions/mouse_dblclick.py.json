@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_dblclick_at_coordinates[0]","status":"ERROR"},{"name":"test_dblclick_at_coordinates[200]","status":"ERROR"},{"name":"test_dblclick_with_pause_after_second_pointerdown","status":"ERROR"},{"name":"test_no_dblclick","status":"ERROR"}]}
