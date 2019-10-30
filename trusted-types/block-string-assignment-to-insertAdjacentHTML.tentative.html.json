@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"`insertAdjacentHTML(string)` throws.","status":"FAIL"},{"name":"insertAdjacentHTML = TrustedHTML.escape().","status":"FAIL"},{"name":"insertAdjacentHTML = TrustedHTML.unsafelyCreate().","status":"FAIL"}]}
