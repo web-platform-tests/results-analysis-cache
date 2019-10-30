@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property stroke-linecap value 'butt' computes to 'butt'","status":"PASS"},{"name":"Property stroke-linecap value 'round' computes to 'round'","status":"PASS"},{"name":"Property stroke-linecap value 'square' computes to 'square'","status":"PASS"}]}
