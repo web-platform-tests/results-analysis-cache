@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Promise rejection events tests: in a service worker context","status":"FAIL"}]}
