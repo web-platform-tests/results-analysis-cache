@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"[[SetPrototypeOf]] on a Location object should not allow changing its value: cross-origin via document.domain","status":"FAIL"}]}
