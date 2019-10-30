@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Overall test","status":"PASS"},{"name":"WebGL test #0: implicit cast of ivec2 to vec2 in comparision should fail","status":"PASS"},{"name":"WebGL test #1: successfullyParsed is true","status":"PASS"}]}
