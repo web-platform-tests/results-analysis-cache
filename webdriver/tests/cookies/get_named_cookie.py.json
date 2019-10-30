@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_get_named_session_cookie","status":"FAIL"},{"name":"test_get_named_session_cookie","status":"ERROR"},{"name":"test_get_named_cookie","status":"FAIL"},{"name":"test_get_named_cookie","status":"ERROR"},{"name":"test_duplicated_cookie","status":"FAIL"},{"name":"test_duplicated_cookie","status":"ERROR"}]}
