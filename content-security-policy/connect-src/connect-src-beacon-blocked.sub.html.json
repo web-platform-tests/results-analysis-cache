@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"sendBeacon should not throw.","status":"FAIL"},{"name":"redirect case","status":"TIMEOUT"}]}
