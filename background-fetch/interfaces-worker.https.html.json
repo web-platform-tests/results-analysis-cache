@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Service Worker-scoped tests.","status":"PASS"},{"name":"Exposed interfaces in a Service Worker.","status":"FAIL"}]}
