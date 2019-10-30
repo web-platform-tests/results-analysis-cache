@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"WebSocket should fire error event.","status":"PASS"}]}
