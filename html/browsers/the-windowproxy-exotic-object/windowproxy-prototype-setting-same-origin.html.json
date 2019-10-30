@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"[[SetPrototypeOf]] on a WindowProxy object should not allow changing its value: same-origin","status":"FAIL"}]}
