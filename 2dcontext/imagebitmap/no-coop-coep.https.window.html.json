@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"BroadcastChannel'ing a tainted ImageBitmap to a COOP+COEP popup","status":"FAIL"},{"name":"Messaging a tainted ImageBitMap via serialize/deserialize to a COEP shared worker","status":"FAIL"},{"name":"Messaging a tainted ImageBitMap via transfer to a COEP shared worker","status":"FAIL"}]}
