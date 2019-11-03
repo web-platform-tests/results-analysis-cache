@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"enumerateDevices returns new objects in case device-info permission is not granted","status":"FAIL"},{"name":"enumerateDevices returns new objects in case device-info permission is granted","status":"TIMEOUT"}]}
