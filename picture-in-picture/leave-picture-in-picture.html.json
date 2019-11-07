@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"leavepictureinpicture event is fired if document.exitPictureInPicture","status":"TIMEOUT"},{"name":"leavepictureinpicture event is fired if video.disablePictureInPicture is set to true","status":"NOTRUN"}]}
