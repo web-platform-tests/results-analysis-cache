@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"# AUDIT TASK RUNNER STARTED.","status":"PASS"},{"name":"> [Test k-rate GainNode] ","status":"PASS"},{"name":"Executing \"Test k-rate GainNode\"","status":"FAIL"},{"name":"< [Test k-rate GainNode] All assertions passed. (total 0 assertions)","status":"PASS"},{"name":"# AUDIT TASK RUNNER FINISHED: 1 tasks ran successfully.","status":"PASS"}]}
