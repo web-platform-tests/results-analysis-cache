@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Well-formed result of performance.measureMemory with default arguments.","status":"PASS"},{"name":"well-formed result of performance.measurememory with detailed=false.","status":"PASS"}]}
