@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Face - detect(ImageData), [SameObject]","status":"FAIL"},{"name":"Barcode - detect(ImageData), [SameObject]","status":"FAIL"}]}
