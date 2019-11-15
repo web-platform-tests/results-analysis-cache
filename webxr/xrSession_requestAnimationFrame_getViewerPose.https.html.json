@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"XRFrame getViewerPose updates on the next frame for non-immersive sessions","status":"FAIL"},{"name":"XRFrame getViewerPose updates on the next frame for immersive sessions","status":"NOTRUN"}]}

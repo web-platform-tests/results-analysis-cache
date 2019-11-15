@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.wakeLock.request() aborts if the document is not active.","status":"PASS"},{"name":"navigator.wakeLock.request() aborts if the document is active, but not fully active.","status":"PASS"}]}
