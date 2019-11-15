@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test that the www1 image is allowed to load","status":"PASS"},{"name":"Test that the www2 image is not allowed to load","status":"PASS"},{"name":"Test that the www2 image throws a violation event","status":"NOTRUN"}]}

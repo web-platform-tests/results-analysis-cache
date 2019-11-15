@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property font-style value 'normal' computes to 'normal'","status":"PASS"},{"name":"Property font-style value 'italic' computes to 'italic'","status":"PASS"},{"name":"Property font-style value 'oblique' computes to 'oblique'","status":"PASS"}]}
