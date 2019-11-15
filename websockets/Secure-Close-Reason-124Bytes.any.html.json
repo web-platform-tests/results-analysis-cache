@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Create Secure WebSocket - Close the Connection - close(code, 'reason more than 123 bytes') - SYNTAX_ERR is thrown","status":"PASS"}]}
