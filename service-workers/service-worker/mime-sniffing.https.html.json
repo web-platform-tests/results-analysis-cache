@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The response from service worker should be correctly MIME siniffed.","status":"FAIL"}]}
