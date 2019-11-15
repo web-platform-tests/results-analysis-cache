@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"XRSession resetpose from a device properly fires off the right events for immersive sessions","status":"FAIL"}]}
