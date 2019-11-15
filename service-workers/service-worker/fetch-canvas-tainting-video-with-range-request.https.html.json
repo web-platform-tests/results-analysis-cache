@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"range responses from single origin (same-origin)","status":"PASS"},{"name":"range responses from multiple origins (cross-origin first)","status":"FAIL"},{"name":"range responses from single origin with both opaque and non-opaque responses","status":"PASS"}]}
