@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Default iterator objects for an interface have the same prototype","status":"PASS"},{"name":"Object.prototype.toString returns correct value","status":"PASS"},{"name":"@@toStringTag has correct value from prototype","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XMLHttpRequest: User-Agent header is preserved on redirect","status":"PASS"},{"name":"XMLHttpRequest: User-Agent header is preserved on redirect 1","status":"FAIL"}]}
