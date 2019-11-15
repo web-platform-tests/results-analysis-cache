@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test SMSReceiver API enabled in same origin iframes","status":"TIMEOUT"},{"name":"Test SMSReceiver API disabled in cross origin iframes","status":"NOTRUN"}]}
