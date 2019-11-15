@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A syntax error in insertRule should throw and not affect the style of the page","status":"PASS"}]}
