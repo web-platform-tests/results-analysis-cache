@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Non-secure same-origin iframe => No headers","status":"PASS"},{"name":"Non-secure same-site iframe => No headers","status":"PASS"},{"name":"Non-secure cross-site iframe => No headers.","status":"PASS"},{"name":"Secure, cross-site (cross-scheme, same-host) iframe","status":"FAIL"}]}

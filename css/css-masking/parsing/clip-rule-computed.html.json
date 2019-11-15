@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property clip-rule value 'nonzero' computes to 'nonzero'","status":"PASS"},{"name":"Property clip-rule value 'evenodd' computes to 'evenodd'","status":"PASS"}]}
