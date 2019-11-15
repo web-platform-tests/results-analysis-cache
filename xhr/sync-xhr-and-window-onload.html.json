@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"sync XHR should not fire window.onload synchronously","status":"PASS"}]}

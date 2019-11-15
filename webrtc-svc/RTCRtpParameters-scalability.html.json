@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Setting scalabilityMode to a legal value should be accepted","status":"FAIL"},{"name":"Sender capabilities should include at least some scalability modes","status":"FAIL"}]}
