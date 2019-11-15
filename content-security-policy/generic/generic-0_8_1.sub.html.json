@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Should fire violation events for every failed violation","status":"FAIL"},{"name":"Wildcard host matching works.","status":"PASS"}]}
