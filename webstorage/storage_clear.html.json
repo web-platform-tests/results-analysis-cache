@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Clear in localStorage","status":"PASS"},{"name":"Clear in sessionStorage","status":"PASS"}]}
