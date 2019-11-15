@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Ensure a WebGL layer's framebuffer can only be drawn to inside a XR frame","status":"FAIL"}]}
