@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Connection fails if one side provides a wrong DTLS fingerprint","status":"TIMEOUT"}]}
