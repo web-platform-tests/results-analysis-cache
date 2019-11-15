@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"MediaRecorder will stop recording and fire a stop event when all tracks are ended","status":"TIMEOUT"},{"name":"MediaRecorder will stop recording and fire a stop event when stop() is called","status":"NOTRUN"}]}
