@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Referrer Policy: Expects origin for xhr to same-http origin and no-redirect redirection from http context.","status":"PASS"}]}
