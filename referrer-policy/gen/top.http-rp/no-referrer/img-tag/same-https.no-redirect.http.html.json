@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Referrer Policy: Expects omitted for img-tag to same-https origin and no-redirect redirection from http context.","status":"PASS"}]}
