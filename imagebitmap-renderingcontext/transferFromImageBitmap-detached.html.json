@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test transferFromImageBitmap(image) with a detached image should throw InvalidStateError","status":"PASS"}]}
