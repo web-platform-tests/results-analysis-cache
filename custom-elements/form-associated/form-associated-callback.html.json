@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Associate by parser, customized at element creation","status":"FAIL"},{"name":"Parsed, connected, then upgraded","status":"FAIL"},{"name":"Disassociation","status":"FAIL"},{"name":"Updating \"form\" content attribute","status":"FAIL"}]}
