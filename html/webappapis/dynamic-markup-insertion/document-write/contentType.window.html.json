@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document.write(): video document","status":"PASS"},{"name":"document.write(): image document","status":"PASS"},{"name":"document.write(): text document","status":"PASS"},{"name":"document.write(): HTML document","status":"PASS"}]}

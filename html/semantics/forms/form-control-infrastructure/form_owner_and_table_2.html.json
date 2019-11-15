@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Controls nested in tables are not associated with form element inside the table if the form had been removed by script before the controls were inserted by the parser","status":"FAIL"}]}

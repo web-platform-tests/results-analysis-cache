@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Access to .part returns an empty DOMTokenList.","status":"PASS"},{"name":"Multiple names give a DOMTokenList with multiple entries.","status":"PASS"},{"name":"DOMTokenList created by access is persisted.","status":"PASS"},{"name":"Changes in DOMTokenList are refected in attribute.","status":"PASS"}]}
