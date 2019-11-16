@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"If a payment request is showing, but its document is navigated away (so no longer fully active), the payment sheet is dismissed.","status":"TIMEOUT"}]}
