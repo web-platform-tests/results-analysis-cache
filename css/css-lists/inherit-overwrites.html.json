@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Inheritance of counter-reset replaces existing value","status":"PASS"},{"name":"Inheritance of counter-increment replaces existing value","status":"PASS"}]}
