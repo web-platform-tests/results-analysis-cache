@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"XRSession requestAnimationFrame calls the provided callback for an immersive session","status":"FAIL"},{"name":"XRSession requestAnimationFrame calls the provided callback a non-immersive session","status":"NOTRUN"}]}
