@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Connection fails if one side provides a wrong DTLS fingerprint","status":"PASS"}]}
