@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Ensure that the framebuffer given by the WebGL layer is opaque for immersive","status":"FAIL"},{"name":"Ensure that the framebuffer given by the WebGL layer is opaque for non-immersive","status":"NOTRUN"}]}
