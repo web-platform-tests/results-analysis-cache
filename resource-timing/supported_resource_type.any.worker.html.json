@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"supportedEntryTypes contains 'resource'.","status":"PASS"},{"name":"'resource' entries should be observable.","status":"PASS"}]}

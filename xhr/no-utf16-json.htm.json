@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"JSON asa UTF-16 with BOM should decode as UTF-8 (and, therefore, fail)","status":"FAIL"}]}
