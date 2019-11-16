@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property text-anchor value 'start' computes to 'start'","status":"PASS"},{"name":"Property text-anchor value 'middle' computes to 'middle'","status":"PASS"},{"name":"Property text-anchor value 'end' computes to 'end'","status":"PASS"}]}

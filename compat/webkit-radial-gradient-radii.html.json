@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"-webkit-radial-gradient accepts positive radii.","status":"PASS"},{"name":"-webkit-radial-gradient accepts zero radii.","status":"PASS"},{"name":"-webkit-radial-gradient rejects negative radii.","status":"FAIL"}]}
