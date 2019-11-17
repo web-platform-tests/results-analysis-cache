@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"http->https fetch (cross-scheme => cross-site)","status":"PASS"},{"name":"http->http fetch (non-trustworthy destination => no metadata)","status":"PASS"}]}
