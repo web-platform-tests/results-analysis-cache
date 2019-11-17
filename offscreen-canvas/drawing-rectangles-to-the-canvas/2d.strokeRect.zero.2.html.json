@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"strokeRect of 0x0 pixels draws nothing, including caps and joins","status":"PASS"}]}
