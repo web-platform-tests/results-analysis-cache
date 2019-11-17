@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"When timeline time becomes inactive previous current time must be the current time and start time unresolved","status":"PASS"}]}

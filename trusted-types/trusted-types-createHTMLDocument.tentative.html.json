@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Trusted Types work in createHTMLDocument","status":"PASS"},{"name":"Trusted Type instances can be used in createHTMLDocument","status":"PASS"}]}
