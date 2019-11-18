@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document.registerElement should not exist","status":"FAIL"},{"name":"document.createElement(localName, \"string\") should not work","status":"FAIL"},{"name":"document.createElementNS(namespace, qualifiedName, \"string\") should not work","status":"FAIL"}]}
