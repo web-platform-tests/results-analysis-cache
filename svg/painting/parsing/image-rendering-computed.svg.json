@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property image-rendering value 'auto' computes to 'auto'","status":"PASS"},{"name":"Property image-rendering value 'optimizequality' computes to 'optimizequality'","status":"FAIL"},{"name":"Property image-rendering value 'optimizespeed' computes to 'optimizespeed'","status":"FAIL"}]}
