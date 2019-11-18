@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Service Worker: Fetch event added asynchronously doesn't throw","status":"PASS"},{"name":"fetch event added asynchronously does not throw","status":"PASS"}]}
