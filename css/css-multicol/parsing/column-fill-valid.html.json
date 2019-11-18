@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['column-fill'] = \"auto\" should set the property value","status":"PASS"},{"name":"e.style['column-fill'] = \"balance\" should set the property value","status":"PASS"},{"name":"e.style['column-fill'] = \"balance-all\" should set the property value","status":"FAIL"}]}

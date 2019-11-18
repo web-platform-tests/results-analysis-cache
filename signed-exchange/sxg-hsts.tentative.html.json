@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Loading SignedHTTPExchange with an uncached header Strict-Transport-Security must fail and fallback redirect.","status":"FAIL"}]}
