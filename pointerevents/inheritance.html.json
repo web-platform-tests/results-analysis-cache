@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property touch-action has initial value auto","status":"FAIL"},{"name":"Property touch-action does not inherit","status":"FAIL"}]}
