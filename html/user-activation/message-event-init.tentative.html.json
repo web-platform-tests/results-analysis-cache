@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"MessageEventInit user activation set","status":"PASS"},{"name":"MessageEventInit user activation not set","status":"FAIL"}]}
