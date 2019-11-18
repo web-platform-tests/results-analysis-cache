@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CSS Test: element style is correctly updated for rule with :host(..)","status":"PASS"}]}
