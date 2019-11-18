@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"speakers, initially mono","status":"PASS"},{"name":"discrete","status":"PASS"},{"name":"speakers, initially stereo","status":"PASS"}]}
