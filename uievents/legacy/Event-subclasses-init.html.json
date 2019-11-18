@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Call initUIEvent without parameters","status":"FAIL"},{"name":"Call initMouseEvent without parameters","status":"FAIL"},{"name":"Call initKeyboardEvent without parameters","status":"FAIL"},{"name":"Call initCompositionEvent without parameters","status":"FAIL"}]}
