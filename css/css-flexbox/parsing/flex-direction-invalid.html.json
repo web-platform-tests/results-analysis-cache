@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['flex-direction'] = \"auto\" should not set the property value","status":"PASS"},{"name":"e.style['flex-direction'] = \"column row-reverse\" should not set the property value","status":"PASS"}]}
