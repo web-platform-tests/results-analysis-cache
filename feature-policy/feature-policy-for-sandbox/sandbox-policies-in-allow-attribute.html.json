@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify that when a sandbox related feature is enabled in 'allow' then  the feature will be enabled regardless of sandbox attribute's value.","status":"FAIL"},{"name":"Verify that when a sandbox related feature is disabled in 'allow' then  the feature will be disabled regardless of sandbox attribute's value.","status":"PASS"}]}
