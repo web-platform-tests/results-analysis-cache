@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"requestPort in serial reporting mode","status":"PASS"},{"name":"getPorts in serial reporting mode","status":"PASS"}]}
