@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Throws if the promise [[state]] is not \"interactive\"","status":"PASS"},{"name":"Calling abort() multiple times is always a new object.","status":"PASS"},{"name":"The same request cannot be shown multiple times.","status":"PASS"},{"name":"Aborting a request before it is shown doesn't prevent it from being shown later.","status":"PASS"}]}
