@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_no_browsing_context","status":"PASS"},{"name":"test_close_browsing_context","status":"PASS"},{"name":"test_close_browsing_context_with_dismissed_beforeunload_prompt","status":"PASS"},{"name":"test_close_last_browsing_context","status":"FAIL"}]}
