@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Setting iframe src navigates independently in a portal","status":"TIMEOUT"},{"name":"Setting cross site iframe src navigates independently in a portal","status":"NOTRUN"},{"name":"iframe navigates itself independently in a portal","status":"NOTRUN"},{"name":"Cross site iframe navigates itself independently in a portal","status":"NOTRUN"}]}
