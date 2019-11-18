@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"':dir(rtl)' matches all elements whose directionality is 'rtl'.","status":"FAIL"},{"name":"':dir(ltr)' matches all elements whose directionality is 'ltr'.","status":"FAIL"},{"name":"':dir(ltr)' doesn't match elements not in the document.","status":"FAIL"}]}
