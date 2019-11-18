@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"XRFrame.getPose works for immersive sessions","status":"FAIL"},{"name":"XRFrame.getPose works for non-immersive sessions","status":"NOTRUN"}]}
