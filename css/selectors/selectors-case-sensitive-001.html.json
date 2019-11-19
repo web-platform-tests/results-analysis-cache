@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CSS selector should match for Unicode uppercase element","status":"PASS"},{"name":"Elements with namespace should work the same way","status":"PASS"},{"name":"`querySelector` should not use Unicode case-foldering","status":"PASS"}]}
