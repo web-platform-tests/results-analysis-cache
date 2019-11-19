@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Count SecurityPolicyViolation events.","status":"TIMEOUT"},{"name":"script.src no default policy","status":"FAIL"},{"name":"div.innerHTML no default policy","status":"FAIL"},{"name":"script.text no default policy","status":"FAIL"}]}
