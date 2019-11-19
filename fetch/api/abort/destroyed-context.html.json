@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"aborting a fetch in a destroyed context should not crash","status":"PASS"}]}
