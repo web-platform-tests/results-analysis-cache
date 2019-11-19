@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Unnonced script injected via `appendChild` is not allowed with `strict-dynamic` + a nonce-only double policy.","status":"TIMEOUT"},{"name":"Script injected via `appendChild` with a correct nonce is allowed with `strict-dynamic` + a nonce-only double policy.","status":"FAIL"}]}
