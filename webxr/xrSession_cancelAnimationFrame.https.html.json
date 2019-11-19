@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"XRSession requestAnimationFrame callbacks can be unregistered with cancelAnimationFrame for immersive sessions","status":"FAIL"},{"name":"XRSession requestAnimationFrame callbacks can be unregistered with cancelAnimationFrame for non-immersive sessions","status":"NOTRUN"}]}
