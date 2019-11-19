@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"explicit-pinch-zoom","status":"FAIL"},{"name":"explicit-pinch-zoom-pan-x-pan-up","status":"FAIL"},{"name":"explicit-pinch-zoom-pan-x-pan-y","status":"FAIL"},{"name":"explicit-invalid-14","status":"PASS"}]}
