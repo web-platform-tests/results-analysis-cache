@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Scale transforms are carried out on the stuck element position","status":"PASS"},{"name":"Rotate transforms are carried out on the stuck element position","status":"PASS"},{"name":"Perspective transforms are carried out on the stuck element position","status":"PASS"}]}
