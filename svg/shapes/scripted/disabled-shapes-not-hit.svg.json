@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Disabled shapes are not rendered and cannot be hit: <rect>","status":"PASS"},{"name":"Disabled shapes are not rendered and cannot be hit: <circle>","status":"FAIL"},{"name":"Disabled shapes are not rendered and cannot be hit: <ellipse>","status":"FAIL"}]}

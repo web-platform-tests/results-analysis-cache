@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"elementsFromPoint on the document root should not return elements in shadow trees","status":"FAIL"},{"name":"elementsFromPoint on a shadow root should include elements in that shadow tree","status":"PASS"}]}

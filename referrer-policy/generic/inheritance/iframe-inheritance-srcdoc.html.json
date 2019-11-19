@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"iframes srcdoc correctly inherit the ancestor's referrer policy","status":"PASS"}]}
