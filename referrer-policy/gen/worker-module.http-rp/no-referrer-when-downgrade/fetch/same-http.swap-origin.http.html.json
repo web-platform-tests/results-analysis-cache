@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Referrer Policy: Expects stripped-referrer for fetch to same-http origin and swap-origin redirection from http context.","status":"PASS"}]}

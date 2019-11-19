@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify top of the 'lineLeft1' span is positioned correctly","status":"PASS"},{"name":"Verify top of the 'lineLeft2' span is positioned correctly","status":"FAIL"},{"name":"Verify right of the 'lineLeft2' span is positioned correctly","status":"FAIL"},{"name":"Verify top of the 'linesBelow' span is positioned correctly","status":"FAIL"}]}
