@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Immersive XRSession requests with no supported device should reject","status":"FAIL"}]}
