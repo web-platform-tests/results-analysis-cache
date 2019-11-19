@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"# AUDIT TASK RUNNER STARTED.","status":"PASS"},{"name":"> [setup-worklet] ","status":"PASS"},{"name":"Executing \"setup-worklet\"","status":"FAIL"},{"name":"< [setup-worklet] All assertions passed. (total 0 assertions)","status":"PASS"},{"name":"# AUDIT TASK RUNNER FINISHED: 1 tasks ran successfully.","status":"PASS"}]}
