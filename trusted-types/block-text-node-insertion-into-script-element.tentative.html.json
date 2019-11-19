@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Regression test: Bypass via insertAdjacentText, initial comment","status":"PASS"},{"name":"Regression test: Bypass via appendChild into off-document script element","status":"PASS"},{"name":"Regression test: Bypass via appendChild into live script element","status":"PASS"}]}
