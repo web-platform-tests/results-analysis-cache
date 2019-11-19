@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Deleting a shorthand property not in the inline style is a no-op","status":"PASS"},{"name":"Deleting a shorthand property in the inline style removes both it and its longhands","status":"PASS"},{"name":"Deleting a longhand property in the inline style removes both it and its shorthand","status":"PASS"}]}
