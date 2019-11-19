@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"insertRule with charset and omitted index argument","status":"PASS"},{"name":"insertRule with charset and undefined index argument","status":"PASS"}]}
