@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.performance is defined","status":"PASS"},{"name":"window.performance.getEntriesByType is defined","status":"PASS"},{"name":"There should be two entries","status":"PASS"},{"name":"Both entries should have the same name","status":"PASS"}]}

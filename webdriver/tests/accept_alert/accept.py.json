@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_null_response_value","status":"PASS"},{"name":"test_no_browsing_context","status":"PASS"},{"name":"test_no_user_prompt","status":"PASS"},{"name":"test_accept_alert","status":"PASS"},{"name":"test_accept_confirm","status":"PASS"},{"name":"test_accept_prompt","status":"PASS"},{"name":"test_unexpected_alert","status":"PASS"}]}
