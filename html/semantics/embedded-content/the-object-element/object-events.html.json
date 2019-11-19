@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"error event (using 'file:' protocol)","status":"FAIL"},{"name":"error event (using 'http:' protocol)","status":"FAIL"},{"name":"load event","status":"PASS"},{"name":"load event of about:blank","status":"FAIL"}]}
