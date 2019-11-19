@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.navigator[0] should not exist","status":"PASS"},{"name":"window.navigator[0] should be settable","status":"PASS"},{"name":"window.navigator[-1] should not exist","status":"PASS"},{"name":"window.navigator[-1] should be settable","status":"PASS"}]}
