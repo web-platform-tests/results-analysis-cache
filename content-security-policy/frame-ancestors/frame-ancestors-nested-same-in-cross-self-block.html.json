@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A 'frame-ancestors' CSP directive with a value 'same' should block render in same-origin nested frames.","status":"PASS"}]}
