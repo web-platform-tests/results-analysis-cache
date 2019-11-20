@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A 'frame-ancestors' CSP directive overrides an 'x-frame-options' header which would block the page.","status":"PASS"},{"name":"A 'frame-ancestors' CSP directive overrides an 'x-frame-options' header which would allow the page.","status":"PASS"}]}
