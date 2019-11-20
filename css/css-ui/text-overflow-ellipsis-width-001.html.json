@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Ellipsizing should not affect `offsetWidth` of inline boxes.","status":"PASS"}]}
