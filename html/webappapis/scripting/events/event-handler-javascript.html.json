@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Event handlers starting with 'javascript:' should treat that as a label.","status":"PASS"}]}
