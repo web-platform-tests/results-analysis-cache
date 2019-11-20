@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Aborting the same registration twice fails","status":"PASS"},{"name":"Calling BackgroundFetchRegistration.abort sets the correct fields and responses are still available","status":"TIMEOUT"},{"name":"An aborted fetch throws a DOM exception when accessing an incomplete record","status":"NOTRUN"}]}
