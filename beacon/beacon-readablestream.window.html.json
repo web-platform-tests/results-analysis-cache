@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"sendBeacon() with a stream does not work due to the keepalive flag being set","status":"FAIL"}]}

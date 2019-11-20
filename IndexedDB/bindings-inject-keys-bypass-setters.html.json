@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Returning keys to script should bypass prototype setters","status":"PASS"}]}
