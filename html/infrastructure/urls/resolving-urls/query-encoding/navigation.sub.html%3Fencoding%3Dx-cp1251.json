@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"follow hyperlink <a href>","status":"PASS"},{"name":"follow hyperlink <area href>","status":"PASS"},{"name":"follow hyperlink <link href>","status":"PASS"},{"name":"hyperlink auditing <a ping>","status":"PASS"},{"name":"hyperlink auditing <area ping>","status":"PASS"},{"name":"meta refresh","status":"PASS"}]}
