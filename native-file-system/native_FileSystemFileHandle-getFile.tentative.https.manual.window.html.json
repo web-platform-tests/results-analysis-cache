@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"User succesfully selected an empty directory.","status":"FAIL"},{"name":"User granted write access.","status":"FAIL"},{"name":"getFile() provides a file that can be sliced","status":"FAIL"},{"name":"getFile() returns last modified time","status":"FAIL"}]}
