@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"target1","status":"FAIL"},{"name":"target2","status":"PASS"},{"name":"target3","status":"PASS"},{"name":"target4","status":"PASS"},{"name":"target5","status":"PASS"},{"name":"target6","status":"FAIL"},{"name":"target7","status":"PASS"},{"name":"target8","status":"PASS"},{"name":"target9","status":"FAIL"},{"name":"target10","status":"PASS"}]}
