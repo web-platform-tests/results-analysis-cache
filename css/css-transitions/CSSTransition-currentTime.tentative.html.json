@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"currentTime can be used to seek a CSS transition","status":"FAIL"},{"name":"Skipping forwards through transition","status":"FAIL"},{"name":"Skipping backwards through transition","status":"FAIL"},{"name":"Setting currentTime to null on a CSS transition throws","status":"FAIL"}]}
