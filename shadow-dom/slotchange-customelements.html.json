@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"slotchange must fire on initialization of custom elements with slotted children","status":"PASS"}]}

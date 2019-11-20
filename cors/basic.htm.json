@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same domain basic usage","status":"FAIL"},{"name":"Cross domain basic usage","status":"PASS"},{"name":"Same domain different port","status":"PASS"},{"name":"Cross domain different port","status":"PASS"},{"name":"Cross domain different protocol","status":"PASS"},{"name":"Same domain different protocol different port","status":"PASS"}]}
