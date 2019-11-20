@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"When the policy is disabled, 'autofocus' and scripted focus do not focus the document.","status":"FAIL"},{"name":"When the policy is enabled, 'autofocus' and scripted focus do focus the document.","status":"PASS"}]}
