@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"exercises ImageCapture.getPhotoSettings()","status":"FAIL"},{"name":"getPhotoSettings() of an ended Track should throw \"InvalidStateError\"","status":"FAIL"},{"name":"throw \"OperationError\" when the MediaStreamTrack is stopped while getting photo settings","status":"FAIL"}]}
