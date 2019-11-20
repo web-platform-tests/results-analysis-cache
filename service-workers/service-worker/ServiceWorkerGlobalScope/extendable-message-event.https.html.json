@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Post an extendable message from a top-level client","status":"FAIL"},{"name":"Post an extendable message from a nested client","status":"FAIL"},{"name":"Post loopback extendable messages","status":"TIMEOUT"},{"name":"Post extendable messages among service workers","status":"NOTRUN"}]}
