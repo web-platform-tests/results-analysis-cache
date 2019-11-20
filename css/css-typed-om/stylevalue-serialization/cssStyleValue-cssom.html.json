@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CSSStyleValue from specified CSSOM serializes correctly","status":"PASS"},{"name":"CSSStyleValue from computed CSSOM serializes correctly","status":"PASS"},{"name":"Shorthand CSSStyleValue from inline CSSOM serializes correctly","status":"PASS"},{"name":"Shorthand CSSStyleValue from computed CSSOM serializes correctly","status":"PASS"}]}
