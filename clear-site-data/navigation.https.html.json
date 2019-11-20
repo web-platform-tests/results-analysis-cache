@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Clear datatypes on navigation: ","status":"PASS"},{"name":"Clear datatypes on navigation: cookies","status":"TIMEOUT"},{"name":"Clear datatypes on navigation: storage","status":"NOTRUN"},{"name":"Clear datatypes on navigation: cookies, storage","status":"NOTRUN"}]}
