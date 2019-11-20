@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"self.applicationCache must not exist","status":"PASS"},{"name":"ApplicationCache must not be exposed","status":"PASS"}]}
