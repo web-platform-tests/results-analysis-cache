@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"trustedTypes.emptyHTML returns the intended value.","status":"PASS"},{"name":"trustedTypes.emptyHTML cannot be redefined.","status":"PASS"},{"name":"trustedTypes.emptyHTML cannot be redefined via defineProperty.","status":"PASS"}]}

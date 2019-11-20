@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Fraction axis is aligned on the math axis","status":"FAIL"},{"name":"Vertical positions of numerator and denominator","status":"FAIL"},{"name":"Horizontal alignments of numerator and denominator","status":"FAIL"},{"name":"Dimension of mfrac elements","status":"FAIL"}]}
