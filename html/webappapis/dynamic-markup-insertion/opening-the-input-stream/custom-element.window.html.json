@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document.open() works in custom element constructor for createElement()","status":"PASS"},{"name":"document.open() is forbidden in custom element constructor when creating element from parser","status":"PASS"}]}
