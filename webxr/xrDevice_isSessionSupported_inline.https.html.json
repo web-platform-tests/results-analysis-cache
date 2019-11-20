@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"isSessionSupported resolves to true when inline options supported","status":"FAIL"}]}

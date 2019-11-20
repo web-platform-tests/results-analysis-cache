@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"XRWebGLLayer reports a valid viewports for immersive sessions","status":"FAIL"},{"name":"XRWebGLLayer reports a valid viewports for inline sessions","status":"NOTRUN"}]}
