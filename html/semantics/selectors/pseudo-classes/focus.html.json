@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"input1 has the focus","status":"PASS"},{"name":"tabindex attribute makes the element focusable","status":"PASS"},{"name":"editable elements are focusable","status":"PASS"},{"name":"':focus' matches focussed body with tabindex","status":"PASS"},{"name":"':focus' doesn't match focused elements in iframe","status":"PASS"}]}
