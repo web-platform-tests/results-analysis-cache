@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Gyroscope: Feature-Policy allow='gyroscope' attribute allows same-origin iframe","status":"FAIL"},{"name":"Gyroscope: Feature-Policy allow='gyroscope' attribute allows cross-origin iframe","status":"FAIL"}]}
