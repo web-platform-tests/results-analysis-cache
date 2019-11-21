@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Expecting alerts: [\"PASS: The 'p' element's text is green, which means the style was correctly applied.\", \"violated-directive=style-src-elem\"]","status":"TIMEOUT"}]}

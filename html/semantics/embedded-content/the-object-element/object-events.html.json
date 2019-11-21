@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"error event (using 'file:' protocol)","status":"TIMEOUT"},{"name":"error event (using 'http:' protocol)","status":"TIMEOUT"},{"name":"load event","status":"PASS"},{"name":"load event of about:blank","status":"FAIL"}]}
