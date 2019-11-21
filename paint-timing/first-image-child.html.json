@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Child iframe ignores paint-timing events fired from parent image rendering.","status":"TIMEOUT"}]}
