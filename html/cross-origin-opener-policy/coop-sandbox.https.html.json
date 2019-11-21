@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Sandboxed Cross-Origin-Opener-Policy popup should result in a network error","status":"FAIL"}]}
