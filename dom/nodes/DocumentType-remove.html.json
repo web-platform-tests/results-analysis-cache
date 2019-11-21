@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"doctype should support remove()","status":"PASS"},{"name":"remove() should work if doctype doesn't have a parent","status":"PASS"},{"name":"remove() should work if doctype does have a parent","status":"PASS"},{"name":"remove() should work if doctype does have a parent and siblings","status":"PASS"}]}
