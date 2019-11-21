@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Touch events in GlobalEventHandlers","status":"FAIL"},{"name":"Touch events are GlobalEventHandlers' own property","status":"FAIL"},{"name":"Touch events not in Element.prototype","status":"PASS"}]}
