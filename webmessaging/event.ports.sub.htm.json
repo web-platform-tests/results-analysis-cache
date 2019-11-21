@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test Description: event.ports returns the MessagePort array sent with the message.","status":"PASS"},{"name":"MessageChannel is supported.","status":"PASS"}]}

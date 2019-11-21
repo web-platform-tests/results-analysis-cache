@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Feature policy \"battery\" can be enabled in same-origin iframe using allow=\"battery\" attribute","status":"FAIL"},{"name":"Feature policy \"battery\" can be enabled in cross-origin iframe using allow=\"battery\" attribute","status":"FAIL"}]}
