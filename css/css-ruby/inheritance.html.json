@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property ruby-align has initial value space-around","status":"PASS"},{"name":"Property ruby-align inherits","status":"PASS"},{"name":"Property ruby-position has initial value over","status":"PASS"},{"name":"Property ruby-position inherits","status":"PASS"}]}
