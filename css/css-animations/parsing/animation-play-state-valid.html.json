@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['animation-play-state'] = \"running\" should set the property value","status":"PASS"},{"name":"e.style['animation-play-state'] = \"paused\" should set the property value","status":"PASS"},{"name":"e.style['animation-play-state'] = \"running, paused\" should set the property value","status":"PASS"}]}
