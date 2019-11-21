@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"'floor-level' XRStationaryReferenceSpace updates properly when the transform changes for immersive sessions","status":"FAIL"},{"name":"'floor-level' XRStationaryReferenceSpace updates properly when the transform changes for non-immersive sessions","status":"NOTRUN"}]}

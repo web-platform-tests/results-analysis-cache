@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"data: URIs do not count as different-origin, and do not taint the canvas","status":"PASS"}]}
