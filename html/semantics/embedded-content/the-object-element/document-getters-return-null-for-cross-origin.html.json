@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"HTMLObjectElement.contentDocument for cross-origin document","status":"PASS"},{"name":"HTMLObjectElement.getSVGDocument() for cross-origin document","status":"PASS"}]}
