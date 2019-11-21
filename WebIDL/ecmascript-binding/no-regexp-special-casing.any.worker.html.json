@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Conversion to a dictionary works","status":"PASS"},{"name":"Conversion to a sequence works","status":"PASS"},{"name":"Can convert a RegExp to a USVString","status":"PASS"},{"name":"Can be used as an object implementing a callback interface","status":"PASS"}]}
