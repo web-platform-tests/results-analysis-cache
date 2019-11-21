@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XMLHttpRequest: send() - non-empty data argument and GET/HEAD (GET)","status":"PASS"},{"name":"XMLHttpRequest: send() - non-empty data argument and GET/HEAD (HEAD)","status":"FAIL"}]}

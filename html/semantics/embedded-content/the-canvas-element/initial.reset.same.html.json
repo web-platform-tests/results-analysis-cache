@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Setting size (not changing the value) resets canvas to transparent black","status":"PASS"}]}
