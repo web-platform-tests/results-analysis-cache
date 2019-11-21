@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"With a MessageChannel and its MessagePorts","status":"PASS"},{"name":"With a BroadcastChannel","status":"PASS"},{"name":"With window","status":"PASS"}]}
