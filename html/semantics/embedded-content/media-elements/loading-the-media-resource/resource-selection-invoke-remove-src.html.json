@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"NOT invoking media load or resource selection when removing the src attribute","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Missing arguments","status":"PASS"},{"name":"Non-Module arguments","status":"PASS"},{"name":"Branding","status":"PASS"},{"name":"Return type","status":"PASS"},{"name":"Empty module","status":"PASS"},{"name":"Empty module: array caching","status":"PASS"},{"name":"imports","status":"PASS"},{"name":"Stray argument","status":"PASS"}]}

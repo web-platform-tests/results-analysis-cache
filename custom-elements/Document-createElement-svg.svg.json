@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document.createElement() in SVG documents should not create autonomous custom elements.","status":"PASS"},{"name":"document.createElement() in SVG documents should not create custom built-in elements.","status":"PASS"}]}
