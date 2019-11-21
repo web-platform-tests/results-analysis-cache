@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"performance.now() exists in shared workers and reports reasonable times","status":"FAIL"}]}
