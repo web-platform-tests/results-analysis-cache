@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test Description: To restrict the message to same-origin targets only, without needing to explicitly state the origin, set the target origin to '/'.","status":"PASS"}]}
