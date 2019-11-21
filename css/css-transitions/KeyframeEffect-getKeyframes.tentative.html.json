@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"KeyframeEffect.getKeyframes() returns expected frames for a simple transition","status":"FAIL"},{"name":"KeyframeEffect.getKeyframes() returns frames unaffected by a non-default easing function","status":"FAIL"},{"name":"KeyframeEffect.getKeyframes() returns expected frames for a transition with a CSS variable endpoint","status":"FAIL"}]}
