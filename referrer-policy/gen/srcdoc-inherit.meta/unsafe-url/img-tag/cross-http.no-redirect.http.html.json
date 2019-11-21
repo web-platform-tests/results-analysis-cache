@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Referrer Policy: Expects stripped-referrer for img-tag to cross-http origin and no-redirect redirection from http context.","status":"FAIL"}]}
