@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"outline-color is animated as a color","status":"PASS"},{"name":"outline-width is animated as a length","status":"PASS"},{"name":"outline-offset is animated as a length","status":"PASS"}]}
