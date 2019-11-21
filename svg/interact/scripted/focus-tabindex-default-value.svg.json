@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The default value of tabIndex attribute must be 0 for elements that are focusable","status":"PASS"},{"name":"The default value of tabIndex attribute must be -1 for elements that are not focusable","status":"PASS"}]}
