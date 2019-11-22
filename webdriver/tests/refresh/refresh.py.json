@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_null_response_value","status":"PASS"},{"name":"test_no_browsing_context","status":"PASS"},{"name":"test_basic","status":"PASS"},{"name":"test_dismissed_beforeunload","status":"PASS"},{"name":"test_history_pushstate","status":"FAIL"},{"name":"test_refresh_switches_to_parent_browsing_context","status":"FAIL"}]}
