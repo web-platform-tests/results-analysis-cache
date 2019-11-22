@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"When the 'lazyload' feature is disabled, lazyload=OFF and lazyload=AUTO behave the same.","status":"PASS"},{"name":"Sanity-check: Verify that all images load after they are scrolled into view.","status":"PASS"}]}
