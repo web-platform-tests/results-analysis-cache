@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Event handler for open should have [TreatNonCallableAsNull]","status":"PASS"},{"name":"Event handler for error should have [TreatNonCallableAsNull]","status":"PASS"},{"name":"Event handler for close should have [TreatNonCallableAsNull]","status":"PASS"},{"name":"Event handler for message should have [TreatNonCallableAsNull]","status":"PASS"}]}
