@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"PaymentRequestUpdateEvent can be constructed in secure-context","status":"FAIL"},{"name":"PaymentRequestUpdateEvent can be constructed with an EventInitDict, even if not trusted","status":"FAIL"},{"name":"PaymentRequestUpdateEvent can be dispatched, even if not trusted","status":"FAIL"}]}
