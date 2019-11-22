@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Test that orientationchange event is not fired when the orientation does not change.","status":"FAIL"},{"name":"Test that orientationchange event is fired when the orientation changes.","status":"FAIL"}]}
