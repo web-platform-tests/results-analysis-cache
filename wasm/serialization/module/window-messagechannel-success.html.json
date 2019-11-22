@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"postMessaging to a dedicated worker via MessageChannel allows them to instantiate","status":"PASS"}]}
