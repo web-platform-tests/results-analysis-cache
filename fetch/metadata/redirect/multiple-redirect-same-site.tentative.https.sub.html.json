@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-Origin -> Same-Site -> Same-Origin redirect","status":"PASS"},{"name":"undefined: sec-fetch-dest","status":"FAIL"},{"name":"undefined: sec-fetch-mode","status":"FAIL"},{"name":"undefined: sec-fetch-site","status":"FAIL"},{"name":"undefined: sec-fetch-user","status":"PASS"}]}
