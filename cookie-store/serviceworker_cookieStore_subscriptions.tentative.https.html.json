@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"getChangeSubscriptions returns subscriptions passed to subscribeToChanges","status":"TIMEOUT"},{"name":"subscribeToChanges rejects when called outside the install handler","status":"NOTRUN"},{"name":"cookiechange dispatched with cookie change that matches subscription","status":"NOTRUN"}]}

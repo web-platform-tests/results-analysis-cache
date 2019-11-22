@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property font-variant-position value 'normal' computes to 'normal'","status":"PASS"},{"name":"Property font-variant-position value 'sub' computes to 'sub'","status":"PASS"},{"name":"Property font-variant-position value 'super' computes to 'super'","status":"PASS"}]}
