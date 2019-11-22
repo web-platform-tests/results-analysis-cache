@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"'mask' does not supported 'none'","status":"PASS"},{"name":"'mask' does not supported 'url(mask.png)'","status":"PASS"}]}
