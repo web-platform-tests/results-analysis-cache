@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Immersive XRSession requestReferenceSpace returns expected objects","status":"FAIL"},{"name":"Non-immersive XRSession requestReferenceSpace returns expected objects","status":"NOTRUN"}]}
