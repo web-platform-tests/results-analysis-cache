@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property font-optical-sizing value 'auto' computes to 'auto'","status":"PASS"},{"name":"Property font-optical-sizing value 'none' computes to 'none'","status":"PASS"}]}
