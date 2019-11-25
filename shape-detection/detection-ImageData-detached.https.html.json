@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"FaceDetector.detect() rejects on a detached buffer","status":"PASS"},{"name":"BarcodeDetector.detect() rejects on a detached buffer","status":"PASS"}]}
