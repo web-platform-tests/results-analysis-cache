@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['intrinsic-width'] = \"none\" should not set the property value","status":"PASS"},{"name":"e.style['intrinsic-width'] = \"10%\" should not set the property value","status":"PASS"},{"name":"e.style['intrinsic-width'] = \"-1px\" should not set the property value","status":"PASS"}]}
