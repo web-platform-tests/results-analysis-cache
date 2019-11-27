@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"'offset-rotate' does not supported 'auto 90deg'","status":"PASS"},{"name":"'offset-rotate' does not supported 'reverse -90deg'","status":"PASS"}]}
