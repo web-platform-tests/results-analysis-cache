@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Fetching about:blank (GET) is OK","status":"FAIL"},{"name":"Fetching about:blank (PUT) is OK","status":"FAIL"},{"name":"Fetching about:blank (POST) is OK","status":"FAIL"},{"name":"Fetching about:invalid.com is KO","status":"PASS"},{"name":"Fetching about:config is KO","status":"PASS"},{"name":"Fetching about:unicorn is KO","status":"PASS"}]}
