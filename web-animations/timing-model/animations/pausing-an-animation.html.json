@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A pending ready promise should be resolved and not replaced when the animation is paused","status":"FAIL"},{"name":"A pause-pending animation maintains the current time when applying a pending playback rate","status":"FAIL"}]}
