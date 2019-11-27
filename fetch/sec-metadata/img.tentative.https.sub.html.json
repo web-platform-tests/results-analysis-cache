@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Same-origin image","status":"FAIL"},{"name":"Same-site image","status":"FAIL"},{"name":"Cross-site image","status":"TIMEOUT"}]}
