@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"W3C WebSocket API - Create WebSocket - Connection should be opened","status":"NOTRUN"},{"name":"W3C WebSocket API - Create WebSocket - Close the Connection - close(1000) - readyState should be in CLOSED state and wasClean is TRUE - Connection should be closed","status":"NOTRUN"}]}
