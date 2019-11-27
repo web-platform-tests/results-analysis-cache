@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window_exposed_functions","status":"PASS"},{"name":"window_functions","status":"PASS"},{"name":"window_properties","status":"PASS"},{"name":"window_properties_readonly","status":"FAIL"}]}
