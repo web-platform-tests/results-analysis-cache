@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"request Picture-in-Picture resolves on user click","status":"TIMEOUT"},{"name":"request Picture-in-Picture requires a user gesture","status":"NOTRUN"},{"name":"request Picture-in-Picture consumes user gesture","status":"NOTRUN"}]}
