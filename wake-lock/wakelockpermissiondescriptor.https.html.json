@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"WakeLockPermissionDescriptor's type attribute is required","status":"PASS"},{"name":"WakeLockPermissionDescriptor's type attribute must be a WakeLockType","status":"PASS"}]}
