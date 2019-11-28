@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window_exposes_matchmedia","status":"PASS"},{"name":"mediaquerylist_inherited_functions","status":"PASS"},{"name":"mediaquerylist_functions","status":"PASS"},{"name":"mediaquerylist_properties","status":"PASS"},{"name":"mediaquerylist_properties_readonly","status":"PASS"}]}
