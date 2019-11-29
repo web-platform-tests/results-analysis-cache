@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"getSubscriptions returns subscriptions passed to subscribe","status":"TIMEOUT"},{"name":"cookiechange dispatched with cookie change that matches subscription","status":"NOTRUN"}]}
