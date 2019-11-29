@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"NDEFErrorEvent constructor without init dict","status":"FAIL"},{"name":"NDEFErrorEvent constructor with a null that is not of type DOMException","status":"FAIL"},{"name":"NDEFErrorEvent constructor with a valid DOMException","status":"FAIL"}]}
