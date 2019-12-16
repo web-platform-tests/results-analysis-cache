@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['font-kerning'] = \"normal auto\" should not set the property value","status":"PASS"},{"name":"e.style['font-kerning'] = \"none, auto\" should not set the property value","status":"PASS"}]}
