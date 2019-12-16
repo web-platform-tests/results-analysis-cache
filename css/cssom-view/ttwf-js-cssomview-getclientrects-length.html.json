@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"assert_length_of_getClientRects_from_Parent","status":"PASS"},{"name":"assert_length_of_getClientRects_from_Button","status":"PASS"},{"name":"assert_length_of_getClientRects_from_Link","status":"FAIL"}]}
