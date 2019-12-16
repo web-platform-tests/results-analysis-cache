@@ -9,7 +9,7 @@ jobs:
     - name: Checkout ad-hoc-wpt-results-analysis
       uses: actions/checkout@master
       with:
-        repository: foolip/ad-hoc-wpt-results-analysis
+        repository: stephenmcgruer/ad-hoc-wpt-results-analysis
         ref: master
         fetch-depth: 1
         path: ad-hoc-wpt-results-analysis
