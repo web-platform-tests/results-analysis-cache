@@ -19,12 +19,12 @@ jobs:
         node-version: 10.x
     - name: Install
       run: npm ci
-      working-directory: ../ad-hoc-wpt-results-analysis
+      working-directory: ad-hoc-wpt-results-analysis
     - name: Update
       run: node git-write.js --max-time=3000
-      working-directory: ../ad-hoc-wpt-results-analysis
+      working-directory: ad-hoc-wpt-results-analysis
     - name: Push new runs
       run: |
         git remote set-url --push origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
         git push origin --tags
-      working-directory: ../ad-hoc-wpt-results-analysis/wpt-results.git
+      working-directory: ad-hoc-wpt-results-analysis/wpt-results.git
