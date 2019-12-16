@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Computed root color-scheme should be normal","status":"FAIL"},{"name":"Computed root color-scheme should be light","status":"FAIL"},{"name":"Computed root color-scheme should be dark","status":"FAIL"}]}
