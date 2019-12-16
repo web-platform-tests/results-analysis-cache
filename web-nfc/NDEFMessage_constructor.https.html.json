@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"NDEFMessage constructor without init dict","status":"PASS"},{"name":"NDEFMessage constructor with null init dict","status":"PASS"},{"name":"NDEFMessage constructor with a text record","status":"PASS"}]}
