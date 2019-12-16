@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XMLHttpRequest: relative URLs in worker scripts resolved by script URL","status":"PASS"}]}
