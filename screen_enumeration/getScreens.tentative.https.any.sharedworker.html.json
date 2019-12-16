@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.screen.getScreens is present","status":"PASS"},{"name":"navigator.screen.getScreens returns at least 1 Screen","status":"PASS"}]}
