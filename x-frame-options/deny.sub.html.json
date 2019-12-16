@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"`XFO: DENY` blocks same-origin framing.","status":"TIMEOUT"},{"name":"`XFO: DENY` blocks cross-origin framing.","status":"TIMEOUT"}]}
