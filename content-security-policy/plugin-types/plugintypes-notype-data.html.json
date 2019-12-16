@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Should not load the object because it does not have a declared type","status":"PASS"}]}
