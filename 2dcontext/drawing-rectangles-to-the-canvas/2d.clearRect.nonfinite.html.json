@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"clearRect() with Infinity/NaN is ignored","status":"PASS"}]}
