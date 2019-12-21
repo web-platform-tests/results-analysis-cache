@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"User succesfully selected an empty directory.","status":"TIMEOUT"},{"name":"User granted write access.","status":"NOTRUN"},{"name":"getFile() provides a file that can be sliced","status":"NOTRUN"},{"name":"getFile() returns last modified time","status":"NOTRUN"}]}
