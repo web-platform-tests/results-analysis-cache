@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"animationstart event is instanceof AnimationEvent","status":"FAIL"},{"name":"animationend event is instanceof AnimationEvent","status":"PASS"},{"name":"animationiteration event is instanceof AnimationEvent","status":"PASS"}]}
