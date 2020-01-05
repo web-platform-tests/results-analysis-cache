@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SharedArrayBuffer over MessageChannel without COOP+COEP","status":"FAIL"},{"name":"SharedArrayBuffer over BroadcastChannel without COOP+COEP","status":"FAIL"},{"name":"Bonus: self.crossOriginIsolated","status":"FAIL"}]}
