@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"cookieStore.delete(name) can delete an insecure cookie","status":"PASS"},{"name":"cookieStore.delete(options) can delete an insecure cookie","status":"PASS"}]}
