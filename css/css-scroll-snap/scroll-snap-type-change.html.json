@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"scroll-snap-type on HTML should control snapping behavior and changing it takes effect","status":"FAIL"},{"name":"scroll-snap-type on DIV should control snapping behavior and changing it takes effect","status":"FAIL"}]}
