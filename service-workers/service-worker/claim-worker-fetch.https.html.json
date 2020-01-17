@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"fetch() in Worker should be intercepted after the client is claimed.","status":"PASS"},{"name":"fetch() in nested Worker should be intercepted after the client is claimed.","status":"PASS"}]}
