@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"CSP via origin policy must trigger a securitypolicyviolation event even when the CSP is report-only","status":"TIMEOUT"}]}
