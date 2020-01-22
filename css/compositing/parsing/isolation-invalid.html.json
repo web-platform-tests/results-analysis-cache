@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['isolation'] = \"none\" should not set the property value","status":"PASS"},{"name":"e.style['isolation'] = \"auto isolate\" should not set the property value","status":"PASS"}]}
