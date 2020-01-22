@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"first caption element child of the first table element","status":"PASS"},{"name":"setting caption on a table","status":"PASS"},{"name":"caption IDL attribute is null","status":"PASS"},{"name":"caption of the third table element should be null","status":"PASS"},{"name":"dynamically removing caption on a table","status":"PASS"}]}
