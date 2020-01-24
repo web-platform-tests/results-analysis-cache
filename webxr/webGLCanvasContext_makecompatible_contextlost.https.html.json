@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"A lost webglCanvasContext should not be able to set xr compatibility","status":"FAIL"}]}
