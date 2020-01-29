@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"[top-level-context] document.requestStorageAccess() should be supported on the document interface","status":"PASS"},{"name":"[top-level-context] document.requestStorageAccess() should be rejected by default with no user gesture","status":"FAIL"}]}
