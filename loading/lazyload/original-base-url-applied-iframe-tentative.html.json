@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Deferred iframes with loading='lazy' use the original base URL specified at the parse time","status":"FAIL"}]}
