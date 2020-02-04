@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Tests requestSession rejects for unknown requiredFeatures","status":"FAIL"}]}
