@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Referrer of the top-level script fetch should be the document URL","status":"PASS"}]}
