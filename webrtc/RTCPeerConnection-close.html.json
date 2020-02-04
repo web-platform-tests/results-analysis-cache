@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"RTCPeerConnection.close() does not fire signalingstatechange event.","status":"FAIL"}]}
