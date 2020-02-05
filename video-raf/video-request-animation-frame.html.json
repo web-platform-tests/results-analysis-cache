@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test we can register a video.rAF callback.","status":"PASS"},{"name":"Test we can cancel a video.rAF request.","status":"PASS"},{"name":"Test invalid calls to the video.rAF API.","status":"PASS"}]}
