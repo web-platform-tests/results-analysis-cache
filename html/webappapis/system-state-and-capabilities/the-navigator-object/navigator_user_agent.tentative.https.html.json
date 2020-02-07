@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.getUserAgent() is exposed.","status":"PASS"},{"name":"navigator.getUserAgent() returns a UserAgentMetadata object.","status":"PASS"}]}
