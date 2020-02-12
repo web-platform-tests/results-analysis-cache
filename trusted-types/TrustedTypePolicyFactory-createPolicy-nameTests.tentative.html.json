@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"policy.name = name","status":"FAIL"},{"name":"duplicate policy name attempt throws","status":"FAIL"},{"name":"Retrieving policy names","status":"FAIL"},{"name":"Error messages for duplicates and unlisted policies should be different","status":"FAIL"}]}
