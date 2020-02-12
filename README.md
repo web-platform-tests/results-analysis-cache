@@ -1,2 +1,2 @@
 # wpt-results
-Storage for https://github.com/stephenmcgruer/ad-hoc-wpt-results-analysis
+Storage for https://github.com/stephenmcgruer/wpt-results-analysis
