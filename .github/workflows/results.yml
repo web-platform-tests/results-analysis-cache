@@ -6,25 +6,25 @@ jobs:
   update:
     runs-on: ubuntu-18.04
     steps:
-    - name: Checkout ad-hoc-wpt-results-analysis
+    - name: Checkout wpt-results-analysis
       uses: actions/checkout@master
       with:
-        repository: stephenmcgruer/ad-hoc-wpt-results-analysis
+        repository: stephenmcgruer/wpt-results-analysis
         ref: master
         fetch-depth: 1
-        path: ad-hoc-wpt-results-analysis
+        path: wpt-results-analysis
     - name: Setup node.js
       uses: actions/setup-node@master
       with:
         node-version: 10.x
     - name: Install
       run: npm ci
-      working-directory: ad-hoc-wpt-results-analysis
+      working-directory: wpt-results-analysis
     - name: Update
       run: node git-write.js --max-time=3000
-      working-directory: ad-hoc-wpt-results-analysis
+      working-directory: wpt-results-analysis
     - name: Push new runs
       run: |
         git remote set-url --push origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
         git push origin --tags
-      working-directory: ad-hoc-wpt-results-analysis/wpt-results.git
+      working-directory: wpt-results-analysis/wpt-results.git
