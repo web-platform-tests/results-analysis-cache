@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Store handle in IndexedDB and read from pending transaction.","status":"TIMEOUT"},{"name":"Store handle in IndexedDB and read from new transaction.","status":"NOTRUN"},{"name":"Store handles and blobs in IndexedDB.","status":"NOTRUN"},{"name":"Store handle in IndexedDB and read using a cursor.","status":"NOTRUN"}]}
