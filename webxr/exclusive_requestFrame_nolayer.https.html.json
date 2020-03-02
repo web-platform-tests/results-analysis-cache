@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"XRSession requestAnimationFrame must fail if the session has no baseLayer for immersive","status":"FAIL"},{"name":"XRSession requestAnimationFrame must fail if the session has no baseLayer for non immersive","status":"NOTRUN"}]}
