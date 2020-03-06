@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Scroll timeline starts in \"inactive\" phase.","status":"FAIL"},{"name":"Setting scroll timeline phase (which is readonly) throws TypeError.","status":"FAIL"}]}
