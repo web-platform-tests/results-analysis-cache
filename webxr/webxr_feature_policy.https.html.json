@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Validate isSessionSupported behavior without xr-spatial-tracking policy","status":"FAIL"},{"name":"Validate requestSession behavior without xr-spatial-tracking policy","status":"NOTRUN"},{"name":"Validate devicechange event behavior without xr-spatial-tracking policy","status":"NOTRUN"}]}
