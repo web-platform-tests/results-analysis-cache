@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Feature-Policy allow=\"picture-in-picture\" allows same-origin navigation in an iframe.","status":"TIMEOUT"},{"name":"Feature-Policy allow=\"picture-in-picture\" disallows cross-origin navigation in an iframe.","status":"PASS"}]}
