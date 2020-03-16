@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Mixed-Content: Expects allowed for xhr to same-https origin and no-redirect redirection from https context.","status":"PASS"}]}
