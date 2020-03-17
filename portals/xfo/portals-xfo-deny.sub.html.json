@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"`XFO: DENY` blocks same-origin portals.","status":"PRECONDITION_FAILED"},{"name":"`XFO: DENY` blocks cross-origin portals.","status":"PRECONDITION_FAILED"}]}
