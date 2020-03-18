@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that NDEFWriter.scan is not suspended if iframe gains focus.","status":"FAIL"}]}
