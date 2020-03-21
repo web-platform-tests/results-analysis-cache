@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Transitions do not run on an element not being rendered","status":"PASS"},{"name":"Transitions do not run for an element newly rendered","status":"PASS"},{"name":"Transitions do not run for an element newly made not rendered","status":"PASS"},{"name":"Transitions are canceled when an element is no longer rendered","status":"TIMEOUT"}]}
