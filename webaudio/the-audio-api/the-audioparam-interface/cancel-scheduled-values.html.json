@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"# AUDIT TASK RUNNER STARTED.","status":"PASS"},{"name":"Executing \"cancel1\"","status":"FAIL"},{"name":"Audit report","status":"PASS"},{"name":"> [cancel1] cancel setValueCurve","status":"PASS"},{"name":"# AUDIT TASK RUNNER FINISHED: 1 tasks ran successfully.","status":"PASS"}]}
