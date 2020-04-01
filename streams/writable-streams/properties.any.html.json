@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"WritableStreamDefaultController should not be exported on the global object","status":"PASS"},{"name":"WritableStreamDefaultWriter should not be exported on the global object","status":"PASS"}]}
