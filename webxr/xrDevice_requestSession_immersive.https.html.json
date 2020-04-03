@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Tests requestSession resolves when supported","status":"FAIL"},{"name":"Tests requestSession accepts XRSessionInit dictionary","status":"NOTRUN"},{"name":"Tests requestSession ignores unknown optionalFeatures","status":"NOTRUN"}]}
