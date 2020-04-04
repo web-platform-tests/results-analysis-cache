@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.storage.persisted() returns a promise that resolves.","status":"FAIL"}]}
