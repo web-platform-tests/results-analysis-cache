@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"cts:resource_init/sampled_texture_clear:compute_pass_test_that_sampled_texture_is_cleared=","status":"FAIL"}]}
