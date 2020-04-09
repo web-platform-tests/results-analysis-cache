@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"An image with loading='lazy' in cross origin iframe loads when it gets\n       visible by scrolling the iframe's scroll port","status":"PASS"}]}
