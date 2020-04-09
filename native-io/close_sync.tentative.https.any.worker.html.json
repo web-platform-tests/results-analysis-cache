@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"nativeIO.close is idempotent","status":"FAIL"},{"name":"nativeIO.read fails after nativeIO.close settles","status":"FAIL"},{"name":"NativeIOFile.write fails after NativeIOFile.close","status":"FAIL"}]}
