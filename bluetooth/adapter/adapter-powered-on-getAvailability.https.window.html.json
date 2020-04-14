@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getAvailability() resolves with true if the Bluetooth radio is powered on and the platform supports Bluetooth LE.","status":"FAIL"}]}
