@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"not negotiating BUNDLE creates two separate ice and dtls transports","status":"PASS"},{"name":"bundles on the first transport and closes the second","status":"PASS"}]}
