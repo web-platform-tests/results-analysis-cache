@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Tests that the window.DeviceOrientationEvent and window.ondeviceorientation and window.ondeviceorientationabsolute properties are present.","status":"PASS"}]}
