@@ -9,7 +9,7 @@ jobs:
     - name: Checkout wpt-results-analysis
       uses: actions/checkout@master
       with:
-        repository: stephenmcgruer/wpt-results-analysis
+        repository: ecosystem-infra/wpt-results-analysis
         ref: master
         fetch-depth: 1
         path: wpt-results-analysis
