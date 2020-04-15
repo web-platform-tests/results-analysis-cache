@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Event handlers as well as interfaces are exposed on `window`.","status":"FAIL"},{"name":"DeviceMotionEvent fires.","status":"FAIL"},{"name":"DeviceOrientationEvent fires.","status":"FAIL"},{"name":"DeviceOrientationEvent fires (with absolute orientation).","status":"FAIL"}]}
