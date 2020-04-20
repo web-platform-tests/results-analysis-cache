@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"eval with plain string with Trusted Types and permissive CSP throws (no type).","status":"PASS"},{"name":"eval with TrustedScript and permissive CSP works.","status":"PASS"},{"name":"eval with default policy and permissive CSP still obeys default policy.","status":"PASS"}]}
