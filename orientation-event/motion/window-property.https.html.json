@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Tests that the window.DeviceMotionEvent and window.ondevicemotion properties are present.","status":"PASS"}]}
