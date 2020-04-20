@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that in viewport images with loading='lazy' and changed to loading='eager' do not block the window load event.","status":"FAIL"}]}
