@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Discarding the browsing context must not change window.location","status":"PASS"},{"name":"Navigating from the initial about:blank must not replace window.location","status":"FAIL"},{"name":"document.open() must replace window.location","status":"PASS"}]}
