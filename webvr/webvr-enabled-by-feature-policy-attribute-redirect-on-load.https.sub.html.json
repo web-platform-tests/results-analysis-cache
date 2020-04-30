@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Feature-Policy allow=\"vr\" attribute allows same-origin relocation","status":"TIMEOUT"},{"name":"Feature-Policy allow=\"vr\" attribute disallows cross-origin relocation","status":"PASS"}]}
