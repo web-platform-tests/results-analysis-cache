@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"confirm activeElement return null","status":"PASS"},{"name":"confirm activeElement return null when there is other element in body","status":"PASS"},{"name":"confirm activeElement return null when focus on the element in the outer shadow tree","status":"PASS"}]}
