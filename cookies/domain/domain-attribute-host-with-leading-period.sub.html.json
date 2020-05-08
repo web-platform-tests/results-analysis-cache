@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Domain=.web-platform.test => available via `document.cookie`","status":"PASS"},{"name":"Domain=.web-platform.test => sent with same-origin requests.","status":"FAIL"},{"name":"Domain=.web-platform.test => sent with subdomain requests.","status":"TIMEOUT"}]}

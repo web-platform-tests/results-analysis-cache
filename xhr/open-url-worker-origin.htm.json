@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Referer header","status":"FAIL"},{"name":"Origin header","status":"FAIL"},{"name":"Request URL test","status":"FAIL"}]}
