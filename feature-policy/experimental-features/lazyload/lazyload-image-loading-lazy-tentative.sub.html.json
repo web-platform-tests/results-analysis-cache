@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify 'loading' attribute state 'lazy' works as expected: image loads only when in viewport.","status":"PASS"}]}
