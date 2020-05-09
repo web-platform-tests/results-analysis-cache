@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"same-origin document opening popup to https://web-platform.test:8443 with COOP: \"\"","status":"PASS"}]}
