@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Deny notifications permission should work.","status":"PASS"},{"name":"Grant notifications permission should work.","status":"FAIL"}]}
