@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['touch-action'] = \"auto none\" should not set the property value","status":"PASS"},{"name":"e.style['touch-action'] = \"manipulation pan-x\" should not set the property value","status":"PASS"},{"name":"e.style['touch-action'] = \"pan-y pan-x pan-y\" should not set the property value","status":"PASS"}]}
