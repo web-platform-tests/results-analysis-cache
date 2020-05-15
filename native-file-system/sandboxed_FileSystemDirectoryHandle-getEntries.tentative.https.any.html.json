@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getEntries(): returning early from an iteration works","status":"PASS"},{"name":"getEntries(): full iteration works","status":"PASS"}]}
