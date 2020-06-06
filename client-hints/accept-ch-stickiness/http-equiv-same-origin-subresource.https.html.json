@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"http-equiv same origin subresource precondition: Test that the browser does not have client hints preferences cached","status":"FAIL"},{"name":"http-equiv same origin subresource set Accept-CH","status":"PASS"},{"name":"http-equiv same origin subresource got client hints according to expectations.","status":"FAIL"}]}
