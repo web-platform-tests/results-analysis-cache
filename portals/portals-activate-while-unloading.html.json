@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"cannot activate portal from beforeunload","status":"FAIL"},{"name":"cannot activate portal from pagehide","status":"FAIL"},{"name":"cannot activate portal from unload","status":"TIMEOUT"}]}
