@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Uncaught error in shared worker should not propagate to window","status":"FAIL"}]}
