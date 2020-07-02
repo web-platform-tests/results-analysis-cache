@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"In-viewport iframes load eagerly","status":"PASS"},{"name":"In-viewport srcdoc iframes load eagerly","status":"PASS"},{"name":"Below-viewport iframes load lazily","status":"FAIL"},{"name":"Below-viewport srcdoc iframes load lazily","status":"FAIL"}]}
