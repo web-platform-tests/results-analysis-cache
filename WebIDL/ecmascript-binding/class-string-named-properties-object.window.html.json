@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"@@toStringTag exists with the appropriate descriptor","status":"PASS"},{"name":"Object.prototype.toString","status":"PASS"},{"name":"Object.prototype.toString applied after modifying @@toStringTag","status":"FAIL"}]}
