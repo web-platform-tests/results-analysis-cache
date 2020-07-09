@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Clicking should activate.","status":"FAIL"},{"name":"Clicking shouldn't activate if prevented.","status":"FAIL"}]}
