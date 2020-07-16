@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"`strict-dynamic` does not drop allowed source expressions in `img-src`.","status":"FAIL"}]}
