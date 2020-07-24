@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"nativeIO.getAllSync returns file created by nativeIO.openSync","status":"PASS"}]}
