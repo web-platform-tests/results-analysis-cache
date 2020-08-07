@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify cascading of default-src to script-src policy: block","status":"PASS"},{"name":"Verify cascading of default-src to script-src policy: allow","status":"PASS"},{"name":"Should fire violation events for every failed violation","status":"FAIL"}]}
