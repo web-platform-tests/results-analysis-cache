@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The font shorthand should be serialized just like any other shorthand.","status":"FAIL"}]}
