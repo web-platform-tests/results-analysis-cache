@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"webgpu:idl,constants,flags:BufferUsage:","status":"FAIL"},{"name":"webgpu:idl,constants,flags:TextureUsage:","status":"FAIL"},{"name":"webgpu:idl,constants,flags:ColorWrite:","status":"FAIL"},{"name":"webgpu:idl,constants,flags:ShaderStage:","status":"FAIL"}]}
