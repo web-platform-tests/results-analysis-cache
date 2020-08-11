@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Compat mouse events with no node removal","status":"PASS"},{"name":"Compat mouse events with node removal on pointermove","status":"TIMEOUT"},{"name":"Compat mouse events with node removal on pointerdown","status":"NOTRUN"},{"name":"Compat mouse events with node removal on pointerup","status":"NOTRUN"}]}
