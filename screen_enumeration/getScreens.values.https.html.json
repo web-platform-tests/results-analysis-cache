@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getScreens() supports an empty set of mocked screens","status":"FAIL"},{"name":"getScreens() supports a single mocked screen","status":"FAIL"},{"name":"getScreens() supports multiple mocked screens","status":"FAIL"},{"name":"getScreens() rejects when the mock success value is set to false","status":"FAIL"}]}
