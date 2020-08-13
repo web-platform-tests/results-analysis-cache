@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Create Secure WebSocket - Close the Connection - close() - Connection should be opened","status":"PASS"},{"name":"Create Secure WebSocket - Close the Connection - close() - return close code is 1005 - Connection should be closed","status":"PASS"}]}
