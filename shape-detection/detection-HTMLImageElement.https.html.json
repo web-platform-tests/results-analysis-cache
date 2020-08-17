@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Face - detect(HTMLImageElement)","status":"TIMEOUT"},{"name":"Barcode - detect(HTMLImageElement)","status":"NOTRUN"},{"name":"Text - detect(HTMLImageElement)","status":"NOTRUN"}]}
