@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify promise from a non-reentrant to makeXRCompatible() is resolved","status":"PASS"},{"name":"Verify promises from reentrant calls to makeXRCompatible() are resolved","status":"PASS"}]}
