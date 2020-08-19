@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"share() rejects when URL is invalid","status":"FAIL"}]}
