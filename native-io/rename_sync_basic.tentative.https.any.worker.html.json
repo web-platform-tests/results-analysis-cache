@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"nativeIO.getAllSync returns a file renamed by nativeIOFile.renameSync with its new name.","status":"PASS"}]}
