@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Anchor creation succeeds if the feature was requested","status":"PASS"},{"name":"Anchor creation fails if the feature was not requested","status":"PASS"},{"name":"Anchor creation fails if the feature was requested but the session already ended","status":"PASS"}]}
