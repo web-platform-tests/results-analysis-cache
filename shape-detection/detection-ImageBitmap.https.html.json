@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Face - detect(ImageBitmap)","status":"TIMEOUT"},{"name":"Barcode - detect(ImageBitmap)","status":"NOTRUN"},{"name":"Text - detect(ImageBitmap)","status":"NOTRUN"}]}
