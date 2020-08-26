@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"No content type (POST)","status":"PASS"},{"name":"No content type (PUT)","status":"PASS"},{"name":"No content type (HEAD)","status":"FAIL"},{"name":"Explicit content type (POST)","status":"PASS"},{"name":"Explicit content type (PUT)","status":"PASS"},{"name":"Explicit content type (HEAD)","status":"FAIL"}]}
