@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"ElementInternals.shadowRoot allows access to open shadow root","status":"FAIL"},{"name":"ElementInternals.shadowRoot allows access to closed shadow root","status":"FAIL"}]}
