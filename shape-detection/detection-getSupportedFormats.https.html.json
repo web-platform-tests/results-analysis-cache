@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"get supported barcode formats","status":"TIMEOUT"},{"name":"getSupportedFormats() resolves with empty list when unsupported","status":"NOTRUN"}]}
