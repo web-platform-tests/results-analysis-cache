@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"allowsFeature() returns true for web-share","status":"PASS"},{"name":"features() includes web-share","status":"PASS"},{"name":"allowedFeatures() includes web-share","status":"PASS"},{"name":"allowsFeature() returns a single entry for web-share","status":"PASS"}]}
