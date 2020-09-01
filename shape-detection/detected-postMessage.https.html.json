@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Face - DetectedFace can be passed to postMessage()","status":"TIMEOUT"},{"name":"Barcode - DetectedBarcode can be passed to postMessage()","status":"NOTRUN"},{"name":"Text - DetectedText can be passed to postMessage()","status":"NOTRUN"}]}
