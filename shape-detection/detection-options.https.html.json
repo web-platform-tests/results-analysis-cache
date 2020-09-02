@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test that FaceDetectionOptions are correctly propagated","status":"TIMEOUT"},{"name":"Test that BarcodeDetectorOptions are correctly propagated","status":"NOTRUN"}]}
