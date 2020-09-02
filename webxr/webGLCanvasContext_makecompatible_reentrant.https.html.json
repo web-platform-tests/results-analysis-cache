@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Verify promise from a non-reentrant to makeXRCompatible() is resolved","status":"FAIL"},{"name":"Verify promises from reentrant calls to makeXRCompatible() are resolved","status":"FAIL"}]}
