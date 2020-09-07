@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"DTLS transport goes to connected state","status":"TIMEOUT"},{"name":"close() causes the local transport to close immediately","status":"NOTRUN"},{"name":"close() causes the other end's DTLS transport to close","status":"NOTRUN"}]}
