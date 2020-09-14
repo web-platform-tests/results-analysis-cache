@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"When in a non-secure context, getGamepad() should throw an error.","status":"FAIL"}]}
