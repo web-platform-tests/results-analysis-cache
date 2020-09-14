@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"EventSource: redirect (301)","status":"PASS"},{"name":"EventSource: redirect (302)","status":"PASS"},{"name":"EventSource: redirect (303)","status":"PASS"},{"name":"EventSource: redirect (307)","status":"PASS"}]}
