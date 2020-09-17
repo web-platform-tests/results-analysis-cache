@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Autofocus elements in iframed documents with URL fragments should be skipped.","status":"PASS"},{"name":"Autofocus elements in top-level browsing context's documents with URI fragments should be skipped.","status":"PASS"}]}
