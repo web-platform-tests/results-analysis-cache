@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"idl_test setup","status":"PASS"},{"name":"idl_test validation","status":"PASS"},{"name":"Partial interface ElementInternals: original interface defined","status":"PASS"},{"name":"Partial interface ElementInternals: member names are unique","status":"PASS"},{"name":"ElementInternals interface: attribute states","status":"FAIL"}]}
