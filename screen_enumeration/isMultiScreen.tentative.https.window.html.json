@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"isMultiScreen() is present","status":"FAIL"},{"name":"isMultiScreen() returns a boolean value with permission granted","status":"FAIL"},{"name":"isMultiScreen() returns a boolean value with permission denied","status":"FAIL"},{"name":"isMultiScreen() resolves for attached iframe; rejects for detached iframe","status":"TIMEOUT"}]}
