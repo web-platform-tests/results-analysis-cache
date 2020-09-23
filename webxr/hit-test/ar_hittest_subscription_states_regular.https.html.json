@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Hit test subscription succeeds if the feature was requested","status":"PASS"},{"name":"Hit test subscription fails if the feature was not requested","status":"PASS"},{"name":"Hit test subscription fails if the feature was requested but the session already ended","status":"PASS"}]}
