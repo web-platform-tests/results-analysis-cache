@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"PaymentRequest setting allow=\"payment\" after document creation, before response","status":"FAIL"}]}
