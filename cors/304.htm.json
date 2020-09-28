@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A 304 response with no CORS headers inherits from the stored response","status":"FAIL"},{"name":"A 304 can expand Access-Control-Expose-Headers","status":"FAIL"},{"name":"A 304 can contract Access-Control-Expose-Headers","status":"PASS"},{"name":"A 304 can change Access-Control-Allow-Origin","status":"PASS"}]}
