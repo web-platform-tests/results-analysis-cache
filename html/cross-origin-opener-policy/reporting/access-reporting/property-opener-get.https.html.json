@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"cross-origin > w => w.opener","status":"PASS"},{"name":"same-site > w => w.opener","status":"PASS"}]}
