@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"cross-origin > w => w.blur()","status":"PASS"},{"name":"same-site > w => w.blur()","status":"PASS"}]}
