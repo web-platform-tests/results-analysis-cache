@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"NDEFWriter requires a secure context","status":"PASS"},{"name":"NDEFReader requires a secure context","status":"PASS"}]}
