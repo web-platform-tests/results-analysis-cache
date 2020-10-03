@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Feature-Policy allow=\"gamepad\" allows same-origin by default.","status":"PASS"},{"name":"Feature-Policy allow=\"gamepad\" allows cross-origin with feature allowed.","status":"PASS"},{"name":"Feature-Policy allow=\"gamepad\" disallows cross-origin by default.","status":"FAIL"}]}
