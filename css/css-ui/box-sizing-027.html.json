@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check the resolved value of 'width' when box-sizing is  border-box.","status":"PASS"},{"name":"Check the resolved value of 'height' when box-sizing is  border-box.","status":"PASS"}]}
