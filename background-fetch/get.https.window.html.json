@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"BackgroundFetchManager.get() does not require an activated worker","status":"FAIL"},{"name":"Getting non-existing registrations yields `undefined`","status":"FAIL"},{"name":"Getting an existing registration has the expected values","status":"FAIL"}]}
