@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getWindowSegments() returns a single segment, equal to the layout viewport dimesions","status":"FAIL"}]}
