@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"DTLS client uses odd data channel IDs","status":"PASS"},{"name":"DTLS server uses even data channel IDs","status":"PASS"},{"name":"In-band negotiation with a specific ID should not work","status":"PASS"},{"name":"Odd/even role should not be violated when mixing with negotiated channels","status":"PASS"}]}
