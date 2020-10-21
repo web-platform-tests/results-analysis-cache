@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Tests requestSession accepts immersive-ar mode","status":"FAIL"},{"name":"Tests requestSession rejects immersive-ar mode when unsupported","status":"FAIL"}]}
