@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Tests basic operation of deviceorientationabsolute event using mock data.","status":"PASS"},{"name":"If UA can never provide absolute information, the event should be fired as a null event.","status":"PASS"}]}
