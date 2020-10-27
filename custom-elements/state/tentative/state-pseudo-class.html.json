@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":":state() parsing failures","status":"PASS"},{"name":":state() serialization","status":"PASS"},{"name":":state() in simple cases","status":"PASS"},{"name":":state() and other pseudo classes","status":"PASS"},{"name":":state() and ::part()","status":"PASS"},{"name":":state() and :host()","status":"PASS"}]}
