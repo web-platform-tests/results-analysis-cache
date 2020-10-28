@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Observing a zero-area target.","status":"PASS"},{"name":"First rAF","status":"PASS"},{"name":"document.scrollingElement.scrollTop = 300","status":"PASS"},{"name":"document.scrollingElement.scrollTop = 100","status":"PASS"}]}
