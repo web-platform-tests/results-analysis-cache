@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Setup audio call","status":"PASS"},{"name":"Inactivate the audio transceiver","status":"FAIL"},{"name":"Reactivate the audio transceiver","status":"FAIL"},{"name":"Clean-up","status":"PASS"}]}
