@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"PeerConnection MediaRecorder records audio from PeerConnection without sinks","status":"FAIL"},{"name":"PeerConnection MediaRecorder records video from PeerConnection without sinks","status":"TIMEOUT"},{"name":"PeerConnection MediaRecorder records audio/video from PeerConnection without sinks","status":"NOTRUN"}]}
