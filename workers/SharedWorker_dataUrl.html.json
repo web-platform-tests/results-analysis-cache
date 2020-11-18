@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Data URL not shared by cross-origin SharedWorkers","status":"TIMEOUT"},{"name":"Data URLs shared by same-origin SharedWorkers","status":"NOTRUN"}]}
