@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IDBFactory.databases() in non-sandboxed iframe should not reject","status":"PASS"},{"name":"IDBFactory.databases() in sandboxed iframe should reject","status":"PASS"}]}
