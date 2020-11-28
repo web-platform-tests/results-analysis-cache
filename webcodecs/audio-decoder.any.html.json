@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test AudioDecoder construction","status":"PASS"},{"name":"Test AudioDecoder.configure()","status":"PASS"},{"name":"Verify closed AudioDecoder operations","status":"PASS"},{"name":"Verify unconfigured AudioDecoder operations","status":"PASS"}]}
