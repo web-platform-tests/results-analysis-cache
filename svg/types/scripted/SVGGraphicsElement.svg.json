@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getBBox() returns instance of DOMRect","status":"FAIL"},{"name":"getCTM() returns instance of DOMMatrix","status":"FAIL"},{"name":"getScreenCTM() returns instance of DOMMatrix","status":"FAIL"}]}
