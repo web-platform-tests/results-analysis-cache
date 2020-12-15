@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"nativeIO.getAll returns a file renamed by nativeIO.rename with its new name.","status":"FAIL"}]}
