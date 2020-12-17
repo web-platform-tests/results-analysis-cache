@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Mouse focus on input elements which do not show a virtual keyboard should NOT match :focus-visible - not affected by -webkit-appearance","status":"PASS"}]}
