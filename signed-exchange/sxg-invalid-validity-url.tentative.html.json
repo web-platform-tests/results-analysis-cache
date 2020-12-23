@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Loading SignedHTTPExchange which validity URL is different origin from request URL must fail","status":"FAIL"}]}
