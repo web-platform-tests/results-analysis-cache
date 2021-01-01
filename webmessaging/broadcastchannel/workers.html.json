@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"BroadcastChannel works in workers","status":"PASS"},{"name":"BroadcastChannel works in shared workers","status":"PASS"},{"name":"Closing and re-opening a channel works.","status":"PASS"},{"name":"BroadcastChannel created after a worker self.close()","status":"PASS"},{"name":"BroadcastChannel used after a worker self.close()","status":"PASS"}]}
