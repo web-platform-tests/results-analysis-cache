@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Calling activate when a portal is already activating should fail","status":"FAIL"},{"name":"portals-activate-twice","status":"FAIL"}]}
