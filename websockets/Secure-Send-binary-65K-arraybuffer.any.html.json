@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Send 65K binary data on a Secure WebSocket - ArrayBuffer - Connection should be opened","status":"FAIL"},{"name":"Send 65K binary data on a Secure WebSocket - ArrayBuffer - Message should be received","status":"PASS"},{"name":"Send 65K binary data on a Secure WebSocket - ArrayBuffer - Connection should be closed","status":"FAIL"}]}
