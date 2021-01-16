@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"a.setAttribte('onclick') sets a trusted script.","status":"PASS"},{"name":"a.setAttribute('onclick') sets an unsuitable trusted type.","status":"PASS"},{"name":"a.setAttribute('click') sets a test string.","status":"PASS"}]}
