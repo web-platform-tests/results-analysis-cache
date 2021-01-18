@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"checks MediaStreamTrack.clone() gets same applied constraints","status":"FAIL"},{"name":"checks MediaStreamTrack.clone() gets same settings","status":"FAIL"},{"name":"checks MediaStreamTrack.clone() gets same capabilities","status":"FAIL"}]}
