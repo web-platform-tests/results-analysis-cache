@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"'toString' accessor property is defined","status":"FAIL"},{"name":"'toString' data property is created via [[Set]]","status":"FAIL"},{"name":"'valueOf' accessor property is defined","status":"FAIL"},{"name":"'valueOf' data property is created via [[Set]]","status":"FAIL"}]}
