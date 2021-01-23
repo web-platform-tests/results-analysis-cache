@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"compileStreaming after consumption","status":"FAIL"},{"name":"compileStreaming before consumption","status":"FAIL"},{"name":"instantiateStreaming after consumption","status":"FAIL"},{"name":"instantiateStreaming before consumption","status":"FAIL"}]}
