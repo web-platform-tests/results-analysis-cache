@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check window.requestAnimationFrame can return a valid callback handle","status":"PASS"}]}
