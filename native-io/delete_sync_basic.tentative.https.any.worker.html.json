@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"nativeIO.getAllSync does not return file deleted by nativeIO.deleteSync","status":"PASS"},{"name":"nativeIO.deleteSync does not fail when deleting a non-existing file","status":"PASS"}]}
