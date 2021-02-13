@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Quirks mode elements with class names should remain queriable regardless of sibling adoption into standards mode documents","status":"FAIL"}]}
