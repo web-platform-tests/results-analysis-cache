@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"nativeIO.getAll does not return file deleted by nativeIO.delete","status":"FAIL"},{"name":"nativeIO.delete does not fail when deleting a non-existing file","status":"FAIL"}]}
