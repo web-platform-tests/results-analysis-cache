@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Image width and height attributes are used to infer aspect-ratio","status":"PASS"},{"name":"Computed style","status":"FAIL"},{"name":"Computed style for invalid ratios","status":"FAIL"}]}
