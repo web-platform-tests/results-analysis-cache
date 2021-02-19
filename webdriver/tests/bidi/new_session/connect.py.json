@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_websocket_url_connect[capabilities0]","status":"ERROR"},{"name":"test_bidi_session_1[True]","status":"ERROR"},{"name":"test_bidi_session_2[True]","status":"ERROR"},{"name":"test_bidi_session_3[capabilities0-True]","status":"ERROR"},{"name":"test_classic","status":"PASS"}]}
