@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Use no-cors if crossorigin=attribute is not specified","status":"PASS"},{"name":"Use CORS if crossorigin=anonymous or crossorigin=use-credential is specified. A server should return a valid Access-Control-Allow-Origin header if a bundle is a cross origin bundle.","status":"PASS"}]}
