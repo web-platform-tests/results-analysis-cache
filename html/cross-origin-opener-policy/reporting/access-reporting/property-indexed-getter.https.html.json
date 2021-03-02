@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"cross-origin > w => w[0]","status":"TIMEOUT"},{"name":"cross-origin > w => w[1]","status":"NOTRUN"},{"name":"cross-origin > w => w[-1]","status":"NOTRUN"},{"name":"same-site > w => w[0]","status":"NOTRUN"},{"name":"same-site > w => w[1]","status":"NOTRUN"},{"name":"same-site > w => w[-1]","status":"NOTRUN"}]}
