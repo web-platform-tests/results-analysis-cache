@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Opener COOP","status":"TIMEOUT"},{"name":"Openee COOP","status":"NOTRUN"},{"name":"Access from same-origin iframe","status":"NOTRUN"},{"name":"Access from cross-site iframe","status":"NOTRUN"}]}
