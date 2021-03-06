@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"setLength() fails without any capacity request.","status":"PASS"},{"name":"setLength() succeeds when given the granted capacity - 1","status":"PASS"},{"name":"setLength() succeeds when given the granted capacity","status":"PASS"},{"name":"setLength() fails when given the granted capacity + 1","status":"PASS"}]}
