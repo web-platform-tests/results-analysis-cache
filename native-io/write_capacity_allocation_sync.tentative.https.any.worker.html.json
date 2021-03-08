@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"write() fails without any capacity request.","status":"FAIL"},{"name":"write() succeeds when given a buffer of length granted capacity - 1","status":"FAIL"},{"name":"write() succeeds when given the granted capacity","status":"NOTRUN"},{"name":"write() fails when given the granted capacity + 1","status":"NOTRUN"}]}
