@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"It is possible to revoke same-origin blob URLs from different frames.","status":"FAIL"},{"name":"It is possible to revoke same-origin blob URLs from a different worker global.","status":"FAIL"},{"name":"It is not possible to revoke cross-origin blob URLs.","status":"PASS"}]}
