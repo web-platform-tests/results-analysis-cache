@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Ensures XRCPUDepthInformation is not obtainable in `gpu-optimized` usage mode - webgl","status":"FAIL"},{"name":"Ensures XRCPUDepthInformation is not obtainable in `gpu-optimized` usage mode - webgl2","status":"FAIL"}]}
