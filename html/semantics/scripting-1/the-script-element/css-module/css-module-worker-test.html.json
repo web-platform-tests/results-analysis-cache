@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"A static import CSS Module within a web worker should not load.","status":"PASS"},{"name":"A dynamic import CSS Module within a web worker should not load.","status":"TIMEOUT"},{"name":"A CSS Module within a web worker should not load.","status":"PASS"}]}
