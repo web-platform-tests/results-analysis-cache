@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.getBattery() shall throw a 'SecurityError' in an insecure context","status":"FAIL"}]}
