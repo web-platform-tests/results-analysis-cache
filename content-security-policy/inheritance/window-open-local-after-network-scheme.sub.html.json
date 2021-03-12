@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Popup being navigated to about:blank was same-origin.","status":"TIMEOUT"},{"name":"Popup being navigated to about:blank was cross-origin.","status":"NOTRUN"}]}
