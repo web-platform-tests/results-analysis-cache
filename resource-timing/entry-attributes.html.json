@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Image resources should generate conformant entries","status":"PASS"},{"name":"Font resources should generate conformant entries","status":"FAIL"}]}
