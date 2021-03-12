@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Prerequisite check: running on HTTPS","status":"PASS"},{"name":"Test setup of the iframe","status":"PASS"},{"name":"eval must be allowed","status":"PASS"},{"name":"img loading must be disallowed","status":"FAIL"}]}
