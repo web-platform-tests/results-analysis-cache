@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"multiple return values from wasm to js","status":"PASS"},{"name":"multiple return values inside wasm","status":"PASS"},{"name":"multiple return values from js to wasm","status":"FAIL"}]}
