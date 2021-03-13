@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Get seekable time ranges when the sourcebuffer is empty.","status":"PASS"},{"name":"Get seekable time ranges after init segment received.","status":"PASS"},{"name":"Get seekable time ranges on an infinite stream.","status":"TIMEOUT"}]}
