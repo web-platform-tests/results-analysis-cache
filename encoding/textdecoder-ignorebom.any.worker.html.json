@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"BOM is ignored if ignoreBOM option is specified: utf-8","status":"FAIL"},{"name":"BOM is ignored if ignoreBOM option is specified: utf-16le","status":"FAIL"},{"name":"BOM is ignored if ignoreBOM option is specified: utf-16be","status":"FAIL"},{"name":"The ignoreBOM attribute of TextDecoder","status":"PASS"}]}
