@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['table-layout'] = \"none\" should not set the property value","status":"PASS"},{"name":"e.style['table-layout'] = \"auto fixed\" should not set the property value","status":"PASS"}]}
