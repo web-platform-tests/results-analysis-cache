@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Allowed-name policy creation works.","status":"FAIL"},{"name":"Another allowed-name policy creation works.","status":"FAIL"},{"name":"Non-allowed name policy creation throws.","status":"PASS"}]}
