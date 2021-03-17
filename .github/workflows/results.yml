@@ -10,7 +10,7 @@ jobs:
       uses: actions/checkout@master
       with:
         repository: ecosystem-infra/wpt-results-analysis
-        ref: master
+        ref: main
         fetch-depth: 1
         path: wpt-results-analysis
     - name: Setup node.js
