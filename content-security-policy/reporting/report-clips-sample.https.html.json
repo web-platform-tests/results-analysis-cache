@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Unsafe eval violation sample is clipped to 40 characters.","status":"PASS"},{"name":"Function constructor - the other kind of eval - is clipped.","status":"PASS"},{"name":"Trusted Types violation sample is clipped to 40 characters excluded the sink name.","status":"PASS"}]}
