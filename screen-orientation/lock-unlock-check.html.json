@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Re-locking orientation during event dispatch must reject existing orientationPendingPromise","status":"FAIL"}]}
