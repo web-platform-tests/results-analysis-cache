@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"One parameter should be serialized as one parameter","status":"FAIL"},{"name":"Two different parameters should be serialized as two parameters","status":"FAIL"},{"name":"Two identical parameters should be simplified into one parameter","status":"FAIL"}]}
