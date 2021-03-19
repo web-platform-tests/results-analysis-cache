@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Tests that navigator.plugins and mimeTypes both return empty arrays.","status":"FAIL"},{"name":"@@iterator must exist","status":"PASS"}]}
