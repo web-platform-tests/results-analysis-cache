@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Basic WakeLockSentinel.released functionality","status":"PASS"},{"name":"The release attribute inside an event handler","status":"PASS"}]}
