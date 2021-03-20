@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The scroll-snap-type on the root element is applied","status":"PASS"},{"name":"The writing-mode (vertical-lr) on the body is used","status":"PASS"},{"name":"The writing-mode (horizontal-tb) on the body is used ","status":"PASS"}]}
