@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document.domain should be enabled in subframe.","status":"PASS"},{"name":"document.domain should be disabled in subframe.","status":"PASS"}]}
