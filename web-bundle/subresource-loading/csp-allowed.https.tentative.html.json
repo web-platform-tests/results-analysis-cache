@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"URL matching of CSP should be done based on the subresource URL","status":"FAIL"},{"name":"\"script-src urn:\" CSP directive should allow urn: scripts","status":"TIMEOUT"},{"name":"\"frame-src urn:\" CSP directive should allow urn:uuid iframes","status":"NOTRUN"}]}
