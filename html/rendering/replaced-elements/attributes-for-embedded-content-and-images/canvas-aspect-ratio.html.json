@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Canvas width and height attributes are used as the surface size with contain:size","status":"PASS"},{"name":"Canvas width and height attributes are used as the surface size","status":"PASS"},{"name":"Computed style","status":"PASS"},{"name":"Computed style for invalid ratios","status":"PASS"}]}
