@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['column-width'] = \"auto\" should set the property value","status":"PASS"},{"name":"e.style['column-width'] = \"0\" should set the property value","status":"FAIL"},{"name":"e.style['column-width'] = \"10px\" should set the property value","status":"PASS"}]}
