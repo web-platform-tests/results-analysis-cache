@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator needs to support ink to run this test.","status":"PASS"},{"name":"Receive rejected promise for a bad type.","status":"PASS"},{"name":"Received fulfilled promise for a good type.","status":"PASS"}]}

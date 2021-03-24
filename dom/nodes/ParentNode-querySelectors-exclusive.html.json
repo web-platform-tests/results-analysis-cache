@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"querySelector/querySelectorAll should not include their thisArg","status":"PASS"}]}
