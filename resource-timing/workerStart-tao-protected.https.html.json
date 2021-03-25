@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Install a SW","status":"PASS"},{"name":"Add TAO-less iframe to remote origin. Make sure workerStart is zero","status":"PASS"},{"name":"Add TAO iframe to remote origin. Make sure workerStart is not zero","status":"PASS"}]}
