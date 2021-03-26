@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Create Secure WebSocket - Close the Connection - close(only reason) - INVALID_ACCESS_ERR is thrown","status":"PASS"}]}
