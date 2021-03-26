@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Scroller should snap to at least one of the targets if unable to snap toboth after a layout change.","status":"FAIL"}]}
