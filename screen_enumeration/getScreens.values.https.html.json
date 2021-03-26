@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getScreensDeprecated() supports an empty set of mocked screens","status":"PASS"},{"name":"getScreensDeprecated() supports a single mocked screen","status":"PASS"},{"name":"getScreensDeprecated() supports multiple mocked screens","status":"PASS"},{"name":"getScreensDeprecated() rejects when the mock success value is set false","status":"PASS"}]}
