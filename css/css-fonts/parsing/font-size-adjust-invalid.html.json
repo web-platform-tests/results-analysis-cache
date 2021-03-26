@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['font-size-adjust'] = \"auto\" should not set the property value","status":"PASS"},{"name":"e.style['font-size-adjust'] = \"-10\" should not set the property value","status":"PASS"}]}
