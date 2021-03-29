@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"ServiceWorkerRegistration.update() should resolve a registration object","status":"PASS"}]}
