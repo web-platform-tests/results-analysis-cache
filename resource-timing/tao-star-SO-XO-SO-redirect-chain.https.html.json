@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify that cross origin resources' timings are exposed when cross-origin redirects have `Timing-Allow-Origin: *` headers","status":"PASS"}]}
