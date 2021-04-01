@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Normal click event sequence within object","status":"PASS"},{"name":"Click and drag outside of object event sequence","status":"PASS"}]}
