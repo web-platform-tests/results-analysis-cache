@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test fetch for a cross-origin redirect URL","status":"FAIL"},{"name":"Test fetch for a same-origin redirect URL","status":"PASS"}]}
