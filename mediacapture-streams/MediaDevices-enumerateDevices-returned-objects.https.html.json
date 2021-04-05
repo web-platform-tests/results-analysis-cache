@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"enumerateDevices returns new objects in case device-info permission is not granted","status":"PASS"},{"name":"enumerateDevices returns new objects in case device-info permission is granted","status":"PASS"}]}
