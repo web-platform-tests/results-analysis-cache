@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Navigating to new page should reset to \"auto\" and navigating back should restore and respect scroll restoration mode","status":"PASS"}]}
