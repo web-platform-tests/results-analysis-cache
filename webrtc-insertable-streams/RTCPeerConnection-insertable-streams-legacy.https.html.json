@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Legacy: Audio flows when insertable streams is enabled for video and disabled for audio.","status":"PASS"},{"name":"Legacy: Video flows when insertable streams is enabled for audio and disabled for audio.","status":"PASS"},{"name":"Legacy API works","status":"FAIL"}]}
