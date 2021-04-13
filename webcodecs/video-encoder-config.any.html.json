@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that AudioDecoder.isConfigSupported() rejects invalid config:Emtpy codec","status":"FAIL"},{"name":"Test that AudioDecoder.isConfigSupported() rejects invalid config:Unrecognized codec","status":"FAIL"}]}
