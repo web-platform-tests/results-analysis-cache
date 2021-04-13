@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-site fetch with preflight","status":"FAIL"},{"name":"Cross-site fetch with preflight","status":"FAIL"}]}
