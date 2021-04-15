@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Verify that cross origin resources' timings are not exposed when same-origin=>cross-origin=>same-origin redirects have `Timing-Allow-Origin:` headers with a specific origin.","status":"TIMEOUT"}]}
