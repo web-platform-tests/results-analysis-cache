@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"URL matching of CSP should be done based on the subresource URL, not on the bundle URL","status":"PASS"},{"name":"\"script-src *\" CSP directive should block urn:uuid scripts","status":"PASS"},{"name":"\"frame-src *\" CSP directive should block urn:uuid iframes","status":"PASS"}]}
