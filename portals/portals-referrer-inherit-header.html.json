@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"portal contents should be loaded with no referrer if document requests it","status":"FAIL"}]}
