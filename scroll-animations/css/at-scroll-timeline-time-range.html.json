@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Timerange mapped correctly (10s)","status":"FAIL"},{"name":"Timerange mapped correctly (1s)","status":"FAIL"},{"name":"Timerange mapped correctly (1000ms)","status":"FAIL"}]}
