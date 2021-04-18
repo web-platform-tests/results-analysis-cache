@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property shape-rendering value 'auto'","status":"PASS"},{"name":"Property shape-rendering value 'optimizespeed'","status":"FAIL"},{"name":"Property shape-rendering value 'crispedges'","status":"PASS"},{"name":"Property shape-rendering value 'geometricprecision'","status":"FAIL"}]}
