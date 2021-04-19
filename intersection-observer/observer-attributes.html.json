@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Observer attribute getters.","status":"FAIL"},{"name":"observer.root","status":"PASS"},{"name":"observer.thresholds","status":"PASS"},{"name":"observer.rootMargin","status":"PASS"}]}
