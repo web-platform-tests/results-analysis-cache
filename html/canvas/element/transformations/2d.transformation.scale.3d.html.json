@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"scale() function with three arguments modifies the underlying matrix appropriately","status":"PASS"}]}
