@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"pointerup/down events are fired correctly for corresponding mouse events","status":"PASS"}]}
