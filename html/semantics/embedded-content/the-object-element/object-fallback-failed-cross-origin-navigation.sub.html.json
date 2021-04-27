@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify fallback content for failed cross-origin navigations is shown correctly.","status":"PASS"}]}
