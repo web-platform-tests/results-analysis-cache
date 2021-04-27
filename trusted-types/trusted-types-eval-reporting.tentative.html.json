@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Trusted Type violation report: evaluating a string.","status":"PASS"},{"name":"Trusted Type violation report: evaluating a Trusted Script.","status":"PASS"},{"name":"Trusted Type violation report: default policy transforms the script before CSP checks runs.","status":"PASS"}]}
