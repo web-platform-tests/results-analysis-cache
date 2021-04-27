@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Calling disconnect twice in a row still results in 'connected' being false.","status":"FAIL"}]}
