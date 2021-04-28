@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"setRemoteDescription with a codec in the range 96-127 works","status":"PASS"},{"name":"setRemoteDescription with a codec in the range 35-63 works","status":"FAIL"},{"name":"setRemoteDescription with a codec in the range 64-95 throws an InvalidAccessError","status":"FAIL"}]}
