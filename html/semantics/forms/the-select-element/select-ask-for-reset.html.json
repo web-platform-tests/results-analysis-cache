@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"ask for reset on node remove, non multiple.","status":"PASS"},{"name":"ask for reset on node insert, non multiple.","status":"PASS"},{"name":"change selectedness of option, non multiple.","status":"PASS"}]}
