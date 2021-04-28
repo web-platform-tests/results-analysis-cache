@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"nonzero linethickness, displaystyle=false","status":"PASS"},{"name":"nonzero linethickness, displaystyle=true","status":"PASS"},{"name":"linethickness=0, displaystyle=false","status":"PASS"},{"name":"linethickness=0, displaystyle=true","status":"PASS"}]}
