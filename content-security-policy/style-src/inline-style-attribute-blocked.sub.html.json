@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Expecting logs: [\"violated-directive=style-src-attr\",\"PASS\"]","status":"PASS"}]}
