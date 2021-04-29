@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Setting document.domain must not change same-originness","status":"FAIL"},{"name":"The registrable domain suffix check must happen before the bail-out","status":"PASS"},{"name":"Having an origin-keyed subdomain child try to set document.domain must not change the document.domain value it sees","status":"TIMEOUT"}]}
