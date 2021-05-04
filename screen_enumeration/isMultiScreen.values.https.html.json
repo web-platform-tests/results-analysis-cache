@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"isMultiScreen() works as expected with mocked screens","status":"FAIL"},{"name":"isMultiScreen() rejects when the mock success value is set to false","status":"FAIL"}]}
