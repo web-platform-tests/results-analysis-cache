@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XRSession resetpose from a device properly fires off the right events for immersive sessions - webgl","status":"PASS"},{"name":"XRSession resetpose from a device properly fires off the right events for immersive sessions - webgl2","status":"PASS"}]}
