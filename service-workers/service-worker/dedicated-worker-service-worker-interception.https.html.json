@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Top-level module loading should be intercepted by a service worker.","status":"PASS"},{"name":"Static import should be intercepted by a service worker.","status":"TIMEOUT"},{"name":"Dynamic import should be intercepted by a service worker.","status":"NOTRUN"}]}
