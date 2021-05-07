@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"coop reporting test A test with both COOP and COOP report only setup to CROSS_ORIGIN with same-origin-allow-popups; report-to=\"coop-popup-report-endpoint\", require-corp, same-origin; report-to=\"coop-popup-report-only-endpoint\", require-corp","status":"FAIL"},{"name":"verify remaining reports","status":"PASS"}]}
