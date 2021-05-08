@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Feature-Policy header clipboard-read \"*\" allows cross-origin iframes.","status":"FAIL"}]}
