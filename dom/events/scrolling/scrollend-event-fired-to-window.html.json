@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Tests that the window gets scrollend event when no element scrolls after touch scrolling.","status":"PASS"}]}
