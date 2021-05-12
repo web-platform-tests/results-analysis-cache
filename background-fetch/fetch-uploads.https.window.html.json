@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Fetch with an upload should work","status":"PASS"},{"name":"Progress event includes uploaded bytes","status":"PASS"},{"name":"Duplicate upload requests work and can be distinguished.","status":"PASS"}]}
