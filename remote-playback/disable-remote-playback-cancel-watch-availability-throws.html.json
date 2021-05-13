@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that calling cancelWatchAvailability() when disableRemotePlayback attribute is set throws an exception.","status":"PASS"}]}
