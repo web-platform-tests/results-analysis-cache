@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Adding an event listener on the window of a detached document does not crash.","status":"FAIL"}]}
