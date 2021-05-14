@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"textarea element's value should be cloned","status":"PASS"},{"name":"textarea element's dirty value flag should be cloned, so setAttribute doesn't affect the cloned textarea's value","status":"PASS"}]}
