@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"storageFoundation.open does not allow opening files with invalid names.","status":"PASS"}]}
