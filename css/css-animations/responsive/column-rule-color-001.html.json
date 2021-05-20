@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"column-rule-color responds to currentColor changes","status":"PASS"},{"name":"column-rule-color responds to inherited changes","status":"PASS"}]}
