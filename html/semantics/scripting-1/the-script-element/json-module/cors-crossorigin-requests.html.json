@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Imported JSON module, cross-origin with CORS","status":"FAIL"},{"name":"Imported JSON module, cross-origin, missing CORS ACAO header","status":"PASS"},{"name":"Imported JSON module with parse error, cross-origin, with CORS","status":"FAIL"}]}
