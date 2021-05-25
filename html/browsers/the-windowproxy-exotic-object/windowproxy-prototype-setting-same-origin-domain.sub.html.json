@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Same-origin-domain prerequisite check: the original prototype is accessible","status":"FAIL"},{"name":"Same-origin-domain: setting the prototype to an empty object via Object.setPrototypeOf should throw a TypeError","status":"PASS"}]}
