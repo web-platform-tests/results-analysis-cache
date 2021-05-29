@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Cross-origin Window methods have correct 'length'","status":"FAIL"},{"name":"Cross-origin Window accessors have correct 'length'","status":"PASS"},{"name":"Cross-origin Location `replace` method has correct 'length'","status":"PASS"},{"name":"Cross-origin Location `href` setter has correct 'length'","status":"PASS"}]}
