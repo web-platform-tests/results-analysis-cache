@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Prevents access to external scripts.","status":"PASS"},{"name":"Should fire violation events for every failed violation","status":"FAIL"}]}
