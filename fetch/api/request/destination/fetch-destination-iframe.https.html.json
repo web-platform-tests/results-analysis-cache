@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initialize global state","status":"PASS"},{"name":"iframe fetches with a \"iframe\" Request.destination","status":"FAIL"}]}

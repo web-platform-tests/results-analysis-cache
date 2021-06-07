@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"# AUDIT TASK RUNNER STARTED.","status":"PASS"},{"name":"Executing \"registerprocessor-called-on-globalthis\"","status":"TIMEOUT"},{"name":"Audit report","status":"NOTRUN"},{"name":"> [registerprocessor-called-on-globalthis] ","status":"PASS"}]}
