@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"frame-ancestors-none-block","status":"FAIL"},{"name":"A 'frame-ancestors' CSP directive with a value 'none' should block rendering.","status":"PASS"}]}
