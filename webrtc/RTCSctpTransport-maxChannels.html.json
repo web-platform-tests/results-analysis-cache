@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"An unconnected peerconnection must not have maxChannels set","status":"FAIL"},{"name":"maxChannels gets instantiated after connecting","status":"FAIL"}]}
