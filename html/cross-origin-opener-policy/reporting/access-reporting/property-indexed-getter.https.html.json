@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"cross-origin > w => w[0]","status":"PASS"},{"name":"cross-origin > w => w[1]","status":"PASS"},{"name":"cross-origin > w => w[-1]","status":"PASS"},{"name":"same-site > w => w[0]","status":"PASS"},{"name":"same-site > w => w[1]","status":"PASS"},{"name":"same-site > w => w[-1]","status":"PASS"}]}
