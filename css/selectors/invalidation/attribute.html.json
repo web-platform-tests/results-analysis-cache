@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"[att] selector is effective","status":"PASS"},{"name":"[att=val] selector is effective","status":"PASS"},{"name":"[att~=val] selector is effective","status":"PASS"},{"name":"[att|=val] selector is effective","status":"PASS"},{"name":"#id selector is effective","status":"PASS"},{"name":".class selector is effective","status":"PASS"}]}
