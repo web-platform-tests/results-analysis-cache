@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IDBIndex's keyPath attribute returns the same object.","status":"FAIL"}]}
