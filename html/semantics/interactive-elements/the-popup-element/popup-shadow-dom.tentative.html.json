@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Popups located inside shadow DOM can still be shown","status":"FAIL"},{"name":"anchor references do not cross shadow boundaries","status":"FAIL"},{"name":"anchor references use the flat tree not the DOM tree","status":"FAIL"},{"name":"The popup stack is preserved across shadow-inclusive ancestors","status":"FAIL"}]}
