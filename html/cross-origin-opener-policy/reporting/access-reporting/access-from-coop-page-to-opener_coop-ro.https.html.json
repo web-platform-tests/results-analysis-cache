@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"access-from-coop-page-to-opener, same-origin","status":"PASS"},{"name":"access-from-coop-page-to-opener, same-origin + redirect","status":"TIMEOUT"}]}
