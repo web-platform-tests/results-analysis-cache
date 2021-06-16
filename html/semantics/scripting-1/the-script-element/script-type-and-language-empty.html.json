@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A script with empty type and no language should run","status":"PASS"},{"name":"A script with empty type and a random language should run","status":"PASS"},{"name":"A script with empty type and empty language should run","status":"PASS"},{"name":"A script with no type and empty language should run","status":"PASS"}]}
