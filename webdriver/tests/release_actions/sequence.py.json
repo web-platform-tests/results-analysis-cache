@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_release_no_actions_sends_no_events","status":"PASS"},{"name":"test_release_char_sequence_sends_keyup_events_in_reverse","status":"PASS"},{"name":"test_release_mouse_sequence_resets_dblclick_state","status":"PASS"},{"name":"test_no_release_mouse_sequence_keeps_dblclick_state","status":"PASS"}]}
