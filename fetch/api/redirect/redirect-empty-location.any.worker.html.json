@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"redirect response with empty Location, follow mode","status":"FAIL"},{"name":"redirect response with empty Location, manual mode","status":"PASS"}]}
