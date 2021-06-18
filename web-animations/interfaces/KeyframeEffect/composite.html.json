@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Default value","status":"FAIL"},{"name":"Change composite value","status":"PASS"},{"name":"Unspecified keyframe composite value when setting effect composite","status":"PASS"},{"name":"Specified keyframe composite value when setting effect composite","status":"FAIL"}]}
