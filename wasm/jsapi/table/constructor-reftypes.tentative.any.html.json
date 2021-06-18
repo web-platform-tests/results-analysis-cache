@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"initialize externref table with default value","status":"FAIL"},{"name":"initialize table with a wrong element value","status":"PASS"},{"name":"initialize anyfunc table with default value","status":"FAIL"},{"name":"initialize anyfunc table with a bad default value","status":"FAIL"}]}
