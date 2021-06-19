@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":":--foo parsing passes","status":"FAIL"},{"name":":--foo parsing failures","status":"PASS"},{"name":":--foo serialization","status":"FAIL"},{"name":":--foo in simple cases","status":"FAIL"},{"name":":--foo and other pseudo classes","status":"FAIL"},{"name":":--foo and ::part()","status":"FAIL"},{"name":":--foo and :host()","status":"FAIL"}]}
