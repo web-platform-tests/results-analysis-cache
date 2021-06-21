@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Slotted matches rules against the slot in the right tree","status":"PASS"},{"name":"Style invalidation works correctly for nested slots","status":"FAIL"}]}
