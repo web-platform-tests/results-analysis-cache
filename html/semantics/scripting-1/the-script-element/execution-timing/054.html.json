@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":" scheduler: removing newly inserted script from DOMNodeInserted handler - external script ","status":"PASS"}]}
