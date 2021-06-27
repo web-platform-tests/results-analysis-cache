@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Text fragment specified in iframe.src","status":"PASS"},{"name":"Navigate same-origin iframe via window.location","status":"PASS"},{"name":"Navigate cross-origin iframe via window.location","status":"PASS"}]}
