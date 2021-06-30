@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Default initial values of generated properties are valid (self-test).","status":"FAIL"},{"name":"Generated properties respect inherits flag","status":"PASS"},{"name":"Can't generate property with unknown fields","status":"PASS"}]}
