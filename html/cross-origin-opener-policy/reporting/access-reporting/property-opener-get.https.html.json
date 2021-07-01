@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"same-origin > w => w.opener","status":"TIMEOUT"},{"name":"cross-origin > w => w.opener","status":"NOTRUN"}]}
