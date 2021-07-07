@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"popup element exists","status":"FAIL"},{"name":"The IDL \"open\" content attribute must have no effect, and must not be reflected to the WebIDL.","status":"FAIL"},{"name":"The only visibility control for <popup> is through .show() and .hide().","status":"FAIL"}]}
