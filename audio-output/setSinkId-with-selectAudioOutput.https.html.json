@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"setSinkId() after selectAudioOutput()","status":"FAIL"},{"name":"setSinkId() with deviceID from another window","status":"FAIL"}]}
