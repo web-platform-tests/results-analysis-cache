@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Clicking on anchor with embedded inline element should navigate instead of opening details","status":"NOTRUN"},{"name":"Expected <a> containing <i> to navigate","status":"PASS"},{"name":"Expected <a> containing <span> to navigate","status":"NOTRUN"}]}
