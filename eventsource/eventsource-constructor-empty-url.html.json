@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Passing empty string to the EventSource constructor","status":"PASS"}]}
