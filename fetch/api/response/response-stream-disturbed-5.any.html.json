@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Getting a body reader after consuming as blob","status":"PASS"},{"name":"Getting a body reader after consuming as text","status":"PASS"},{"name":"Getting a body reader after consuming as json","status":"PASS"},{"name":"Getting a body reader after consuming as arrayBuffer","status":"PASS"}]}
