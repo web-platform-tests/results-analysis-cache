@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Same-origin 'fetch()'.","status":"PASS"},{"name":"Same-origin XHR.","status":"PASS"},{"name":"Cross-origin 'fetch()'.","status":"TIMEOUT"},{"name":"Cross-origin XHR.","status":"NOTRUN"},{"name":"Same-origin => cross-origin 'fetch()'.","status":"NOTRUN"},{"name":"connect-src-self-report-only","status":"NOTRUN"}]}

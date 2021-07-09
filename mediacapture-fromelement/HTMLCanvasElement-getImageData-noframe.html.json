@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CanvasRenderingContext2D.getImageData() does not lead to a frame being captured","status":"FAIL"}]}
