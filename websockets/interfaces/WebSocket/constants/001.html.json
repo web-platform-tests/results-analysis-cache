@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Constants on constructors CONNECTING","status":"PASS"},{"name":"Constants on constructors OPEN","status":"PASS"},{"name":"Constants on constructors CLOSING","status":"PASS"},{"name":"Constants on constructors CLOSED","status":"PASS"}]}

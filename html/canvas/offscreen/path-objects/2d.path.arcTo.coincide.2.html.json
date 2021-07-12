@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"arcTo() draws a straight line to P1 if P1 = P2","status":"PASS"}]}
