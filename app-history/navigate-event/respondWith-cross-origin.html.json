@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"AppHistoryNavigateEvent.respondWith should throw if called for a cross origin navigation","status":"PASS"}]}
