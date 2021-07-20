@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"WorkerGlobalScope error event: error","status":"FAIL"},{"name":"WorkerGlobalScope error event: message","status":"PASS"},{"name":"WorkerGlobalScope error event: filename","status":"PASS"},{"name":"WorkerGlobalScope error event: lineno","status":"PASS"}]}
