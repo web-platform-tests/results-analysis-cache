@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"\":focus-visible\" should be a valid selector","status":"FAIL"},{"name":"By default initial programatic focus matches ':focus-visible', so the element shows a focus ring with 'outline-style: auto'","status":"PASS"}]}
