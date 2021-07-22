@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Checks that ':focus' pseudo-class matches inside 'focusin' event handler","status":"PASS"},{"name":"Checks that ':focus-visible' pseudo-class matches inside 'focusin' event handler","status":"FAIL"},{"name":"Checks that ':focus-within' pseudo-class matches inside 'focusin' event handler","status":"PASS"}]}
