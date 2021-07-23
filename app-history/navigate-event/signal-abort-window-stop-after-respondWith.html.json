@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.stop() cancels AppHistoryNavigateEvent.respondWith and signals AppHistoryNavigateEvent.signal","status":"FAIL"}]}
