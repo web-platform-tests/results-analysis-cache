@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"request's mode must be cors. A server should return a valid Access-Control-Allow-Origin header if a bundle is a cross origin bundle.","status":"FAIL"}]}
