@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"register on a secure page after redirect from an non-secure url","status":"PASS"},{"name":"register on a non-secure page after redirect from an non-secure url","status":"PASS"}]}
