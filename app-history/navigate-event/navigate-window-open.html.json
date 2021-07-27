@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.open() fires navigate event in target window but not source","status":"FAIL"}]}
