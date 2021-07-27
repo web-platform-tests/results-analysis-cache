@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"No title element in SVG document","status":"PASS"},{"name":"Title element in SVG document","status":"PASS"},{"name":"Title element not child of SVG root","status":"PASS"},{"name":"Title element not in SVG namespace","status":"PASS"},{"name":"Root element not named \"svg\"","status":"PASS"}]}
