@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"self.reportError(1)","status":"FAIL"},{"name":"self.reportError(TypeError)","status":"FAIL"},{"name":"self.reportError(undefined)","status":"FAIL"},{"name":"self.reportError() (without arguments) throws","status":"PASS"}]}
