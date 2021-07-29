@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"canGoForward should return false if the document is not fully active","status":"FAIL"}]}
