@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Animating effect with no target should work.","status":"PASS"},{"name":"The existence of a target does not affect the animation.","status":"PASS"}]}

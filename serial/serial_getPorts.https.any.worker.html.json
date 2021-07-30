@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getPorts() returns the set of configured fake ports","status":"PASS"},{"name":"getPorts() returns the same port objects every time","status":"PASS"}]}

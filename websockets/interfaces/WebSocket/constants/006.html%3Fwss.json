@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"defineProperty setter CONNECTING","status":"PASS"},{"name":"defineProperty setter OPEN","status":"PASS"},{"name":"defineProperty setter CLOSING","status":"PASS"},{"name":"defineProperty setter CLOSED","status":"PASS"}]}

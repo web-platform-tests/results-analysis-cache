@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test skipWaiting while a client is not being controlled","status":"PASS"},{"name":"skipWaiting","status":"PASS"}]}

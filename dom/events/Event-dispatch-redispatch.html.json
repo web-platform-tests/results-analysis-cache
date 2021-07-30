@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Redispatching DOMContentLoaded event after being dispatched","status":"PASS"},{"name":"Redispatching mouseup event whose default action dispatches a click event","status":"PASS"},{"name":"Redispatching event which is being dispatched","status":"PASS"},{"name":"Synthesizing click on button...","status":"PASS"}]}
