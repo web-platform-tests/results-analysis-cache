@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property text-decoration-color value 'rgb(0, 0, 255)'","status":"PASS"},{"name":"Property text-decoration-color value 'currentcolor'","status":"PASS"},{"name":"Property text-decoration-color value 'inherit'","status":"PASS"}]}

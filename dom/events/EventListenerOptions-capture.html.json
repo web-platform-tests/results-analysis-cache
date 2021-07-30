@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Capture boolean should be honored correctly","status":"PASS"},{"name":"Capture option should be honored correctly","status":"PASS"},{"name":"Supports capture option","status":"PASS"},{"name":"Equivalence of option values","status":"PASS"}]}

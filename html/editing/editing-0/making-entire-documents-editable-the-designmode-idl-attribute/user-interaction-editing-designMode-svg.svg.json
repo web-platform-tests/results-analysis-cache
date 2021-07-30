@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"initial designMode attribute","status":"PASS"},{"name":"set designMode = \"on\"","status":"PASS"},{"name":"set designMode = \"off\"","status":"PASS"}]}

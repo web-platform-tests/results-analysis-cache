@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Programatically injected stylesheet should not load","status":"PASS"},{"name":"Should fire a securitypolicyviolation event","status":"FAIL"}]}

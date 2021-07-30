@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property color has initial value rgb(0, 0, 0)","status":"PASS"},{"name":"Property color inherits","status":"PASS"},{"name":"Property opacity has initial value 1","status":"PASS"},{"name":"Property opacity does not inherit","status":"PASS"}]}
