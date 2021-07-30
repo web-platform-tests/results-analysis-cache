@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Reloaded same-host auxiliary navigations are strictly same-site.","status":"PASS"},{"name":"Reloaded subdomain auxiliary navigations are strictly same-site.","status":"PASS"},{"name":"Reloaded cross-site auxiliary navigations are laxly same-site","status":"PASS"}]}

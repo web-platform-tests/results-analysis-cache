@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SVGAElement.rel getter","status":"PASS"},{"name":"Test anchor's rel getter","status":"FAIL"}]}

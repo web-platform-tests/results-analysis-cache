@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Number should be rejected as the mark-options.","status":"PASS"},{"name":"NaN should be rejected as the mark-options.","status":"PASS"},{"name":"Infinity should be rejected as the mark-options.","status":"PASS"},{"name":"String should be rejected as the mark-options.","status":"PASS"}]}

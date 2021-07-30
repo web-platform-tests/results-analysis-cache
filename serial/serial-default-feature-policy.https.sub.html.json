@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Default \"serial\" feature policy [\"self\"] allows the top-level document.","status":"PASS"},{"name":"Default \"serial\" feature policy [\"self\"] allows same-origin iframes.","status":"PASS"},{"name":"Default \"serial\" feature policy [\"self\"] disallows cross-origin iframes.","status":"PASS"}]}

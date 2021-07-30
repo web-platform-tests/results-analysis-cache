@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"iframes should load asynchronously after inline script run","status":"PASS"}]}
