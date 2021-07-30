@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"BackgroundFetchManager.getIds() does not require an activated worker","status":"FAIL"},{"name":"The BackgroundFetchManager exposes active fetches","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Ensures content delivered with Content-Type: text/plain header is not prefetched","status":"PASS"}]}

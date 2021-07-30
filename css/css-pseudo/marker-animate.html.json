@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"'color' animation","status":"PASS"},{"name":"'opacity' animation","status":"FAIL"},{"name":"'color' + 'opacity' animation","status":"FAIL"}]}

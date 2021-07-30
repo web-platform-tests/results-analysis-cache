@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['background-repeat'] = \"repeat repeat-x\" should not set the property value","status":"PASS"},{"name":"e.style['background-repeat'] = \"repeat-y round\" should not set the property value","status":"PASS"},{"name":"e.style['background-repeat'] = \"repeat space round\" should not set the property value","status":"PASS"}]}

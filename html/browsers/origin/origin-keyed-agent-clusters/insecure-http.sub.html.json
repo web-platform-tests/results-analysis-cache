@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"message event must occur","status":"NOTRUN"},{"name":"setting document.domain must give sync access","status":"NOTRUN"},{"name":"parent: originAgentCluster must equal false","status":"NOTRUN"},{"name":"child: originAgentCluster must equal false","status":"NOTRUN"}]}

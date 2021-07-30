@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"\":focus-visible\" should be a valid selector","status":"FAIL"},{"name":"\"a:focus-visible\" should be a valid selector","status":"FAIL"},{"name":"\":focus:not(:focus-visible)\" should be a valid selector","status":"FAIL"}]}

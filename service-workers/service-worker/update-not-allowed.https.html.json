@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"ServiceWorkerRegistration.update() from client succeeds while installing service worker.","status":"PASS"},{"name":"ServiceWorkerRegistration.update() from installing service worker throws.","status":"FAIL"},{"name":"ServiceWorkerRegistration.update() from active service worker succeeds while installing service worker.","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"appHistory.goTo() should work in an iframe that has navigated across origins","status":"FAIL"}]}

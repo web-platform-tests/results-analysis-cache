@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The incumbent page being cross-origin must not prevent the BroadcastChannel message from being seen","status":"FAIL"}]}

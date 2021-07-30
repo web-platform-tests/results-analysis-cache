@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property scrollbar-color has initial value auto","status":"FAIL"},{"name":"Property scrollbar-color inherits","status":"FAIL"},{"name":"Property scrollbar-width has initial value auto","status":"FAIL"},{"name":"Property scrollbar-width does not inherit","status":"FAIL"}]}

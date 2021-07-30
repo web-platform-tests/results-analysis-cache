@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Script injected via `appendChild` is allowed with `strict-dynamic` + Report-Only `script-src 'none'` policy.","status":"FAIL"}]}

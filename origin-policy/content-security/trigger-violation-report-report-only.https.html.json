@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Prerequisite check: running on HTTPS","status":"PASS"},{"name":"Test setup of the iframe","status":"PASS"},{"name":"Origin policy subframe","status":"TIMEOUT"}]}

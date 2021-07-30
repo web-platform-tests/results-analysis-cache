@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Create WebSocket - Pass a URL with a non ws/wss scheme - SYNTAX_ERR is thrown","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XMLHttpRequest: send() - Redirects (basics) (301)","status":"PASS"},{"name":"XMLHttpRequest: send() - Redirects (basics) (302)","status":"PASS"},{"name":"XMLHttpRequest: send() - Redirects (basics) (303)","status":"FAIL"},{"name":"XMLHttpRequest: send() - Redirects (basics) (307)","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Constructing a CSSVariableReferenceValue with an empty variable name throws a TypeError","status":"FAIL"},{"name":"Constructing a CSSVariableReferenceValue with an invalid variable name throws SyntaxError","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IntersectionObserver root margin cannot end up with negative rect (and thus non-intersecting) due to rounding","status":"PASS"}]}
