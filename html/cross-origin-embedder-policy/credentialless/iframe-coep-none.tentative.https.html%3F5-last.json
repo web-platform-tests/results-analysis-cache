@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"COEP:none embeds same-origin COEP:require-corp","status":"PASS"},{"name":"COEP:none embeds cross-origin COEP:require-corp","status":"PASS"}]}

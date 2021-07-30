@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Observer with explicit root which is the document, observing a target in a same-origin iframe.","status":"PASS"},{"name":"First rAF.","status":"PASS"}]}

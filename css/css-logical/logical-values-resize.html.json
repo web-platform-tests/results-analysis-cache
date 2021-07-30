@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that 'resize: block' is supported.","status":"PASS"},{"name":"Test that 'resize: inline' is supported.","status":"PASS"}]}

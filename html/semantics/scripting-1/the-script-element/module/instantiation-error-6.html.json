@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that ambiguous star exports lead to an instantiation error and that the correct module is blamed.","status":"PASS"}]}

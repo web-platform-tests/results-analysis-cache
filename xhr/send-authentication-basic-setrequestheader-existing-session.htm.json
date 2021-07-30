@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XMLHttpRequest: send() - \"Basic\" authenticated request using setRequestHeader() when there is an existing session","status":"PASS"}]}

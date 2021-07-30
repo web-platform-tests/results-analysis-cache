@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.getBattery() shall return BatteryManager as a promise","status":"PASS"},{"name":"navigator.getBattery() shall always return the same promise","status":"PASS"}]}
