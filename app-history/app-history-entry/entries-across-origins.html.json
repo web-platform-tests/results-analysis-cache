@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"appHistory.entries() should only contain entries that are both same-origin and contiguous","status":"PASS"}]}

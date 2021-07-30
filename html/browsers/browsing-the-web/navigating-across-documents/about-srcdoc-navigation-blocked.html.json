@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Navigations to about:srcdoc via window.location are blocked.","status":"FAIL"},{"name":"Navigations to about:srcdoc via window.open() are blocked.","status":"FAIL"}]}

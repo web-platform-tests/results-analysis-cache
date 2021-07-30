@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Detached ArrayBuffer","status":"PASS"},{"name":"Detached TypedArray","status":"PASS"}]}

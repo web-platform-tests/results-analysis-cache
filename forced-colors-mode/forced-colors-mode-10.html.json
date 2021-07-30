@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Checks that styles defined inside/outside forced-colors are preserved in forced colors mode if forced-color-ajust is none.","status":"FAIL"}]}

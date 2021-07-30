@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Tests that repeatedly setting 'onerror' within a shared worker doesnt crash.","status":"PASS"}]}

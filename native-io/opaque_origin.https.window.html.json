@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"storageFoundation must be undefined for data URI iframes.","status":"PASS"},{"name":"storageFoundation must be null in a sandboxed iframe.","status":"PASS"},{"name":"storageFoundation must be null in a sandboxed opened window.","status":"PASS"}]}

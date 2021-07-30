@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Allows an animation to be persisted after being removed","status":"PASS"},{"name":"Allows an animation to be persisted before being removed","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"cross-origin redirect on navigation got client hints according to expectations.","status":"PASS"}]}
