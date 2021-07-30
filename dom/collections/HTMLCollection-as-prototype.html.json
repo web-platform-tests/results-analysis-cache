@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"HTMLCollection as a prototype should not allow getting .length on the base object","status":"PASS"},{"name":"HTMLCollection as a prototype and setting own properties","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-origin shared worker allowed by script-src 'self'.","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check that base URIs can be set if they do not violate the page's policy.","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"PointerEvent: Verifies that mouse boundary events don't point to shadow-dom","status":"FAIL"}]}

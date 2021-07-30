@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"history.story should be nulled by navigate() handled by respondWith()","status":"FAIL"}]}

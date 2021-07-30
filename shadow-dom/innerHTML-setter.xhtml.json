@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"InnerHTML behavior on custom element in default XHTML namespace","status":"FAIL"},{"name":"Setting up the custom elements","status":"PASS"},{"name":"InnerHTML behavior on custom element in default 'foo' namespace","status":"FAIL"},{"name":"InnerHTML behavior with prefixes on custom element","status":"PASS"}]}

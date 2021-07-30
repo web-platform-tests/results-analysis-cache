@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.locks.request() in non-sandboxed iframe should not throw","status":"FAIL"},{"name":"navigator.locks.request() in sandboxed iframe should throw SecurityError","status":"FAIL"}]}

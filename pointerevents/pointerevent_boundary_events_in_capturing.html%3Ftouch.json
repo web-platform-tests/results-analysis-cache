@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"touch pointerevent boundary events in capturing","status":"PASS"},{"name":"touch pointer events boundary events when receiving capture","status":"FAIL"},{"name":"touch pointer events boundary events when releasing capture","status":"FAIL"}]}

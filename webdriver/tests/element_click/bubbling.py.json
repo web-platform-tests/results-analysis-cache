@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_click_event_bubbles_to_parents","status":"FAIL"},{"name":"test_spin_event_loop","status":"FAIL"},{"name":"test_element_disappears_during_click","status":"PASS"}]}

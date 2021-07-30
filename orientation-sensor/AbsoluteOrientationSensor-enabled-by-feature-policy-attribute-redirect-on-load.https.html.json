@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"AbsoluteOrientationSensor: Feature-Policy allow='accelerometer gyroscope magnetometer' attribute allows same-origin relocation","status":"FAIL"},{"name":"AbsoluteOrientationSensor: Feature-Policy allow='accelerometer gyroscope magnetometer' attribute disallows cross-origin relocation","status":"FAIL"}]}
