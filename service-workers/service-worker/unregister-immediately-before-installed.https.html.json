@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Clear-Site-Data must abort service worker registration.","status":"TIMEOUT"},{"name":"Clear-Site-Data must unregister a registration with a worker in the \"installing\" state.","status":"NOTRUN"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"FileReader readyState during readAsDataURL","status":"PASS"},{"name":"readAsDataURL result for Blob with specified MIME type","status":"PASS"},{"name":"readAsDataURL result for Blob with unspecified MIME type","status":"PASS"}]}

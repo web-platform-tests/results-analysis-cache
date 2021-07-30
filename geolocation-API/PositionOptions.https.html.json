@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Call getCurrentPosition with wrong type for enableHighAccuracy. No exception expected.","status":"PASS"},{"name":"Call watchPosition with wrong type for enableHighAccuracy. No exception expected.","status":"PASS"},{"name":"PositionOptions tests","status":"FAIL"}]}

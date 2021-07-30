@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XMLHttpRequest: send() - \"Basic\" authenticated requests with user name and password passed to open()","status":"PASS"}]}

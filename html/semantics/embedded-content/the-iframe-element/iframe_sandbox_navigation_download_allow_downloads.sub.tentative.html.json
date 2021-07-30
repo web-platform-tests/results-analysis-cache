@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Navigation resulted download in sandbox is allowed by allow-downloads.","status":"PASS"},{"name":"Navigation resulted download in sandbox from <object> is allowed by allow-downloads.","status":"PASS"}]}
