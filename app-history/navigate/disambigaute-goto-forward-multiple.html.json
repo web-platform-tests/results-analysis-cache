@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"appHistory.goTo() goes to the nearest entry when going forward","status":"FAIL"}]}

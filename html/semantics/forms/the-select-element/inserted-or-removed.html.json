@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The last selected OPTION should win; Inserted by parser","status":"PASS"},{"name":"The last selected OPTION should win; Inserted by DOM API","status":"FAIL"},{"name":"The last selected OPTION should win; Inserted by jQuery append()","status":"PASS"},{"name":"The last selected OPTION should win; Inserted by innerHTML","status":"PASS"}]}

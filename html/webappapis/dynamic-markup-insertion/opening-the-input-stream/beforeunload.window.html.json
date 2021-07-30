@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document.open() should not fire a beforeunload event","status":"PASS"}]}

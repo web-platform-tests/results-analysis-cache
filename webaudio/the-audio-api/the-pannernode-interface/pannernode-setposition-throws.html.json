@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"setPosition x","status":"FAIL"},{"name":"setPosition y","status":"FAIL"},{"name":"setPosition z","status":"FAIL"},{"name":"setOrientation x","status":"FAIL"},{"name":"setOrientation y","status":"FAIL"},{"name":"setOrientation z","status":"FAIL"}]}

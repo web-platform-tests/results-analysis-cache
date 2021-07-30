@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"NativeIOFile.setLength shrinks a file, NativeIOFile.getLength reports new length","status":"FAIL"},{"name":"NativeIOFile.setLength appends zeros to a file, NativeIOFile.getLength reports new length","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"allow attr timing test same origin","status":"FAIL"},{"name":"allow attr timing test diff origin","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Checkboxes should clear :active when the user tabs away from them while holding spacebar.","status":"FAIL"},{"name":"Radios should clear :active when the user tabs away from them while holding spacebar.","status":"FAIL"}]}
