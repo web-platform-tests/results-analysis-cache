@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"If the translate attribute is set to no, javascript will detect the translation mode of text as no-translate.","status":"FAIL"}]}

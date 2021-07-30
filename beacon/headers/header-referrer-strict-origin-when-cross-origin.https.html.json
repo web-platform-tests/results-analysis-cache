@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test referer header https://www1.web-platform.test:8443/beacon/resources/","status":"PASS"},{"name":"Test referer header http://www1.web-platform.test:8000/beacon/resources/","status":"PASS"}]}

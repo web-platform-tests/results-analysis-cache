@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"opener of discarded nested browsing context","status":"PASS"},{"name":"opener of discarded auxiliary browsing context","status":"PASS"}]}

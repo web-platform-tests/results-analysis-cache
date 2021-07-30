@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Calling openTCPSocket consumes user activation","status":"FAIL"},{"name":"Calling openUDPSocket consumes user activation","status":"FAIL"}]}
