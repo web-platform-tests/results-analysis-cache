@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"::slotted() doesn't reveal the presence of shadow DOM via matches()","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"NativeIOFileSync.read returns bytes written by NativeIOFileSync.write","status":"PASS"},{"name":"NativeIOFileSync.read detaches the input buffer","status":"PASS"},{"name":"NativeIOFileSync.write detaches the input buffer","status":"PASS"}]}

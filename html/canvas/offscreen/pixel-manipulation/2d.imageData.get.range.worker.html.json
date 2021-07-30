@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getImageData() returns values in the range [0, 255]","status":"PASS"}]}

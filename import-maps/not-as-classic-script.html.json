@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Import maps shouldn't be parsed as scripts","status":"PASS"},{"name":"Import maps shouldn't be executed as scripts","status":"PASS"},{"name":"External import maps shouldn't be executed as scripts","status":"PASS"}]}

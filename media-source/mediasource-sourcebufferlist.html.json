@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test SourceBufferList getter method","status":"PASS"},{"name":"Test SourceBufferList event dispatching.","status":"PASS"},{"name":"Test that only 1 removesourcebuffer event fires on each SourceBufferList when the MediaSource closes.","status":"PASS"}]}

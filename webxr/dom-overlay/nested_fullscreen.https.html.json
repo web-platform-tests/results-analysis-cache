@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"fullscreen setup","status":"PASS"},{"name":"Check XR session from fullscreen - webgl","status":"FAIL"},{"name":"Check XR session from fullscreen - webgl2","status":"FAIL"}]}

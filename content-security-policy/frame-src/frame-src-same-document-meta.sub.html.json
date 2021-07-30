@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-document navigations in an iframe blocked by CSP frame-src dynamically using the <meta> tag","status":"PASS"}]}
