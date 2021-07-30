@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"When performing a fragment navigation, the orientation must not change or unlock","status":"FAIL"}]}

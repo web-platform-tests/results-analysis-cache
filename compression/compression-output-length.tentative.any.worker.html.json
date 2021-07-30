@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"the length of deflated data should be shorter than that of the original data","status":"PASS"},{"name":"the length of gzipped data should be shorter than that of the original data","status":"PASS"}]}

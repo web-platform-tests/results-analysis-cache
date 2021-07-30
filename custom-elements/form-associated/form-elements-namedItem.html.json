@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Form associated custom elements should work with document.forms.elements.namedItem()","status":"PASS"}]}
