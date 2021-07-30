@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Sanity test","status":"PASS"},{"name":"elm.focus() without arguments","status":"PASS"},{"name":"elm.focus(undefined)","status":"PASS"},{"name":"elm.focus(null)","status":"PASS"},{"name":"elm.focus({})","status":"PASS"},{"name":"elm.focus({preventScroll: false})","status":"PASS"},{"name":"elm.focus({preventScroll: true})","status":"PASS"}]}

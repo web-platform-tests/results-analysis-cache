@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that call convertToBlob on a tainted OffscreenCanvas throws exception","status":"PASS"}]}

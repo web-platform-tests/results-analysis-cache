@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"HTML Test: tabindex - focus, click","status":"PASS"},{"name":"Check if click event will be fired when press the 'enter' key while the element is focused","status":"FAIL"}]}

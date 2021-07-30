@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Cross-origin popup from normal/anonymous iframes.","status":"FAIL"},{"name":"Same-origin popup from normal/anonymous iframes.","status":"FAIL"}]}
