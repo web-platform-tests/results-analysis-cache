@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"default submit action should supersede onclick submit() for cross-origin iframes","status":"TIMEOUT"}]}

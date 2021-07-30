@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"script-src blocks eval unless 'unsafe-eval' is specified.","status":"PASS"},{"name":"default-src blocks eval unless 'unsafe-eval' is specified.","status":"PASS"}]}

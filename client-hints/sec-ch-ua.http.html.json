@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Open HTTP window: no `Sec-CH-UA` header.","status":"PASS"}]}
