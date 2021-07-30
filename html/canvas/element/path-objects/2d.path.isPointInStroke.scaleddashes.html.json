@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"isPointInStroke() should return correct results on dashed paths at high scale factors","status":"PASS"}]}

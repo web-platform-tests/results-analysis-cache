@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document.open should redirect to window.open when called with three arguments","status":"PASS"},{"name":"document.open should throw when it has no window and is called with three arguments","status":"PASS"}]}

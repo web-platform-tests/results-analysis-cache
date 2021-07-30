@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The error event from an event listener should fire on that listener's global","status":"PASS"}]}

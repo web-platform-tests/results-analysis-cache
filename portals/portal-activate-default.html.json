@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Clicking should activate with undefined data.","status":"FAIL"},{"name":"Clicking shouldn't activate if prevented.","status":"FAIL"},{"name":"Failed activation should not surface as an unhandled promise rejection.","status":"FAIL"}]}

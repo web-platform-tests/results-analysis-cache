@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"cross-site windows can send transferred ArrayBuffer","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Opening the popup and clicking an option should change the selectmenu's value","status":"PASS"},{"name":"With custom button and popup: opening the popup and clicking an option should change the selectmenu's value","status":"PASS"},{"name":"Clicking a popup with no listbox part does nothing","status":"FAIL"}]}
