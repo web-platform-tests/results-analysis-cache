@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that getReflectionCubeMap returns or throws appropriately without a reflection map. - webgl","status":"FAIL"},{"name":"Test that getReflectionCubeMap returns or throws appropriately without a reflection map. - webgl2","status":"FAIL"}]}

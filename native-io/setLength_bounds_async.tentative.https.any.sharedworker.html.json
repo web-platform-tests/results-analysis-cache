@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"NativeIOFile.setLength does not throw an error when descreasing the file length to 0.","status":"FAIL"},{"name":"NativeIOFile.setLength() throws when setting negative lengths.","status":"FAIL"}]}

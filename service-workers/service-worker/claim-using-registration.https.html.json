@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test worker claims client which is using another registration","status":"PASS"},{"name":"Test for the waiting worker claims a client which is using the the same registration","status":"PASS"}]}

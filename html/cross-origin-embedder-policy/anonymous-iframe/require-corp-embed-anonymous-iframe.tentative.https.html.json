@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Loading an anonymous iframe with COEP: require-corp is allowed.","status":"FAIL"}]}

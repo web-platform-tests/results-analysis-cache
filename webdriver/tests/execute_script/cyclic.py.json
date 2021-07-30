@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_array","status":"PASS"},{"name":"test_object","status":"PASS"},{"name":"test_array_in_object","status":"PASS"},{"name":"test_object_in_array","status":"PASS"},{"name":"test_element_in_collection","status":"PASS"},{"name":"test_element_in_object","status":"PASS"}]}

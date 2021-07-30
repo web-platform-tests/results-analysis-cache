@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"document.open() keeps inherited CSPs on empty iframe.","status":"TIMEOUT"},{"name":"document.open() does not change delivered CSPs.","status":"NOTRUN"}]}
