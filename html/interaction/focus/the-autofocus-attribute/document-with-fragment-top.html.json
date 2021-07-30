@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Autofocus elements in iframed documents with \"top\" fragments should work.","status":"FAIL"},{"name":"Autofocus elements in top-level browsing context's documents with \"top\" fragments should work.","status":"PASS"}]}

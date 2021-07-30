@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"it must give a \"SecurityError\" DOMException if the pages are different-origin domain","status":"PASS"},{"name":"it must return the iframe element if the pages are same-origin domain","status":"TIMEOUT"}]}

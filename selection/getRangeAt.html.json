@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Only supports index 0","status":"PASS"},{"name":"Throws when with no range","status":"PASS"},{"name":"Returns the same range object when with no selection change","status":"FAIL"},{"name":"Returns a different range object when with selection change","status":"PASS"}]}

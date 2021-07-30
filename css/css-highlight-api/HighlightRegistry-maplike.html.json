@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"HighlightRegistry initializes as it should.","status":"FAIL"},{"name":"HighlightRegistry has a maplike interface.","status":"FAIL"}]}

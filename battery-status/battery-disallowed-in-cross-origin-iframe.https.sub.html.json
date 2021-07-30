@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"throw a 'NotAllowedError' when invoking navigator.getBattery() within cross-origin iframe","status":"FAIL"}]}

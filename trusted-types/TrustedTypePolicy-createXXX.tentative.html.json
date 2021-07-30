@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"calling undefined callbacks throws","status":"FAIL"},{"name":"Attributes without type constraints will work as before.","status":"FAIL"},{"name":"trustedTypes.createPolicy(.., null) creates empty policy.","status":"FAIL"}]}

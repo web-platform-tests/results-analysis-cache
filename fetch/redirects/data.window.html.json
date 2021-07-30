@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"<img> fetch that redirects to data: URL","status":"FAIL"},{"name":"<script> fetch that redirects to data: URL","status":"FAIL"},{"name":"XMLHttpRequest fetch that redirects to data: URL","status":"PASS"}]}

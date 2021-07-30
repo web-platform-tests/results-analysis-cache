@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"simple clip inside","status":"PASS"},{"name":"clip outside negative","status":"FAIL"},{"name":"clip outside positive","status":"FAIL"},{"name":"clip inside using negative width and height","status":"FAIL"}]}
