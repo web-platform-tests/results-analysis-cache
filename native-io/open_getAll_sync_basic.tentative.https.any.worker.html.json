@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"storageFoundation.getAllSync returns file created by storageFoundation.openSync","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Ensures that the XRSession's visibilityState is correctly reported and that the associated visibilitychange event fires. - webgl","status":"PASS"},{"name":"Ensures that the XRSession's visibilityState is correctly reported and that the associated visibilitychange event fires. - webgl2","status":"PASS"}]}

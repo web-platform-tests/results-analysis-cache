@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Use of .https file name flag implies secure context","status":"PASS"},{"name":"Use of .https file name flag implies HTTPS scheme","status":"PASS"}]}

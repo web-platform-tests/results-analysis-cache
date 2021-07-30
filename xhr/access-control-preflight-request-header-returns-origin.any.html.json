@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Access-Control-Request-Origin accept different origin between preflight and actual request","status":"PASS"}]}

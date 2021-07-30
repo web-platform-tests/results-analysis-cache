@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check that the initial width is 100px.","status":"PASS"},{"name":"Check that the resolved width of the inner div is affected by changing the width of outer iframe.","status":"PASS"}]}

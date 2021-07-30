@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"User click on <a> during the pageshow event must NOT replace","status":"PASS"}]}
