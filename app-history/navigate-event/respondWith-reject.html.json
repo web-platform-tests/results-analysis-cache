@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"AppHistoryNavigateEvent.respondWith should abort if the given promise rejects","status":"FAIL"}]}

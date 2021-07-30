@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test constructing a shared worker with NaN","status":"TIMEOUT"}]}

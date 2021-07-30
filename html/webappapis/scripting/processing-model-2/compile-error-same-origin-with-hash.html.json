@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.onerror - compile error in <script src=...> with hash","status":"PASS"},{"name":"window.onerror - compile error in <script src=...> with hash (column)","status":"PASS"}]}

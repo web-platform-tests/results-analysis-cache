@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Service worker does NOT generate client hints in a new request","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"PaymentRequest <iframe allow=\"payment\"> in non-active document (cross-origin)","status":"FAIL"}]}

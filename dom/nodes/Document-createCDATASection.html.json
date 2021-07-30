@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document.createCDATASection must throw in HTML documents","status":"PASS"}]}

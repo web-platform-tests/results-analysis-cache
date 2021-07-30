@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SVG scripts with end tag should run","status":"PASS"},{"name":"SVG scripts without end tag should not run","status":"PASS"},{"name":"SVG scripts with bogus end tag inside should run","status":"PASS"},{"name":"SVG scripts ended by HTML breakout should not run","status":"PASS"}]}
