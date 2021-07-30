@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"importance attribute on <img> elements should reflect valid IDL values","status":"PASS"},{"name":"importance of new Image() is 'auto'","status":"PASS"}]}

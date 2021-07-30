@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check the resolved value of 'auto'","status":"PASS"},{"name":"Check the resolved value of 'currentcolor'","status":"PASS"},{"name":"Check the resolved value of 'initial'","status":"PASS"}]}

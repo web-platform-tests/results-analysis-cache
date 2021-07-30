@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Should throw a securitypolicyviolation event","status":"PASS"},{"name":"Should block worker because it does not match any directive including the deprecated 'child-src'","status":"PASS"}]}

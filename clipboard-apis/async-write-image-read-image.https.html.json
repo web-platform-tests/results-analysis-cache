@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify write and read clipboard [image/png Blob]","status":"PASS"},{"name":"Verify write error on malformed data [image/png ClipboardItem]","status":"PASS"}]}

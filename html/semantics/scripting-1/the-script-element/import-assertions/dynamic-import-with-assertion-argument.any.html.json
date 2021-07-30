@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Dynamic import with an empty assert clause should succeed","status":"PASS"},{"name":"Dynamic import with an unsupported import assertion should succeed","status":"PASS"},{"name":"Dynamic import with an unsupported type assertion should fail","status":"PASS"}]}

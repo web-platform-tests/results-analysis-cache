@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"mediaDevices.enumerateDevices() is present and working - before capture","status":"PASS"},{"name":"mediaDevices.enumerateDevices() is present and working - after capture","status":"FAIL"},{"name":"InputDeviceInfo is supported","status":"PASS"}]}
