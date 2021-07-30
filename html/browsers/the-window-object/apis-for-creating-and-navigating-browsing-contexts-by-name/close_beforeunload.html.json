@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Running beforeunload handler in window.close()","status":"PASS"}]}

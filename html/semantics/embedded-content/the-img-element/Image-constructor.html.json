@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Image constructor works","status":"PASS"},{"name":"Image and HTMLImageElement share a prototype","status":"PASS"},{"name":"Image localName is img","status":"PASS"},{"name":"Image namespace URI is correct","status":"PASS"},{"name":"NamedConstructor creates the correct object structure.","status":"PASS"}]}

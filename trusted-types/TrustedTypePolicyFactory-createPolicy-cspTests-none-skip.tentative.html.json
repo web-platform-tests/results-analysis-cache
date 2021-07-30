@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Can create policy with name 'SomeName'","status":"PASS"},{"name":"Can create a second policy with name 'SomeName'","status":"PASS"},{"name":"Can create policy with name 'default'","status":"PASS"}]}

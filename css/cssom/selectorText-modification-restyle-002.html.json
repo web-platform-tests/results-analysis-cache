@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check initial color.","status":"PASS"},{"name":"Check that color changes correctly after shadow stylesheet selector and #container class is changed.","status":"PASS"}]}

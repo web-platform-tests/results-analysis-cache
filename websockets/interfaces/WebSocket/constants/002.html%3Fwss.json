@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Readonly constants CONNECTING","status":"PASS"},{"name":"Readonly constants OPEN","status":"PASS"},{"name":"Readonly constants CLOSING","status":"PASS"},{"name":"Readonly constants CLOSED","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"decompressing gzip empty input should work","status":"PASS"},{"name":"decompressing deflate empty input should work","status":"PASS"}]}
