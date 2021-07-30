@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Scroll to text is feature detectable via document.fragmentDirective","status":"FAIL"},{"name":"Setting document.fragmentDirective has no effect","status":"FAIL"}]}

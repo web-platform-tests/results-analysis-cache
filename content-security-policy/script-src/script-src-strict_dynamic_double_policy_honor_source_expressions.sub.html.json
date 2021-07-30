@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Script injected via `appendChild` is permitted with `strict-dynamic` + a nonce+allowed double policy.","status":"FAIL"},{"name":"Non-allowed script injected via `appendChild` is not permitted with `strict-dynamic` + a nonce+allowed double policy.","status":"TIMEOUT"}]}

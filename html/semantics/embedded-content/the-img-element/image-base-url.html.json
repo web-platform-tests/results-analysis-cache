@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"An image request's parsed URL should be affected by a dynamically-inserted <base>, if it was inserted before the image request microtask runs","status":"FAIL"}]}

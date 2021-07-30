@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that currentTaskSignal works through promise resolution when aborting tasks","status":"FAIL"}]}

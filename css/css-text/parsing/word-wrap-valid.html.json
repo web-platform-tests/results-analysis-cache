@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['word-wrap'] = \"normal\" should set the property value","status":"PASS"},{"name":"e.style['word-wrap'] = \"break-word\" should set the property value","status":"PASS"},{"name":"e.style['word-wrap'] = \"anywhere\" should set the property value","status":"FAIL"}]}

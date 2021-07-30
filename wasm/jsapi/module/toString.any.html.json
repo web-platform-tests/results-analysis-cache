@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Object.prototype.toString on an Module","status":"PASS"},{"name":"@@toStringTag exists on the prototype with the appropriate descriptor","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Perfect negotiation setup connects","status":"TIMEOUT"},{"name":"Perfect negotiation setup connects with roles reversed","status":"NOTRUN"},{"name":"Perfect negotiation glare","status":"NOTRUN"},{"name":"Perfect negotiation glare with roles reversed","status":"NOTRUN"}]}

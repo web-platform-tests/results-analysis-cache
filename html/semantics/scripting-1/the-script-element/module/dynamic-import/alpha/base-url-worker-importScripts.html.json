@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Relative URL-like from same-origin importScripts()","status":"PASS"},{"name":"Absolute URL-like from same-origin importScripts()","status":"PASS"},{"name":"Relative URL-like from cross-origin importScripts()","status":"FAIL"},{"name":"Absolute URL-like from cross-origin importScripts()","status":"PASS"}]}
