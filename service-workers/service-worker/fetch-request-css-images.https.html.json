@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify FetchEvent for css image (backgroundImage).","status":"PASS"},{"name":"Verify FetchEvent for css image (shapeOutside).","status":"PASS"},{"name":"Verify FetchEvent for css image-set (backgroundImage).","status":"PASS"},{"name":"Verify FetchEvent for css image-set (shapeOutside).","status":"PASS"}]}

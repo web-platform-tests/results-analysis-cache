@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"cookieStore on DOMWindow of detached iframe (crbug.com/774626)","status":"PASS"}]}

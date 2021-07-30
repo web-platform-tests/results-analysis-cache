@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Getter","status":"PASS"},{"name":"Setter (non-empty string)","status":"PASS"},{"name":"Setter (empty string)","status":"PASS"},{"name":"Setter (null)","status":"PASS"},{"name":"Setter (undefined)","status":"PASS"},{"name":"Setter (text node reuse)","status":"PASS"}]}

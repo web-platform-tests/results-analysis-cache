@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"shape-outside can be assigned 'initial' value","status":"PASS"},{"name":"'initial' value computes to the default value","status":"PASS"}]}
