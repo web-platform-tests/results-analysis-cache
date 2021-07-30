@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Service Worker responds to fetch event with the referrer policy","status":"FAIL"},{"name":"Service Worker should respond to fetch with the default referrer policy","status":"PASS"},{"name":"Service Worker should respond to fetch with the referrer URL when a member of RequestInit is present - Default Referrer","status":"PASS"}]}

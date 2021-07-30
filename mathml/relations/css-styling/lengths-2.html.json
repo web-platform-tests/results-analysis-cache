@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Units","status":"PASS"},{"name":"Trimming of space","status":"PASS"},{"name":"Non-negative numbers","status":"PASS"},{"name":"Non-positive numbers","status":"PASS"},{"name":"Legacy namedspaces","status":"PASS"},{"name":"Legacy numbers","status":"PASS"}]}

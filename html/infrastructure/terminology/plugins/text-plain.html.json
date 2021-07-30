@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A user agent must not consider the type text/plain as having a registered plugin.","status":"PASS"}]}
