@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Checks that default highlighted text style does not get overridden in forced colors mode.","status":"FAIL"}]}

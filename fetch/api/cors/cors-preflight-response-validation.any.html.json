@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Preflight response with a bad Access-Control-Allow-Headers","status":"PASS"},{"name":"Preflight response with a bad Access-Control-Allow-Methods","status":"PASS"}]}

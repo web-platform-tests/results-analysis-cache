@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IDBFactory.cmp() - no argument","status":"PASS"},{"name":"IDBFactory.cmp() - null","status":"PASS"},{"name":"IDBFactory.cmp() - NaN","status":"PASS"}]}

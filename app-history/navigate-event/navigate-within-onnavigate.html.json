@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"if navigate() is called inside onnavigate, the previous navigation and navigate event are cancelled","status":"PASS"}]}

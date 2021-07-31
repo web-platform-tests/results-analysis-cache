@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"script execution doesn't wait for the image to load","status":"PASS"},{"name":"DOMContentLoaded doesn't wait for images","status":"PASS"},{"name":"Image element delays window's load event","status":"PASS"}]}

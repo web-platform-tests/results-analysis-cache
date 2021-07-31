@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Face - detect(empty src)","status":"PASS"},{"name":"Barcode - detect(empty src)","status":"FAIL"},{"name":"Text - detect(empty src)","status":"PASS"}]}
