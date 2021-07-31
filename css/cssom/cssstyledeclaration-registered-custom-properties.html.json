@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Registered custom properties are included in CSSComputedStyleDeclaration","status":"FAIL"},{"name":"Only relevant custom properties are included","status":"FAIL"}]}

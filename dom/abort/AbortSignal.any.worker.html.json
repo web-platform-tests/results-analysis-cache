@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"the AbortSignal.abort() static returns an already aborted signal","status":"FAIL"},{"name":"signal returned by AbortSignal.abort() should not fire abort event","status":"FAIL"}]}

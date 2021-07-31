@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SanitizerAPI getDefaultConfiguration()","status":"FAIL"},{"name":"SanitizerAPI getConfiguration() on default created Sanitizer","status":"FAIL"},{"name":"SanitizerAPI getConfiguration() reflects creation config.","status":"FAIL"}]}

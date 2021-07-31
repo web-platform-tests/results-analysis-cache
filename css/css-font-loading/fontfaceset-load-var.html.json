@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Loading \"var(--x) serif\" causes SyntaxError (document)","status":"PASS"},{"name":"Loading \"var(--x, 10px) serif\" causes SyntaxError (document)","status":"PASS"},{"name":"Loading \"var(--x) serif\" causes SyntaxError (worker)","status":"PASS"},{"name":"Loading \"var(--x, 10px) serif\" causes SyntaxError (worker)","status":"PASS"}]}

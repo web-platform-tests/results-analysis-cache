@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Poses from XRInputSource.gripSpace have emulatedPosition set properly - webgl","status":"FAIL"},{"name":"Poses from XRInputSource.gripSpace have emulatedPosition set properly - webgl2","status":"FAIL"}]}

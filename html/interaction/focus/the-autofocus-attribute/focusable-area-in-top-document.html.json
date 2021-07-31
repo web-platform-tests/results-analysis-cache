@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"If topDocument's focused area is not topDocument, autofocus is not processed.","status":"PASS"}]}

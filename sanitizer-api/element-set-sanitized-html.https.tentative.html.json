@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Sanitizer: Element.setHTML throws with insufficient arguments.","status":"PASS"},{"name":"script.setHTML should fail.","status":"FAIL"},{"name":"iframe.setHTML should fail.","status":"FAIL"},{"name":"object.setHTML should fail.","status":"FAIL"},{"name":"div.setHTML should pass.","status":"FAIL"}]}

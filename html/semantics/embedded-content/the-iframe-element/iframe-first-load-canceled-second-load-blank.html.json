@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"about:blank navigation is asynchronous, even if the initial one is canceled.","status":"PASS"}]}
