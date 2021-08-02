@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getUserMedia({video:true}) creates a stream with a properly initialized video track","status":"PASS"}]}
