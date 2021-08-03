@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that currentTaskSignal propagates priority even if an explicit signal was not given","status":"PASS"}]}
