@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"exercises an applyConstraints() - getSettings() cycle with PTZ permission granted","status":"PASS"},{"name":"exercises an applyConstraints() with PTZ permission denied","status":"PASS"}]}
