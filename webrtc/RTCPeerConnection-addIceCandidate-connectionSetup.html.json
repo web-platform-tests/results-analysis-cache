@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Candidates are added dynamically; connection should work","status":"FAIL"},{"name":"Candidates are added at PC1; connection should work","status":"TIMEOUT"},{"name":"Candidates are added at PC2; connection should work","status":"NOTRUN"}]}
