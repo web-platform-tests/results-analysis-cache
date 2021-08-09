@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":":dir() allows any ident value but strings other than ltr/rtl don't match","status":"PASS"},{"name":":dir() requires exactly an ident argument","status":"PASS"},{"name":":dir() works in compound selectors","status":"FAIL"},{"name":":dir() works in complex selectors","status":"FAIL"}]}
