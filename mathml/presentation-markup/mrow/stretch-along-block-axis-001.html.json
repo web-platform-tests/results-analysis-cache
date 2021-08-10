@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Taking into account stretch axis.","status":"FAIL"},{"name":"Taking into account stretchy property.","status":"FAIL"},{"name":"Only operators with a stretchy property and block stretch axis.","status":"FAIL"},{"name":"Operators smaller and larger than non-stretchy siblings.","status":"FAIL"}]}
