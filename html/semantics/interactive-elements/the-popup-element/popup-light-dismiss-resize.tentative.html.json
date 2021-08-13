@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Popup should be closed by an explicit resize of the popup","status":"TIMEOUT"},{"name":"Popup should be closed by an implicit resize of the popup","status":"NOTRUN"}]}
