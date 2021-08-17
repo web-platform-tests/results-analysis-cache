@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigate() navigates cross-document and fires onnavigate","status":"PASS"}]}
