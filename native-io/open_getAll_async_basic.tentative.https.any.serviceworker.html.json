@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"storageFoundation.getAll returns file created by storageFoundation.open","status":"FAIL"}]}
