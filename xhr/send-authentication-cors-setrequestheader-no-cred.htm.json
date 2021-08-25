@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CORS request with setRequestHeader auth to URL accepting Authorization header","status":"PASS"},{"name":"CORS request with setRequestHeader auth to URL NOT accepting Authorization header","status":"PASS"}]}
