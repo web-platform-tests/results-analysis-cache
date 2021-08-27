@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"subresource CORP","status":"PASS"},{"name":"navigation CORP","status":"FAIL"},{"name":"COEP violation on nested frame navigation","status":"FAIL"},{"name":"Two COEP headers, split inside report-to value","status":"FAIL"},{"name":"Shared worker fetch","status":"FAIL"}]}
