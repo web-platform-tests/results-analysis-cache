@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that currentTaskSignal works through promise resolution with fetch","status":"PASS"}]}
