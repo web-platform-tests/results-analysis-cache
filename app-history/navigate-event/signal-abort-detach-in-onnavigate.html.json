@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window detach inside AppHistoryNavigateEvent signals AppHistoryNavigateEvent.signal","status":"PASS"}]}
