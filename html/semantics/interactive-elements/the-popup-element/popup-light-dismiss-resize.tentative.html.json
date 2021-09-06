@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Popup should be closed by an explicit resize of the popup","status":"PASS"},{"name":"Popup should be closed by an implicit resize of the popup","status":"PASS"}]}
