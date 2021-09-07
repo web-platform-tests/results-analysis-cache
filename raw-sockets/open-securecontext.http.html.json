@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.openTCPSocket must be undefined in non-secure context","status":"PASS"},{"name":"navigator.openUDPSocket must be undefined in non-secure context","status":"PASS"}]}
