@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"@font-face declarations are instances of CSSFontFaceRule","status":"PASS"},{"name":"The style attribute must return a CSSStyleDeclaration block","status":"PASS"}]}
