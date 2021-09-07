@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Expect network error for script with 0x00 in a header","status":"PASS"},{"name":"Expect network error for frame navigation to resource with 0x00 in a header","status":"FAIL"},{"name":"Expect network error for image with 0x00 in a header","status":"PASS"}]}
