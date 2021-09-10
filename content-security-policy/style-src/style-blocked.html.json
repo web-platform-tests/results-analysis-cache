@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Violated directive is script-src-elem.","status":"FAIL"},{"name":"document.styleSheets should contain an item for the blocked CSS.","status":"FAIL"}]}
