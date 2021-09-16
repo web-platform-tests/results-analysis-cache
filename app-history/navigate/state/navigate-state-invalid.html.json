@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"navigate() with an unserializable state object (WriteableStream)","status":"FAIL"},{"name":"navigate() with an unserializable state object (SharedArrayBuffer)","status":"FAIL"}]}
