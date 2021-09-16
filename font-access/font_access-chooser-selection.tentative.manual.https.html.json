@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"query() with selection works","status":"FAIL"},{"name":"query() with empty selection bag works","status":"FAIL"}]}
