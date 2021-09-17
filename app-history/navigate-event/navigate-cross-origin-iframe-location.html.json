@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"location API on another window fires navigate event even if the target window is cross-origin","status":"PASS"}]}
