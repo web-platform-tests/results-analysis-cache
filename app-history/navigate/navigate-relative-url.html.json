@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigate() should resolve urls relative to appHistory object, not the caller","status":"PASS"}]}
