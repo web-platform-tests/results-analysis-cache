@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"reload() and transitionWhile() with a rejected promise","status":"FAIL"}]}
