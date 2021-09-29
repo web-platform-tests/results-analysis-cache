@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"updateCurrent() with unserializable state while not fully active must throw an \"InvalidStateError\", not a \"DataCloneError\"","status":"PASS"}]}
