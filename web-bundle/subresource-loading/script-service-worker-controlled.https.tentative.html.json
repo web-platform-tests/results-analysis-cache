@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Both Web Bundle request and Subresource fetch requests inside the Web Bundle should skip the service worker.","status":"TIMEOUT"}]}
