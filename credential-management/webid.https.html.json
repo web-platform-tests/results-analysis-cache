@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.credentials.get() with a FederatedIdentityProvider.","status":"FAIL"},{"name":"navigator.credentials.revoke() basic.","status":"FAIL"},{"name":"navigator.credentials.logout() basic.","status":"FAIL"}]}
