@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"createAdRequest() should be supported on the navigator interface.","status":"FAIL"},{"name":"createAdRequest() should reject with NotSupported initially.","status":"FAIL"}]}
