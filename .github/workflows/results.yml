@@ -22,7 +22,7 @@ jobs:
       run: npm ci
       working-directory: wpt-results-analysis
     - name: Update
-      run: node git-write.js --max-time=3000
+      run: node git-write.js --max-time=3000 --max-age-days=90
       working-directory: wpt-results-analysis
     - name: Push new runs
       run: |
