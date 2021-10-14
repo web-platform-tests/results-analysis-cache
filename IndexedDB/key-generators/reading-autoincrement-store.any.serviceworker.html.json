@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IDBObjectStore.getAll() for an autoincrement store","status":"PASS"},{"name":"IDBObjectStore.getAllKeys() for an autoincrement store","status":"PASS"},{"name":"IDBObjectStore.get() for an autoincrement store","status":"PASS"}]}
