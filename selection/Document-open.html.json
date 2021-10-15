@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Selection must not be replaced with a new object after document.open()","status":"FAIL"}]}
