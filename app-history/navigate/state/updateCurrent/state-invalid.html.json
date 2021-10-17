@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"updateCurrent() must throw if state is unserializable (WritableStream)","status":"FAIL"},{"name":"updateCurrent() must throw if state is unserializable (SharedArrayBuffer)","status":"FAIL"}]}
