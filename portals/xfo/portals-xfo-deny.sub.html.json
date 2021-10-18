@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"`XFO: DENY` blocks same-origin portals.","status":"FAIL"},{"name":"`XFO: DENY` blocks cross-origin portals.","status":"FAIL"},{"name":"Portals blocked by `XFO: DENY` cannot be activated.","status":"FAIL"}]}
