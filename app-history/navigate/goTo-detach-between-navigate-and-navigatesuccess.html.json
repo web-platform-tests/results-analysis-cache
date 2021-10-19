@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Detach a window between when a goTo() fires navigate and navigatesuccess","status":"PASS"}]}
