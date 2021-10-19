@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test partitioned cookies","status":"PASS"},{"name":"HTTP partitioned cookie on the top-level site it was created in","status":"PASS"},{"name":"Cross-site window opened correctly","status":"PASS"},{"name":"HTTP partitioned cookie on a different top-level site","status":"FAIL"}]}
