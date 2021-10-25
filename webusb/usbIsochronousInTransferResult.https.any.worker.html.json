@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Can construct a USBIsochronousInTransferResult","status":"FAIL"},{"name":"Can construct a USBIsochronousInTransferResult without a DataView","status":"FAIL"},{"name":"Cannot construct a USBIsochronousInTransferResult without packets","status":"FAIL"}]}
