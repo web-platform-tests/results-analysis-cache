@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Ensure that WebUSB is inaccessible from a service worker.","status":"TIMEOUT"}]}
