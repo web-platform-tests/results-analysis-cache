@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Subresource loading from WebBundles should respect Cross-Origin-Resource-Policy header.","status":"FAIL"},{"name":"Urn:uuid iframes should not be blocked regardless of the Cross-Origin-Resource-Policy header, if Cross-Origin-Embedder-Policy is not set.","status":"TIMEOUT"}]}
