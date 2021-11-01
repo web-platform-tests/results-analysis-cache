@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"AppHistoryCurrentChangeEvent fires for appHistory.navigate() with replace","status":"FAIL"}]}
