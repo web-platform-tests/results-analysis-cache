@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"appHistory.current/entries()/canGoBack/canGoForward after iframe removal","status":"PASS"}]}
