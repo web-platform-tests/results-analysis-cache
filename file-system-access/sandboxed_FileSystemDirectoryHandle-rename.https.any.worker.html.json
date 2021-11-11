@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"rename(name) to rename an empty directory","status":"FAIL"},{"name":"rename(\"\") to rename an empty directory fails","status":"FAIL"},{"name":"rename(name) to rename a non-empty directory","status":"FAIL"}]}
