@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that currentTaskSignal wraps and follows an AbortSignal","status":"FAIL"}]}
