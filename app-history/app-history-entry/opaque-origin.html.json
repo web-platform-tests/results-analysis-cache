@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"appHistory.current/entries()/canGoBack/canGoForward in an opaque origin iframe","status":"PASS"}]}
