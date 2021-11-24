@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_payload","status":"PASS"},{"name":"test_keeps_current_window_handle","status":"PASS"},{"name":"test_opens_about_blank_in_new_tab","status":"PASS"},{"name":"test_sets_no_window_name","status":"PASS"},{"name":"test_sets_no_opener","status":"PASS"}]}
