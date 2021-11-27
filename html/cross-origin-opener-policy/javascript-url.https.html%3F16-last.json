@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigation: SAME_ORIGIN; parentCOOP: same-origin; childCOOP: same-origin","status":"FAIL"},{"name":"navigation: SAME_SITE; parentCOOP: same-origin; childCOOP: same-origin","status":"FAIL"}]}
