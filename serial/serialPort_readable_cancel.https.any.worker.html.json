@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Can cancel while reading","status":"PASS"},{"name":"Can close while canceling","status":"PASS"},{"name":"Cancel discards a small amount of data waiting to be read","status":"PASS"},{"name":"Cancel discards a large amount of data waiting to be read","status":"PASS"}]}
