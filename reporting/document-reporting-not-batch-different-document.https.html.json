@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Reports are not batched for same url in different document.","status":"FAIL"}]}
