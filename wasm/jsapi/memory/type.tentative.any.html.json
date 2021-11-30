@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Zero initial, no maximum","status":"PASS"},{"name":"Non-zero initial, no maximum","status":"PASS"},{"name":"Zero maximum","status":"PASS"},{"name":"None-zero maximum","status":"PASS"},{"name":"non-shared memory","status":"PASS"},{"name":"shared memory","status":"FAIL"}]}
