@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"traversals in the same (back) direction: the second is ignored","status":"FAIL"},{"name":"traversals in the same (forward) direction: the second is ignored","status":"FAIL"}]}
