@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Set/Get cookie via JS API","status":"FAIL"},{"name":"Get Cookie via subresource requests","status":"FAIL"},{"name":"Set Cookie via subresource requests","status":"TIMEOUT"},{"name":"Set Cookie via navigation requests","status":"NOTRUN"}]}

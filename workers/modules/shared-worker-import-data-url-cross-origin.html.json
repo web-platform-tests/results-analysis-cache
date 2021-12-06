@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"static import data url from data: URL should be allowed.","status":"FAIL"},{"name":"static import script from data: URL should be allowed.","status":"FAIL"},{"name":"dynamic import data url from data: URL should be allowed.","status":"FAIL"},{"name":"dynamic import script from data: URL should be blocked.","status":"FAIL"}]}
