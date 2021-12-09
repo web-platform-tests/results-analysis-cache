@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that no error occurs when an empty import assertion clause is provided.","status":"FAIL"}]}
