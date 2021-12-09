@@ -8,14 +8,14 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
     - name: Checkout wpt-results-analysis
-      uses: actions/checkout@master
+      uses: actions/checkout@v2
       with:
         repository: ecosystem-infra/wpt-results-analysis
         ref: main
         fetch-depth: 1
         path: wpt-results-analysis
     - name: Setup node.js
-      uses: actions/setup-node@master
+      uses: actions/setup-node@v2
       with:
         node-version: 10.x
     - name: Install
