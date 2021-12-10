@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"same-document traversals are not canceled by fragment navigations","status":"FAIL"},{"name":"same-document traversals are not canceled by pushState()","status":"FAIL"}]}
