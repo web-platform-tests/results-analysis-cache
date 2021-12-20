@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"shared-worker","status":"PASS"},{"name":"fetch same-origin","status":"PASS"},{"name":"fetch same-origin + credentialless worker","status":"PASS"},{"name":"fetch cross-origin","status":"PASS"},{"name":"fetch cross-origin + credentialless worker","status":"FAIL"}]}
