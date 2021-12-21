@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-document navigation in an iframe blocked by CSP frame-src","status":"PASS"}]}
