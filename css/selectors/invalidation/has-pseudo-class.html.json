@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initial color","status":"PASS"},{"name":"Set checked on checkbox","status":"FAIL"},{"name":"Unset checked on checkbox","status":"PASS"},{"name":"Set selected on option","status":"FAIL"},{"name":"Unset selected on option","status":"PASS"}]}
