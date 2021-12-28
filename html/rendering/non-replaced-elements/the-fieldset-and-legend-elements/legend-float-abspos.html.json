@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"no dynamic changes","status":"PASS"},{"name":"inserting a new legend and removing it again","status":"PASS"},{"name":"dynamic changes to float","status":"PASS"},{"name":"dynamic changes to position","status":"PASS"}]}
