@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"On ICE connected, getStats() contains a connected candidate-pair","status":"PASS"}]}
