@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"innerHTML in XHTML: getting while the document is in an invalid state","status":"FAIL"},{"name":"innerHTML in XHTML: getting while the document is in an invalid state 1","status":"FAIL"}]}
