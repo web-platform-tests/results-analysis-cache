@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"\"*.pastoral\" should be a valid selector","status":"PASS"},{"name":"\".pastoral\" should be a valid selector","status":"PASS"},{"name":"\"h1.pastoral\" should be a valid selector","status":"PASS"},{"name":"\"p.pastoral.marine\" should be a valid selector","status":"PASS"}]}
