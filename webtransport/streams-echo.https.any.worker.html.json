@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"WebTransport server should be able to create and handle a bidirectional stream","status":"PASS"},{"name":"WebTransport server should be able to accept and handle a bidirectional stream","status":"PASS"},{"name":"WebTransport server should be able to create, accept, and handle a unidirectional stream","status":"PASS"}]}
