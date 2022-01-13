@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"self.event is set before 'handleEvent' lookup","status":"FAIL"}]}
