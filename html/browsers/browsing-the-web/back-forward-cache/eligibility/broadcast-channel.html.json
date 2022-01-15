@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Eligibility (BroadcastChannel)","status":"FAIL"},{"name":"Eligibility (BroadcastChannel closed in the pagehide event)","status":"FAIL"}]}
