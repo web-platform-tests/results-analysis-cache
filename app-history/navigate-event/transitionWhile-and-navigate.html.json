@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Using transitionWhile then navigate() in the ensuing currentchange should abort the transitionWhile","status":"FAIL"}]}
