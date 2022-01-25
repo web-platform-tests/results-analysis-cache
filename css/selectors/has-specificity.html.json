@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":":has(.c) < :has(.a.c) == :has(.b.c), so :has(.b.c) wins","status":"FAIL"},{"name":":has(.c) < :has(.a.c), so :has(.a.c) wins","status":"FAIL"},{"name":":has(.c) < :has(.b.c), so :has(.b.c) wins","status":"FAIL"},{"name":":has(child3) < :has(child1 + child2), so :has(child1 + child2) wins","status":"FAIL"}]}
