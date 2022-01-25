@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Nested worker that calls importScripts()","status":"TIMEOUT"}]}

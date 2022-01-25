@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"AppHistoryCurrentChangeEvent fires for appHistory.reload() intercepted by transitionWhile","status":"FAIL"}]}
