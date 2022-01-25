@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"service-worker","status":"PASS"},{"name":"fetch same-origin","status":"PASS"},{"name":"fetch same-origin + credentialless worker","status":"TIMEOUT"},{"name":"fetch cross-origin","status":"NOTRUN"},{"name":"fetch cross-origin + credentialless worker","status":"NOTRUN"}]}
