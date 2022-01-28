@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"event and promise ordering for appHistory.navigate() with a rejected promise passed to transitionWhile()","status":"PASS"}]}
