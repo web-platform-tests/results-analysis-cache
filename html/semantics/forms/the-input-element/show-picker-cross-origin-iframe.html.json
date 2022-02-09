@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test showPicker() called from cross-origin iframe","status":"PASS"},{"name":"Test showPicker() called from cross-origin iframe 1","status":"FAIL"},{"name":"Test showPicker() called from cross-origin iframe 2","status":"PASS"},{"name":"Test showPicker() called from cross-origin iframe 3","status":"FAIL"}]}
