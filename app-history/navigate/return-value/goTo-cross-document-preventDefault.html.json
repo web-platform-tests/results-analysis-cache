@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"goTo() promise never settle when preventDefault()ing the navigate event (cross-document)","status":"PASS"}]}
