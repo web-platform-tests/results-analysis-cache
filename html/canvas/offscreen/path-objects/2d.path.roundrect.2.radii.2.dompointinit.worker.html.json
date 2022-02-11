@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify that when two radii are given to roundRect(), the second radius, specified as a DOMPoint, applies to the top-right and bottomInit-left corners.","status":"PASS"}]}
