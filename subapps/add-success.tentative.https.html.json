@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Same origin fully qualified URL.","status":"FAIL"},{"name":"Relative path.","status":"NOTRUN"},{"name":"Absolute path.","status":"NOTRUN"}]}
