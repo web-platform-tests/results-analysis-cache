@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Exiting fullscreen from a nested shadow root works correctly.","status":"PASS"}]}
