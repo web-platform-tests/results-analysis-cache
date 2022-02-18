@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify write and read clipboard given 2 platform-neutral custom format inputs","status":"PASS"},{"name":"navigator.clipboard.write() fails for more than 100 custom formats","status":"PASS"}]}
