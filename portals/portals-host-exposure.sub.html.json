@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.portalHost should be exposed in same-origin portal","status":"FAIL"},{"name":"window.portalHost should be exposed in cross-origin portal","status":"FAIL"},{"name":"window.portalHost should be exposed in portal after cross-origin navigation","status":"FAIL"}]}
