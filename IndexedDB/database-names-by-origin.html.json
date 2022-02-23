@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"open database names don't leak to cross-origin iframe","status":"FAIL"},{"name":"open database names don't leak to cross-origin window","status":"FAIL"},{"name":"closed database names don't leak to cross-origin iframe","status":"FAIL"},{"name":"closed database names don't leak to cross-origin window","status":"PASS"}]}
