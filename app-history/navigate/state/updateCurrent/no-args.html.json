@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"updateCurrent() must throw if state is not given","status":"PASS"}]}
