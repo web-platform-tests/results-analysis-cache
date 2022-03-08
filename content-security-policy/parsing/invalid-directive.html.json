@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Even if an unknown directive is specified, img-src is honored.","status":"TIMEOUT"}]}
