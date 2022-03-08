@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"storageFoundation.getAll does not return file deleted by storageFoundation.delete","status":"PASS"},{"name":"storageFoundation.delete does not fail when deleting a non-existing file","status":"PASS"}]}
