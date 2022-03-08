@@ -1,2 +1,2 @@
-# wpt-results
-Storage for https://github.com/ecosystem-infra/wpt-results-analysis
+# results-analysis-cache
+Storage for https://github.com/web-platform-tests/results-analysis
