@@ -7,25 +7,25 @@ jobs:
   update:
     runs-on: ubuntu-20.04
     steps:
-    - name: Checkout wpt-results-analysis
+    - name: Checkout results-analysis
       uses: actions/checkout@v2
       with:
-        repository: ecosystem-infra/wpt-results-analysis
+        repository: web-platform-tests/results-analysis
         ref: main
         fetch-depth: 1
-        path: wpt-results-analysis
+        path: results-analysis
     - name: Setup node.js
       uses: actions/setup-node@v2
       with:
         node-version: '14'
     - name: Install
       run: npm ci
-      working-directory: wpt-results-analysis
+      working-directory: results-analysis
     - name: Update
       run: node git-write.js --max-time=3000 --max-age-days=90
-      working-directory: wpt-results-analysis
+      working-directory: results-analysis
     - name: Push new runs
       run: |
         git remote set-url --push origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
         git push origin --tags
-      working-directory: wpt-results-analysis/wpt-results.git
+      working-directory: results-analysis/results-analysis-cache.git
