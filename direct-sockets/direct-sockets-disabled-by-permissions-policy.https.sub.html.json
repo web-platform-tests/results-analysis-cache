@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"direct sockets (TCP) can be disabled by feature policy","status":"FAIL"},{"name":"direct sockets (UDP) can be disabled by feature policy","status":"FAIL"}]}
