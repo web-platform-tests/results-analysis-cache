@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"focus delegate step should not be run when the focus target is a shadow-including inclusive ancestor of the current focus.","status":"PASS"}]}
