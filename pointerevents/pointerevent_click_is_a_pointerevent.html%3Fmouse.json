@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"click using mouse is a PointerEvent","status":"PASS"},{"name":"click in a subframe using mouse is a PointerEvent","status":"PASS"}]}
