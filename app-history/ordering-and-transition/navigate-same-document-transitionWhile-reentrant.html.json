@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"event and promise ordering for same-document appHistory.navigate() inside the navigate handler","status":"PASS"}]}
