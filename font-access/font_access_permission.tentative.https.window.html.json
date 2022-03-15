@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"query(): permission not given","status":"FAIL"},{"name":"query(): permission denied","status":"FAIL"},{"name":"query(): permission granted","status":"FAIL"}]}
