@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Tests that sandboxed iframe has CORS XHR access to a server that accepts null domain","status":"TIMEOUT"}]}
