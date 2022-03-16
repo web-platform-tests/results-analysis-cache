@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"AppHistoryNavigateEvent's transitionWhile() can intercept navigation.back()","status":"FAIL"}]}
