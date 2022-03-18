@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"'blocking' IDL attribute of the link element","status":"PASS"},{"name":"'blocking' IDL attribute of the script element","status":"PASS"},{"name":"'blocking' IDL attribute of the style element","status":"PASS"}]}
