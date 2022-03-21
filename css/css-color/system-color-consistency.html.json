@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property color value 'ButtonText' has the same color as text on a button","status":"PASS"},{"name":"Property color value 'ButtonText' has the same color as text on a submit button","status":"PASS"},{"name":"Property color value 'ButtonText' has the same color as text on a reset button","status":"PASS"}]}
