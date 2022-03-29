@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"A worker is able to initialize a MediaStreamTrackGenerator without crashing","status":"TIMEOUT"},{"name":"A worker is able to enable a MediaStreamTrackGenerator without crashing","status":"NOTRUN"},{"name":"A worker is able to disable a MediaStreamTrackGenerator without crashing","status":"NOTRUN"}]}
