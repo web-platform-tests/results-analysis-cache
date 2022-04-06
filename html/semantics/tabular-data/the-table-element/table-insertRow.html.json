@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"insertRow should not copy prefixes","status":"PASS"},{"name":"insertRow should insert into a tbody, not into a thead, if table.rows is empty","status":"PASS"},{"name":"insertRow should insert into a tbody, not into a tfoot, if table.rows is empty","status":"PASS"}]}
