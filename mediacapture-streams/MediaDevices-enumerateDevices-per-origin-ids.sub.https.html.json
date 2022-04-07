@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"enumerateDevices has stable deviceIds across same-origin iframe","status":"PASS"},{"name":"enumerateDevices rotates deviceId across different-origin iframe","status":"PASS"},{"name":"enumerateDevices rotates deviceId after clearing site data","status":"FAIL"}]}
