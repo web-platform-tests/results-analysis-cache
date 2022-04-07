@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"A SerialPort cannot be closed if it was never opened.","status":"PASS"},{"name":"A SerialPort cannot be closed if it is already closed.","status":"TIMEOUT"},{"name":"A SerialPort cannot be closed if it is being closed.","status":"NOTRUN"}]}
