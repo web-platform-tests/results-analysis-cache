@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Denying idle-detection permission should block access.","status":"FAIL"},{"name":"Granting idle-detection permission should allow access.","status":"FAIL"},{"name":"The idle-detection permission cannot be requested without a user gesture","status":"FAIL"}]}
