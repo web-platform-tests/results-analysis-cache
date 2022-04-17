@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Relative URL-like from worker top-level script","status":"PASS"},{"name":"Absolute URL-like from worker top-level script","status":"PASS"}]}
