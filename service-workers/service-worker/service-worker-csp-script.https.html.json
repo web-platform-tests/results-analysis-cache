@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"CSP test for script-src in ServiceWorkerGlobalScope","status":"TIMEOUT"},{"name":"importScripts test for script-src","status":"PASS"},{"name":"eval test for script-src","status":"PASS"},{"name":"Fetch test for script-src","status":"TIMEOUT"},{"name":"Redirected fetch test for script-src","status":"TIMEOUT"}]}
