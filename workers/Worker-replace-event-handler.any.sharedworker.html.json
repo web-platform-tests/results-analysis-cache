@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Tests that repeatedly setting 'onmessage' within a worker doesn't crash.","status":"PASS"}]}
