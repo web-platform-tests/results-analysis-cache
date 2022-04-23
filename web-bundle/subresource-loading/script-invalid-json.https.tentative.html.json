@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Invalid JSON rule should make the script loader report an exception and throw error on the window.","status":"PASS"}]}
