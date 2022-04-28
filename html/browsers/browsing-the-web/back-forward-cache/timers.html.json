@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Timers should be paused when the page is in BFCache","status":"FAIL"}]}
