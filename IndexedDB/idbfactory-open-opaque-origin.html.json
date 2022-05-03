@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IDBFactory.open() in non-sandboxed iframe should not throw","status":"PASS"},{"name":"IDBFactory.open() in sandboxed iframe should throw SecurityError","status":"PASS"}]}
