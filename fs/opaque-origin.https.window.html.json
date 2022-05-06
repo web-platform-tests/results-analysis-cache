@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"FileSystemDirectoryHandle must be undefined for data URI iframes.","status":"PASS"},{"name":"navigator.storage.getDirectory() must reject in a sandboxed iframe.","status":"PASS"},{"name":"navigator.storage.getDirectory() must reject in a sandboxed opened window.","status":"PASS"}]}
