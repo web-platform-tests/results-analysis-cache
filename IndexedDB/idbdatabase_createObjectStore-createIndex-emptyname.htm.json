@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IDBDatabase.createObjectStore() and IDBObjectStore.createIndex() - both with empty name","status":"PASS"}]}
