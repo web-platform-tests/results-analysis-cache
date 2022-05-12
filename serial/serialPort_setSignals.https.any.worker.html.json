@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"setSignals() rejects if the port is not open","status":"FAIL"},{"name":"setSignals() modifies the state of the port","status":"FAIL"},{"name":"setSignals() rejects on failure","status":"FAIL"}]}
