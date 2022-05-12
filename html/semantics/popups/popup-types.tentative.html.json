@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"hints and asyncs do not close popups","status":"PASS"},{"name":"popups close hints but not asyncs","status":"PASS"},{"name":"hint, even with popup ancestor, closes with first popup","status":"PASS"}]}
