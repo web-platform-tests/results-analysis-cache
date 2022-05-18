@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"bluetooth-reporting","status":"FAIL"},{"name":"getAvailability in bluetooth reporting mode","status":"TIMEOUT"},{"name":"getDevices in bluetooth reporting mode","status":"NOTRUN"},{"name":"requestDevice in bluetooth reporting mode","status":"NOTRUN"},{"name":"requestLEScan in bluetooth reporting mode","status":"NOTRUN"}]}
