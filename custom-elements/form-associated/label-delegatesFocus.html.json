@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Clicking on a label for a form associated custom element with delegatesFocus should focus the custom element's focus delegate.","status":"PASS"}]}
