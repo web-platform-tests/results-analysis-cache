@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Parents embeds a CSP:frame-ancestore anonymous iframe","status":"PASS"},{"name":"Cross-Origin-Isolated parent embeds same-origin COEP anonymous iframe","status":"PASS"}]}
