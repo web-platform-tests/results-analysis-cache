@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"ComputePressureObserver should support at least \"cpu\"","status":"PASS"},{"name":"ComputePressureObserver must return always the same array","status":"PASS"},{"name":"ComputePressureObserver must return a frozen array","status":"PASS"}]}
