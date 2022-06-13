@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"button element with accesskey in the shadow tree of open mode","status":"PASS"},{"name":"button element with accesskey in the shadow tree of closed mode","status":"PASS"}]}
