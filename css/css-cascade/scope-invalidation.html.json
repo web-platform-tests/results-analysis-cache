@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Element becoming scope root","status":"FAIL"},{"name":"Element becoming scope root, with inner selector matching that root","status":"FAIL"},{"name":"Element becoming scope limit","status":"FAIL"},{"name":"Toggling inner/outer scope roots","status":"FAIL"},{"name":"Element becoming root, with :scope in subject","status":"FAIL"}]}
