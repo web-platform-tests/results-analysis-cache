@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Hit-testing cannot reach pseudo elements of inert nodes","status":"FAIL"},{"name":"Hit-testing can reach pseudo elements of non-inert nodes","status":"FAIL"}]}
