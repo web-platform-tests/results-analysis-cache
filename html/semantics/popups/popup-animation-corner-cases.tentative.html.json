@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Descendent animations should keep the popup visible until the animation ends","status":"FAIL"},{"name":"Pre-existing animations should *not* keep the popup visible until the animation ends","status":"FAIL"}]}
