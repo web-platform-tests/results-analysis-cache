@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"event and promise ordering for the location.href setter intercepted by transitionWhile() where we set location.href again inside the navigate handler","status":"TIMEOUT"}]}
