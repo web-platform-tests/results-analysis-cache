@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test createSyncAccessHandle.truncate with pending operation","status":"FAIL"},{"name":"test SyncAccessHandle.truncate with different sizes","status":"FAIL"},{"name":"test SyncAccessHandle.truncate after SyncAccessHandle.write","status":"FAIL"}]}
