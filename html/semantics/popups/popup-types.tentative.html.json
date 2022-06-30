@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"hints and manuals do not close popups","status":"FAIL"},{"name":"popups close hints but not manuals","status":"FAIL"},{"name":"hint, even with popup ancestor, closes with first popup","status":"FAIL"}]}
