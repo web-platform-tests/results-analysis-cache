@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Interface objects properties should not be Enumerable","status":"PASS"},{"name":"Should be able to delete Event.","status":"PASS"},{"name":"Should be able to delete CustomEvent.","status":"PASS"},{"name":"Should be able to delete EventTarget.","status":"PASS"},{"name":"Should be able to delete AbortController.","status":"PASS"}]}
