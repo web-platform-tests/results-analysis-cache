@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Parent embeds same-origin anonymous iframe","status":"PASS"},{"name":"Parent embeds cross-origin anonymous iframe","status":"PASS"}]}
