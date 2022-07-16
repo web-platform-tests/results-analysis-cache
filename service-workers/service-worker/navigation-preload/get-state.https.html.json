@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getState","status":"PASS"},{"name":"getState from a worker","status":"PASS"},{"name":"no active worker","status":"PASS"}]}
