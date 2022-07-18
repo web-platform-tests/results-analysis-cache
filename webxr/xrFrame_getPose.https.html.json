@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XRFrame.getPose works for immersive sessions - webgl","status":"PASS"},{"name":"XRFrame.getPose works for immersive sessions - webgl2","status":"PASS"},{"name":"XRFrame.getPose works for non-immersive sessions - webgl","status":"PASS"},{"name":"XRFrame.getPose works for non-immersive sessions - webgl2","status":"PASS"}]}
