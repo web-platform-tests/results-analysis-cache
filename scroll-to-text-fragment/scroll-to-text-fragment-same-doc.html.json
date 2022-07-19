@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Activated for same-document window.location setter","status":"FAIL"},{"name":"Activated for same-document window.location.replace","status":"FAIL"}]}
