@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"scrollRestoration: restoreScroll() should throw after a navigation finished promise fulfills","status":"FAIL"}]}
