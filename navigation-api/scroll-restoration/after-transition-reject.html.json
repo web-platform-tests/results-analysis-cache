@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"scrollRestoration: after-transition should not scroll when the intercept() handler rejects","status":"FAIL"}]}
