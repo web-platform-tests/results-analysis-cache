@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"event and promise ordering for <a download> intercepted by passing a rejected promise to intercept()","status":"TIMEOUT"}]}
