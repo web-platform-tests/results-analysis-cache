@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"event.intercept() should proceed if the given promise resolves","status":"PASS"}]}
