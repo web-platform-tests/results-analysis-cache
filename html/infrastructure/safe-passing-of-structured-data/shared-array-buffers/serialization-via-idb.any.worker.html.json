@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"SharedArrayBuffer cloning via IndexedDB: basic case","status":"TIMEOUT"},{"name":"SharedArrayBuffer cloning via the IndexedDB: is interleaved correctly","status":"TIMEOUT"}]}
