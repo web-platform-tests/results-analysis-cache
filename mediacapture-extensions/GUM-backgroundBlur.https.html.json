@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test getSupportedConstraints().backgroundBlur","status":"PRECONDITION_FAILED"},{"name":"Test getCapabilities().backgroundBlur","status":"TIMEOUT"},{"name":"Test getSettings().backgroundBlur","status":"NOTRUN"},{"name":"Test applyConstraints() with backgroundBlur","status":"NOTRUN"}]}
