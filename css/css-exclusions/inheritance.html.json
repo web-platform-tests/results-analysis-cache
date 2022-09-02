@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property wrap-flow has initial value auto","status":"FAIL"},{"name":"Property wrap-flow does not inherit","status":"FAIL"},{"name":"Property wrap-through has initial value wrap","status":"FAIL"},{"name":"Property wrap-through does not inherit","status":"FAIL"}]}
