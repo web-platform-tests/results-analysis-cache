@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property outline-color value 'currentColor'","status":"PASS"},{"name":"Property outline-color value 'red'","status":"PASS"},{"name":"invert, if supported, computes to invert","status":"PASS"}]}
