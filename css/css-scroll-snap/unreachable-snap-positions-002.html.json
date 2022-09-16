@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Unreachable snap point with `scroll-snap-align: end`","status":"FAIL"},{"name":"Unreachable snap point with `scroll-snap-align: center`","status":"FAIL"},{"name":"Unreachable snap point with `scroll-snap-align: end` in RTL","status":"FAIL"},{"name":"Unreachable snap point with `scroll-snap-align: center` in RTL","status":"FAIL"}]}
