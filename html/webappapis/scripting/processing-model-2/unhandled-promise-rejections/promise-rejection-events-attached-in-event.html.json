@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Attaching a handler in unhandledrejection should not trigger rejectionhandled.","status":"PASS"}]}
