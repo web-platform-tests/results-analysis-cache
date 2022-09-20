@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Allow XMLHttpRequest in an iframe with the sandbox attribute if sandbox='allow-same-origin'.","status":"PASS"}]}
