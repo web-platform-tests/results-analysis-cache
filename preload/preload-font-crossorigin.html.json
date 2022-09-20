@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same origin font preload with crossorigin attribute","status":"PASS"},{"name":"Same origin font preload without crossorigin attribute","status":"PASS"},{"name":"Cross origin font preload with crossorigin attribute","status":"PASS"},{"name":"Cross origin font preload without crossorigin attribute","status":"PASS"}]}
