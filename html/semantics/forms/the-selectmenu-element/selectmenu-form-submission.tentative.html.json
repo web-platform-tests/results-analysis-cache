@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that HTMLSelectMenu.value is used for form submission","status":"PASS"},{"name":"Test that HTMLSelectMenu.value is not used for form submission without name attribute","status":"PASS"}]}
