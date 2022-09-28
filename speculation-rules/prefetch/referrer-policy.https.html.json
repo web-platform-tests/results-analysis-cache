@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"with \"strict-origin-when-cross-origin\" referrer policy","status":"FAIL"},{"name":"with \"strict-origin\" referrer policy","status":"FAIL"},{"name":"with \"no-referrer\" referrer policy","status":"FAIL"}]}
