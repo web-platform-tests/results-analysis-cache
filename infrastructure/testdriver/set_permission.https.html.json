@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Grant Permission for one realm","status":"PASS"},{"name":"Deny Permission, omit one realm","status":"PASS"}]}
