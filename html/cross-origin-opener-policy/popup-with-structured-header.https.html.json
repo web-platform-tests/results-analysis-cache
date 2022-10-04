@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Same-origin popup with structured coop unsafe-none","status":"TIMEOUT"},{"name":"Same-origin popup with structured coop same-origin","status":"NOTRUN"},{"name":"Same-origin popup with structured coop same-origin-allow-popups","status":"NOTRUN"}]}
