@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Setting adaptivePtime should be accepted","status":"PASS"},{"name":"adaptivePtime should be default false","status":"PASS"}]}
