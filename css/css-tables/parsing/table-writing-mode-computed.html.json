@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Computed value of writing-mode / direction on table parts.","status":"PASS"},{"name":"Computed value of writing-mode / direction on table parts. 1","status":"FAIL"},{"name":"Computed value of writing-mode / direction on table parts. 2","status":"FAIL"},{"name":"Computed value of writing-mode / direction on table parts. 3","status":"FAIL"}]}
