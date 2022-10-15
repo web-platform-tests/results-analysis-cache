@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"visibilityState & hidden should be affected by window being minimized/restored","status":"PASS"},{"name":"visibilitychange event should be fired when minimized/restored","status":"PASS"},{"name":"iframe should receive visibility events when top level window is shown/hidden","status":"TIMEOUT"}]}
