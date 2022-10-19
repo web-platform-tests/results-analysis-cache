@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verifies that form submissions scheduled inside javascript: urls take precedence over the javascript: url's return value.","status":"PASS"}]}
