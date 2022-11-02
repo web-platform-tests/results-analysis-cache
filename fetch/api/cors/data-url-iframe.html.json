@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"fetching \"top.txt\" without ACAO should be rejected.","status":"PASS"},{"name":"fetching \"top.txt\" with CORS allowing null origin should be allowed.","status":"TIMEOUT"},{"name":"fetching data url script should be allowed.","status":"NOTRUN"}]}
