@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IDBObjectStore.delete() - delete removes record (inline keys)","status":"PASS"}]}
