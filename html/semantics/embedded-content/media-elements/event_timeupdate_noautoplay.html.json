@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"audio events - timeupdate","status":"PASS"},{"name":"calling play() on a sufficiently long audio should trigger timeupdate event","status":"PASS"},{"name":"video events - timeupdate","status":"PASS"},{"name":"calling play() on a sufficiently long video should trigger timeupdate event","status":"PASS"}]}
