@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initial empty document inherits from parent's document.","status":"PASS"},{"name":"Initial empty document inherits from its's iframe's anonymous attribute.","status":"PASS"}]}
