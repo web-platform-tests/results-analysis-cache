@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Two different elements with the same tag rejects capture","status":"FAIL"},{"name":"Two different elements with the same tag rejects start","status":"FAIL"}]}
