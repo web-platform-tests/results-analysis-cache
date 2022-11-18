@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Delete an existing database","status":"PASS"},{"name":"Delete a nonexistent database","status":"PASS"}]}
