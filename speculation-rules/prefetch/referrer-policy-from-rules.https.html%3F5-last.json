@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"with \"unsafe-url\" referrer policy in rule set overriding \"strict-origin\" of referring page","status":"PASS"}]}
