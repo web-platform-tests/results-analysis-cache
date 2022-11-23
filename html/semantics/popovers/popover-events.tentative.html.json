@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Popovershow and popoverhide events (listener) get properly dispatched for popovers","status":"FAIL"},{"name":"Popovershow and popoverhide events (attribute) get properly dispatched for popovers","status":"FAIL"},{"name":"Popovershow event is cancelable","status":"FAIL"}]}
