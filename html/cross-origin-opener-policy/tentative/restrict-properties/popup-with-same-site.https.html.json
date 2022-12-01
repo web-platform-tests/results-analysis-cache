@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Same-site popup with empty coop","status":"FAIL"},{"name":"Same-site popup with coop unsafe-none","status":"FAIL"},{"name":"Same-site popup with coop same-origin","status":"TIMEOUT"},{"name":"Same-site popup with coop same-origin-allow-popups","status":"NOTRUN"},{"name":"Same-site popup with coop restrict-properties","status":"NOTRUN"}]}

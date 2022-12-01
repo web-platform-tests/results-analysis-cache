@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Same origin openee redirected to same-origin with unsafe-none","status":"TIMEOUT"},{"name":"Cross origin openee redirected to same-origin with unsafe-none","status":"NOTRUN"}]}
