@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check that container queries is supported","status":"PASS"},{"name":"(min-width: 0) does not match a container without a principal box (display:none)","status":"PASS"},{"name":"(min-width: 0) does not match a container without a principal box (display:contents)","status":"PASS"}]}
