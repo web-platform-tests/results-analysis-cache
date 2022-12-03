@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"bdi element without dir content attribute","status":"PASS"},{"name":"bdi element with invalid dir content attribute","status":"FAIL"},{"name":"bdi element with dir=auto content attribute","status":"PASS"},{"name":"bdi element with dir=ltr content attribute","status":"PASS"},{"name":"bdi element with dir=rtl content attribute","status":"PASS"}]}
