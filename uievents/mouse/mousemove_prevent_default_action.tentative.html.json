@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"selectionchange event firing when mousemove event is prevented","status":"PASS"}]}
