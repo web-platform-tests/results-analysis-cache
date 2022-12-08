@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Wasm function throws argument","status":"PASS"},{"name":"Wasm function throws null","status":"PASS"},{"name":"Wasm function throws integer","status":"PASS"},{"name":"Imported JS function throws","status":"PASS"},{"name":"Imported JS function throws, Wasm catches and rethrows","status":"PASS"}]}
