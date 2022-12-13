@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Expected a NotAllowedError to be thrown due to untrusted event.","status":"PASS"}]}
