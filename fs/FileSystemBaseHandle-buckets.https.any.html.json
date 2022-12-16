@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"isSameEntry works as expected with buckets","status":"PASS"},{"name":"getDirectory promise rejects if bucket has been deleted","status":"TIMEOUT"}]}
