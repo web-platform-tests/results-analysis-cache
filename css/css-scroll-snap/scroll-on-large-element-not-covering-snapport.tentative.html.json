@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"There's no valid snap positions on large element if it doesn't cover the snapport","status":"PASS"}]}
