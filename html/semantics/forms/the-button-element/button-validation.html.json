@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"missing type attribute","status":"PASS"},{"name":"submit type attribute","status":"PASS"},{"name":"reset type attribute","status":"PASS"},{"name":"button type attribute","status":"PASS"},{"name":"historical menu type attribute","status":"PASS"},{"name":"invalid type attribute","status":"PASS"}]}
