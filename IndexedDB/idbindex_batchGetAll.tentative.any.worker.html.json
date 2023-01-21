@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Single getAll","status":"FAIL"},{"name":"Multiple getAll","status":"FAIL"},{"name":"Get bound range","status":"FAIL"},{"name":"Get bound range with maxCount","status":"FAIL"},{"name":"Non existent key","status":"FAIL"},{"name":"Retrieve multiEntry key","status":"FAIL"},{"name":"Retrieve one key multiple values","status":"FAIL"}]}
