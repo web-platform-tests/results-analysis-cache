@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"softmax float32 2D tensor / cpu / async","status":"NOTRUN"},{"name":"softmax float32 2D tensor / gpu / async","status":"NOTRUN"}]}
