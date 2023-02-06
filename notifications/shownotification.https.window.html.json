@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"fetching no notifications","status":"NOTRUN"},{"name":"fetching notification with an empty title","status":"NOTRUN"},{"name":"fetching notification by tag filter","status":"NOTRUN"},{"name":"fetching multiple notifications","status":"NOTRUN"}]}
