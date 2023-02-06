@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-site iframes can set lax/strict cookies via document.cookie","status":"PASS"},{"name":"Cross-site iframe cannot set lax/strict cookies via document.cookie","status":"FAIL"}]}
