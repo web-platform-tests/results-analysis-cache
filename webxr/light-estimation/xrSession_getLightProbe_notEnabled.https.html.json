@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getLightProbe rejects if not enabled on session - webgl","status":"PASS"},{"name":"getLightProbe rejects if not enabled on session - webgl2","status":"PASS"}]}
