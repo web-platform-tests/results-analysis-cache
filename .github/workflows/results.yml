@@ -5,17 +5,17 @@ on:
 name: results
 jobs:
   update:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     steps:
     - name: Checkout results-analysis
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
       with:
         repository: web-platform-tests/results-analysis
         ref: main
         fetch-depth: 1
         path: results-analysis
     - name: Setup node.js
-      uses: actions/setup-node@v2
+      uses: actions/setup-node@v3
       with:
         node-version: '14'
     - name: Install
