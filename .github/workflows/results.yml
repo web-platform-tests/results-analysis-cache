@@ -1,29 +1,44 @@
-on:
-  schedule:
-    - cron: '25 * * * *'
-  workflow_dispatch:
+# This needs to stay in sync with the update_gh_pages.yml workflow in
+# results-analysis, since both repos check out results-analysis and run the same
+# code. This setup is to avoid having a secret access token to allow a workflow
+# in one repo to push to the other repo.
 name: results
+on:
+  # Trigger every hour, or manually.
+  schedule:
+    - cron: '15 * * * *'
+  workflow_dispatch:
 jobs:
   update:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     steps:
     - name: Checkout results-analysis
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
       with:
         repository: web-platform-tests/results-analysis
         ref: main
         fetch-depth: 1
         path: results-analysis
-    - name: Setup node.js
-      uses: actions/setup-node@v2
+
+    - uses: awalsh128/cache-apt-pkgs-action@v1
       with:
-        node-version: '14'
-    - name: Install
+        packages: libssl-dev libkrb5-dev
+        version: 1.0
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+        cache: 'npm'
+
+    - name: Install dependencies
       run: npm ci
       working-directory: results-analysis
+
     - name: Update
       run: node git-write.js --max-time=3000 --max-age-days=90
       working-directory: results-analysis
+
     - name: Push new runs
       run: |
         git remote set-url --push origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
