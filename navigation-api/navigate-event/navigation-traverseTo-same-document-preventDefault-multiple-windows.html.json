@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigation.traverseTo() - if a top window cancels the traversal, any iframes should not fire navigate","status":"FAIL"}]}
