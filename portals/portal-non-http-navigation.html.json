@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Tests that a portal can't navigate to a data URL.","status":"FAIL"},{"name":"Tests that a portal can't navigate to about:blank.","status":"FAIL"},{"name":"Tests that a portal can't navigate to javascript URLs.","status":"FAIL"}]}
