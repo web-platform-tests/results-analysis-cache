@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"scale() with Infinity/NaN is ignored","status":"TIMEOUT"}]}
