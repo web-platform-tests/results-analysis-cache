@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.pdfViewerEnabled exists","status":"FAIL"},{"name":"navigator.mimeTypes is empty","status":"FAIL"},{"name":"navigator.plugins is empty","status":"FAIL"}]}
