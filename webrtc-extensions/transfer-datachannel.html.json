@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"offerer data channel in workers","status":"TIMEOUT"},{"name":"answerer data channel in workers","status":"NOTRUN"},{"name":"data channel close event in worker","status":"NOTRUN"},{"name":"Failing to transfer a data channel","status":"NOTRUN"}]}
