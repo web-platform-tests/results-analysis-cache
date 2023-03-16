@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_web_reference_created_in_classic[Element]","status":"ERROR"},{"name":"test_web_reference_created_in_classic[ShadowRoot]","status":"ERROR"},{"name":"test_web_reference_created_in_bidi[Element]","status":"ERROR"},{"name":"test_web_reference_created_in_bidi[ShadowRoot]","status":"ERROR"}]}
