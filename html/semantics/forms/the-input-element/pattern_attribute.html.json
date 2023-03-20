@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"basic <input pattern> support","status":"PASS"},{"name":"<input pattern> is Unicode code point-aware","status":"PASS"},{"name":"<input pattern> supports Unicode property escape syntax","status":"PASS"}]}
