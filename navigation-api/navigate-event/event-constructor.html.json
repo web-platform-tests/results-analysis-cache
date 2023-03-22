@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"can't bypass required members by omitting the dictionary entirely","status":"PASS"},{"name":"destination is required","status":"PASS"},{"name":"signal is required","status":"PASS"},{"name":"all properties are reflected back","status":"PASS"},{"name":"defaults are as expected","status":"PASS"}]}
