@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"getImageData() clamps colors to the range [0, 255]","status":"TIMEOUT"}]}
