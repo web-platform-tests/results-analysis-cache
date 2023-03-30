@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check number of divs","status":"PASS"},{"name":"Check div structure: network","status":"PASS"},{"name":"Check div structure: document.write","status":"PASS"}]}
