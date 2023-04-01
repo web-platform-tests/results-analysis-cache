@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"with empty string referrer policy in rule set defaulting to \"strict-origin\" of referring page","status":"FAIL"}]}
