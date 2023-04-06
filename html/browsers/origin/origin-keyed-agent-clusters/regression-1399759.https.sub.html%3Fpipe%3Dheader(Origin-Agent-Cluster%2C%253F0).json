@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check the baseURL of an about:blank document cross-origin with its parent","status":"FAIL"},{"name":"Check that about:srcdoc navigation does not follow about:blank rules.","status":"PASS"}]}
