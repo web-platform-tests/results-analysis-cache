@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A regular write request to a writable characteristic should succeed.","status":"FAIL"}]}
