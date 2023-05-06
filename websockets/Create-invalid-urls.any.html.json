@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Url is /echo - should throw SYNTAX_ERR","status":"PASS"},{"name":"Url is a mail address - should throw SYNTAX_ERR","status":"PASS"},{"name":"Url is about:blank - should throw SYNTAX_ERR","status":"PASS"},{"name":"Url is ?test - should throw SYNTAX_ERR","status":"PASS"},{"name":"Url is #test - should throw SYNTAX_ERR","status":"PASS"}]}
