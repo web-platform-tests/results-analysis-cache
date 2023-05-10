@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"@container queries with aspect-ratio and size containment","status":"PASS"},{"name":"@container query with aspect-ratio change after resize","status":"PASS"}]}
