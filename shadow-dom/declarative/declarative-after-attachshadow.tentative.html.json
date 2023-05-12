@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Declarative Shadow DOM: declarative shadow should fail if attachShadow() already called","status":"PASS"}]}
