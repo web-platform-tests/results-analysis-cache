@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SPC authentication cannot be triggered from a hidden context","status":"FAIL"}]}
