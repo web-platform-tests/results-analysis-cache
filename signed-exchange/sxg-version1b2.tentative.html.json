@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Loading SignedHTTPExchange of unsupported version must fail and fallback redirect.","status":"TIMEOUT"}]}
