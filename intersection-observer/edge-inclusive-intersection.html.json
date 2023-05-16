@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"IntersectionObserver should detect and report edge-adjacent and zero-area intersections.","status":"TIMEOUT"}]}
