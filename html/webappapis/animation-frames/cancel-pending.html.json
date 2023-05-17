@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"cancelAnimationFrame cancels a pending animation frame callback","status":"TIMEOUT"}]}
