@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"cross origin navigation precondition: Test that the browser does not have client hints preferences cached","status":"FAIL"},{"name":"cross origin navigation set Accept-CH","status":"PASS"},{"name":"cross origin navigation got client hints according to expectations.","status":"PASS"}]}
