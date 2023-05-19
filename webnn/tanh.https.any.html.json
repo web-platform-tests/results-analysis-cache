@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"tanh float32 1D tensor / async","status":"FAIL"},{"name":"tanh float32 2D tensor / async","status":"FAIL"},{"name":"tanh float32 3D tensor / async","status":"FAIL"},{"name":"tanh float32 4D tensor / async","status":"FAIL"},{"name":"tanh float32 5D tensor / async","status":"FAIL"}]}
