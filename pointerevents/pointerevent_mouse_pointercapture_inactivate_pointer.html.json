@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"setPointerCapture: pointer active in outer frame, set capture to inner frame","status":"PASS"},{"name":"setPointerCapture: pointer active in inner frame, set capture to outer frame","status":"PASS"}]}
