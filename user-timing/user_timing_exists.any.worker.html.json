@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"self.performance.mark is defined.","status":"PASS"},{"name":"self.performance.clearMarks is defined.","status":"PASS"},{"name":"self.performance.measure is defined.","status":"PASS"},{"name":"self.performance.clearMeasures is defined.","status":"PASS"}]}
