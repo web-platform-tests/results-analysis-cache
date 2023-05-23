@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"subscribe() should fail inside a fenced frame","status":"FAIL"},{"name":"subscribe() should fail from the service worker inside a fenced frame","status":"FAIL"}]}
