@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"pagehide and unload should fire if the predecessor is not adopted","status":"FAIL"},{"name":"pagehide and unload should fire if the predecessor is not adopted, even without a window/opener association","status":"FAIL"}]}
