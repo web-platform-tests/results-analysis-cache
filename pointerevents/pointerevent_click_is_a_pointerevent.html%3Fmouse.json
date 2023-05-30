@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"click using mouse is a PointerEvent","status":"FAIL"},{"name":"click in a subframe using mouse is a PointerEvent","status":"FAIL"},{"name":"Click event triggered by a non-pointing device should have -1 as the pointerId","status":"FAIL"}]}
