@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"reload() must ignore the Navigation object's base URL","status":"PASS"}]}
