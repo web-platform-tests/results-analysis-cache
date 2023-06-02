@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"same origin navigation precondition: Test that the browser does not have client hints preferences cached","status":"FAIL"},{"name":"same origin navigation set Accept-CH","status":"PASS"},{"name":"same origin navigation got client hints according to expectations.","status":"PASS"}]}
