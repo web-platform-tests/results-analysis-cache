@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"invalid role name foo","status":"FAIL"},{"name":"multiple invalid role names","status":"FAIL"}]}
