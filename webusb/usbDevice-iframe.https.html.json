@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"detaching iframe disconnects device.","status":"PASS"},{"name":"navigating iframe disconnects device.","status":"TIMEOUT"},{"name":"Connect event is not fired in iframe with usb disallowed.","status":"NOTRUN"}]}
