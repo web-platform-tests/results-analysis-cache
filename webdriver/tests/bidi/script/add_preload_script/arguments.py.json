@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_channel[default]","status":"ERROR"},{"name":"test_channel[with serializationOptions]","status":"FAIL"},{"name":"test_channel[with ownership]","status":"FAIL"},{"name":"test_channel_with_multiple_arguments","status":"FAIL"},{"name":"test_mutation_observer","status":"FAIL"},{"name":"test_two_channels","status":"FAIL"}]}
