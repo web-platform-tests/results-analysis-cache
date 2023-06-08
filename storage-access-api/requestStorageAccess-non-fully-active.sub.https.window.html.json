@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"[non-fully-active] document.requestStorageAccess() should not resolve when run in a detached frame","status":"PASS"},{"name":"[non-fully-active] document.requestStorageAccess() should not resolve when run in a detached DOMParser document","status":"PASS"}]}
