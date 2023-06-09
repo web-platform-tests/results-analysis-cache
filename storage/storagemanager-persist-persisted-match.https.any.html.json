@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.storage.persist() resolves to a value that matches navigator.storage.persisted()","status":"PASS"}]}
