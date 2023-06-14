@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Set cookies","status":"PASS"},{"name":"Testing credentials after cross-origin redirection with CORS and no preflight","status":"PASS"},{"name":"Testing credentials after cross-origin redirection with CORS and preflight","status":"PASS"},{"name":"Clean cookies","status":"PASS"}]}
