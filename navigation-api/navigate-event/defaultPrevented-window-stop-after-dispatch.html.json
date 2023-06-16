@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.stop() doesn't affect navigateEvent.defaultPrevented after dispatch","status":"FAIL"}]}
