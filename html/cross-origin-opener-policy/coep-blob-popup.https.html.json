@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"COOP+COEP blob URL popup: window.open()","status":"PASS"},{"name":"COOP+COEP blob URL popup: <a>","status":"PASS"},{"name":"COOP+COEP blob URL popup: <a rel=noopener>","status":"FAIL"}]}
