@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Basic imperative DOM Parts object construction (Document)","status":"FAIL"},{"name":"Cloning (Document)","status":"FAIL"},{"name":"Basic imperative DOM Parts object construction (DocumentFragment)","status":"FAIL"},{"name":"Cloning (DocumentFragment)","status":"FAIL"},{"name":"DOM mutation support","status":"FAIL"}]}
