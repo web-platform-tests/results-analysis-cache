@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"text on HTMLTitleElement must enqueue disconnectedCallback when removing a custom element","status":"PASS"}]}
