@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"test_remote_values[(Symbol('foo'))-expected0]","status":"PASS"},{"name":"test_remote_values[[1, 'foo', true, new RegExp(/foo/g), [1]]-expected1]","status":"PASS"}]}
