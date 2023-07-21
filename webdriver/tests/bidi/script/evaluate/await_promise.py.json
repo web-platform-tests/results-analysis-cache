@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"test_await_promise_delayed","status":"PASS"},{"name":"test_await_promise_rejected","status":"PASS"},{"name":"test_await_promise_resolved","status":"PASS"},{"name":"test_await_resolve_array","status":"FAIL"},{"name":"test_await_resolve_date","status":"PASS"}]}
