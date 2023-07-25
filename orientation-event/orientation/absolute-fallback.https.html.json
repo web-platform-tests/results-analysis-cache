@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Tests that deviceorientation falls back to using absolute orientation data if relative is unavailable.","status":"FAIL"}]}
