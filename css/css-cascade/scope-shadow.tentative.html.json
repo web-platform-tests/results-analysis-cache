@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"@scope can match :host","status":"PASS"},{"name":"@scope can match :host(...)","status":"PASS"},{"name":":scope matches host via the scoping root","status":"PASS"},{"name":":scope within :is() matches host via the scoping root","status":"PASS"}]}
