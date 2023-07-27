@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"test_channel[default]","status":"FAIL"},{"name":"test_channel[with serializationOptions]","status":"FAIL"},{"name":"test_channel[with ownership]","status":"FAIL"}]}
