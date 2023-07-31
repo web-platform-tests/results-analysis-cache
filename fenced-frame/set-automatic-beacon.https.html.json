@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"setReportEventDataForAutomaticBeacons works at the size limit","status":"FAIL"},{"name":"setReportEventDataForAutomaticBeacons fails over the size limit","status":"FAIL"},{"name":"setReportEventDataForAutomaticBeacons fails for invalid destination","status":"FAIL"}]}
