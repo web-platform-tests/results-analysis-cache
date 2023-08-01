@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"initial_color: div#subject.color","status":"PASS"},{"name":"remove descendant: div#subject.color","status":"PASS"}]}
