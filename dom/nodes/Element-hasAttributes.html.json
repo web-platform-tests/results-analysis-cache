@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"element.hasAttributes() must return false when the element does not have attribute.","status":"PASS"},{"name":"element.hasAttributes() must return true when the element has attribute.","status":"PASS"}]}
