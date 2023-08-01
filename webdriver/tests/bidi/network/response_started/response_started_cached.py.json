@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_cached","status":"FAIL"},{"name":"test_cached_redirect","status":"FAIL"},{"name":"test_cached_revalidate[GET]","status":"FAIL"},{"name":"test_cached_revalidate[HEAD]","status":"FAIL"},{"name":"test_cached_revalidate[OPTIONS]","status":"FAIL"}]}
