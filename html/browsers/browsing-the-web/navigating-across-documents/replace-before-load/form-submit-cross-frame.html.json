@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"No replace before load, triggered by cross-iframe formElement.submit()","status":"PASS"}]}
