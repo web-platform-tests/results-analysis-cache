@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"scrollIntoView() inside a fenced frame should not scroll ancestors","status":"FAIL"}]}
