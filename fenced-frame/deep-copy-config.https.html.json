@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A cloned config with a URN will navigate.","status":"FAIL"},{"name":"A cloned config with a URL will navigate.","status":"FAIL"},{"name":"A config received through window.postMessage will navigate.","status":"FAIL"},{"name":"A FencedFrameConfig cannot be written to storage.","status":"FAIL"}]}
