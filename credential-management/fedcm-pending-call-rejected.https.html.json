@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"When there's a pending request, a second `get` call should be rejected.","status":"TIMEOUT"}]}
