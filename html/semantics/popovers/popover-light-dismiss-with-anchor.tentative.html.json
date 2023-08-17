@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Clicking inside a child popover shouldn't close either popover","status":"FAIL"},{"name":"Clicking inside a parent popover should close child popover","status":"FAIL"},{"name":"Clicking on anchor element (that isn't an invoking element) shouldn't prevent its popover from being closed","status":"FAIL"}]}
