@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Invalidation with :focus, :focus-within, :focus-visible in :has()","status":"PASS"},{"name":"ancestor should be black","status":"PASS"}]}

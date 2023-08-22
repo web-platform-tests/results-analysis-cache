@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XMLHttpRequest's responseXML property should not be exposed in workers.","status":"FAIL"}]}
