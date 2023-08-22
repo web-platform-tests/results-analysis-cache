@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"querySelectorAll must work with namespace attribute selectors on SVG","status":"PASS"}]}

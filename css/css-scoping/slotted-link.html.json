@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check that we match :link and not :visited for slotted anchor.","status":"PASS"}]}
