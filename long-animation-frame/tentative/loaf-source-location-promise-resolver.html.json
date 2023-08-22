@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"promise-resolver source location is attributed to callback who created the resolver","status":"FAIL"},{"name":"promise-resolver source location is attributed to event listener who created the resolver","status":"FAIL"},{"name":"promise-resolver source location is attributed to script block who created the resolver","status":"FAIL"}]}

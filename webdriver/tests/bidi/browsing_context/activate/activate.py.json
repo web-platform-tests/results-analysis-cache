@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_activate","status":"PASS"},{"name":"test_deactivates_other_contexts","status":"PASS"},{"name":"test_keeps_focused_area","status":"PASS"},{"name":"test_double_activation","status":"PASS"},{"name":"test_activate_window","status":"FAIL"}]}

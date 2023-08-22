@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"User allows access, check that success callback is called.","status":"TIMEOUT"},{"name":"Error callback is nullable for getCurrentPosition().","status":"NOTRUN"}]}

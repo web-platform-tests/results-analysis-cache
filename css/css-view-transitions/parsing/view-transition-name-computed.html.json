@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property view-transition-name value 'none'","status":"PASS"},{"name":"Property view-transition-name value 'foo'","status":"PASS"},{"name":"Property view-transition-name value 'bar'","status":"PASS"},{"name":"Property view-transition-name value 'baz'","status":"PASS"}]}

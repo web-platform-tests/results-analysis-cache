@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"No replace during load, triggered by window.open(_self) on an iframe","status":"PASS"}]}
