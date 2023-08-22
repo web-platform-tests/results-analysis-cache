@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Tests requestSession accepts immersive-ar mode - webgl","status":"FAIL"},{"name":"Tests requestSession accepts immersive-ar mode - webgl2","status":"FAIL"},{"name":"Tests requestSession rejects immersive-ar mode when unsupported","status":"FAIL"}]}

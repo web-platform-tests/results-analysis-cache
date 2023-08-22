@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document.clear","status":"PASS"},{"name":"document.captureEvents","status":"PASS"},{"name":"document.releaseEvents","status":"PASS"},{"name":"window.captureEvents","status":"PASS"},{"name":"window.releaseEvents","status":"PASS"}]}

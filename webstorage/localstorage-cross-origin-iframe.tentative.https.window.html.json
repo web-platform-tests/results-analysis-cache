@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"LocalStorage should be accessible on both same_origin and cross_origin iframes","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"object legacycaller should not be supported","status":"PASS"},{"name":"object's typeMustMatch IDL attribute should not be supported","status":"PASS"},{"name":"object's typemustmatch content attribute should not be supported","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"GeolocationSensor: Feature-Policy header geolocation * allows the top-level document.","status":"FAIL"},{"name":"GeolocationSensor: Feature-Policy header geolocation * allows same-origin iframes.","status":"FAIL"},{"name":"GeolocationSensor: Feature-Policy header geolocation * allows cross-origin iframes.","status":"FAIL"}]}
