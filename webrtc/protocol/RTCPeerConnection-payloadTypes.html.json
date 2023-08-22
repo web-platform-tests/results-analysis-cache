@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"createOffer with the maximum set of codecs does not generate invalid payload types","status":"PASS"}]}
