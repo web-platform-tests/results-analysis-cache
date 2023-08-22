@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"A `get` call before onload and a `get` call during DOMContentLoaded event should combine despite being called from different tasks.","status":"TIMEOUT"}]}
