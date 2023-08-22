@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"scroll: scroll() should reset scroll position when the destination url contains no fragment","status":"PASS"}]}

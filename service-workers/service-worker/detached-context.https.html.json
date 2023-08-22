@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"accessing a ServiceWorkerRegistration from a removed iframe","status":"TIMEOUT"},{"name":"accessing a ServiceWorker object from a removed iframe","status":"NOTRUN"},{"name":"accessing navigator.serviceWorker on a detached iframe","status":"NOTRUN"},{"name":"accessing navigator on a removed frame","status":"PASS"}]}

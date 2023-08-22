@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"selectionchange bubbles from input","status":"TIMEOUT"},{"name":"selectionchange bubbles from input when focused","status":"NOTRUN"},{"name":"selectionchange bubbles from textarea","status":"NOTRUN"},{"name":"selectionchange bubbles from textarea when focused","status":"NOTRUN"}]}

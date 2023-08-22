@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['outline-style'] = \"hidden\" should not set the property value","status":"PASS"},{"name":"e.style['outline-style'] = \"dotted dashed\" should not set the property value","status":"PASS"},{"name":"e.style['outline-style'] = \"solid double groove ridge\" should not set the property value","status":"PASS"}]}
