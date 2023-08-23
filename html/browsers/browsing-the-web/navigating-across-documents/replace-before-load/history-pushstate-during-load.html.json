@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"history.pushState() during the load event must NOT replace","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"empty URL: inline-unquoted","status":"PASS"},{"name":"empty URL: inline-quoted","status":"PASS"},{"name":"empty URL: external-unquoted","status":"PASS"},{"name":"empty URL: external-quoted","status":"PASS"}]}

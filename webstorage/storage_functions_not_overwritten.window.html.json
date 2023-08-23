@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"localStorage should be not rendered unusable by setting a key with the same name as a storage function such that the function is hidden","status":"PASS"},{"name":"sessionStorage should be not rendered unusable by setting a key with the same name as a storage function such that the function is hidden","status":"PASS"}]}

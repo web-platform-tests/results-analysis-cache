@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The box should be 300px since that is the size of the content","status":"PASS"},{"name":"The first cell is 100px wide due to its content's size","status":"PASS"},{"name":"The first cell is 200px wide due to its content's size","status":"PASS"}]}

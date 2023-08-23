@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"transition:all with transition-behavior:allow-discrete should animate discrete properties.","status":"FAIL"}]}
