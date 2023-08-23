@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The sandboxed iframe should post a message saying the test was in the state of 'PASS'.","status":"PASS"}]}

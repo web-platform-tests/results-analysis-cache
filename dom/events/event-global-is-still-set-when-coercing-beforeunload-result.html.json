@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.event is still set when 'beforeunload' result is coerced to string","status":"PASS"}]}

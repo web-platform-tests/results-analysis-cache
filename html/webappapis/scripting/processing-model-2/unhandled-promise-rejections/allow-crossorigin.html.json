@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Promise rejection event should be received for the cross-origin CORS script","status":"PASS"}]}

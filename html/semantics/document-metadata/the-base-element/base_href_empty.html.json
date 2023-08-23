@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The value of the href attribute must be the document's address if it is empty","status":"PASS"},{"name":"The src attribute of the img element must relative to document's address","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check that a sync XHR in a defer script blocks later defer scripts from running","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"currentSrc is right even if underlying image is a shared blob","status":"PASS"}]}

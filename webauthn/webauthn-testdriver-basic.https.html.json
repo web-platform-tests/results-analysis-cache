@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Set up the test environment","status":"FAIL"},{"name":"Create a credential","status":"TIMEOUT"},{"name":"Get an assertion","status":"NOTRUN"},{"name":"Clean up the test environment","status":"NOTRUN"}]}
