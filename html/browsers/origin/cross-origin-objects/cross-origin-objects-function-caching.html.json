@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Cross-origin Window methods are cached","status":"PASS"},{"name":"Cross-origin Window accessors are cached","status":"PASS"},{"name":"Cross-origin Location `replace` method is cached","status":"PASS"},{"name":"Cross-origin Location `href` setter is cached","status":"PASS"}]}
