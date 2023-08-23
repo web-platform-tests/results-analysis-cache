@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Timeout test: Unexpected error: TimeoutError: Failed to execute 'send' on 'XMLHttpRequest': Failed to load 'http://web-platform.test:8000/xhr/resources/delay.py?ms=3000'.","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Service worker successfully passes hints through to new fetch","status":"PASS"}]}

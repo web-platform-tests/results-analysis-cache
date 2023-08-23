@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"permissions policy allow=\"local-fonts\" allows same-origin navigation in an iframe.","status":"FAIL"},{"name":"permissions policy allow=\"local-fonts\" disallows cross-origin navigation in an iframe.","status":"PASS"}]}
