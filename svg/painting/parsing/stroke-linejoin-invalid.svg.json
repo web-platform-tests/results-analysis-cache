@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['stroke-linejoin'] = \"auto\" should not set the property value","status":"PASS"},{"name":"e.style['stroke-linejoin'] = \"round bevel\" should not set the property value","status":"PASS"}]}

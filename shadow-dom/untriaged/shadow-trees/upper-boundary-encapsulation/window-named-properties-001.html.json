@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"An iframe element in a shadow tree should not be accessible from window's named properties with its \"name\" attribute value.","status":"PASS"}]}

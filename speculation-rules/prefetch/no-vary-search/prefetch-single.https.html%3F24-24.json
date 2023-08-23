@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Don't use the prefetched URL. Empty No-Vary-Search means default URL variance. The prefetched and the navigated URLs have to be the same.","status":"PASS"}]}
