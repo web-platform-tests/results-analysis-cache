@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"auto content-box","status":"PASS"},{"name":"auto border-box","status":"PASS"},{"name":"min-content content-box","status":"PASS"},{"name":"min-content border-box","status":"PASS"},{"name":"max-content content-box","status":"PASS"},{"name":"max-content border-box","status":"PASS"}]}

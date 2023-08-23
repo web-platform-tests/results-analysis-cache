@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"legend","status":"PASS"},{"name":"legend[align=left]","status":"FAIL"},{"name":"legend[align=center]","status":"FAIL"},{"name":"legend[align=right]","status":"FAIL"},{"name":"legend[align=justify]","status":"FAIL"}]}

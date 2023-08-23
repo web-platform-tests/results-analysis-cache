@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_dblclick_with_pause_after_second_pointerdown","status":"FAIL"},{"name":"test_no_dblclick","status":"PASS"}]}

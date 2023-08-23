@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"bufferedAmount should not be updated during a sync XHR","status":"TIMEOUT"}]}

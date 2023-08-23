@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test onreleased event's basic properties","status":"FAIL"},{"name":"Ensure onreleased is called before WakeLockSentinel.release() resolves","status":"FAIL"}]}

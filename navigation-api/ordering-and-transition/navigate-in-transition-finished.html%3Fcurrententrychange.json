@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"event and promise ordering when navigate() is called inside the transition.finished promise handler","status":"TIMEOUT"}]}

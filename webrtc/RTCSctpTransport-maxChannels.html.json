@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"An unconnected peerconnection must not have maxChannels set","status":"PASS"},{"name":"maxChannels gets instantiated after connecting","status":"TIMEOUT"}]}

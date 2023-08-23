@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SVGAnimationElement exceptions, getStartTime throws with unresolved interval.","status":"FAIL"},{"name":"SVGAnimationElement exceptions, getSimpleDuration throws with undefined simple duration.","status":"FAIL"}]}
