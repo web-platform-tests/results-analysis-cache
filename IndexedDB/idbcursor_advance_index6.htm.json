@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IDBCursor.advance() - index - throw TypeError","status":"PASS"}]}

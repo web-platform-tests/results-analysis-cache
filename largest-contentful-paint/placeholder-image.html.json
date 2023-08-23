@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Largest Contentful Paint: changing src causes a new entry to be dispatched.","status":"FAIL"}]}
