@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Passing a function in to ctx.fillStyle or ctx.strokeStyle with a toString callback works as specified","status":"PASS"}]}

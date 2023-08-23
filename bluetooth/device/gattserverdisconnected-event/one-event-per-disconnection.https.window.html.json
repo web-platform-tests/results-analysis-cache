@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"If a site disconnects from a device while the platform is disconnecting that device, only one gattserverdisconnected event should fire.","status":"FAIL"}]}

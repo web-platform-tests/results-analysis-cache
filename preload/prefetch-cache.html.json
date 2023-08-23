@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Prefetch should populate the HTTP cache","status":"PASS"},{"name":"Prefetch should respect cache-control: no-cache","status":"FAIL"},{"name":"Prefetch should respect cache-control: no-store","status":"PASS"},{"name":"Prefetch should respect cache-control: max-age=0","status":"FAIL"}]}

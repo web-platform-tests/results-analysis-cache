@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify matchAll() with window client type","status":"FAIL"},{"name":"Verify matchAll() with {window, sharedworker, worker} client types","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test www-authenticate basic does not forward credentials to cross-origin pages.","status":"FAIL"}]}

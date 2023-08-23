@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Load a CSS module with dynamic import()","status":"PASS"},{"name":"Ensure that loading a CSS module with dymnamic import() fails without a type assertion","status":"PASS"}]}
