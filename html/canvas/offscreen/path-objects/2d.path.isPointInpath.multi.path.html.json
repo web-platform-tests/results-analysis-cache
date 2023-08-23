@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify the winding rule in isPointInPath works for path object.","status":"PASS"}]}

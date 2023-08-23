@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"using window.open() to navigate cross-document targeting a cross-origin window","status":"PASS"}]}

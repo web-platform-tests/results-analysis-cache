@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"should parse the redirect Location URL relative to the current settings object","status":"PASS"}]}
