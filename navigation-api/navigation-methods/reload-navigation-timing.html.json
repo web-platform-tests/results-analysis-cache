@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"reload() appears as a reload to navigation timing APIs","status":"FAIL"}]}

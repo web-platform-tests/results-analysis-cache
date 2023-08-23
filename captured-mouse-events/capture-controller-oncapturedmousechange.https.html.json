@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"oncapturedmousechange is initially unset","status":"FAIL"},{"name":"dispatching a CapturedMouseEvent on CaptureController should trigger oncapturedmousechange","status":"FAIL"}]}
