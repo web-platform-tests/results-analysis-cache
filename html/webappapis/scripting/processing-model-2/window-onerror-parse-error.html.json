@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"correct url passed to window.onerror","status":"PASS"},{"name":"correct line number passed to window.onerror","status":"PASS"},{"name":"correct number of calls to window.onerror","status":"PASS"}]}

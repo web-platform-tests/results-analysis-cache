@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Properties declared with @property reify correctly","status":"PASS"},{"name":"Re-declaring a property with a different type affects reification","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CookieChangeEvent construction with default arguments","status":"PASS"},{"name":"CookieChangeEvent construction with changed cookie list","status":"PASS"},{"name":"CookieChangeEvent construction with deleted cookie list","status":"PASS"},{"name":"CookieChangeEvent construction with changed and deleted cookie lists","status":"PASS"}]}
