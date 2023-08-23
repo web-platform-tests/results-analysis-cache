@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['image-rendering'] = \"none\" should not set the property value","status":"PASS"},{"name":"e.style['image-rendering'] = \"high-quality crisp-edges\" should not set the property value","status":"PASS"}]}

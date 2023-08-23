@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The in operator in localStorage: property access","status":"PASS"},{"name":"The in operator in localStorage: method access","status":"PASS"},{"name":"The in operator in sessionStorage: property access","status":"PASS"},{"name":"The in operator in sessionStorage: method access","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"when scripting is disabled, the handler is never compiled","status":"PASS"}]}

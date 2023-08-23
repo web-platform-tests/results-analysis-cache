@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Set location.protocol to x","status":"PASS"},{"name":"Set location.protocol to data","status":"FAIL"},{"name":"Set location.protocol to file","status":"PASS"},{"name":"Set location.protocol to ftp","status":"PASS"},{"name":"Set location.protocol to http+x","status":"PASS"}]}

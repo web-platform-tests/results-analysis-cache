@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Deleting from shared storage via the 'Shared-Storage-Write' header for a same-origin shared storage fetch request","status":"FAIL"},{"name":"Deleting from shared storage via the 'Shared-Storage-Write' header for a cross-origin shared storage fetch request","status":"TIMEOUT"}]}
