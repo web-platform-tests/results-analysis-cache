@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Forward iteration over an index in a readonly transaction","status":"PASS"},{"name":"Backward iteration over an index in a readonly transaction","status":"PASS"},{"name":"Forward iteration over an index in a readwrite transaction","status":"PASS"},{"name":"Backward iteration over an index in a readwrite transaction","status":"PASS"}]}

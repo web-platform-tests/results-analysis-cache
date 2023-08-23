@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Sync request denied at preflight because of non-CORS-safelisted method","status":"PASS"}]}

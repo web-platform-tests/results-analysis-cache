@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Response reader read() promise should reject after a network error happening after resolving fetch promise","status":"FAIL"},{"name":"Response reader closed promise should reject after a network error happening after resolving fetch promise","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that syntax errors lead to SyntaxError events on window, and that exceptions are remembered.","status":"PASS"}]}

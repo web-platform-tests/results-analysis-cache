@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"row group visibility:collapse doesn't change table width","status":"PASS"},{"name":"row group visibility:collapse changes table height","status":"PASS"},{"name":"the first row should be collapsed","status":"PASS"},{"name":"the second row should be collapsed","status":"PASS"},{"name":"the third row stays the same","status":"PASS"}]}
