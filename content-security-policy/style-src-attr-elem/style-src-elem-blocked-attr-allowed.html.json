@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Should fire a security policy violation for the inline block","status":"PASS"},{"name":"The inline style should not be applied and the attribute style should be applied","status":"PASS"}]}

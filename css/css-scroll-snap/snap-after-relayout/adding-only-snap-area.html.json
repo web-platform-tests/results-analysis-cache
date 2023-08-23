@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Adding a new snap area when there are none should make the scroller snap to it.","status":"PASS"}]}

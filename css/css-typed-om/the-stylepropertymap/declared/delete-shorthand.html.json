@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Deleting a shorthand property not in the css rule is a no-op","status":"FAIL"},{"name":"Deleting a shorthand property in the css rule removes both it and its longhands","status":"FAIL"},{"name":"Deleting a longhand property in the css rule removes both it and its shorthand","status":"FAIL"}]}

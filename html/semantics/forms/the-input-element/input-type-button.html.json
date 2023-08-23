@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"default behavior","status":"PASS"},{"name":"empty value attribute","status":"PASS"},{"name":"label value","status":"PASS"},{"name":"mutable element's activation behavior is to do nothing.","status":"PASS"},{"name":"immutable element has no activation behavior.","status":"PASS"}]}

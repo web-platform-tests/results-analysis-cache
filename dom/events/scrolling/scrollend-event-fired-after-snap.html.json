@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Tests that scrollend is fired after scroll snap animation completion.","status":"TIMEOUT"},{"name":"Tests that scrollend is fired after fling snap animation completion.","status":"NOTRUN"}]}

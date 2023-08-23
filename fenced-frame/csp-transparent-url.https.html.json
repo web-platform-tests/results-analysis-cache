@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Fenced frame loaded for CSP fenced-frame-src *","status":"FAIL"},{"name":"Fenced frame loaded for CSP fenced-frame-src https:","status":"FAIL"},{"name":"Fenced frame loaded for CSP fenced-frame-src 'self'","status":"FAIL"},{"name":"Fenced frame blocked for CSP fenced-frame-src 'none'","status":"FAIL"}]}
