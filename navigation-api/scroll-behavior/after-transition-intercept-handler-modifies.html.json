@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"scroll: state should be saved before intercept handlers run","status":"PASS"}]}

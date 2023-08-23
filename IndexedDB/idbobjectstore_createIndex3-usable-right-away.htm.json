@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IDBObjectStore.createIndex() - the index is usable right after being made","status":"PASS"}]}
