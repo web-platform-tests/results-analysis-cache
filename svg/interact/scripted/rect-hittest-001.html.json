@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"elementFromPoint(...) on <rect>s, element at (50, 30)","status":"PASS"},{"name":"elementFromPoint(...) on <rect>s, element at (60, 40)","status":"PASS"},{"name":"elementFromPoint(...) on <rect>s, element at (50, 50)","status":"PASS"},{"name":"elementFromPoint(...) on <rect>s, element at (40, 40)","status":"PASS"}]}

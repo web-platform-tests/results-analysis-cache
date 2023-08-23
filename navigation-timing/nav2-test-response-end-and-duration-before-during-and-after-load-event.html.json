@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check that performance.getEntriesByType('navigation')[0].responseEnd has reasonable values before and after the load has finished","status":"PASS"}]}

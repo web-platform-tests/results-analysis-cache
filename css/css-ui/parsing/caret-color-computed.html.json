@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property caret-color value 'auto'","status":"PASS"},{"name":"Property caret-color value 'currentColor'","status":"PASS"},{"name":"Property caret-color value 'red'","status":"PASS"}]}
