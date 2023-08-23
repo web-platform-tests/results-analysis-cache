@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"updateCallbackDone resolves, then ready resolves with no rAF in between","status":"PASS"}]}

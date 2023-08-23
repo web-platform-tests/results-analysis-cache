@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Resolve returns empty array for same directory","status":"PASS"},{"name":"Resolve returns correct path","status":"PASS"},{"name":"Resolve returns correct path with non-ascii characters","status":"PASS"},{"name":"Resolve returns null when entry is not a child","status":"PASS"}]}

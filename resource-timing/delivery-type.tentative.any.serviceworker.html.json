@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"PerformanceResourceTiming deliveryType test, same origin.","status":"PASS"},{"name":"PerformanceResourceTiming deliveryType test, cross origin, TAO passes.","status":"PASS"},{"name":"PerformanceResourceTiming deliveryType test, cross origin, TAO fails.","status":"PASS"}]}
