@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"No login hint matches an account.","status":"TIMEOUT"},{"name":"Login hint matches an account.","status":"NOTRUN"},{"name":"Login hint matches an account from two accounts.","status":"NOTRUN"}]}

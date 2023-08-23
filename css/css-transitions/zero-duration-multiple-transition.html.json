@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"transition-duration of 0 prevents earlier transitions with the same property from starting.","status":"PASS"}]}

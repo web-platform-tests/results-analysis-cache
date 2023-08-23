@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['stroke-linecap'] = \"butt\" should set the property value","status":"PASS"},{"name":"e.style['stroke-linecap'] = \"round\" should set the property value","status":"PASS"},{"name":"e.style['stroke-linecap'] = \"square\" should set the property value","status":"PASS"}]}

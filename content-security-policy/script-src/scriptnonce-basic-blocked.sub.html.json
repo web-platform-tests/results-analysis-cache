@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Expecting alerts: [\"PASS (closely-quoted nonce)\",\"PASS (nonce w/whitespace)\", \"violated-directive=script-src-elem\", \"violated-directive=script-src-elem\", \"violated-directive=script-src-elem\"]","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"scroll: scroll() should not work inside a navigate event handler","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"MouseEvent.offsetX/Y returns coordinates relative to the root svg","status":"PASS"}]}
