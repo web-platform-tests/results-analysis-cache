@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_await_promise_delayed[True]","status":"PASS"},{"name":"test_await_promise_delayed[False]","status":"PASS"},{"name":"test_await_promise_async_arrow[True]","status":"PASS"},{"name":"test_await_promise_async_arrow[False]","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Simulcast setParameters active=false on first encoding stops sending frames for that encoding","status":"PASS"},{"name":"Simulcast setParameters active=false on second encoding stops sending frames for that encoding","status":"PASS"},{"name":"Simulcast setParameters active=false stops sending frames","status":"PASS"}]}

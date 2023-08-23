@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"skipTransition() after animations have started running should resolve finished promise","status":"FAIL"}]}

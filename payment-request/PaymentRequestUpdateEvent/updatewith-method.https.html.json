@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Let target be the request which is dispatching the event.","status":"FAIL"},{"name":"Calling .updateWith() with an undispatched untrusted event throws \"InvalidStateError\"","status":"FAIL"},{"name":"Calling .updateWith() with a dispatched, untrusted event, throws \"InvalidStateError\"","status":"FAIL"}]}

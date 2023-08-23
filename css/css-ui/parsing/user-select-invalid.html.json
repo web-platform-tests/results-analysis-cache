@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['user-select'] = \"visible\" should not set the property value","status":"PASS"},{"name":"e.style['user-select'] = \"text contain\" should not set the property value","status":"PASS"}]}
