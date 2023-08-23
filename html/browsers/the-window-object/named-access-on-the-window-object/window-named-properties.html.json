@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Static name","status":"PASS"},{"name":"Static id","status":"PASS"},{"name":"Static name on the prototype","status":"PASS"},{"name":"constructor","status":"PASS"},{"name":"duplicate property names","status":"PASS"},{"name":"Dynamic name","status":"PASS"},{"name":"Ghost name","status":"PASS"}]}

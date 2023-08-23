@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Eligibility (in-flight fetch): CORS succeeded when in BFCache","status":"PRECONDITION_FAILED"},{"name":"Eligibility (in-flight fetch): CORS failed when in BFCache","status":"PRECONDITION_FAILED"}]}

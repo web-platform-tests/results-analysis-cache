@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"{Element,Range}.prototype.getBoundingClientRect on SVG <tspan>, Element","status":"PASS"},{"name":"{Element,Range}.prototype.getBoundingClientRect on SVG <tspan>, Range","status":"PASS"}]}

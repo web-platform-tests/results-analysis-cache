@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Upgraded image is reported","status":"PASS"},{"name":"Upgraded iframe is reported","status":"PASS"},{"name":"Navigated iframe is upgraded and reported","status":"PASS"}]}

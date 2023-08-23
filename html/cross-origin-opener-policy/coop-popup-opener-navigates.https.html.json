@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify that having the opener navigate instead of the openee also triggers COOP swaps.","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"sandboxed iframe does not send client hint headers","status":"FAIL"}]}
