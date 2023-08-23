@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"importScripts throws on 'nosniff' violation","status":"PASS"}]}

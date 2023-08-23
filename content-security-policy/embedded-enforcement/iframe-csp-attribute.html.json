@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"<iframe> has a 'csp' attibute which is an empty string if undefined.","status":"FAIL"},{"name":"<iframe>'s csp attribute is always a string.","status":"FAIL"},{"name":"<iframe>'s 'csp content attribute reflects the IDL attribute.","status":"FAIL"},{"name":"<iframe>'s IDL attribute reflects the DOM attribute.","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A sticky element should attach to an overflow:hidden ancestor","status":"PASS"},{"name":"A sticky element should attach to an overflow:hidden ancestor inside a table","status":"PASS"}]}

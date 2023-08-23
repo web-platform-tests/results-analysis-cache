@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that a module is evaluated only once, and that 'this' is undefined (because of strict mode).","status":"PASS"}]}

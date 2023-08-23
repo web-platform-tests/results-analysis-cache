@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Negotiation methods fire signalingstatechange events","status":"PASS"},{"name":"Closing a PeerConnection should not fire signalingstatechange event","status":"TIMEOUT"},{"name":"signalingstatechange is the first event to fire","status":"NOTRUN"}]}

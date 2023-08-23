@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_dblclick_at_coordinates[0]","status":"FAIL"},{"name":"test_dblclick_at_coordinates[200]","status":"FAIL"}]}

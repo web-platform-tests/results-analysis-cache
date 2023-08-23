@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check same-origin RTCCertificate serialization","status":"PASS"},{"name":"Check cross-origin RTCCertificate serialization","status":"PASS"},{"name":"Check cross-origin created RTCCertificate","status":"PASS"}]}

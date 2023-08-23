@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Tests dynamic updates of the \"lengthAdjust\" content attribute","status":"FAIL"},{"name":"Tests dynamic updates of the \"lengthAdjust\" IDL attribute","status":"FAIL"}]}

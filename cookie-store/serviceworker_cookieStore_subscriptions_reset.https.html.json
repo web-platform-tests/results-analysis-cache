@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"cookiechange subscriptions reset across service worker unregistrations","status":"FAIL"},{"name":"cookiechange subscriptions persist across service worker updates","status":"FAIL"}]}
