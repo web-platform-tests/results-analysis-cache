@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"get supported barcode formats","status":"FAIL"},{"name":"getSupportedFormats() resolves with empty list when unsupported","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['direction'] = \"auto\" should not set the property value","status":"PASS"},{"name":"e.style['direction'] = \"ltr rtl\" should not set the property value","status":"PASS"}]}

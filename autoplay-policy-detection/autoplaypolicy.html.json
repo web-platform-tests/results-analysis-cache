@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test method 'getAutoplayPolicy(AutoplayPolicyMediaType type)'","status":"PASS"},{"name":"Test method 'getAutoplayPolicy(HTMLMediaElement element)'","status":"PASS"},{"name":"Test method 'getAutoplayPolicy(AudioContext context)'","status":"PASS"}]}

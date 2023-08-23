@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"HID getDevice must fail in a fenced frame","status":"FAIL"}]}
