@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"lostpointercapture event received","status":"PASS"},{"name":"lostpointercapture is dispatched on the document","status":"PASS"}]}

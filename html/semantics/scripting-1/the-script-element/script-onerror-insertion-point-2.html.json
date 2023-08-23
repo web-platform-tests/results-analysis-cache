@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that the insertion point is not defined in the error event of a\n  parser-inserted script that has an unparseable URL","status":"PASS"}]}

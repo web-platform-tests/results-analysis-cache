@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Iframe redirect with Feature Policy delegation got client hints according to expectations.","status":"FAIL"}]}

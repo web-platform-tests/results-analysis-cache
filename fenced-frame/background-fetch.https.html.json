@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"backgroundFetch.fetch","status":"FAIL"},{"name":"backgroundFetch.get","status":"FAIL"},{"name":"backgroundFetch.getIds","status":"FAIL"},{"name":"backgroundFetch.fetch in service worker","status":"FAIL"},{"name":"backgroundFetch.get in service worker","status":"FAIL"},{"name":"backgroundFetch.getIds in service worker","status":"FAIL"}]}
