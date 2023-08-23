@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_touch_pointer_properties","status":"FAIL"},{"name":"test_touch_pointer_properties_tilt_twist","status":"FAIL"}]}

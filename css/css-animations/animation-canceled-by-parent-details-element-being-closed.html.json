@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"A CSS Animation running on an element within a <details> element is canceled after the <details> element is closed.","status":"TIMEOUT"}]}
