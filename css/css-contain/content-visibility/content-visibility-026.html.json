@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"content-visibility:hidden does not affect computed value of 'contain'","status":"PASS"},{"name":"content-visibility:auto does not affect computed value of 'contain'","status":"PASS"}]}

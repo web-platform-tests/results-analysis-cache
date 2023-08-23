@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The url of a document with no-referrer referrer meta tag is censored in NavigationHistoryEntry","status":"PASS"}]}

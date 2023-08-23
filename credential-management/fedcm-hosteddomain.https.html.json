@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"No hosted domain matches an account.","status":"PASS"},{"name":"Hosted domain matches an account.","status":"FAIL"},{"name":"Hosted domain matches an account from two accounts.","status":"TIMEOUT"},{"name":"Hosted domain '*' matches an account with any hosted domain.","status":"NOTRUN"}]}

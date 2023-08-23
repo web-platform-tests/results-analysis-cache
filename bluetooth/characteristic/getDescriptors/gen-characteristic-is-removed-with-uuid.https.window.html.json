@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Characteristic gets removed. Reject with InvalidStateError.","status":"FAIL"}]}
