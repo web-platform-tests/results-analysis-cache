@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.open into `_blank` should create a new browsing context each time","status":"PASS"},{"name":"`_blank` should be ASCII case-insensitive","status":"PASS"}]}

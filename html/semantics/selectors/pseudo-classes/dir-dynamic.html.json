@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Dynamically changing dir, text on input element","status":"PASS"},{"name":"Dynamically changing dir, text on textarea element","status":"PASS"},{"name":"Dynamically changing dir, text on div element","status":"PASS"},{"name":"Dynamically changing dir, text on pre element","status":"PASS"}]}

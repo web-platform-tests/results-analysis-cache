@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Since |item1| removes the middle row on key press, the grid focusgroup should check for a relayout before navigating to the next row.","status":"PASS"}]}

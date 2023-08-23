@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"script-src-wasm-unsafe-eval-allows-wasm","status":"PASS"}]}
