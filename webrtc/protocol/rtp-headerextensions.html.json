@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"MID header extension is supported.","status":"PASS"},{"name":"Audio level header extension is supported.","status":"PASS"},{"name":"Video orientation header extension is supported.","status":"PASS"},{"name":"Negotiates the subset of supported extensions offered","status":"PASS"}]}

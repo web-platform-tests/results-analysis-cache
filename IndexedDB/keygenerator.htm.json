@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Keygenerator - starts at one, and increments by one","status":"PASS"},{"name":"Keygenerator - increments by one from last set key","status":"PASS"},{"name":"Keygenerator - don't increment when new key is not bigger than current","status":"PASS"}]}

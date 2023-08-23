@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"No hosted domain matches an account.","status":"FAIL"},{"name":"Hosted domain matches an account.","status":"FAIL"},{"name":"Hosted domain matches an account from two accounts.","status":"FAIL"},{"name":"Hosted domain '*' matches an account with any hosted domain.","status":"FAIL"}]}

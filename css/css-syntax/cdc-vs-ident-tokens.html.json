@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CDC-token is properly emitted, and not parsed as an ident.","status":"PASS"}]}

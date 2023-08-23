@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.CanvasRenderingContext2D.prototype are not [[Writable]] and not [[Configurable]], and its methods are [[Configurable]].","status":"PASS"}]}

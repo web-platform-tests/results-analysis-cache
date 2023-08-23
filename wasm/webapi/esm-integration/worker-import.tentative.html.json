@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Testing import of WebAssembly from JavaScript worker","status":"FAIL"}]}

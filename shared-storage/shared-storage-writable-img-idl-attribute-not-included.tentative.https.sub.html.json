@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test <img src=[url]> via JS for same origin img","status":"PASS"},{"name":"test <img src=[url]> via JS for cross origin img","status":"PASS"}]}
