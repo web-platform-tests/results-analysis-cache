@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Adopting a fenced frame from a too-strict document to a suitable document leaves the frame in a functional state","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Textarea wrapping transformation: Newlines should be normalized to LF.","status":"PASS"},{"name":"Textarea wrapping transformation: Wrapping happens with LF newlines.","status":"FAIL"}]}
