@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getAvailability() resolves with true after adapter is inserted into a system with a platform that supports Bluetooth LE.","status":"FAIL"}]}

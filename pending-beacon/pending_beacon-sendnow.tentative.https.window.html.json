@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"sendNow() sends a beacon immediately.","status":"PASS"},{"name":"sendNow() doesn't send the same beacon twice.","status":"PASS"},{"name":"sendNow() sends multiple beacons.","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test Description: postMessage with ArrayBuffer object.","status":"PASS"},{"name":"ArrayBuffer is supported.","status":"PASS"}]}

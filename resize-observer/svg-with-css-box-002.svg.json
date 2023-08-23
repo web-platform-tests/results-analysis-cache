@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"ResizeObserver implemented","status":"PASS"},{"name":"guard","status":"PASS"},{"name":"test0: Root SVG resize observed","status":"PASS"},{"name":"test1: `foreignObject` SVG resize observed","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Cross-Origin-Opener-Policy only works over secure contexts","status":"PASS"},{"name":"Bonus: window.crossOriginIsolated","status":"PASS"}]}
