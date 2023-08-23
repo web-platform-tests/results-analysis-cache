@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"same-origin subresource redirect with no opt-in precondition: Test that the browser does not have client hints preferences cached","status":"FAIL"},{"name":"same-origin subresource redirect with no opt-in got client hints according to expectations.","status":"FAIL"}]}

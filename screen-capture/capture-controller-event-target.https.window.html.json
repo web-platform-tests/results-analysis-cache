@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Registering listeners on CaptureController and dispatching an event.","status":"FAIL"},{"name":"Dispatching an multiple events to CaptureController.","status":"FAIL"},{"name":"Unregistering listeners from CaptureController and dispatching an event.","status":"FAIL"}]}

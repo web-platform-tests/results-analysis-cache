@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CSP with both source and nonce should allow matching source","status":"PASS"},{"name":"CSP with both source and nonce should allow both matching nonce and source","status":"PASS"},{"name":"No CSP violation should fire and all scripts should load","status":"PASS"}]}

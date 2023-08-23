@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Setting a cookie after Clear-Site-Data for all shouldn't allow the cookie to take.","status":"FAIL"}]}

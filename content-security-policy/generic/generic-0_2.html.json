@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Should fire violation events for every failed violation","status":"PASS"},{"name":"Allows scripts from the same host.","status":"PASS"}]}

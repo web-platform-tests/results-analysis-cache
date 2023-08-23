@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"First run","status":"PASS"},{"name":"Can post message to self during startup","status":"PASS"},{"name":"During install","status":"PASS"},{"name":"During activate","status":"PASS"}]}
