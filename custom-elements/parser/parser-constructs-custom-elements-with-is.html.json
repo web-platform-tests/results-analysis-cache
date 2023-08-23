@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"HTML parser must create a defined autonomous custom element when customElements.define comes after HTML parser creation","status":"PASS"},{"name":"HTML parser must create a defined autonomous custom element when customElements.define comes before HTML parser creation","status":"PASS"}]}

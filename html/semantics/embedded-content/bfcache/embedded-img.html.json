@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Page with <embed type=image/png src=/images/blue.png>","status":"PRECONDITION_FAILED"},{"name":"Page with <object type=image/png data=/images/blue.png>","status":"TIMEOUT"}]}

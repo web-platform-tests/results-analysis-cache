@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document.getElementsByClassName(): case-insensitive (quirks mode)","status":"PASS"},{"name":"Unicode-case should be sensitive even in quirks mode.","status":"PASS"}]}

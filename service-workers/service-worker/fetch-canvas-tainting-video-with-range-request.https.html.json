@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"range responses from single origin (same-origin)","status":"TIMEOUT"},{"name":"range responses from multiple origins (cross-origin first)","status":"NOTRUN"},{"name":"range responses from single origin with both opaque and non-opaque responses","status":"NOTRUN"}]}
