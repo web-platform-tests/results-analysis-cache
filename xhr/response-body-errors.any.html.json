@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Synchronous XMLHttpRequest should throw on bad chunk","status":"PASS"},{"name":"Asynchronous XMLHttpRequest should clear response on bad chunk","status":"FAIL"}]}

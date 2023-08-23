@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"type=\"module\"","status":"PASS"},{"name":"type=\"MODULE\"","status":"PASS"},{"name":"type=\"Module\"","status":"PASS"},{"name":"type=\"module \"","status":"PASS"},{"name":"type=\" module\"","status":"PASS"}]}
