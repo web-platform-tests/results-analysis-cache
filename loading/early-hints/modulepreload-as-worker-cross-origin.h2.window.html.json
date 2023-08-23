@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Modulepreload should not load with as=\"worker\" from cross-origin url","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-origin syntax error","status":"PASS"},{"name":"Same-origin throw","status":"PASS"},{"name":"Cross-origin syntax error","status":"PASS"},{"name":"Cross-origin throw","status":"PASS"},{"name":"Redirect-to-cross-origin syntax error","status":"PASS"},{"name":"Redirect-to-Cross-origin throw","status":"PASS"}]}

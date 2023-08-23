@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"setAttribute should change the first attribute, irrespective of namespace","status":"PASS"},{"name":"setAttribute should lowercase before setting","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"RTCRtpSender.getCapabilities('audio') should return RTCRtpCapabilities dictionary","status":"PASS"},{"name":"RTCRtpSender.getCapabilities('video') should return RTCRtpCapabilities dictionary","status":"PASS"},{"name":"RTCRtpSender.getCapabilities('dummy') should return null","status":"PASS"}]}

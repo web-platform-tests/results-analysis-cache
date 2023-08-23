@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"If the meta Content-Language element contains a language declaration but the html element uses an empty lang value, the UA will not recognize the language declared in the meta Content-Language element.","status":"PASS"}]}
