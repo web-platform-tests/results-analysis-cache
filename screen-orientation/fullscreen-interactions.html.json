@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Fully unlocking the screen orientation causes a pending lock to be aborted","status":"FAIL"},{"name":"Fully unlocking the screen orientation causes a pending lock in a nested browsing context to be aborted","status":"FAIL"}]}

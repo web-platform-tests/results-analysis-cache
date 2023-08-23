@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"performance.now() exists in dedicated workers and reports reasonable times","status":"PASS"}]}

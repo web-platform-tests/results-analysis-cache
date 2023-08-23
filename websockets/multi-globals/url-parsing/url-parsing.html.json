@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Multiple globals for base URL in WebSocket constructor","status":"FAIL"}]}
