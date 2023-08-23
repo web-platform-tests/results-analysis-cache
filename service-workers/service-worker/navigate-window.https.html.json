@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Clients.matchAll() should not show an old window as controlled after it navigates.","status":"PASS"},{"name":"Clients.matchAll() should not show an old window after it navigates.","status":"FAIL"}]}
