@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Calls to getCharacteristics should return the same object.","status":"FAIL"}]}

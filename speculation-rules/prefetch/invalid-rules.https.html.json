@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"an unrecognized key in a prefetch rule should prevent it from being fetched","status":"PASS"}]}

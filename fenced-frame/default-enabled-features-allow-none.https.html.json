@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-origin fenced frame does not load when feature policies are none","status":"FAIL"},{"name":"Cross-origin fenced frame does not load when feature policies are none","status":"FAIL"}]}

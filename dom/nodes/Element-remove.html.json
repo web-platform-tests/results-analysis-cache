@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"element should support remove()","status":"PASS"},{"name":"remove() should work if element doesn't have a parent","status":"PASS"},{"name":"remove() should work if element does have a parent","status":"PASS"},{"name":"remove() should work if element does have a parent and siblings","status":"PASS"}]}

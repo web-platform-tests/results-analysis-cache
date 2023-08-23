@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Registering normal scope","status":"PASS"},{"name":"Registering scope with fragment","status":"PASS"},{"name":"Registering same scope as the script directory","status":"PASS"}]}
