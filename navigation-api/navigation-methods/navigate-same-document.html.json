@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigate() navigates same-document and fires onnavigate (async)","status":"PASS"},{"name":"navigate() navigates same-document and fires onnavigate (sync)","status":"PASS"}]}

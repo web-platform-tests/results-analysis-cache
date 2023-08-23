@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['writing-mode'] = \"auto\" should not set the property value","status":"PASS"},{"name":"e.style['writing-mode'] = \"horizontal-tb vertical-rl\" should not set the property value","status":"PASS"}]}

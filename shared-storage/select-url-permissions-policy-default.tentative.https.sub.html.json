@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Default permissions policy allows sharedStorage.selectURL() in the current page.","status":"PASS"},{"name":"Default permissions policy allows sharedStorage.selectURL() in same-origin iframes.","status":"PASS"},{"name":"Default permissions policy allows sharedStorage.selectURL() in cross-origin iframes.","status":"PASS"}]}

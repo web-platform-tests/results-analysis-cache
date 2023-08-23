@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_background_default_false[tab]","status":"FAIL"},{"name":"test_background_default_false[window]","status":"FAIL"},{"name":"test_background[True-tab]","status":"FAIL"},{"name":"test_background[True-window]","status":"PASS"},{"name":"test_background[False-tab]","status":"FAIL"},{"name":"test_background[False-window]","status":"FAIL"}]}

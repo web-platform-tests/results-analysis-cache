@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Top-level document's policy should not affect child frame requests","status":"PASS"},{"name":"Child frame can have a required policy independent of the parent document.","status":"PASS"},{"name":"Child frame can have a required policy which is less strict than the parent document's policy.","status":"PASS"}]}

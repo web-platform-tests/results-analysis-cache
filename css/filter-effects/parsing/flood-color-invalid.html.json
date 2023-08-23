@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['flood-color'] = \"none\" should not set the property value","status":"PASS"},{"name":"e.style['flood-color'] = \"black white\" should not set the property value","status":"PASS"}]}
