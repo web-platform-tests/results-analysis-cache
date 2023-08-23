@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"PendingPostBeacon: deactivate() changes 'pending' state.","status":"PASS"},{"name":"PendingGetBeacon: deactivate() changes 'pending' state.","status":"PASS"}]}

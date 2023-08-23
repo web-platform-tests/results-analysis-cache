@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"a button's type should be submit by default","status":"PASS"},{"name":"a button's type should stay within the range of valid values","status":"PASS"}]}

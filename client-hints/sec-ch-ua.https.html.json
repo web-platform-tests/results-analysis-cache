@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Open HTTPS window: `Sec-CH-UA` header returned by default.","status":"PASS"},{"name":"Open HTTPS window: `Sec-CH-UA` header is consistent across versions.","status":"PASS"},{"name":"Open HTTPS window: No brand in `Sec-CH-UA` header is > than 32 chars.","status":"PASS"}]}

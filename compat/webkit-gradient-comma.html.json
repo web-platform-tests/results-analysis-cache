@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"-webkit-radial-gradient accepts comma before color stops.","status":"PASS"},{"name":"-webkit-radial-gradient rejects missing comma before color stops.","status":"FAIL"}]}

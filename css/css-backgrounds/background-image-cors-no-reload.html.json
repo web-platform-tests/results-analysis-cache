@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CORS image from variable doesn't cause re-downloads","status":"FAIL"}]}
