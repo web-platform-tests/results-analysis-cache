@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"register method should use the \"relevant global object\" to parse its scriptURL and scope - normal case","status":"PASS"},{"name":"register method should use the \"relevant global object\" to parse its scriptURL and scope - error case","status":"PASS"},{"name":"A scope url should start with the given script url","status":"PASS"}]}

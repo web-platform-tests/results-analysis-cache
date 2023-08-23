@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SVGImageElement.prototype.decode(), attach to DOM before promise resolves.","status":"FAIL"}]}

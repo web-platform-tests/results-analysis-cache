@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Negative value not allowed","status":"FAIL"},{"name":"Value too large (2^53)","status":"FAIL"},{"name":"Positive infinity","status":"FAIL"},{"name":"Negative infinity","status":"FAIL"},{"name":"NaN","status":"FAIL"},{"name":"Cannot convert to long: \"Foo\"","status":"FAIL"},{"name":"Cannot convert to long: object","status":"FAIL"}]}

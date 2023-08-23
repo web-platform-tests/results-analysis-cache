@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getComputedStyle gets invalidated in display: none subtrees due to inherited changes to an ancestor","status":"PASS"},{"name":"getComputedStyle gets invalidated in display: none subtrees due to inherited changes to an ancestor shadow host","status":"FAIL"}]}

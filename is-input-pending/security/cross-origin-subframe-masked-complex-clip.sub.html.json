@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"parent cannot detect cross-origin events outside of clip","status":"FAIL"},{"name":"subframe cannot detect events inside of clip","status":"FAIL"}]}

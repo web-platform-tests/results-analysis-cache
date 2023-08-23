@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"<dialog> can contain autofocus, without stopping page autofocus content from working","status":"PASS"},{"name":"<dialog>-contained autofocus element gets focused when the dialog is shown","status":"PASS"}]}
