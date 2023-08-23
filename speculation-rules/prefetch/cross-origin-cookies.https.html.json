@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"speculation rules based prefetch should not use cookies for cross origin urls.","status":"FAIL"}]}

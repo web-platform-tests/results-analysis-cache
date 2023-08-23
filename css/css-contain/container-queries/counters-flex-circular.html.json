@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"#item1, #container, and #inner should all have the same width: 150","status":"PASS"},{"name":"The container query should match the layed out width","status":"PASS"},{"name":"The sum of the item widths should match the flexbox width","status":"PASS"},{"name":"The size of the flex item #2 should be given by its contents","status":"PASS"}]}

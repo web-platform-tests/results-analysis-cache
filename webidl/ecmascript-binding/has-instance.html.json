@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Manually-constructed prototype chains are correctly handled by instanceof","status":"PASS"},{"name":"instanceof must return false across different globals, for platform objects","status":"PASS"},{"name":"platform objects do not have Symbol.hasInstance installed","status":"PASS"}]}

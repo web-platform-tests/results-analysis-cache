@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"HTMLElement's CSSStyleDeclaration is mutable","status":"PASS"},{"name":"getComputedStyle's CSSStyleDeclaration is not mutable","status":"PASS"},{"name":"StyleSheet's CSSStyleDeclaration is mutable","status":"PASS"}]}

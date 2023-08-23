@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check that path exists and is accessible via local XHR request","status":"PASS"},{"name":"Sandboxed iframe is denied access to path","status":"PASS"}]}

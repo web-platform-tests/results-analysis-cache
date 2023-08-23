@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"finished promise should be resolved if skipTransition() is invoked before a synchronous updateCallbackDone callback is dispatched","status":"PASS"}]}

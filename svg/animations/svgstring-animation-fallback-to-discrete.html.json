@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Tests fallback to calcMode='discrete' on animation of SVGString with 'values'.","status":"PASS"}]}

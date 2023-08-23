@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The legend.form return null when it has no fieldset parent","status":"PASS"},{"name":"The legend.form must be same value as fieldset.form","status":"PASS"},{"name":"Interface HTMLLegendElement","status":"PASS"}]}

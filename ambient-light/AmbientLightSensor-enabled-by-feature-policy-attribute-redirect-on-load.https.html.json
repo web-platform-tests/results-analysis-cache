@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"AmbientLightSensor: Feature-Policy allow='ambient-light-sensor' attribute allows same-origin relocation","status":"PASS"},{"name":"AmbientLightSensor: Feature-Policy allow='ambient-light-sensor' attribute disallows cross-origin relocation","status":"PASS"}]}

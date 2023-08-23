@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"'secure' cookie visible in `document.cookie`","status":"PASS"},{"name":"'secure' cookie visible in HTTP request","status":"PASS"}]}
