@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Autofocusing is blocked on an element in a fenced frame as it's treated like a cross-origin subframe.","status":"FAIL"}]}

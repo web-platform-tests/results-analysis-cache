@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initial value of unicode-bidi","status":"FAIL"},{"name":"unicode-bidi: embed; unicode-bidi: normal","status":"PASS"},{"name":"unicode-bidi: embed","status":"PASS"},{"name":"unicode-bidi: bidi-override","status":"PASS"},{"name":"unicode-bidi should not inherit","status":"FAIL"}]}

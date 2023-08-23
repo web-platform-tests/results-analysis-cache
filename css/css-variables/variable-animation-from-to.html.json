@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify CSS variable value before animation","status":"FAIL"},{"name":"Verify substituted color value before animation","status":"FAIL"},{"name":"Verify CSS variable value after animation","status":"FAIL"},{"name":"Verify substituted color value after animation","status":"FAIL"}]}

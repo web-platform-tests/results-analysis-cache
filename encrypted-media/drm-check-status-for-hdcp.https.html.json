@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"drm support for empty HDCP version.","status":"TIMEOUT"},{"name":"drm support for HDCP 1.0.","status":"NOTRUN"}]}

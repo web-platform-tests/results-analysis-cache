@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test that image does not load","status":"PASS"},{"name":"Event is fired","status":"PASS"},{"name":"Report is observable to ReportingObserver","status":"TIMEOUT"},{"name":"Violation report status OK.","status":"FAIL"}]}
