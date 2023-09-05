@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XMLHttpRequest: overrideMimeType() in unsent state, enforcing Shift-JIS encoding","status":"PASS"}]}
