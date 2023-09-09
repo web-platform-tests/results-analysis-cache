@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"PointerEvents from touch received before/after child removal at pointerdown","status":"FAIL"},{"name":"PointerEvents from touch received before/after child removal at pointerup","status":"FAIL"}]}
