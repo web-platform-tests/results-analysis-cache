@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"test_pattern_patterns_matching[patterns0-https://{wpt_host}]","status":"FAIL"},{"name":"test_pattern_patterns_matching[patterns1-https://{wpt_host}/]","status":"FAIL"},{"name":"test_pattern_patterns_matching[patterns2-https://{wpt_host}:1234/]","status":"FAIL"}]}
