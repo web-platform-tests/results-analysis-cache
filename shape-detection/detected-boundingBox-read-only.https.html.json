@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Face - detectedFace.boundingBox should be DOMRectReadOnly","status":"PASS"},{"name":"Barcode - detectedBarcode.boundingBox should be DOMRectReadOnly","status":"FAIL"},{"name":"Text - detectedText.boundingBox should be DOMRectReadOnly","status":"PASS"}]}
