@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"test_params_intercept_invalid_type[None]","status":"FAIL"},{"name":"test_params_intercept_invalid_type[False]","status":"FAIL"},{"name":"test_params_intercept_invalid_type[42]","status":"FAIL"}]}
