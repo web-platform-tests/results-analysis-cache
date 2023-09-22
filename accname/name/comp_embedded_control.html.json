@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"checkbox label with embedded textfield","status":"FAIL"},{"name":"label of embedded textfield inside checkbox label","status":"PASS"}]}
