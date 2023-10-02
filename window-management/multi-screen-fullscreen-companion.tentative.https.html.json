@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Enter fullscreen and open a popup from one transient activation.","status":"PASS"},{"name":"Fullscreen on ''; popup on ''","status":"TIMEOUT"}]}
