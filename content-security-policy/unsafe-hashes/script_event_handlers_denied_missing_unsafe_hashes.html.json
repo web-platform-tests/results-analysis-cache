@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that the inline event handler is not allowed to run","status":"PASS"}]}
