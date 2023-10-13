@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"SPC enrollment in cross-origin iframe","status":"FAIL"},{"name":"SPC enrollment in cross-origin iframe fails without user activation","status":"FAIL"},{"name":"SPC enrollment in cross-origin iframe without payment permission","status":"TIMEOUT"}]}
