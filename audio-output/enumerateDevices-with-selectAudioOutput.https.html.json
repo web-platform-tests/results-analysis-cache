@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"enumerateDevices() returns no audiooutput devices before permission grant","status":"FAIL"},{"name":"selectAudioOutput()","status":"FAIL"},{"name":"enumerateDevices() after selectAudioOutput()","status":"FAIL"}]}
