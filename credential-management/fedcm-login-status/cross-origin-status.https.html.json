@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Cross-origin status header should be ignored from fetch()","status":"TIMEOUT"}]}
