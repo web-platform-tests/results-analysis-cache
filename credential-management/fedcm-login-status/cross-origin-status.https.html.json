@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Cross-origin status header should be ignored from fetch()","status":"PASS"},{"name":"Status header should be ignored from cross-origin iframe","status":"PASS"},{"name":"Status header should be ignored from cross-origin iframe that contains a subresource with the header","status":"TIMEOUT"}]}
