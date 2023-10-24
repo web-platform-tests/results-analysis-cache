@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Toggle event (listener) get properly dispatched for popovers","status":"PASS"},{"name":"Toggle event (attribute) get properly dispatched for popovers","status":"PASS"},{"name":"Toggle event is cancelable for the \"opening\" transition","status":"PASS"}]}
