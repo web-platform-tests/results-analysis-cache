@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"global scope unchanged","status":"PASS"},{"name":"window object unchanged","status":"PASS"},{"name":"this is the window object","status":"PASS"}]}

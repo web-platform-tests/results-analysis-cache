@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"should not crash on reading from stream cancelled in destroyed realm","status":"PASS"}]}
