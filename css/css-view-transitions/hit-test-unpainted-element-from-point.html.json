@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"hit test should not hit unpainted element, but does hit pseudo and unrelated elements","status":"PASS"}]}
