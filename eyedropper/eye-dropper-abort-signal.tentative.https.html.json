@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Calling EyeDropper.open with signal's aborted flag set should directly throw AbortError","status":"PASS"},{"name":"Calling abort should dismiss the eyedropper","status":"PASS"}]}
