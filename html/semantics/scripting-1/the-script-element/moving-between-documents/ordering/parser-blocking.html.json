@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Script elements (parser-blocking) still block the parser in the original Document after moved to another Document","status":"PASS"}]}
