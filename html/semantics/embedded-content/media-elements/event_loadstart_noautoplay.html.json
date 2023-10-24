@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"audio events - loadstart","status":"PASS"},{"name":"setting src attribute on non-autoplay audio should trigger loadstart event","status":"PASS"},{"name":"video events - loadstart","status":"PASS"},{"name":"setting src attribute on non-autoplay video should trigger loadstart event","status":"PASS"}]}
