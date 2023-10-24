@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that userAgentData is available in workers in secure contexts","status":"FAIL"}]}
