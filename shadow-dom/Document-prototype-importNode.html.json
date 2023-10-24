@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"importNode on a shadow root in open mode must throw a NotSupportedError","status":"PASS"},{"name":"importNode on a shadow root in closed mode must throw a NotSupportedError","status":"PASS"}]}
