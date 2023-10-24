@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Inherited registered custom property can be reverted","status":"PASS"},{"name":"Non-inherited registered custom property can be reverted","status":"PASS"},{"name":"Non-inherited registered custom property can be reverted in animation","status":"PASS"},{"name":"Inherited registered custom property can be reverted in animation","status":"PASS"}]}
