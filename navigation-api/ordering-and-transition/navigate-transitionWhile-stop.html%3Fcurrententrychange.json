@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"event and promise ordering for navigation.navigate() intercepted by transitionWhile() but then stopped using window.stop()","status":"PASS"}]}
