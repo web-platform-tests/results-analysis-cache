@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"iframe 'sandbox' ASCII case insensitive, allow-same-orİgin","status":"PASS"},{"name":"iframe 'sandbox' ASCII case insensitive, allow-ſcripts","status":"PASS"}]}
