@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"enumerate a localStorage object with the key and get the values","status":"PASS"},{"name":"enumerate a sessionStorage object with the key and get the values","status":"PASS"}]}
