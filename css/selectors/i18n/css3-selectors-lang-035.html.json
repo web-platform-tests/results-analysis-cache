@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A lang|= value will match a lang attribute value regardless of case differences in the script tag.","status":"PASS"}]}
