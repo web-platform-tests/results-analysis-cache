@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Trivial animVal testcase, to see wheter we support it at all. Should result in a 200x200 rect and only PASS messages","status":"PASS"}]}
