@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CSS is not applied (because of nosniff + non-text/css headers)","status":"PASS"}]}
