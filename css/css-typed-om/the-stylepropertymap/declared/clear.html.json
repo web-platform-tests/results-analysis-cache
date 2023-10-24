@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Clearing an empty CSS rule is a no-op","status":"PASS"},{"name":"Can clear a CSS rule containing properties","status":"PASS"},{"name":"Declared StylePropertyMap.clear updates the CSS rule","status":"PASS"}]}
