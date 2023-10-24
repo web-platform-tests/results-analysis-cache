@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"requestFullscreen works even if previous requestFullscreen causes an error","status":"PASS"}]}
