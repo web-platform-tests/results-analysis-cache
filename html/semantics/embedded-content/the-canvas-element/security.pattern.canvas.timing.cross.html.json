@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Pattern safety depends on whether the source was origin-clean, not on whether it still is clean","status":"PASS"}]}
