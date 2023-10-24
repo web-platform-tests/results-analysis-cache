@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"animationstart event is instanceof AnimationEvent","status":"TIMEOUT"},{"name":"animationend event is instanceof AnimationEvent","status":"PASS"},{"name":"animationiteration event is instanceof AnimationEvent","status":"PASS"}]}
