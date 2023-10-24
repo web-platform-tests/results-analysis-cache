@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"setAppBadge should fail inside a fenced frame","status":"FAIL"},{"name":"clearAppBadge should fail inside a fenced frame","status":"FAIL"},{"name":"setAppBadge should fail from a service worker inside a fenced frame","status":"FAIL"},{"name":"clearAppBadge should fail from a service worker inside a fenced frame","status":"FAIL"}]}

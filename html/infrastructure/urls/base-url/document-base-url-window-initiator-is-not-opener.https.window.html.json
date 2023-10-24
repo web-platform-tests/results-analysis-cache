@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"window.open() gets base url from initiator not opener.","status":"TIMEOUT"}]}

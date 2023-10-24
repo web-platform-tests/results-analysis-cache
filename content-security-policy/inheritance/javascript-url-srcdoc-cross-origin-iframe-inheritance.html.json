@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Nested cross-origin iframe should be blocked by frame-src 'self'.","status":"TIMEOUT"}]}

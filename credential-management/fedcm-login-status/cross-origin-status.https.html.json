@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Cross-origin status header should be ignored from fetch()","status":"FAIL"},{"name":"Status header should be ignored from cross-origin iframe","status":"FAIL"},{"name":"Status header should be ignored from cross-origin iframe that contains a subresource with the header","status":"FAIL"}]}
