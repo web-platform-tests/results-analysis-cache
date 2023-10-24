@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"There's no self.event (that's why we call it window.event) in workers","status":"PASS"}]}
