@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Observer in main frame should not receive PressureRecord when focused on cross-origin iframe","status":"PASS"},{"name":"Observer in iframe should not receive PressureRecord when focused on cross-origin main frame","status":"PASS"}]}
