@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Faster collector: Timestamp difference between two changes should be higher or equal to the observer sample rate","status":"FAIL"},{"name":"disconnect() should update [[LastRecordMap]]","status":"FAIL"}]}
