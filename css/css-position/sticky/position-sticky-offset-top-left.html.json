@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"offsetTop/offsetLeft should be correct for sticky after script insertion","status":"PASS"},{"name":"offsetTop/offsetLeft should be correct for sticky after script-caused layout","status":"PASS"}]}
