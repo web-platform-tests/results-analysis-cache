@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"scrollRestoration: restoreScroll() should work after a navigate event dispatch","status":"FAIL"}]}
