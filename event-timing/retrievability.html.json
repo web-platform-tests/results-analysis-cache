@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Event Timing: make sure event-timing entries are not retrievable by performance.getEntries*.","status":"PASS"}]}
