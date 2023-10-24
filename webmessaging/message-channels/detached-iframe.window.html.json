@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"MessageChannel created from a detached iframe should not send messages (remove after create)","status":"PASS"},{"name":"MessageChannel created from a detached iframe should not send messages (remove before create)","status":"PASS"}]}
