@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SerialPort.readable is set by open() and closes on port close","status":"FAIL"}]}
