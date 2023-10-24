@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.virtualKeyboard is an object","status":"FAIL"},{"name":"navigator.virtualKeyboard has type `VirtualKeyboard`","status":"FAIL"},{"name":"navigator.virtualKeyboard.show instanceof Function","status":"FAIL"},{"name":"navigator.virtualKeyboard.hide instanceof Function","status":"FAIL"}]}

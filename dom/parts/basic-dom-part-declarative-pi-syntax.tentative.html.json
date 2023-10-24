@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Basic declarative DOM Parts (Main Document)","status":"FAIL"},{"name":"Basic declarative DOM Parts (Template)","status":"FAIL"},{"name":"Basic declarative DOM Parts (Clone)","status":"FAIL"},{"name":"Basic declarative DOM Parts (PartClone)","status":"FAIL"},{"name":"Basic declarative DOM Parts (DeclarativeShadowDOM)","status":"FAIL"}]}

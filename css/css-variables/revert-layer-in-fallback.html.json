@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"var(--unknown, revert-layer) in custom property","status":"FAIL"},{"name":"var(--unknown, revert-layer) in shorthand","status":"FAIL"},{"name":"var(--unknown, revert-layer) in shorthand observed via longhand","status":"FAIL"},{"name":"var(--unknown, revert-layer) in longhand","status":"FAIL"}]}

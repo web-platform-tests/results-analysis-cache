@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"custom events with the name 'end' should only call the event listener for the event 'end' and no attribute handlers or IDL listeners","status":"PASS"},{"name":"custom events with the name 'endEvent' should call 'onend' attribute handlers and IDL property listeners, and 'endEvent' listeners","status":"FAIL"}]}

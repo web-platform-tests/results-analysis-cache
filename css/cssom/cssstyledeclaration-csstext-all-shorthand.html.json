@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"'all' shorthand alone","status":"FAIL"},{"name":"'all' shorthand with 'width' and 'height'","status":"FAIL"},{"name":"'all' shorthand with 'direction' and 'unicode-bidi'","status":"FAIL"},{"name":"'all' shorthand with 'width', 'height' and custom properties","status":"FAIL"},{"name":"'all' shorthand with all longhands","status":"FAIL"}]}

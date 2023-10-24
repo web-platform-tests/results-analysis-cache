@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test that script executes if allowed by proper hash values","status":"PASS"},{"name":"Test that the securitypolicyviolation event is fired","status":"NOTRUN"}]}
