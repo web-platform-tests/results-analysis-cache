@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"App is not managed.","status":"PASS"},{"name":"Configuration is returned","status":"PASS"},{"name":"Selected keys are returned.","status":"PASS"},{"name":"Only existing keys are returned.","status":"PASS"},{"name":"Values can be of any type","status":"PASS"},{"name":"A change in managed configuration is observed.","status":"PASS"}]}
