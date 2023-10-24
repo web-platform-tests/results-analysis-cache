@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Ensure that simulated click is still dispatched to an inert node.","status":"PASS"}]}
