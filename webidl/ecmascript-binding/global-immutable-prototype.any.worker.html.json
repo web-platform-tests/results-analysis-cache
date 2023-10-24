@@ -1,0 +1,1 @@
+{"status":"CRASH","subtests":[{"name":"Setting to a different prototype","status":"FAIL"},{"name":"Setting to the same prototype","status":"PASS"}]}
