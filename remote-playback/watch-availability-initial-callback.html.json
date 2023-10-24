@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that the callback is called once watchAvailability() resolves.","status":"FAIL"}]}
