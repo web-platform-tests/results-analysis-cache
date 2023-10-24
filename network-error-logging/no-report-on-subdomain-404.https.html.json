@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"\n    Test that include_subdomains policies do NOT report HTTP errors\n  ","status":"PASS"}]}
