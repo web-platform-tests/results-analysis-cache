@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"sigmoid float32 1D tensor / async","status":"FAIL"},{"name":"sigmoid float32 2D tensor / async","status":"FAIL"},{"name":"sigmoid float32 3D tensor / async","status":"FAIL"},{"name":"sigmoid float32 4D tensor / async","status":"FAIL"},{"name":"sigmoid float32 5D tensor / async","status":"FAIL"}]}
