@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"FocusOptions.focusVisible: button","status":"FAIL"},{"name":"FocusOptions.focusVisible: input","status":"FAIL"},{"name":"FocusOptions.focusVisible: #contenteditable","status":"FAIL"},{"name":"FocusOptions.focusVisible: #tabindex","status":"TIMEOUT"},{"name":"FocusOptions.focusVisible: #not_focusable","status":"NOTRUN"}]}
