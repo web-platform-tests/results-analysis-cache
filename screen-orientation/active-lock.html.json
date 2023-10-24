@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Performing a fragment navigation must not abort the screen orientation change","status":"FAIL"},{"name":"Performing a fragment navigation within an iframe must not abort the lock promise","status":"TIMEOUT"},{"name":"Unloading an iframe by navigating it must abort the lock promise","status":"NOTRUN"}]}
