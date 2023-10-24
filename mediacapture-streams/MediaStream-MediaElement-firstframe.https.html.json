@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Tests that loading a MediaStream in a media element eventually results in \"canplay\" even when not playing or autoplaying","status":"PASS"},{"name":"Tests that loading a MediaStream in a media element sees all the expected (deterministic) events even when not playing or autoplaying","status":"PASS"}]}
