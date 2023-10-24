@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SensorErrorEvent constructor without init dict","status":"PASS"},{"name":"SensorErrorEvent constructor with init dict","status":"PASS"}]}
