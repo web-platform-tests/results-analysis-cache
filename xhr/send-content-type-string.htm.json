@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XMLHttpRequest: send() - Content-Type","status":"PASS"},{"name":"XMLHttpRequest: send() - Content-Type 1","status":"PASS"},{"name":"XMLHttpRequest: send() - Content-Type 2","status":"PASS"}]}
