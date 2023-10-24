@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"local-fonts-disabled-by-permissions-policy","status":"FAIL"},{"name":"permissions policy header: \"local-fonts=()\" disallows same-origin iframes.","status":"TIMEOUT"},{"name":"permissions policy header: \"local-fonts=()\" disallows cross-origin iframes.","status":"TIMEOUT"}]}
