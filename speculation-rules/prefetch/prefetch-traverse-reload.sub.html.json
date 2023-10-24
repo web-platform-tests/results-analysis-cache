@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"prefetches can be used for traversal navigations","status":"FAIL"},{"name":"prefetches can be used for reload navigations","status":"FAIL"}]}
