@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"prefetches can be used for traversal navigations","status":"TIMEOUT"},{"name":"History's Document is used for traversal navigations","status":"NOTRUN"},{"name":"prefetches can be used for reload navigations","status":"NOTRUN"}]}
