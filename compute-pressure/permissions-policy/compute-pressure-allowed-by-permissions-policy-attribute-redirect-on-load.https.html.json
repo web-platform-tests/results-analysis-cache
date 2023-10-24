@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"permissions policy allow=\"compute-pressure\" allows same-origin navigation in an iframe.","status":"FAIL"},{"name":"permissions policy allow=\"compute-pressure\" disallows cross-origin navigation in an iframe.","status":"FAIL"}]}

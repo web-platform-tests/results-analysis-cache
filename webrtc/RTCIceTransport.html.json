@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Two connected iceTransports should has matching local/remote candidates returned","status":"FAIL"},{"name":"Unconnected iceTransport should have empty remote candidates and selected pair","status":"FAIL"}]}

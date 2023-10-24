@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Seller passes number to bidder.","status":"FAIL"},{"name":"Seller passes string to bidder.","status":"FAIL"},{"name":"Seller passes array to bidder.","status":"FAIL"},{"name":"Seller passes object to bidder.","status":"FAIL"},{"name":"browserSignals.topWindowHostname test.","status":"FAIL"}]}
