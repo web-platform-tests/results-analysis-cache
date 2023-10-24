@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test for loading external script from href when setting href and then xlink:href","status":"PASS"},{"name":"Test for loading external script from xlnk:href by adding xlink:href and then href","status":"PASS"},{"name":"Test for loading external script from href by adding href and then xlink:href, and then removing href","status":"PASS"}]}

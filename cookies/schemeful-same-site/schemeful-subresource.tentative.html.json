@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-scheme subresources can send lax/strict cookies","status":"PASS"},{"name":"Cross-scheme subresources cannot sent lax/strict cookies","status":"PASS"}]}
