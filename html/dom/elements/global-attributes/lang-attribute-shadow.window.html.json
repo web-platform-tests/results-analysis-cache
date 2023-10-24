@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"lang only on slot","status":"FAIL"},{"name":"lang only on host","status":"FAIL"},{"name":"lang on host and slot","status":"FAIL"},{"name":"lang on host and slotted element","status":"FAIL"},{"name":"lang on host and slot and slotted element","status":"FAIL"},{"name":"lang on slot inherits from shadow host","status":"FAIL"}]}

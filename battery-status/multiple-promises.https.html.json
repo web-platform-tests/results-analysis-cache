@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"multiple parallel invocations of navigator.getBattery()","status":"FAIL"}]}

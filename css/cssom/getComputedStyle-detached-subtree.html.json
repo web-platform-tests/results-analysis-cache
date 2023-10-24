@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"getComputedStyle returns no style for detached element","status":"FAIL"},{"name":"getComputedStyle returns no style for element in non-rendered iframe (display: none)","status":"FAIL"},{"name":"getComputedStyle returns no style for element in non-rendered iframe (display: none) from iframe's window","status":"FAIL"}]}

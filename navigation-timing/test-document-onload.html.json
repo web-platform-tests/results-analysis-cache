@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that the attributes have a proper value during DOMContentLoaded","status":"FAIL"},{"name":"Test that the attributes have a proper value during onload","status":"FAIL"}]}

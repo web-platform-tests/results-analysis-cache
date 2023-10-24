@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"State change counting","status":"PASS"},{"name":"Iteration 1","status":"FAIL"},{"name":"Iteration 2","status":"FAIL"},{"name":"Iteration 3","status":"FAIL"},{"name":"Stop waiting","status":"PASS"}]}
