@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"@scope without prelude implicitly scopes to parent of owner node","status":"PASS"},{"name":":scope can style implicit root","status":"PASS"},{"name":"@scope works with two identical stylesheets","status":"PASS"}]}
