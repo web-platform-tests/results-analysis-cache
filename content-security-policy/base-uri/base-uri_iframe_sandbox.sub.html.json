@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"base-uri 'self' works with same-origin sandboxed iframes.","status":"PASS"},{"name":"base-uri 'self' blocks foreign-origin sandboxed iframes.","status":"PASS"}]}

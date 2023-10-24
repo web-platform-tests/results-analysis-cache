@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"PendingGetBeacon is sent to the updated URL","status":"PASS"},{"name":"PendingGetBeacon is sent to the last updated URL","status":"PASS"}]}
