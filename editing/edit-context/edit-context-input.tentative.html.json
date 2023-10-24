@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Testing EditContext English typing","status":"FAIL"},{"name":"EditContext should disable DOM mutation","status":"FAIL"},{"name":"beforeInput(insertText) should be cancelable","status":"FAIL"},{"name":"EditContext should not receive events after being detached from element","status":"FAIL"}]}

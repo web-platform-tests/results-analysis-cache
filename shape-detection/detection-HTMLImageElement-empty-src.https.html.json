@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Face - detect(empty src)","status":"TIMEOUT"},{"name":"Barcode - detect(empty src)","status":"NOTRUN"},{"name":"Text - detect(empty src)","status":"NOTRUN"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"perBuyerPrioritySignals has a value with a key with prefix \"browserSignals\"","status":"FAIL"},{"name":"component auctions are not allowed within component auctions","status":"FAIL"},{"name":"component auctions are not allowed with interestGroupBuyers","status":"FAIL"}]}

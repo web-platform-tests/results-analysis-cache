@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"estimate() method returns a Promise","status":"FAIL"},{"name":"estimate() resolves to dictionary with members","status":"FAIL"},{"name":"estimate() shows usage increase after 1MB IndexedDB record is stored","status":"FAIL"}]}

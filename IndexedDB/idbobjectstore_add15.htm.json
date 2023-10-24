@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"IDBObjectStore.add() - If the transaction this IDBObjectStore belongs to has its mode set to readonly, throw ReadOnlyError ","status":"NOTRUN"}]}

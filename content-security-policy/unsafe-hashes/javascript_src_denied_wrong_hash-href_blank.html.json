@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"javascript: navigation using <a href target=_blank> should be refused due to wrong hash","status":"FAIL"}]}

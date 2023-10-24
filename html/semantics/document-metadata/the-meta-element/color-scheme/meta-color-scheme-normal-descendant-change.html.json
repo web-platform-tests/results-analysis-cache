@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Normal initially dark","status":"PASS"},{"name":"Normal should change to light from page color schemes","status":"FAIL"}]}

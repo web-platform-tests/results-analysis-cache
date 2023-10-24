@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Computed value of position:sticky on THEAD","status":"FAIL"},{"name":"Computed value of position:sticky on TBODY","status":"FAIL"},{"name":"Computed value of position:sticky on TR","status":"FAIL"},{"name":"Computed value of position:sticky on TD","status":"FAIL"},{"name":"Computed value of position:sticky on TFOOT","status":"FAIL"}]}
