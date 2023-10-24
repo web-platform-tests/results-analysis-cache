@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"COOP:same-origin + COEP:credentialless embeds cross-origin credentialless iframe","status":"PASS"}]}
