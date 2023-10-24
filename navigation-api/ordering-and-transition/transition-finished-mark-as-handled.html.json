@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigation.transition.finished must not trigger unhandled rejections","status":"PASS"}]}
