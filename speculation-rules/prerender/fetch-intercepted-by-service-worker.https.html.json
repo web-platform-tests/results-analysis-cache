@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"fetch() in a prerendering page should go through a service worker","status":"TIMEOUT"}]}
