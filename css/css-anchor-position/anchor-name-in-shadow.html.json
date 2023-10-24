@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"anchor-name should not leak out of a shadow tree","status":"FAIL"},{"name":"anchor() in shadow tree should not match host anchor-name","status":"FAIL"}]}
