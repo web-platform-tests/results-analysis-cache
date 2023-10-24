@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"event.timeStamp is initialized using event's relevant global object","status":"PASS"}]}
