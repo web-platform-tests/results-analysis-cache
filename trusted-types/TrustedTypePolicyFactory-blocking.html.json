@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Block Trusted Type policy creation by event listener.","status":"PASS"},{"name":"Trusted Type policy creation.","status":"PASS"},{"name":"Block only default Trusted Type policy creation.","status":"PASS"},{"name":"Policy creation called before addEventListener function will not reached the listener.","status":"PASS"}]}
