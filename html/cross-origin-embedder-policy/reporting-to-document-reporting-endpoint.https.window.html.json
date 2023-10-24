@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"subresource CORP","status":"FAIL"},{"name":"navigation CORP on cross origin","status":"PASS"},{"name":"navigation CORP on same origin","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.clipboard.write() for custom format and Blob type with web prefix","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Space characters at the end of a line are collapsed (per CSS)","status":"FAIL"}]}

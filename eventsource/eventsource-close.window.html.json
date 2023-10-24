@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"EventSource: close()","status":"PASS"},{"name":"EventSource: close(), test events","status":"PASS"}]}
