@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"event dispatches on click","status":"FAIL"},{"name":"event action is set to invokeAction","status":"FAIL"},{"name":"event action is set to invokeaction attribute","status":"FAIL"},{"name":"event does not dispatch if click:preventDefault is called","status":"PASS"},{"name":"event does not dispatch if invoker is disabled","status":"PASS"}]}
