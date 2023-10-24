@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Same-origin image redirect without TAO should have its renderTime set.","status":"TIMEOUT"}]}
