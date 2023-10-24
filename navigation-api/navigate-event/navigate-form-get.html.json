@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"<form> submission with GET method fires navigate event but with formData null","status":"PASS"}]}
