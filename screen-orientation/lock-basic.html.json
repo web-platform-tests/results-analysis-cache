@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test that screen.orientation.lock returns a promise which will be fulfilled with a void value.","status":"PASS"},{"name":"Test that screen.orientation.lock returns a pending promise.","status":"TIMEOUT"},{"name":"Test that screen.orientation.lock() is actually async","status":"NOTRUN"}]}
