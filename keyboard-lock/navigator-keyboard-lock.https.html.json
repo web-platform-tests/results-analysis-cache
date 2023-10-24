@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.keyboard instanceof Keyboard","status":"PASS"},{"name":"navigator.keyboard SameObject","status":"PASS"},{"name":"navigator.keyboard.lock instanceof Function","status":"PASS"},{"name":"navigator.keyboard.unlock instanceof Function","status":"PASS"},{"name":"[Keyboard Lock] keyboard.lock","status":"PASS"}]}
