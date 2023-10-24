@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"No login hint matches an account.","status":"FAIL"},{"name":"Login hint matches an account.","status":"FAIL"},{"name":"Login hint matches an account from two accounts.","status":"FAIL"}]}

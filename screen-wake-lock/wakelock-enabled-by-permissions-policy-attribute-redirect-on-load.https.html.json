@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Permissions-Policy allow=\"screen-wake-lock\" allows same-origin relocation","status":"FAIL"},{"name":"Permissions-Policy allow=\"screen-wake-lock\" disallows cross-origin relocation","status":"FAIL"}]}
