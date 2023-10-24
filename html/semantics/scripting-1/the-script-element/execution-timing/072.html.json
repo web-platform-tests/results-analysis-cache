@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":" scheduler: document.write into IFRAME a script that creates new inline script in parent ","status":"PASS"}]}
