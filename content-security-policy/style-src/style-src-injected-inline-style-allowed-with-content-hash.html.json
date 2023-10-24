@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Inline injected style without text content should be allowed","status":"PASS"},{"name":"Inline style sheet should be created with null child node","status":"PASS"},{"name":"Inline style should be created with empty-string child node","status":"PASS"},{"name":"Inline style should be applied","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Outer animation can not see view timeline defined by :host","status":"PASS"},{"name":"Outer animation can not see view timeline defined by ::slotted","status":"PASS"},{"name":"Inner animation can see view timeline defined by ::part","status":"PASS"}]}

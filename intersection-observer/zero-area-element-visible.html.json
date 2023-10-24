@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Ensure that a zero-area target intersecting root generates a notification with intersectionRatio == 1","status":"PASS"},{"name":"First rAF should generate a notification.","status":"PASS"}]}
