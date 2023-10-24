@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"PreventDefaulting form onsubmit should allow submit() to succeed","status":"PASS"},{"name":"PreventDefaulting form onsubmit should allow submit() to succeed and the second submit() which is invalid should not supersede first one","status":"PASS"}]}
