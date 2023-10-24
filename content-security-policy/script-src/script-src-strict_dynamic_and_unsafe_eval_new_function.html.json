@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Script injected via `new Function()` is allowed with `strict-dynamic` with `unsafe-eval`.","status":"PASS"}]}
