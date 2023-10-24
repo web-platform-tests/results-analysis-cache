@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The type attribute must return 'fieldset'","status":"PASS"},{"name":"The form attribute must return the fieldset's form owner","status":"PASS"},{"name":"The elements must return an HTMLCollection object","status":"PASS"},{"name":"The controls must root at the fieldset element","status":"PASS"}]}
