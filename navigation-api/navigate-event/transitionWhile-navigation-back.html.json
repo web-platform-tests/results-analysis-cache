@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"event.transitionWhile() can intercept navigation.back()","status":"FAIL"}]}
