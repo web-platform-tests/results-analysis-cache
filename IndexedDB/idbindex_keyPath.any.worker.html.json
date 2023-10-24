@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IDBIndex's keyPath attribute returns the same object.","status":"PASS"},{"name":"IDBIndex's keyPath array with a single value","status":"PASS"},{"name":"IDBIndex's keyPath array with multiple values","status":"PASS"}]}
