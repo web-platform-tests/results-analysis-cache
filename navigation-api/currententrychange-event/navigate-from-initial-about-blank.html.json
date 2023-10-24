@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"currententrychange does not fire when navigating away from the initial about:blank","status":"PASS"}]}
