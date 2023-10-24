@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"spaces removed","status":"PASS"},{"name":"spaces removed between Wide characters","status":"PASS"},{"name":"spaces removed between Fullwidth characters","status":"PASS"},{"name":"spaces removed between Halfwidth characters","status":"PASS"}]}
