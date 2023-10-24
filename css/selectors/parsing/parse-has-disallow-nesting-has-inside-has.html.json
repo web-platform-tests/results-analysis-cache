@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"\".a:has(.b:has(.c))\" should be a valid selector","status":"PASS"},{"name":"\".a:has(.b:has(.c), .d)\" should be a valid selector","status":"PASS"},{"name":"\".a:has(.b:is(.c:has(.d) .e))\" should be a valid selector","status":"PASS"}]}
