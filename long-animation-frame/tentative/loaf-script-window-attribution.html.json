@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Scripts in this window should be self-attributed","status":"PASS"},{"name":"Scripts in subframes should be descendant-attributed","status":"FAIL"},{"name":"Scripts in subframes should be same-page-attributed to other subframes","status":"PASS"}]}
