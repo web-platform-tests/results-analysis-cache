@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"view size initially matches window size","status":"PASS"},{"name":"Resize event was fired at window.visualViewport if, and only if, scrollbars are classic (i.e. affect flow)","status":"FAIL"},{"name":"view size reflects appearance of classic scrollbars","status":"PASS"}]}
