@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"allow-same-origin","status":"FAIL"},{"name":"disallow-same-origin","status":"FAIL"}]}
