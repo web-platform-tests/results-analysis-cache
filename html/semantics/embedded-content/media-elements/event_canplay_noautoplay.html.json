@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"audio events - canplay","status":"PASS"},{"name":"setting src attribute on non-autoplay audio should trigger canplay event","status":"PASS"},{"name":"video events - canplay","status":"PASS"},{"name":"setting src attribute on non-autoplay video should trigger canplay event","status":"PASS"}]}
