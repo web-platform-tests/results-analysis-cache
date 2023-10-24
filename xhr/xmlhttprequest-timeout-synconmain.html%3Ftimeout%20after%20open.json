@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Timeout test: Synchronous XHR must not allow a timeout to be set - setting timeout must throw","status":"PASS"}]}

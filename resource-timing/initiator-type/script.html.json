@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The initiator type for <script> must be 'script'","status":"PASS"},{"name":"The initiator type for an asynchronous XmlHTTPRequest must be 'xmlhttprequest'","status":"PASS"}]}
