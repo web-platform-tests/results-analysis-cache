@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"\"*\" should be a valid selector","status":"PASS"},{"name":"\"div :first-child\" should be a valid selector","status":"PASS"},{"name":"\"div *:first-child\" should be a valid selector","status":"PASS"}]}
