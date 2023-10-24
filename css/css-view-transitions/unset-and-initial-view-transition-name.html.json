@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"validates that view-transition-name: unset or initial are ignored","status":"PASS"}]}
