@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"traverseTo() promise rejection with rejected intercept()","status":"FAIL"}]}
