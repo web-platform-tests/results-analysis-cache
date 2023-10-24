@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test scheduler.postTask() with a signal from a detached iframe","status":"PASS"}]}
