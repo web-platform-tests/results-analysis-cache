@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Tests that transferring a low latency canvas does not cause a crash. See crbug.com/1255153","status":"PASS"}]}
