@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['marker'] = \"none\" should set the property value","status":"PASS"},{"name":"e.style['marker'] = \"url(\\\"https://example.com/\\\")\" should set the property value","status":"PASS"}]}
