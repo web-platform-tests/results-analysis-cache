@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"No `get` calls before or during onload, multiple `get` calls after onload in the same task are allowed.","status":"FAIL"}]}
