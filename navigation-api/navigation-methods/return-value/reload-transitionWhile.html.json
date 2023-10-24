@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"reload() and transitionWhile() with a fulfilled promise","status":"PASS"}]}
