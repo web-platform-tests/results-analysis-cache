@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"PaymentRequest's id attribute's value can be set via PaymentDetailsInit dictionary","status":"FAIL"},{"name":"PaymentRequest's id attribute must be a UUID when PaymentDetailsInit.id is missing","status":"FAIL"}]}
