@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"The object is no longer associated to a document.","status":"PASS"},{"name":"API is only supported in top-level browsing contexts.","status":"PASS"},{"name":"Wrong origin URL argument.","status":"PASS"},{"name":"Service failed to add sub-app.","status":"FAIL"}]}
