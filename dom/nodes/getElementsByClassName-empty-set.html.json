@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Passing an empty string to getElementsByClassName should return an empty HTMLCollection","status":"PASS"},{"name":"Passing a space to getElementsByClassName should return an empty HTMLCollection","status":"PASS"},{"name":"Passing three spaces to getElementsByClassName should return an empty HTMLCollection","status":"PASS"}]}
