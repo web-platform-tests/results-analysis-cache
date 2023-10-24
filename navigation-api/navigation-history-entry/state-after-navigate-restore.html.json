@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"entry.getState() is properly restored after cross-document back","status":"PASS"}]}
