@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-origin fenced frame does not when feature policies are self","status":"FAIL"},{"name":"Cross-origin fenced frame does not load when feature policies are self","status":"FAIL"},{"name":"Fenced frames default feature policies are set to not allow anything.","status":"FAIL"}]}
