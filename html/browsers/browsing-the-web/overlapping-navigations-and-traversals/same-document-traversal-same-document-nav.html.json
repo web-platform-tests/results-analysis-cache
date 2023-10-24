@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"same-document traversals are not canceled by fragment navigations and calculate their endpoint based on the original placement","status":"PASS"},{"name":"same-document traversals are not canceled by pushState() and calculate their endpoint based on the original placement","status":"PASS"}]}
