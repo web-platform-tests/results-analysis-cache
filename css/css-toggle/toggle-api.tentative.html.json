@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CSSToggleMap basic API usage and moving toggle","status":"FAIL"},{"name":"CSSToggle basic API usage on existing toggle","status":"FAIL"},{"name":"CSSToggle usage of group setter on existing toggle","status":"FAIL"},{"name":"dynamic creation of CSSToggle and their use","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"scrollbar-width auto defers to ::-webkit-scrollbar","status":"PASS"},{"name":"scrollbar-width thin overrides ::-webkit-scrollbar","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Run auction in cross-origin iframe and open winning ad in a fenced frame child of the main frame.","status":"FAIL"},{"name":"Run auction in cross-origin iframe and open winning ad in a fenced frame child of another cross-origin iframe.","status":"FAIL"}]}
