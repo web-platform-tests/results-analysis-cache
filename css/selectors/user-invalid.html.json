@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":":user-invalid selector should respond to user action","status":"FAIL"},{"name":":user-error selector should not be supported","status":"PASS"}]}
