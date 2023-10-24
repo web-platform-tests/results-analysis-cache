@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property container-name has initial value none","status":"PASS"},{"name":"Property container-name does not inherit","status":"PASS"},{"name":"Property container-type has initial value none","status":"PASS"},{"name":"Property container-type does not inherit","status":"PASS"}]}
