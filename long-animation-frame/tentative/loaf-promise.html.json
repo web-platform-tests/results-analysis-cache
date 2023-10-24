@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"LoAF script: Promise.resolve resolve-promise, fetch","status":"FAIL"},{"name":"LoAF script: Promise.resolve resolve-promise, Response.text","status":"PASS"},{"name":"LoAF script: Promise.resolve resolve-promise, import","status":"PASS"},{"name":"LoAF script: Promise.reject reject-promise,","status":"PASS"}]}
