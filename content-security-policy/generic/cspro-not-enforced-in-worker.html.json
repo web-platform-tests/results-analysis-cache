@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check that inline is allowed since the inherited policy is report only","status":"PASS"},{"name":"Check that eval is allowed since the inherited policy is report only","status":"PASS"}]}

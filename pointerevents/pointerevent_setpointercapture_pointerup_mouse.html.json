@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test should be run using a mouse as input","status":"PASS"},{"name":"target0.setPointerCapture should not throw","status":"PASS"}]}
