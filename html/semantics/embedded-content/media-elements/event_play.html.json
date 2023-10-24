@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"audio events - play","status":"PASS"},{"name":"setting src attribute on autoplay audio should trigger play event","status":"PASS"},{"name":"video events - play","status":"PASS"},{"name":"setting src attribute on autoplay video should trigger play event","status":"PASS"}]}
