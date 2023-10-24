@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify that a 200 null-typed object emits an entry.","status":"PASS"},{"name":"Verify that a 404 null-typed object emits an entry.","status":"FAIL"},{"name":"Verify that a 404 img-typed object emits an entry.","status":"PASS"}]}
