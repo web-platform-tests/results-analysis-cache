@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getImageData() returns a correctly-sized Uint8ClampedArray","status":"PASS"}]}
