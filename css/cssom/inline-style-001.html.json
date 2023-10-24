@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CSSStyleDeclaration_accessible","status":"PASS"},{"name":"read","status":"PASS"},{"name":"csstext_write","status":"PASS"},{"name":"property_write","status":"PASS"},{"name":"shorthand_properties","status":"PASS"}]}
