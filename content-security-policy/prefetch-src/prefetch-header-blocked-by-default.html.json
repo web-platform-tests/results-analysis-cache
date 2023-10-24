@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Prefetch via `Link` header blocked when allowed by default-src","status":"PASS"}]}
