@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"MessagePort constructor properties","status":"PASS"},{"name":"Worker MessageChannel's port should be an instance of MessagePort","status":"PASS"},{"name":"Worker MessagePort should not be [[Callable]]","status":"PASS"}]}
