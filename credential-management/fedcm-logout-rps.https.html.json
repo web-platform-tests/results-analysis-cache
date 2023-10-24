@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IdentityCredential.logoutRPs() error.","status":"FAIL"},{"name":"IdentityCredential.logoutRPs() success.","status":"FAIL"},{"name":"Logout URL should honor Content-Security-Policy.","status":"FAIL"}]}
