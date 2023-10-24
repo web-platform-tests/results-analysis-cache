@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The popover should be bottom left positioned","status":"PASS"},{"name":"The popover should be top left positioned","status":"PASS"},{"name":"The popover should be bottom right positioned","status":"PASS"},{"name":"The popover should be top right positioned","status":"PASS"}]}
