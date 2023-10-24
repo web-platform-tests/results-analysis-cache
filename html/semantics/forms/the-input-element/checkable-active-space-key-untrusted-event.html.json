@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Space key shouldn't active the checkbox when space key press is emulated by untrusted events","status":"PASS"},{"name":"Space key shouldn't active the radio when space key press is emulated by untrusted events","status":"PASS"}]}
