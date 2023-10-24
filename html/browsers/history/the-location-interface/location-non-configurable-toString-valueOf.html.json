@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"'toString' redefinition with accessor fails","status":"PASS"},{"name":"'valueOf' redefinition with accessor fails","status":"PASS"}]}
