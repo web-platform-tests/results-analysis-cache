@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"simple GET request: no payload; setting up","status":"FAIL"},{"name":"simple POST request: no payload; setting up","status":"FAIL"},{"name":"keepalive in onunload in nested frame in another window; setting up","status":"FAIL"}]}
