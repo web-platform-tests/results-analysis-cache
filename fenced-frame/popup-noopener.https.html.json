@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Create popup from top-level fenced frame","status":"FAIL"},{"name":"Create popup from iframe nested in a fenced frame","status":"FAIL"},{"name":"Create popup from nested fenced frame","status":"FAIL"}]}

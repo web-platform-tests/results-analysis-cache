@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Subresource load not matched with URLPattern condition","status":"FAIL"},{"name":"Subresource load matched with URLPattern condition","status":"FAIL"},{"name":"Subresource load matched with RequestMode condition","status":"FAIL"}]}

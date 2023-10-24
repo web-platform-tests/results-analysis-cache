@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"offsetLeft must be 0.","status":"FAIL"},{"name":"offsetTop must be 0.","status":"FAIL"},{"name":"pageLeft must reflect location of viewport in document.","status":"FAIL"},{"name":"pageTop must reflect location of viewport in document.","status":"FAIL"}]}

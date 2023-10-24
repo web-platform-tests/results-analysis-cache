@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"contributeToHistogram() with disabled \"private-aggregation\" permissions policy","status":"FAIL"}]}

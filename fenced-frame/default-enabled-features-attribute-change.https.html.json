@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Changing the allow attribute is a no-op for the current navigation","status":"FAIL"},{"name":"Changing the allow attribute is a no-op for frame-initiated navigations","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"When the focus is set on the root of a focusgroup element, an arrow key press shouldn't move the focus at all.","status":"FAIL"}]}

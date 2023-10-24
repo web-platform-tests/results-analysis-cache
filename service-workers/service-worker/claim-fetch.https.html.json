@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"fetch() should be intercepted after the client is claimed.","status":"FAIL"}]}

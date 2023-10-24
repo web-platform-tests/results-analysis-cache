@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"2 cursors","status":"FAIL"},{"name":"20 cursors","status":"FAIL"},{"name":"200 cursors","status":"FAIL"},{"name":"2000 cursors","status":"FAIL"}]}
