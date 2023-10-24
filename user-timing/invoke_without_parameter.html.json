@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.performance.mark() throws a TypeError exception when invoke without a parameter.","status":"PASS"},{"name":"window.performance.measure() throws a TypeError exception when invoke without a parameter.","status":"PASS"}]}
