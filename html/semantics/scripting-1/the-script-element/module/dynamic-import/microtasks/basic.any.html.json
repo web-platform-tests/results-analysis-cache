@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"import() should not drain the microtask queue if it fails during specifier resolution","status":"PASS"},{"name":"import() should not drain the microtask queue when loading an already loaded module","status":"PASS"},{"name":"import() should drain the microtask queue when fetching a new module","status":"TIMEOUT"}]}

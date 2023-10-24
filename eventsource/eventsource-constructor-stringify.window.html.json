@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"EventSource: stringify argument, object","status":"FAIL"},{"name":"EventSource: stringify argument, 1","status":"FAIL"},{"name":"EventSource: stringify argument, null","status":"FAIL"},{"name":"EventSource: stringify argument, undefined","status":"FAIL"}]}

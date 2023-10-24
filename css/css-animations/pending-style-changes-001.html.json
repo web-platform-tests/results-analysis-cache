@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Animatable::getAnimations() should be able to see a style-created CSS animation immediately","status":"FAIL"},{"name":"Document::getAnimations() should be able to see a style-created CSS animation immediately","status":"FAIL"}]}

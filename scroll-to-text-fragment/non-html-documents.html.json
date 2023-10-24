@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Text directive blocked in non-html.css","status":"FAIL"},{"name":"Text directive blocked in non-html.js","status":"FAIL"},{"name":"Text directive blocked in non-html.json","status":"FAIL"},{"name":"Text directive blocked in non-html.txt","status":"FAIL"},{"name":"Text directive blocked in non-html.xml","status":"FAIL"}]}

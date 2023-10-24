@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"removing an iframe from within an onerror handler should work","status":"TIMEOUT"}]}
