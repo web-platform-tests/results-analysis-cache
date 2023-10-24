@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that the promise returns the callback id when calling watchAvailability().","status":"PASS"}]}
