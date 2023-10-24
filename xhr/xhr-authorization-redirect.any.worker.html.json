@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getAuthorizationHeaderValue - no redirection","status":"FAIL"},{"name":"getAuthorizationHeaderValue - same origin redirection","status":"FAIL"},{"name":"getAuthorizationHeaderValue - cross origin redirection","status":"FAIL"}]}
