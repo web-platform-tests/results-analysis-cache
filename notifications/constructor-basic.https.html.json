@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Called the notification constructor with one argument.","status":"PASS"},{"name":"Constructing a notification without a NotificationOptions defaults to null.","status":"FAIL"},{"name":"constructing a notification with a NotificationOptions dictionary correctly sets and reflects the silent attribute.","status":"FAIL"}]}

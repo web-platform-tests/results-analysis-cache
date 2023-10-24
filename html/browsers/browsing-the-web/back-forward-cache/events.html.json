@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SameOrigin","status":"PASS"},{"name":"SameSite","status":"PASS"},{"name":"CrossSite","status":"PASS"},{"name":"beforeunload","status":"PASS"},{"name":"unload","status":"PRECONDITION_FAILED"}]}

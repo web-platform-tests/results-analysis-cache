@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Dynamically imported module should eval when imported from script w/ a valid nonce.","status":"PASS"}]}

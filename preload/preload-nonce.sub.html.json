@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Preload requests without a nonce are blocked by CSP.","status":"PASS"},{"name":"Preload requests with a correct nonce are allowed by CSP.","status":"PASS"}]}

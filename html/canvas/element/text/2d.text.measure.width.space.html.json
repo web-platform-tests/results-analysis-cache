@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Space characters are converted to U+0020 and NOT collapsed","status":"PASS"}]}

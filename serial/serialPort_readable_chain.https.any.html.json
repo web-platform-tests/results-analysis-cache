@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Stream closure is observable through a long chain of transforms","status":"PASS"}]}

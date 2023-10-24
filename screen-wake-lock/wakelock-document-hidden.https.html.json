@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.wakeLock.request('screen') fails when the document is hidden","status":"PASS"},{"name":"Screen wake locks are released when the document the page is hidden","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"new Notification should fail inside a fenced frame","status":"FAIL"},{"name":"new Notification should fail from the service worker in a fenced frame","status":"FAIL"},{"name":"showNotification() should fail from the service worker in a fenced frame","status":"FAIL"}]}

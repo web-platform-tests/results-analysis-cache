@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Writing a detached buffer is safe","status":"PASS"},{"name":"Detaching a buffer while writing is safe","status":"PASS"}]}

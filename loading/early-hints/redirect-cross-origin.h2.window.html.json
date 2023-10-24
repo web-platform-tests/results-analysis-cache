@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Redirect to a cross origin doesn't bring early hints preload","status":"PASS"}]}

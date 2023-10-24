@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"message event must occur","status":"PASS"},{"name":"setting document.domain must give sync access","status":"PASS"},{"name":"opener: originAgentCluster must equal false","status":"FAIL"},{"name":"openee: originAgentCluster must equal false","status":"FAIL"}]}

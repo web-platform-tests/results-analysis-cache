@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigation.traverseTo() goes to the nearest entry when going forward","status":"PASS"}]}

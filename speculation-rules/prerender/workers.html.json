@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Dedicated workers should be loaded in suspended state until activated","status":"FAIL"},{"name":"Shared workers should be loaded in suspended state until activated","status":"FAIL"},{"name":"Existing shared workers should be accessible before activation","status":"FAIL"}]}

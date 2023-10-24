@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify font-palette is animated when `from` keyframe is not specified","status":"FAIL"},{"name":"Verify font-palette is animated when `to` keyframe is not specified","status":"FAIL"}]}

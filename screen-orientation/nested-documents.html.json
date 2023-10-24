@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Requesting orientation lock from one document cancels the lock request from another document","status":"FAIL"},{"name":"The orientation lock from one document affects lock requests from other documents","status":"FAIL"}]}

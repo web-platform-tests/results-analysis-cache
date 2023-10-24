@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.locks.request should be deferred until the prerendered page is activated","status":"PASS"},{"name":"navigator.locks.query should be deferred until the prerendered page is activated","status":"PASS"}]}

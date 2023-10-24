@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Scripts in this window should be self-attributed","status":"PASS"},{"name":"Scripts in subframes should be descendant-attributed","status":"PASS"},{"name":"A long busy wait in a requestAnimationFrame should not be observable by same-origin iframes","status":"PASS"}]}

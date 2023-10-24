@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Deny nfc permission should work.","status":"FAIL"},{"name":"Grant nfc permission should work.","status":"FAIL"}]}

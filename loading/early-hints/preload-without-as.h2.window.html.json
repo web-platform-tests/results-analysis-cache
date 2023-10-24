@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"An early hints preload without `as` attribute should be ignored.","status":"PASS"}]}

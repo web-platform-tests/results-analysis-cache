@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Web bundle resources should have resource timing entries, even when the fetch failed.","status":"PASS"}]}

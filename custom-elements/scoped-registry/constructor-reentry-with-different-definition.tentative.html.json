@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Re-entry via upgrade before calling super()","status":"PASS"},{"name":"Re-entry via upgrade after calling super()","status":"PASS"},{"name":"Re-entry via direct constructor call before calling super()","status":"PASS"},{"name":"Re-entry via direct constructor call after calling super()","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":":user-invalid selector should respond to user action","status":"PASS"},{"name":":user-invalid selector properly interacts with submit & reset buttons","status":"PASS"},{"name":":user-error selector should not be supported","status":"PASS"}]}

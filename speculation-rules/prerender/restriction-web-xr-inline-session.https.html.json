@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The access to the WebXR inline session API should be deferred until the\n    prerendered page is activated","status":"PASS"}]}

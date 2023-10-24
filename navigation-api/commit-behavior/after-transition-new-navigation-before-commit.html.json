@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Cancel a { commit: 'after-transition' } navigation before commit() by starting a new navigation","status":"PASS"}]}

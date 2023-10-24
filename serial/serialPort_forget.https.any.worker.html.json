@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"open() rejects after forget()","status":"PASS"},{"name":"close() rejects after forget()","status":"PASS"},{"name":"setSignals() rejects after forget()","status":"PASS"},{"name":"getSignals() rejects after forget()","status":"PASS"},{"name":"forget() removes the device from getPorts()","status":"PASS"}]}

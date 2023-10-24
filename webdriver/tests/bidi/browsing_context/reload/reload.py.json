@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_reload[without hash]","status":"PASS"},{"name":"test_reload[with hash]","status":"PASS"},{"name":"test_reload_special_protocols[about:blank]","status":"PASS"},{"name":"test_reload_special_protocols[data url]","status":"PASS"},{"name":"test_reload_special_protocols[file url]","status":"PASS"},{"name":"test_image","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SPC authentication with an invalid icon","status":"PASS"},{"name":"SPC authentication allowing an invalid icon with iconMustBeShown option.","status":"PASS"}]}
