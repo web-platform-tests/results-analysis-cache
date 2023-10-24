@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"all with an explicit discrete property should animate.","status":"PASS"},{"name":"all without an explicit discrete property should not animate.","status":"PASS"}]}
