@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigate() with an invalid URL inside onunload throws \"SyntaxError\", not \"InvalidStateError\"","status":"PASS"}]}
