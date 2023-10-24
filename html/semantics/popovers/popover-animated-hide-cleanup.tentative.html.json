@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Ensure no crashes if running animations are immediately cancelled (document removal)","status":"PASS"},{"name":"Ensure no crashes if running animations are immediately cancelled (dialog showModal)","status":"PASS"},{"name":"Ensure no crashes if running transitions are immediately cancelled (button click)","status":"PASS"}]}
