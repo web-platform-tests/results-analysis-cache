@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Window and Worker - shared mode","status":"FAIL"},{"name":"Window and Worker - exclusive mode","status":"FAIL"},{"name":"Worker and Worker - exclusive mode","status":"FAIL"},{"name":"Terminated Worker - exclusive mode","status":"FAIL"}]}

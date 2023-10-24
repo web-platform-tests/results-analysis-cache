@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"GeolocationSensor: Feature-Policy allow='geolocation' attribute allows same-origin relocation","status":"FAIL"},{"name":"GeolocationSensor: Feature-Policy allow='geolocation' attribute disallows cross-origin relocation","status":"FAIL"}]}

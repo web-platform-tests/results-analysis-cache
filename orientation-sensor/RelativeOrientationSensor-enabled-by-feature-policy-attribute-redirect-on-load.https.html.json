@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"RelativeOrientationSensor: Feature-Policy allow='accelerometer gyroscope' attribute allows same-origin relocation","status":"FAIL"},{"name":"RelativeOrientationSensor: Feature-Policy allow='accelerometer gyroscope' attribute disallows cross-origin relocation","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The fenced frame must fail to open a prompt.","status":"FAIL"},{"name":"The fenced frame must fail to open a prompt.[looser sandboxed]","status":"FAIL"}]}

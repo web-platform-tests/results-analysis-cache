@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Send null data on a WebSocket - Connection should be closed","status":"NOTRUN"}]}

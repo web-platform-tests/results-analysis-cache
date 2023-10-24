@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Decision logic script: scoreAd=return -1;","status":"FAIL"},{"name":"Decision logic script: scoreAd=return {desirability: 0};","status":"FAIL"},{"name":"Decision logic script: scoreAd=return {desirability: -1};","status":"FAIL"}]}

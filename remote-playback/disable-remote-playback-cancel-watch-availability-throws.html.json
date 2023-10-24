@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test that calling cancelWatchAvailability() when disableRemotePlayback attribute is set throws InvalidStateError.","status":"FAIL"}]}
