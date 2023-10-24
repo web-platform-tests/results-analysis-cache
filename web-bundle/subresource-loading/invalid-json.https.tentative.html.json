@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Invalid JSON rule should throw a SyntaxError on the window.","status":"PASS"},{"name":"JSON rule with a type error should throw a TypeError on the window.","status":"PASS"}]}
