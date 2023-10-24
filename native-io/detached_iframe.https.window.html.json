@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"storageFoundation must return an error when called from detached iframes.","status":"PASS"}]}
