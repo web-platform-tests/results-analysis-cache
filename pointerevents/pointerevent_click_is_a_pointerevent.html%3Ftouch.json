@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"click using touch is a PointerEvent","status":"PASS"},{"name":"click in a subframe using touch is a PointerEvent","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['transition-property'] = \"overlay\" should set the property value","status":"PASS"},{"name":"e.style['transition'] = \"overlay 2s\" should set the property value","status":"PASS"},{"name":"Property transition-property value 'overlay'","status":"PASS"},{"name":"Property transition value 'overlay 1s'","status":"PASS"}]}

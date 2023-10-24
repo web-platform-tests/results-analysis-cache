@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"ask-for-reset when removing option","status":"PASS"},{"name":"ask-for-reset when inserting option","status":"PASS"},{"name":"ask-for-reset when changing selectedness of option","status":"PASS"},{"name":"ask-for-reset for form","status":"PASS"}]}
