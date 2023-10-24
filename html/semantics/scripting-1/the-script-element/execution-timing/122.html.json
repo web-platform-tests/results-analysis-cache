@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"scheduler: altering the type attribute and adding/removing external script ","status":"PASS"},{"name":"Reinserted script async IDL attribute","status":"PASS"}]}
