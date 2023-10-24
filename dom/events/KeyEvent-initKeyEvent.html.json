@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"KeyboardEvent.initKeyEvent shouldn't be defined (created by createEvent(\"KeyboardEvent\")","status":"PASS"},{"name":"KeyboardEvent.initKeyEvent shouldn't be defined (created by constructor)","status":"PASS"},{"name":"KeyboardEvent.prototype.initKeyEvent shouldn't be defined","status":"PASS"}]}
