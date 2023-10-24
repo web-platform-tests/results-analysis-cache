@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Load a fresh cross-origin script","status":"PASS"},{"name":"Reload same cross-origin script from the memory cache after revalidation","status":"PASS"}]}
