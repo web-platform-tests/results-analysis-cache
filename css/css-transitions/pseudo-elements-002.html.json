@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check that transitions run on a pseudo element whose ancestor changes display type.","status":"PASS"}]}

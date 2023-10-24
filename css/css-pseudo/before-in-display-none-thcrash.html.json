@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Invalidating style inside display:none with ::before should not crash.","status":"PASS"}]}
