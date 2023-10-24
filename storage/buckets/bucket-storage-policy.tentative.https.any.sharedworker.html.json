@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The open promise should reject with a TypeError when quota is requested outside the range of 1 to Number.MAX_SAFE_INTEGER.","status":"FAIL"}]}

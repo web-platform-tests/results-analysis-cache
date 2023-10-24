@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"container-type:inline-size turns on layout containment","status":"FAIL"},{"name":"container-type:inline-size turns on inline-size containment","status":"FAIL"},{"name":"container-type:size turns on full size containment","status":"FAIL"},{"name":"container-type:inline/size turns on style containment","status":"PASS"}]}

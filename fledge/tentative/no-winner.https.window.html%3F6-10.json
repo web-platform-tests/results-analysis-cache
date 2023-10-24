@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Bidding logic script: error=fledge-not-allowed","status":"FAIL"},{"name":"Bidding logic script: error=no-allow-fledge","status":"FAIL"},{"name":"Bidding logic script: error=no-body","status":"FAIL"},{"name":"Bidding logic script: error=no-generateBid","status":"FAIL"},{"name":"Bidding logic script: generateBid=throw 1;","status":"FAIL"}]}

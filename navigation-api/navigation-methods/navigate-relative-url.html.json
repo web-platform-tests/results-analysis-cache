@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigate() should resolve urls relative to navigation object, not the caller","status":"FAIL"}]}

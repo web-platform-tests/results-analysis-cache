@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Unknown element names get blocked without allowUnknownMarkup.","status":"FAIL"},{"name":"Unknown element names pass with allowUnknownMarkup.","status":"FAIL"},{"name":"Unknown attributes names get blocked without allowUnknownMarkup.","status":"FAIL"},{"name":"Unknown attribute names pass with allowUnknownMarkup.","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initial static left position is 0","status":"PASS"},{"name":"Left position set to right edge of anchor with @position-fallback","status":"FAIL"}]}

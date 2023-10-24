@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Transaction inactive during structured clone in IDBObjectStore.add()","status":"FAIL"},{"name":"Transaction inactive during structured clone in IDBObjectStore.put()","status":"FAIL"},{"name":"Transaction inactive during structured clone in IDBCursor.update()","status":"FAIL"}]}
