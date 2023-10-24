@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Getting response, then response","status":"PASS"},{"name":"Getting responseXML, then responseXML","status":"PASS"},{"name":"Getting responseXML, then response","status":"PASS"},{"name":"Getting response, then responseXML","status":"PASS"}]}
