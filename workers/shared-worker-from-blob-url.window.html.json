@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Creating a shared worker from a blob URL works.","status":"FAIL"},{"name":"Creating a shared worker from a blob URL works immediately before revoking.","status":"FAIL"},{"name":"Connecting to a shared worker on a revoked blob URL works.","status":"FAIL"}]}
