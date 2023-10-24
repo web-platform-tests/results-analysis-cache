@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The browser will NOT recognize a language declared in an xml:lang attribute on the html tag.","status":"PASS"}]}
