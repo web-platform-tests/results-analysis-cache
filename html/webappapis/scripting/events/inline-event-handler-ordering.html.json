@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Inline event handlers retain their ordering when invalid and force-compiled","status":"PASS"},{"name":"Inline event handlers retain their ordering when invalid and force-compiled via dispatch","status":"PASS"},{"name":"Inline event handlers retain their ordering when invalid and lazy-compiled","status":"PASS"}]}
