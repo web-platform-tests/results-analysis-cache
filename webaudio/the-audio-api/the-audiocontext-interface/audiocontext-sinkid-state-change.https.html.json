@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Calling setSinkId() on a suspended AudioContext should fire only sink change events.","status":"PASS"},{"name":"Calling setSinkId() on a running AudioContext should fire both state and sink change events.","status":"FAIL"}]}
