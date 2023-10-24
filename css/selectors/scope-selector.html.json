@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"scope-selector","status":"PASS"},{"name":"scope-selector 1","status":"PASS"},{"name":"querySelector() with \":scope\" should return the document element, if present in the subtree","status":"PASS"}]}

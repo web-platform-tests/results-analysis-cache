@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"The object is no longer associated to a document.","status":"PASS"},{"name":"API is only supported in top-level browsing contexts.","status":"PASS"},{"name":"API supports only root-relative paths.","status":"PASS"},{"name":"Remove call fails.","status":"FAIL"},{"name":"Remove call fails with mixed results.","status":"NOTRUN"}]}
