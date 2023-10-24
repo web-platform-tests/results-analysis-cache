@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"No observer handlers can be invoked in detached document","status":"PASS"},{"name":"Subscriber.error() does not \"report the exception\" even when an `error()` handler is not present, when it is invoked in a detached document","status":"PASS"},{"name":"Cannot subscribe to an Observable in a detached document","status":"PASS"}]}
