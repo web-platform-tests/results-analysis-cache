@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Event handler IDL attributes must not be implemented","status":"PASS"},{"name":"No events must be fired, at least during the first 100 ms","status":"PASS"}]}
