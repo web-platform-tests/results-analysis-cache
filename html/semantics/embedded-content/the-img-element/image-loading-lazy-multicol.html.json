@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that images with loading='lazy' under multicol load once they enter the viewport.","status":"PASS"}]}
