@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"hidden documents must reject went trying to call lock or unlock","status":"FAIL"},{"name":"hidden documents must reject went trying to call unlock","status":"FAIL"}]}
