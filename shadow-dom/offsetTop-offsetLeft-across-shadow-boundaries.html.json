@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verifies that HTMLElement.offsetTop accounts for shadow boundaries.","status":"PASS"},{"name":"Verifies that HTMLElement.offsetLeft accounts for shadow boundaries.","status":"PASS"},{"name":"Verifies that HTMLElement.offsetTop accounts for shadow boundaries when nested in multiple shadow roots.","status":"PASS"}]}
