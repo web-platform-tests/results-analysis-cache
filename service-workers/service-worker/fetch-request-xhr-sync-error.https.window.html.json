@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify synchronous XMLHttpRequest always throws a NetworkError for ReadableStream errors","status":"FAIL"}]}
