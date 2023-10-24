@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Dedicated worker with local scheme inherits referrer policy from the creating document.","status":"FAIL"},{"name":"Shared worker with local scheme inherits referrer policy from the creating document.","status":"FAIL"}]}
