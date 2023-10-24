@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"It should reject the speculation rules set if it fails to parse the SpeculationRules header.","status":"PASS"}]}
