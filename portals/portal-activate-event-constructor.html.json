@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"It should be possible to construct a PortalActivateEvent with a dictionary","status":"FAIL"},{"name":"A PortalActivateEvent should expose exactly the data object supplied in the original realm","status":"FAIL"},{"name":"Invoking adoptPredecessor on a synthetic PortalActivateEvent should throw","status":"FAIL"}]}
