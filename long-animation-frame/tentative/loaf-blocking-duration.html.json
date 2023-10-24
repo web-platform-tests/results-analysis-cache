@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"LoAF blockingDuration should be equivalent to long tasks: Non-rendering","status":"FAIL"},{"name":"LoAF blockingDuration should be equivalent to long tasks: Rendering","status":"PASS"}]}
