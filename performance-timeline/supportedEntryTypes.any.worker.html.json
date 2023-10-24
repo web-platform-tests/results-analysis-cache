@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"supportedEntryTypes exists and returns entries in alphabetical order","status":"PASS"},{"name":"supportedEntryTypes caches result","status":"PASS"}]}
