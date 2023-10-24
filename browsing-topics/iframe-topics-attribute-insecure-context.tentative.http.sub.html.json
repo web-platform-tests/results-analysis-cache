@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"test <iframe browsingtopics src=[url]></iframe> in an insecure context, where the browsingtopics attribute is set via IDL.","status":"TIMEOUT"},{"name":"test <iframe browsingtopics src=[url]></iframe> in an insecure context, where the browsingtopics attribute is set via setAttribute().","status":"TIMEOUT"}]}
