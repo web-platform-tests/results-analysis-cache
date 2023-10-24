@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"audio events - readyState property during playing","status":"PASS"},{"name":"audio.readyState should be >= HAVE_FUTURE_DATA during playing event","status":"PASS"},{"name":"video events - readyState property during playing","status":"PASS"},{"name":"video.readyState should be >= HAVE_FUTURE_DATA during playing event","status":"PASS"}]}
