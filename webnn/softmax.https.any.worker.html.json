@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"softmax float32 2D tensor all positive / sync","status":"FAIL"},{"name":"softmax float32 2D tensor all negative / sync","status":"FAIL"},{"name":"softmax float32 2D tensor all positive / async","status":"FAIL"},{"name":"softmax float32 2D tensor all negative / async","status":"FAIL"}]}
