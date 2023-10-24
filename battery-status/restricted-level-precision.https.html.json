@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"battery level is reported with restricted precision","status":"FAIL"}]}
