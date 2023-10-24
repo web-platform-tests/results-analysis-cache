@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Https downgrade top level navigation","status":"TIMEOUT"},{"name":"Https downgrade embed","status":"FAIL"},{"name":"Https downgrade object","status":"TIMEOUT"},{"name":"Https downgrade preload","status":"PASS"},{"name":"Https downgrade stylesheet","status":"NOTRUN"},{"name":"Https downgrade track","status":"NOTRUN"}]}
