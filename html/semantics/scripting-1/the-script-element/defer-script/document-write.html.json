@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document.write()","status":"PASS"},{"name":"document.write(),close()","status":"PASS"},{"name":"document.open(),write()","status":"PASS"},{"name":"document.open(),write(),close()","status":"PASS"}]}
