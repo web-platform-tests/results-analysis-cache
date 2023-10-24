@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Disabled fieldset elements should not prevent click event propagation.","status":"PASS"},{"name":"Disabled fieldset elements should not block click events.","status":"PASS"}]}
