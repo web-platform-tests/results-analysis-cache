@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Using transitionWhile() then navigate() in the ensuing currententrychange should abort the finished promise (but not the committed promise)","status":"FAIL"}]}
