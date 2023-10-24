@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"First dynamic import should use nonce=abc","status":"PASS"},{"name":"Second dynamic import should use nonce=def","status":"PASS"},{"name":"Third dynamic import should use nonce=ghi","status":"FAIL"}]}
