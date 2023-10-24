@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"initial empty document","status":"FAIL"},{"name":"about:blank","status":"PASS"},{"name":"data-url","status":"PASS"},{"name":"srcdoc","status":"PASS"},{"name":"blob URL","status":"PASS"},{"name":"same-origin","status":"PASS"},{"name":"cross-origin","status":"PASS"}]}
