@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"If value > max, then current value = max","status":"PASS"},{"name":"If value < max, then current value = value","status":"PASS"}]}
