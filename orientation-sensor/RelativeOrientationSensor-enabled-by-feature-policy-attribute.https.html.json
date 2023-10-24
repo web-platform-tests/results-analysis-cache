@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"RelativeOrientationSensor: Feature-Policy allow='accelerometer gyroscope' attribute allows same-origin iframe","status":"PASS"},{"name":"RelativeOrientationSensor: Feature-Policy allow='accelerometer gyroscope' attribute allows cross-origin iframe","status":"PASS"}]}
