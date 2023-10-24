@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-origin fenced frame with allow attribute enabling required features","status":"FAIL"},{"name":"Cross-origin fenced frame with allow attribute enabling required features","status":"FAIL"},{"name":"Delivered policies can further restrict permissions of a fenced frame","status":"FAIL"}]}
