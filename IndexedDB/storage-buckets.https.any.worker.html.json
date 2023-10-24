@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Basic test that buckets create independent databases.","status":"PASS"},{"name":"Tests trying to use indexedDB in a deleted bucket.","status":"PASS"}]}
