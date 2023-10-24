@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Interfaces and attributes in ServiceWorkerGlobalScope","status":"PASS"},{"name":"Event constructors","status":"FAIL"},{"name":"xhr is not exposed","status":"PASS"},{"name":"URL.createObjectURL is not exposed","status":"PASS"}]}
