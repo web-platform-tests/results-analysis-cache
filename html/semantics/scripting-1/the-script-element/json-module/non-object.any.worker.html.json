@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Non-object: null","status":"FAIL"},{"name":"Non-object: true","status":"FAIL"},{"name":"Non-object: false","status":"FAIL"},{"name":"Non-object: string","status":"FAIL"},{"name":"Non-object: array","status":"FAIL"}]}
