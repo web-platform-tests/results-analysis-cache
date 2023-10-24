@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"queryLocalFonts(): permission not given","status":"FAIL"},{"name":"queryLocalFonts(): permission denied","status":"FAIL"},{"name":"queryLocalFonts(): permission granted","status":"FAIL"}]}
