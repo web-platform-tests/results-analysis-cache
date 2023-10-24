@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Cross-realm getter throws when called on incompatible object","status":"PASS"},{"name":"Cross-realm setter throws when called on incompatible object","status":"FAIL"},{"name":"Cross-realm operation throws when called on incompatible object","status":"FAIL"}]}
