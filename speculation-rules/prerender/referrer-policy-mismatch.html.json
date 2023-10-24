@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"prerendered with \"strict-origin-when-cross-origin\", activated with \"no-referrer\"","status":"TIMEOUT"},{"name":"prerendered with \"strict-origin-when-cross-origin\", activated with \"strict-origin\"","status":"NOTRUN"},{"name":"prerendered with \"strict-origin\", activated with \"unsafe-url\"","status":"NOTRUN"}]}
