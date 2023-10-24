@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same origin openee redirected to same-origin with same-origin-allow-popups","status":"FAIL"},{"name":"Cross origin openee redirected to same-origin with same-origin-allow-popups","status":"FAIL"}]}
