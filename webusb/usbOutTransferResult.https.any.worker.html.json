@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Can construct USBOutTransferResult","status":"PASS"},{"name":"Cannot construct USBOutTransferResult with an invalid status","status":"PASS"},{"name":"Cannot construct USBOutTransferResult without a status","status":"PASS"}]}

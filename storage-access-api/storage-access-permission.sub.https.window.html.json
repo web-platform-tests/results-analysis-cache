@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Permissions grants are observable across same-origin iframes","status":"TIMEOUT"},{"name":"IFrame tests","status":"NOTRUN"}]}
