@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check that color:initial resolves to the intial color for the dark color-scheme.","status":"PASS"},{"name":"Check that color:initial resolves to the intial color for the light color-scheme.","status":"PASS"}]}
