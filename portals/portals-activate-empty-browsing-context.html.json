@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A portal that has never been navigated cannot be activated","status":"FAIL"},{"name":"A portal that has not completed an initial navigation cannot be activated","status":"FAIL"}]}
