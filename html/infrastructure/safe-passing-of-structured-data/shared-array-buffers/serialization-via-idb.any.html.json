@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SharedArrayBuffer cloning via IndexedDB: basic case","status":"FAIL"},{"name":"SharedArrayBuffer cloning via the IndexedDB: is interleaved correctly","status":"FAIL"}]}
