@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"anchor() cannot be used as <length> initial value","status":"PASS"},{"name":"anchor-size() cannot be used as <length> initial value","status":"PASS"},{"name":"anchor() cannot be used as <length-percentage> initial value","status":"PASS"},{"name":"anchor-size() cannot be used as <length-percentage> initial value","status":"PASS"}]}
