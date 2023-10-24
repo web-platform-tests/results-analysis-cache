@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"[same-origin-frame] document.requestStorageAccess() should exist on the document interface","status":"PASS"},{"name":"[same-origin-frame] document.requestStorageAccess() should be rejected in insecure context","status":"PASS"}]}

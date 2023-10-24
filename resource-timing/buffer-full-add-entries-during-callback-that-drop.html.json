@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that entries synchronously added to the buffer during the callback are dropped","status":"PASS"}]}
