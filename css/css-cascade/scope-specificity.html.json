@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"@scope adds to specificity of inner selector","status":"PASS"},{"name":"Parent @scope adds to specificity of inner selector","status":"PASS"}]}
