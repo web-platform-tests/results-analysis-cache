@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"loss of controllees triggers activation","status":"FAIL"},{"name":"finishing a request triggers activation","status":"FAIL"},{"name":"skipWaiting bypasses no controllee requirement","status":"FAIL"},{"name":"finishing a request triggers unregister","status":"FAIL"}]}
