@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"URL.searchParams getter","status":"PASS"},{"name":"URL.searchParams updating, clearing","status":"PASS"},{"name":"URL.searchParams setter, invalid values","status":"PASS"},{"name":"URL.searchParams and URL.search setters, update propagation","status":"PASS"}]}
