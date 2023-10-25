@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"iframe data: URL","status":"PASS"},{"name":"iframe blob: URL","status":"PASS"},{"name":"iframe javascript: URL","status":"FAIL"},{"name":"fenced frame data: URL","status":"FAIL"},{"name":"fenced frame blob: URL","status":"FAIL"},{"name":"fenced frame javascript: URL","status":"FAIL"},{"name":"fenced frame http: URL","status":"FAIL"}]}
