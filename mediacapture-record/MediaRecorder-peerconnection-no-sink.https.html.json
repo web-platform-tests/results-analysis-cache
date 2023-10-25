@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"MediaRecorder records from PeerConnection without sinks, {\"audio\":{}}","status":"TIMEOUT"},{"name":"MediaRecorder records from PeerConnection without sinks, {\"video\":{}}","status":"NOTRUN"},{"name":"MediaRecorder records from PeerConnection without sinks, {\"audio\":{},\"video\":{}}","status":"NOTRUN"}]}
