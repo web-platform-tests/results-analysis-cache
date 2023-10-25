@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Same-scheme subresources can send lax/strict cookies","status":"TIMEOUT"},{"name":"Cross-scheme subresources cannot sent lax/strict cookies","status":"NOTRUN"}]}
