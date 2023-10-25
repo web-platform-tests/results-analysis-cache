@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"By default, text inside a modal dialog can be selected","status":"PASS"},{"name":"Clicking on backdrop doesn't select text","status":"PASS"},{"name":"'user-select: none' prevents text from being selected","status":"PASS"}]}
