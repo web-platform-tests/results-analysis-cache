@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"navigation: SAME_ORIGIN; parentCOOP: same-origin; childCOOP: unsafe-none","status":"TIMEOUT"},{"name":"navigation: SAME_SITE; parentCOOP: same-origin; childCOOP: unsafe-none","status":"NOTRUN"}]}
