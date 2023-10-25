@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"getCurrentPosition success callback tests","status":"FAIL"},{"name":"getCurrentPosition error callback tests","status":"FAIL"}]}
