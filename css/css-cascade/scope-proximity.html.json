@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Alternating light/dark","status":"FAIL"},{"name":"Proximity wins over order of appearance","status":"NOTRUN"},{"name":"Specificity wins over proximity","status":"NOTRUN"}]}
