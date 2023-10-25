@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"slow cross-document traversal and then fast cross-document navigation: traversal wins and nav is ignored","status":"PASS"},{"name":"fast cross-document traversal and then slow cross-document navigation: traversal wins and nav is ignored","status":"PASS"}]}
