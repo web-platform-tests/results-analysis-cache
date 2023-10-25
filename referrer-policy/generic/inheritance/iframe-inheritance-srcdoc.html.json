@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Srcdoc iframe inherits referrer policy from parent on creation.","status":"FAIL"},{"name":"Even after a navigation from another initiator, srcdoc iframe still inherits referrer policy from the parent.","status":"TIMEOUT"}]}
