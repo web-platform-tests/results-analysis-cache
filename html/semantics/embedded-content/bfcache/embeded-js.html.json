@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Page with <embed type=application/javascript src=/resources/test-only-api.js>","status":"PRECONDITION_FAILED"},{"name":"Page with <object type=application/javascript data=/resources/test-only-api.js>","status":"TIMEOUT"}]}
