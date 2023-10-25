@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Declarative Shadow DOM: innerHTML should work while parsing declarative shadow root <template>","status":"PASS"}]}
