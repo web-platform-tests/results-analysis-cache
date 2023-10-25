@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"HTTP worker","status":"PASS"},{"name":"HTTPS worker","status":"FAIL"},{"name":"HTTP nested worker","status":"PASS"},{"name":"HTTPS nested worker","status":"FAIL"},{"name":"HTTP worker from HTTPS subframe","status":"PASS"},{"name":"HTTPS worker from HTTPS subframe","status":"FAIL"}]}
