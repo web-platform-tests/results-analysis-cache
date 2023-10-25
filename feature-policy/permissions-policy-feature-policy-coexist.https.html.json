@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"When there is conflict in Feature Policy header and Permissions Policyheader, Permissions Policy wins.","status":"PASS"},{"name":"When there is no conflict, Feature Policy and Permissions Policy should all be able to control each feature by themselves.","status":"PASS"}]}
