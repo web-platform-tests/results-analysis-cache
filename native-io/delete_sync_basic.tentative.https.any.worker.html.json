@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"storageFoundation.getAllSync does not return file deleted by storageFoundation.deleteSync","status":"PASS"},{"name":"storageFoundation.deleteSync does not fail when deleting a non-existing file","status":"PASS"}]}

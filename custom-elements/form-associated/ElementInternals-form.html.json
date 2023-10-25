@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"ElementInternals.form should return the target element's form owner","status":"PASS"},{"name":"ElementInternals.form should throws NotSupportedError if the target element is not a form-associated custom element","status":"PASS"}]}
