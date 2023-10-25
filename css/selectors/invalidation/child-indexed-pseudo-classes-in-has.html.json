@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Initial colors: #only_child","status":"FAIL"},{"name":"Initial colors: #first_child","status":"FAIL"},{"name":"Initial colors: #last_child","status":"FAIL"},{"name":"Initial colors: #nth_child_3n_1","status":"FAIL"},{"name":"Initial colors: #nth_child_3n_2","status":"FAIL"},{"name":"Initial colors: #nth_child_3n","status":"FAIL"}]}
