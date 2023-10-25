@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"IDBCursor.delete() - object store - throw InvalidStateError caused by object store been deleted","status":"NOTRUN"}]}
