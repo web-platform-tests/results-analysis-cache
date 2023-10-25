@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"event.transitionWhile() intercepts a same-origin cross-document navigation","status":"PASS"}]}

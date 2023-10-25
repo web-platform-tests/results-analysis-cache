@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigation.navigate() returns a finished promise that awaits all promises if event.transitionWhile() is called multiple times","status":"PASS"}]}
