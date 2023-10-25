@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_scale[default]","status":"PASS"},{"name":"test_scale[twice]","status":"PASS"},{"name":"test_scale[half]","status":"PASS"}]}
