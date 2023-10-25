@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"putImageData() throws TypeError if arguments are not finite","status":"TIMEOUT"}]}
