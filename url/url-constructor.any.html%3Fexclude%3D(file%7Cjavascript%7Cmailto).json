@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Parsing: <http://example\t.\norg> against <http://example.org/foo/bar>","status":"PASS"},{"name":"Parsing: <http://user:pass@foo:21/bar;par?b#c> against <http://example.org/foo/bar>","status":"PASS"},{"name":"Parsing: <https://test:@test> without base","status":"PASS"},{"name":"Parsing: <https://:@test> without base","status":"PASS"}]}
