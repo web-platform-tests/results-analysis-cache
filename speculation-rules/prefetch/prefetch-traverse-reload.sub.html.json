@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"prefetches can be used for traversal navigations","status":"TIMEOUT"},{"name":"prefetches can be used for reload navigations","status":"NOTRUN"}]}
