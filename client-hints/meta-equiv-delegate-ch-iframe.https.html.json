@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Client hints loaded on same-origin iframe include hints with a default permissions policy of self and *.","status":"TIMEOUT"},{"name":"Client hints loaded on cross-origin iframe only include hints with a default permissions policy of *.","status":"NOTRUN"}]}
