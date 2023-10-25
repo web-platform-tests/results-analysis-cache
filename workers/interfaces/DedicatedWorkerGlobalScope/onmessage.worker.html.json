@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Setting onmessage to 1","status":"PASS"},{"name":"Setting onmessage to an object","status":"PASS"},{"name":"Setting onmessage to a function","status":"PASS"},{"name":"Setting onmessage to 1 (again)","status":"PASS"}]}
