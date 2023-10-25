@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Element becoming scope root","status":"FAIL"},{"name":"Element becoming scope root, with inner :scope rule","status":"NOTRUN"},{"name":"Element becoming scope limit","status":"NOTRUN"},{"name":"Toggling inner/outer scope roots","status":"NOTRUN"},{"name":"Element becoming root, with :scope in subject","status":"NOTRUN"}]}
