@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Feature-Policy header clipboard-read \"*\" allows the top-level document.","status":"PASS"},{"name":"Feature-Policy header clipboard-read \"*\" allows same-origin iframes.","status":"FAIL"}]}
