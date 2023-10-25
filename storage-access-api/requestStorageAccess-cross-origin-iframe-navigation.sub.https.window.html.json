@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Self-initiated same-origin navigations preserve storage access","status":"FAIL"}]}
