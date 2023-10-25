@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"supportedEntryTypes contains 'paint'.","status":"PRECONDITION_FAILED"},{"name":"'paint' entries should be observable.","status":"PRECONDITION_FAILED"}]}
