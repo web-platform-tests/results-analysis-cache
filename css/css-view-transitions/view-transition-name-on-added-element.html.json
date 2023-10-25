@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"view-transition-name on an element added by script should be visited when discovering named elements","status":"FAIL"}]}
