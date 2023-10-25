@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Checking intermediate min-content width for span 2 (1)","status":"FAIL"},{"name":"Checking intermediate min-content width for span 2 (2)","status":"PASS"},{"name":"Checking intermediate min-content width for span 2 (3)","status":"PASS"},{"name":"Checking intermediate min-content width for span 2 (4)","status":"FAIL"}]}
