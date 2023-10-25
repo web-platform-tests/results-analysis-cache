@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Static import.","status":"PASS"},{"name":"Static import (cross-origin).","status":"FAIL"}]}
