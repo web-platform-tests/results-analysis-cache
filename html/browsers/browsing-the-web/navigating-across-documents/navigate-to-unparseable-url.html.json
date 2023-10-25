@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"location.href setter throws a SyntaxError DOMException for unparseable URLs","status":"FAIL"},{"name":"<a> tag navigate fails for unparseable URLs","status":"TIMEOUT"}]}
