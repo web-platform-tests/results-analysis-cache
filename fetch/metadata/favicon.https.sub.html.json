@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-Origin favicon","status":"FAIL"},{"name":"Same-Site favicon","status":"FAIL"},{"name":"Cross-Site favicon","status":"FAIL"}]}
