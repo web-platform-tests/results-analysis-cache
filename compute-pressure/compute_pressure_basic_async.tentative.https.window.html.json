@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Basic functionality test","status":"FAIL"},{"name":"Removing observer before observe() resolves works","status":"FAIL"}]}

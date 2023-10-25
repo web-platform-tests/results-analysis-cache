@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"share() is disabled by permissions policy cross-origin","status":"FAIL"},{"name":"canShare() returns false when not allowed by permissions policy cross-origin","status":"FAIL"},{"name":"canShare() returns false when not allowed by permissions policy cross-origin with empty data","status":"PASS"}]}
