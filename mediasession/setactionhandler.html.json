@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that setActionHandler() can be executed for supported actions","status":"PASS"},{"name":"Test that setActionHandler() throws exception for unsupported actions","status":"PASS"}]}
