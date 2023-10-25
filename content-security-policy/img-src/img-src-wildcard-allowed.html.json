@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"img-src with wildcard should match all","status":"PASS"},{"name":"img-src with wildcard should not match blob","status":"PASS"}]}
