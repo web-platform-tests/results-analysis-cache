@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"sending a plain empty object","status":"TIMEOUT"},{"name":"sending the ES Math object","status":"TIMEOUT"},{"name":"sending a new XHR instance","status":"TIMEOUT"}]}
