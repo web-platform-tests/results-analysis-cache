@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.performance is defined","status":"PASS"},{"name":"window.performance.getEntriesByType is defined","status":"PASS"},{"name":"There should be one entry","status":"PASS"},{"name":"There should be a hash in the resource name","status":"PASS"}]}

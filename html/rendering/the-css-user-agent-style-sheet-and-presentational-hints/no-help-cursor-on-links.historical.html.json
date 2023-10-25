@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Unvisited help links must have pointer cursor, not help cursor","status":"FAIL"},{"name":"Visited help links must have pointer cursor, not help cursor","status":"FAIL"}]}
