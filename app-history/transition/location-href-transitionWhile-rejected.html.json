@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"transitionWhile()ed location.href navigation with a rejected promise","status":"FAIL"}]}
