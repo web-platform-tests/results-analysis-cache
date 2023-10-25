@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Referrer Policy: Expects stripped-referrer for xhr to cross-http origin and no-redirect redirection from http context.","status":"TIMEOUT"}]}
