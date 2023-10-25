@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Unregister does not affect existing controller","status":"FAIL"},{"name":"Unregister prevents control of subsequent navigations","status":"FAIL"},{"name":"Unregister prevents new controllee even if registration is still in use","status":"FAIL"}]}
