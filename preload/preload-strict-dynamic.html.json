@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"preload from nonced script should work with strict-dynamic. preloaded script from markup should not.","status":"PASS"}]}
