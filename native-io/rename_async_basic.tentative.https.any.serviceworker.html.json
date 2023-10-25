@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"storageFoundation.getAll returns a file renamed by storageFoundation.rename with its new name.","status":"PASS"}]}

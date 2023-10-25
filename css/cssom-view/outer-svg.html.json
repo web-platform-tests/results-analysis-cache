@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"clientWidth, clientHeight, clientTop and clientLeft work on outer svg element","status":"PASS"},{"name":"scrollWidth, scrollHeight, scrollTop and scrollLeft work on outer svg element","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"event and promise ordering for location.href setter intercepted by passing a rejected promise to transitionWhile()","status":"PASS"}]}
