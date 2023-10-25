@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Promise resolved during #report-the-error","status":"TIMEOUT"},{"name":"Promise resolved during event handlers other than error","status":"NOTRUN"}]}
