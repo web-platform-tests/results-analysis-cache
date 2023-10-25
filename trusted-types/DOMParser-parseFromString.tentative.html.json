@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document.innerText assigned via policy (successful HTML transformation).","status":"PASS"},{"name":"document.innerText = null.","status":"PASS"}]}
