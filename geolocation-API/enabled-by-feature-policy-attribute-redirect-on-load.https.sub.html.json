@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Feature-Policy allow=\"geolocation\" allows same-origin relocation","status":"TIMEOUT"},{"name":"Feature-Policy allow=\"geolocation\" disallows cross-origin relocation","status":"TIMEOUT"}]}
