@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Insert layer invalidates style","status":"FAIL"},{"name":"Delete layer invalidates style","status":"FAIL"},{"name":"Insert layer invalidates @font-face","status":"FAIL"},{"name":"Delete layer invalidates @font-face","status":"FAIL"}]}
