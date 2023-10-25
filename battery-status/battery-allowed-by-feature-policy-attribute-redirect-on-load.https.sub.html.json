@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Feature-Policy allow=\"battery\" allows same-origin relocation.","status":"FAIL"},{"name":"Feature-Policy allow=\"battery\" disallows cross-origin relocation.","status":"FAIL"}]}
