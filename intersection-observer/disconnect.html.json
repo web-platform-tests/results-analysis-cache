@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IntersectionObserver should not deliver pending notifications after disconnect().","status":"FAIL"}]}
