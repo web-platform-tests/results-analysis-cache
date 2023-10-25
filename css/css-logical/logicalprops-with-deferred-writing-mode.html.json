@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Writing mode with variable","status":"PASS"},{"name":"Writing mode with nested variables","status":"PASS"},{"name":"Writing mode with 'inherit'","status":"PASS"},{"name":"Writing mode with 'initial'","status":"PASS"},{"name":"Writing mode with 'revert'","status":"PASS"},{"name":"Writing mode with 'revert-layer'","status":"PASS"}]}
