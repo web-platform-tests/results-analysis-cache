@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"insertRule with omitted index argument","status":"FAIL"},{"name":"insertRule with undefined index argument","status":"FAIL"}]}
