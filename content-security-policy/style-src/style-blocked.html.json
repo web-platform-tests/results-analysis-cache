@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Violated directive is script-src-elem.","status":"TIMEOUT"},{"name":"document.styleSheets should contain an item for the blocked CSS.","status":"PASS"}]}
