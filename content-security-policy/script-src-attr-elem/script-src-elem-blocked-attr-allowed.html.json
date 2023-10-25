@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Should fire a security policy violation for the attribute","status":"NOTRUN"},{"name":"Should execute the inline script attribute","status":"PASS"}]}
