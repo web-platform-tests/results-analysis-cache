@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Deny window placement permission should work.","status":"PASS"},{"name":"Grant window placement permission should work.","status":"PASS"}]}
