@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"COEP:credentialless parent embeds same-origin anonymous iframe","status":"PASS"},{"name":"COEP:credentialless parent embeds cross-origin anonymous iframe","status":"PASS"}]}
