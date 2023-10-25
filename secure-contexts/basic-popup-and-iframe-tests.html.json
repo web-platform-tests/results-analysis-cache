@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test Window.isSecureContext for HTTP creator","status":"FAIL"},{"name":"Test Window.isSecureContext in an iframe loading an http: URI","status":"TIMEOUT"}]}
