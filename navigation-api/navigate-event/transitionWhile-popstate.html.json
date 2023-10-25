@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"event.transitionWhile() should provide popstate with a valid state object","status":"PASS"}]}

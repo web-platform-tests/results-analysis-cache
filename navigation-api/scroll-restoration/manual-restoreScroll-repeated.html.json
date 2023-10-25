@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"scrollRestoration: restoreScroll() should throw if called a second time","status":"FAIL"}]}
