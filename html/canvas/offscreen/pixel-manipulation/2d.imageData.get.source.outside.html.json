@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"getImageData() returns transparent black outside the canvas","status":"TIMEOUT"}]}
