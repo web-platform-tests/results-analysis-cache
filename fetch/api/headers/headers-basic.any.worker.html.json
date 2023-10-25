@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Create headers from no parameter","status":"PASS"},{"name":"Create headers from undefined parameter","status":"PASS"},{"name":"Create headers from empty object","status":"PASS"},{"name":"Create headers with 1 should throw","status":"PASS"}]}
