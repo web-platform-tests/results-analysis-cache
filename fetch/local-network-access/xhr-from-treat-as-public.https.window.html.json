@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"treat-as-public to local: failed preflight.","status":"FAIL"},{"name":"treat-as-public to local: success.","status":"FAIL"},{"name":"treat-as-public to private: failed preflight.","status":"FAIL"},{"name":"treat-as-public to private: success.","status":"FAIL"},{"name":"treat-as-public to public: no preflight required.","status":"FAIL"}]}
