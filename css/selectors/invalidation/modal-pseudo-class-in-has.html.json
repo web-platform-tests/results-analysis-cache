@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":":modal pseudo-class is not active with dialog.show()","status":"PASS"},{"name":":modal pseudo-class invalidation with showModal+close","status":"PASS"},{"name":":modal pseudo-class invalidation with showModal+remove","status":"PASS"}]}
