@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Before sticking, the margin should be obeyed.","status":"PASS"},{"name":"Whilst stuck, the margin is irrelevant.","status":"PASS"},{"name":"The margin is taken into account when making sure the sticky element does not escape its container","status":"PASS"}]}
