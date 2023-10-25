@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Window, Location, Navigator, HTMLDocument, and HTMLHeadElement","status":"FAIL"},{"name":"All window.* constructors","status":"PASS"}]}
