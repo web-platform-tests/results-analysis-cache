@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Set up global state","status":"FAIL"},{"name":"fetch() to 'CORP: cross-origin' response should succeed.","status":"FAIL"},{"name":"fetch() to no CORP response should not succeed.","status":"FAIL"}]}
