@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Normalize spaces","status":"PASS"},{"name":"Empty declaration value - spaces","status":"PASS"},{"name":"Empty declaration value","status":"PASS"},{"name":"Missing declaration value","status":"PASS"},{"name":"Unknown CSS property after 'or'","status":"PASS"},{"name":"Not a style function with space before '('","status":"PASS"}]}
