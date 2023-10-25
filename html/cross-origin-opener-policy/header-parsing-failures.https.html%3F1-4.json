@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Parsing coop with semi-column","status":"FAIL"},{"name":"Parsing coop with vertical tab","status":"FAIL"},{"name":"Parsing coop with form feed","status":"FAIL"},{"name":"Parsing coop with carriage return","status":"FAIL"}]}
