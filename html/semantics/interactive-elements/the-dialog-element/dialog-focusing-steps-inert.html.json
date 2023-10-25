@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"dialog.show(): focusing steps should not change focus when dialog is inert","status":"FAIL"},{"name":"dialog.showModal(): focusing steps should apply focus fixup rule when dialog is inert","status":"PASS"}]}
