@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IDBIndex.count() - returns the number of records that have keys within the range ","status":"PASS"}]}
