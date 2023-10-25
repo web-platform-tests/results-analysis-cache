@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Allow script execution inside iframe with sandbox attribute when sandbox='allow-scripts'.","status":"PASS"}]}

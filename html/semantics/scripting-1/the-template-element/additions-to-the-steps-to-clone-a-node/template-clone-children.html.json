@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Clone template node. Test call to cloneNode(true)","status":"PASS"},{"name":"Clone template node. Test call to cloneNode() with the default parameter (false by default)","status":"PASS"},{"name":"Clone template node. Test call to cloneNode(false)","status":"PASS"}]}
