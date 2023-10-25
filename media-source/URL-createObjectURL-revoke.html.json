@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check revoking behavior of URL.revokeObjectURL(url).","status":"PASS"},{"name":"Check referenced MediaSource can open after URL.revokeObjectURL(url).","status":"FAIL"},{"name":"Check auto-revoking behavior with URL.createObjectURL(MediaSource).","status":"FAIL"}]}
