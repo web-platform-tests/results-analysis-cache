@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.clipboard.readText() succeeds when permission granted","status":"PASS"}]}
