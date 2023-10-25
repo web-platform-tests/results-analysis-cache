@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"fillRect() with Infinity/NaN is ignored","status":"TIMEOUT"}]}
