@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"logout should not throw an exception.","status":"TIMEOUT"},{"name":"logout should throw an exception when not logged in.","status":"NOTRUN"},{"name":"logout should require a hint.","status":"NOTRUN"}]}
