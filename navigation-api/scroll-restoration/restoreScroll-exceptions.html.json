@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"scrollRestoration: restoreScroll() should throw for a non-traverse navigation or when not in manual restoration mode","status":"PASS"}]}
