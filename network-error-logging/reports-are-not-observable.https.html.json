@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"\n    Test that NEL reports are not observable from JavaScript\n  ","status":"FAIL"}]}
