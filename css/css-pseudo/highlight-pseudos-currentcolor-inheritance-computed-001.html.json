@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getComputedStyle() for ::selection","status":"FAIL"},{"name":"getComputedStyle() for ::target-text","status":"FAIL"},{"name":"getComputedStyle() for ::spelling-error","status":"FAIL"},{"name":"getComputedStyle() for ::grammar-error","status":"FAIL"},{"name":"getComputedStyle() for ::highlight(foo)","status":"FAIL"}]}

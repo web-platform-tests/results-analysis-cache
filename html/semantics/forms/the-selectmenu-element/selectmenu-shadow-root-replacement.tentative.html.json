@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that the UA provided shadow root can be replaced","status":"PASS"},{"name":"Test that the UA provided shadow root can be replaced using declarative shadow DOM","status":"PASS"},{"name":"Test that only the UA provided shadow root can be replaced","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"BroadcastChannel messages aren't received from a cross-partition iframe","status":"FAIL"},{"name":"BroadcastChannel messages aren't received from a nested iframe with a cross-site ancestor","status":"TIMEOUT"}]}
