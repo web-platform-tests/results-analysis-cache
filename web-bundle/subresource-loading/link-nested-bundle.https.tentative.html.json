@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A nested bundle can be fetched","status":"PASS"},{"name":"Subresources in a nested bundle should not be loaded","status":"FAIL"}]}
