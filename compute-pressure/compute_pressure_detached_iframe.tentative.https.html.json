@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"PressureObserver constructor does not exist in detached iframes","status":"PASS"},{"name":"PressureObserver.observe() on detached frame throws error.","status":"PASS"},{"name":"PressureObserver.disconnect() on detached frame returns","status":"PASS"},{"name":"PressureObserver on detached frame returns with no callback","status":"PASS"}]}

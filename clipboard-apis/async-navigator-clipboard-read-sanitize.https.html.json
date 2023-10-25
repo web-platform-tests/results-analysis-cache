@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Async Clipboard.read() should sanitize text/html","status":"FAIL"}]}
