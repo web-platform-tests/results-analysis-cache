@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"toDataURL with no arguments returns a PNG","status":"PASS"}]}
