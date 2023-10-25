@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"When navigating the Refresh header needs to be followed","status":"TIMEOUT"},{"name":"When there's both a Refresh header and <meta> the Refresh header wins","status":"TIMEOUT"}]}
