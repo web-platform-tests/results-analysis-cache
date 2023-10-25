@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XMLHttpRequest: send() - conditional requests (tag)","status":"PASS"},{"name":"XMLHttpRequest: send() - conditional requests (date)","status":"PASS"}]}

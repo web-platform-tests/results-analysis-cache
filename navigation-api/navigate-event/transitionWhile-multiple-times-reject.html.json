@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"event.transitionWhile() is called multiple times and one of the promises rejects","status":"PASS"}]}
