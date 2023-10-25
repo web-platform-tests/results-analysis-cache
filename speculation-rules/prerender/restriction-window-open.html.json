@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"window.open() should fail during prerendering","status":"TIMEOUT"},{"name":"window.open() should succeed in the prerenderingchange event","status":"NOTRUN"}]}
