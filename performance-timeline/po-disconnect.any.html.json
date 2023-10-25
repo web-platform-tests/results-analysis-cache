@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"disconnected callbacks must not be invoked","status":"FAIL"},{"name":"disconnecting an unconnected observer is a no-op","status":"FAIL"},{"name":"An observer disconnected after a mark must not have its callback invoked","status":"FAIL"}]}
