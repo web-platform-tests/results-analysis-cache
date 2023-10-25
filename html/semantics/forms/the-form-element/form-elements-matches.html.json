@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"input type=image should not be present in the form.elements collection","status":"PASS"},{"name":"form.elements should include elements whose name starts with a number","status":"PASS"}]}
