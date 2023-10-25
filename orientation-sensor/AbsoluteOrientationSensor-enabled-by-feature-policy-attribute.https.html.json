@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"AbsoluteOrientationSensor: Feature-Policy allow='accelerometer gyroscope magnetometer' attribute allows same-origin iframe","status":"PASS"},{"name":"AbsoluteOrientationSensor: Feature-Policy allow='accelerometer gyroscope magnetometer' attribute allows cross-origin iframe","status":"PASS"}]}
