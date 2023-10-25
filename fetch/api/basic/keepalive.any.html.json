@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"simple GET request: no payload; setting up","status":"PASS"},{"name":"simple POST request: no payload; setting up","status":"PASS"},{"name":"simple GET request: no payload","status":"PASS"},{"name":"simple POST request: no payload","status":"PASS"}]}
