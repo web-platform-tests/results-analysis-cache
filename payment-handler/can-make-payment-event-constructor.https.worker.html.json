@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CanMakePaymentEvent constructor must not be exposed in worker","status":"PASS"}]}
