@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"gatt.connect() rejects after forget().","status":"FAIL"}]}

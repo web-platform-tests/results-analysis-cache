@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"linear function easing with output greater than 1","status":"FAIL"},{"name":"linear function easing with output less than 1","status":"FAIL"},{"name":"linear function easing, linear equivalent","status":"FAIL"},{"name":"linear function easing, constant","status":"FAIL"},{"name":"linear function easing, steps equivalent","status":"FAIL"}]}
