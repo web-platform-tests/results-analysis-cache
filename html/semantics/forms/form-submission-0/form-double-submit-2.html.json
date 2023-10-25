@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"preventDefault should allow onclick submit() to succeed","status":"TIMEOUT"}]}
