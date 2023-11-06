@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Tests that a disabled video track in a MediaStream is rendered as blackness","status":"PASS"},{"name":"Test that a video element rendering a disabled video track reports correct intrinsic dimensions","status":"FAIL"},{"name":"Test that frames are black for a disabled video track with an enabled clone","status":"PASS"}]}
