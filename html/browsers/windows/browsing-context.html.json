@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check that browsing context has new, ready HTML document","status":"PASS"},{"name":"Check that new document nodes extant, empty","status":"PASS"},{"name":"Check the document properties corresponding to the creator browsing context","status":"PASS"}]}
