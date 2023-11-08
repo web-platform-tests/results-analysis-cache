@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Background images should fetch with no-cors","status":"TIMEOUT"},{"name":"Shape images should fetched with cors","status":"NOTRUN"},{"name":"WebFonts should be fetched with cors","status":"NOTRUN"},{"name":"CSS imports should be fetched without cors","status":"NOTRUN"}]}

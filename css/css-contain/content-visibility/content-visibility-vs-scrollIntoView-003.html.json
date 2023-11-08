@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"ContentVisibilityAutoStateChange fires twice when `scrollIntoView` a descendant of `content-visibility:auto` which is hidden after scrolling","status":"TIMEOUT"}]}
