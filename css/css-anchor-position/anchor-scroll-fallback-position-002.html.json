@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Should use the first fallback position at the initial scroll offset","status":"FAIL"},{"name":"Should use the second fallback position after scrolling left","status":"PASS"}]}
