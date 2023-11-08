@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Create WebSocket - Pass a non absolute URL: test","status":"PASS"},{"name":"Create WebSocket - Pass a non absolute URL: ?","status":"PASS"},{"name":"Create WebSocket - Pass a non absolute URL: null","status":"PASS"},{"name":"Create WebSocket - Pass a non absolute URL: 123","status":"PASS"}]}
