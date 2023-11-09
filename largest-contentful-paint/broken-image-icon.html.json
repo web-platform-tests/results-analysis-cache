@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The broken image icon should not emit an LCP entry.","status":"FAIL"}]}
