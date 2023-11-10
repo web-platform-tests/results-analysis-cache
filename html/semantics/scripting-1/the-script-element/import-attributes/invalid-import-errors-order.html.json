@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that the errors order for invalid import declarations is specifier, then attribute key, and then type attribute value.","status":"PASS"}]}
