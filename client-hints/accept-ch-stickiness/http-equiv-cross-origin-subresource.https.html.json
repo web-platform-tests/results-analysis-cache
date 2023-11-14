@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"http-equiv cross origin subresource precondition: Test that the browser does not have client hints preferences cached","status":"PASS"},{"name":"http-equiv cross origin subresource set Accept-CH","status":"PASS"},{"name":"http-equiv cross origin subresource got client hints according to expectations.","status":"FAIL"}]}
