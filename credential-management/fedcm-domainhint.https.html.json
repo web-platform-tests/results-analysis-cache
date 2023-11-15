@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"No domain hint matches an account.","status":"TIMEOUT"},{"name":"Domain hint matches an account.","status":"NOTRUN"},{"name":"Domain hint matches an account from two accounts.","status":"NOTRUN"},{"name":"Domain hint '*' matches an account with any domain hint.","status":"NOTRUN"}]}
