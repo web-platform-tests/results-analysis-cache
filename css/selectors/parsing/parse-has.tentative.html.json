@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"\":has(:is(.a, 123))\" should be a valid selector","status":"FAIL"}]}
