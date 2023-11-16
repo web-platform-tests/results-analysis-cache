@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"classic-script doesn't expose post-redirect source location","status":"PASS"},{"name":"user-callback doesn't expose post-redirect source location","status":"PASS"},{"name":"resolve-promise doesn't expose post-redirect source location","status":"PASS"},{"name":"event-listener doesn't expose post-redirect source location","status":"PASS"}]}
