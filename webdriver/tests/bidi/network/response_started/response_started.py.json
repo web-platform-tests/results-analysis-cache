@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"test_subscribe_status","status":"FAIL"},{"name":"test_load_page_twice","status":"FAIL"},{"name":"test_response_status[101-Switching Protocols]","status":"FAIL"},{"name":"test_response_status[200-OK]","status":"FAIL"},{"name":"test_response_status[201-Created]","status":"FAIL"},{"name":"test_response_status[202-Accepted]","status":"FAIL"}]}
