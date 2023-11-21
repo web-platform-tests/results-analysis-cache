@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"WebLocks of an iframe under a 3rd-party site are partitioned","status":"FAIL"},{"name":"WebLocks of a nested iframe with a cross-site ancestor are partitioned","status":"FAIL"}]}
