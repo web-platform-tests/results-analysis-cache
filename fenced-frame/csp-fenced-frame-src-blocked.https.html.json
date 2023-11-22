@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"csp-fenced-frame-src-blocked","status":"FAIL"},{"name":"fenced-frame-src none is taken into account with navigator.canLoadAdAuctionFencedFrame","status":"FAIL"}]}
