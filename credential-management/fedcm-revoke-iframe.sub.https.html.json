@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-origin iframe does not need explicit identity-credentials-get","status":"FAIL"},{"name":"Cross-origin iframe fails revoke() without explicit identity-credentials-get","status":"FAIL"},{"name":"Cross-origin iframe can revoke with explicit identity-credentials-get","status":"FAIL"}]}
