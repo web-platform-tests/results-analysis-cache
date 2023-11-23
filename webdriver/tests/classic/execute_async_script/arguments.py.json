@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"test_null","status":"PASS"},{"name":"test_primitives[boolean]","status":"PASS"},{"name":"test_primitives[number]","status":"PASS"},{"name":"test_primitives[string]","status":"PASS"},{"name":"test_collection","status":"PASS"},{"name":"test_object","status":"PASS"},{"name":"test_no_such_element_with_unknown_id","status":"PASS"}]}
