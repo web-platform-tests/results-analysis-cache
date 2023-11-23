@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"fetchpriority attribute on <img> elements should reflect valid IDL values","status":"PASS"},{"name":"fetchPriority of new Image() is 'auto'","status":"PASS"}]}
