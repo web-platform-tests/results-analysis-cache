@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_device_pixel_ratio_only[1]","status":"PASS"},{"name":"test_device_pixel_ratio_only[2]","status":"FAIL"},{"name":"test_device_pixel_ratio_with_viewport[1]","status":"PASS"},{"name":"test_device_pixel_ratio_with_viewport[2]","status":"FAIL"},{"name":"test_reset_device_pixel_ratio","status":"FAIL"}]}
