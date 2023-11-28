@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Component auction modified bid to same value.","status":"FAIL"},{"name":"Top-level auction cannot modify bid.","status":"FAIL"}]}
