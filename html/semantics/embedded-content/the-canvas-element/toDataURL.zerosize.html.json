@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"toDataURL on zero-size canvas returns 'data:,'","status":"PASS"}]}
