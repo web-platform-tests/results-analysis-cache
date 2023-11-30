@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document policy violation observed","status":"PASS"},{"name":"Only the Reporting-Endpoints configured endpoint received reports.","status":"PASS"}]}
