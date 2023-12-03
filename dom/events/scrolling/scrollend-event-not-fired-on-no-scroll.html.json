@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"No scroll via wheel on div shouldn't fire scrollend.","status":"PASS"},{"name":"No scroll via keys on div shouldn't fire scrollend.","status":"PASS"},{"name":"No scroll via wheel on document shouldn't fire scrollend.","status":"PASS"},{"name":"No scroll via keys on document shouldn't fire scrollend.","status":"PASS"}]}
