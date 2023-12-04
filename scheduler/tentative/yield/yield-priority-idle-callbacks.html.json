@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"requestIdleCallback() yields at background priority when inheriting priority","status":"TIMEOUT"},{"name":"requestIdleCallback() yields at background priority when inheriting signal","status":"NOTRUN"}]}
