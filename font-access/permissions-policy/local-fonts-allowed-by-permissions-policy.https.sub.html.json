@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"local-fonts-allowed-by-permissions-policy","status":"PASS"},{"name":"permissions policy header: local-fonts * allows same-origin iframes.","status":"FAIL"},{"name":"permissions policy header: local-fonts * disallows cross-origin iframes.","status":"PASS"}]}
