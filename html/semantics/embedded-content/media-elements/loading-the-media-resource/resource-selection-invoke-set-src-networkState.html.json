@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"invoking load by setting src when networkState is not NETWORK_EMPTY","status":"PASS"}]}
