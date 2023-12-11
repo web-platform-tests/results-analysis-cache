@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"FileReader created after a worker self.close()","status":"TIMEOUT"}]}
