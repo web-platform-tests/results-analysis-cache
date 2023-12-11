@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"requestedSize hexideximal","status":"FAIL"},{"name":"Empty allSlotsRequestedSizes","status":"FAIL"},{"name":"allSlotsRequestedSizes without matching value in requestedSize","status":"FAIL"},{"name":"allSlotsRequestedSizes has duplicate values","status":"FAIL"},{"name":"allSlotsRequestedSizes has invalid value","status":"FAIL"}]}
