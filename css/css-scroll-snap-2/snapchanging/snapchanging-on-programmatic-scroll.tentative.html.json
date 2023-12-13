@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"snapchanging fires on programmatic scrolls that changes a scroller's snap targets.","status":"FAIL"},{"name":"snapchanging-on-programmatic-scroll","status":"FAIL"}]}
