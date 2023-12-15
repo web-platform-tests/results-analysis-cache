@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Same-site popup with coop/coep","status":"PASS"},{"name":"Same-site popup with coop unsafe-none/coep","status":"PASS"},{"name":"Same-site popup with coop unsafe-none without coep","status":"TIMEOUT"},{"name":"Same-site popup without coep","status":"NOTRUN"},{"name":"Bonus: window.crossOriginIsolated","status":"PASS"}]}
