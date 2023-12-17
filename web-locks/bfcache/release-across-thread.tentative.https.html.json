@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A held lock on main thread must prevent bfcache even after worker releases locks","status":"PASS"},{"name":"A held lock on worker must prevent bfcache even after main thread releases locks","status":"PASS"},{"name":"A held lock on shared worker must prevent bfcache even after main thread releases locks","status":"FAIL"}]}
