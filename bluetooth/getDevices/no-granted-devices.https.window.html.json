@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getDevices() resolves with empty array if no device permissions have been granted.","status":"FAIL"}]}
