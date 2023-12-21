@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Make sure the page is ready for animation.","status":"PASS"},{"name":"Instant scrolling while doing history navigation.","status":"PASS"},{"name":"Smooth scrolling while doing history navigation.","status":"PASS"}]}
