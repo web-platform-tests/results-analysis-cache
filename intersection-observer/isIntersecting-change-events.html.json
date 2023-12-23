@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"isIntersecting changes should trigger notifications.","status":"PASS"},{"name":"Rects in initial notifications should report initial positions.","status":"FAIL"}]}
