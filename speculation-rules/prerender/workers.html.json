@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Dedicated workers should be loaded in suspended state until activated","status":"TIMEOUT"},{"name":"Shared workers should be loaded in suspended state until activated","status":"NOTRUN"},{"name":"Existing shared workers should be accessible before activation","status":"NOTRUN"}]}
