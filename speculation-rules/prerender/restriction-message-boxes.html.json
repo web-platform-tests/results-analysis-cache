@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"alert() does not display the modal and returns immediately","status":"TIMEOUT"},{"name":"confirm() does not display the modal and returns immediately","status":"NOTRUN"},{"name":"prompt() does not display the modal and returns immediately","status":"NOTRUN"}]}
