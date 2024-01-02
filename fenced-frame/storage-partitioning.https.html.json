@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document.cookie","status":"FAIL"},{"name":"localStorage","status":"FAIL"},{"name":"sessionStorage","status":"FAIL"},{"name":"Cache API","status":"FAIL"},{"name":"File System Access API","status":"FAIL"},{"name":"IndexedDB","status":"FAIL"}]}
