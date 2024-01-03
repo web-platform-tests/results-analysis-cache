@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"InterestGroup.owner.","status":"FAIL"},{"name":"InterestGroup.owner with non-normalized origin.","status":"FAIL"},{"name":"InterestGroup.owner is URL.","status":"FAIL"},{"name":"InterestGroup.trustedBiddingSignalsURL not set.","status":"FAIL"},{"name":"InterestGroup.trustedBiddingSignalsURL.","status":"FAIL"}]}
