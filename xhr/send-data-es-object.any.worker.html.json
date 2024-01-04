@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"sending a plain empty object","status":"FAIL"},{"name":"sending the ES Math object","status":"FAIL"}]}
