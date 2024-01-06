@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same constructor can be registered to different registries","status":"PASS"},{"name":"Non-global registries still reject duplicate registrations of the same constructor","status":"PASS"}]}
