@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test terminating a chain of nested workers by calling terminate() from the owning document","status":"PASS"}]}
