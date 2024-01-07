@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Triggered transition from first style update","status":"FAIL"},{"name":"Triggered transition from display:none to display:block","status":"FAIL"},{"name":"Triggered transition on DOM insertion","status":"FAIL"}]}
