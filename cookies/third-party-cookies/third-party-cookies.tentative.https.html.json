@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"1P window: Cookies are accessible via HTTP","status":"PASS"},{"name":"1P window: Cookies are accessible via DOM","status":"PASS"},{"name":"Cross-site window opened correctly","status":"PASS"},{"name":"3P fetch: Cookies are not accessible via HTTP","status":"FAIL"},{"name":"Cross site window setting HTTP cookies","status":"FAIL"}]}
