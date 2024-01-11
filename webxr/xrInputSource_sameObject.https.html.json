@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XRInputSource attributes meet [SameObject] requirement - webgl","status":"FAIL"},{"name":"XRInputSource attributes meet [SameObject] requirement - webgl2","status":"FAIL"}]}
