@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IntersectionObserver observing an SVG <rect> with fractional bounds element","status":"PASS"},{"name":"Initial Observation","status":"FAIL"},{"name":"Intersection observation after scrolling 300","status":"FAIL"},{"name":"Intersection observation after scrolling 100","status":"FAIL"}]}
