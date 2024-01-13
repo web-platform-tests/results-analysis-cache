@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_set_cookie_protocol[http]","status":"FAIL"},{"name":"test_set_cookie_protocol[https]","status":"FAIL"}]}
