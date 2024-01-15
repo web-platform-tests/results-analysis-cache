@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test type of close function.","status":"TIMEOUT"},{"name":"Test sending a message after closing.","status":"TIMEOUT"},{"name":"Test errors are delivered after close.","status":"TIMEOUT"},{"name":"Test workers do not deliver pending events.","status":"PASS"},{"name":"Test terminating a worker after close.","status":"TIMEOUT"}]}
