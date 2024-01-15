@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"bluetooth-allowed-by-permissions-policy-attribute","status":"FAIL"},{"name":"permissions policy \"bluetooth\" can be enabled in same-origin iframe using allow=\"bluetooth\" attribute","status":"PASS"},{"name":"permissions policy \"bluetooth\" can be enabled in cross-origin iframe using allow=\"bluetooth\" attribute","status":"PASS"}]}
