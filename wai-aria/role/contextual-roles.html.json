@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"footer scoped to body element is contentinfo","status":"PASS"},{"name":"contentinfo region scoped to body element is contentinfo","status":"PASS"},{"name":"footer element scoped to main element is generic","status":"FAIL"},{"name":"contentinfo region scoped to main element is generic","status":"FAIL"}]}
