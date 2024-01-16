@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"selectURL() without addModule, selectURL() resolves to config","status":"FAIL"},{"name":"selectURL() without addModule, selectURL() resolves to urn:uuid","status":"FAIL"}]}
