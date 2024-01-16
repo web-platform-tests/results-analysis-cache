@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"<dialog> color and background match default","status":"PASS"},{"name":"<dialog> colors react to dark mode","status":"PASS"}]}
