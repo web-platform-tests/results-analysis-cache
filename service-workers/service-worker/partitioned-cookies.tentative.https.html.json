@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Service Worker: Partitioned Cookies","status":"PASS"},{"name":"Service Worker: Partitioned Cookies 3P Window","status":"PASS"},{"name":"Service Worker: Partitioned Cookies 3P Iframe","status":"PASS"},{"name":"Service Worker: Partitioned Cookies 3P Credentialless Iframe","status":"PASS"}]}
