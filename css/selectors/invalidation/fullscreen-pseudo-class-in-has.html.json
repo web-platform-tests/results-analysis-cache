@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":":fullscreen pseudo-class invalidation with requestFullscreen + exitFullscreen","status":"TIMEOUT"},{"name":":fullscreen pseudo-class invalidation with requestFullscreen + remove","status":"NOTRUN"}]}
