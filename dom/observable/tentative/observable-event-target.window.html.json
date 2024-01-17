@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"EventTarget Observables can listen for events in the capturing or bubbling phase","status":"FAIL"},{"name":"EventTarget Observables can be 'passive'","status":"PASS"}]}
