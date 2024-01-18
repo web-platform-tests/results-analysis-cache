@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"No scrollend is received after removing parent div","status":"FAIL"},{"name":"No scrollend is received after removing scrolling element","status":"FAIL"},{"name":"scrollend is received after removing descendant div","status":"PASS"}]}
