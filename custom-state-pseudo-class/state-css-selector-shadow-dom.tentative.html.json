@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"state selector has no influence when state is not applied","status":"PASS"},{"name":"state selector has influence when state is applied","status":"FAIL"},{"name":"state selector only applies on given ident","status":"FAIL"}]}
