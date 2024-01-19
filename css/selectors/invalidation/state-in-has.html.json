@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test :has() invalidation with :state() pseudo-classes","status":"FAIL"}]}
