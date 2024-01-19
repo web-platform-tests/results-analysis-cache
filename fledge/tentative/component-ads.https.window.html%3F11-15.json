@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"2 of 20 component ads in bid and then shown.","status":"FAIL"},{"name":"20 of 20 component ads in bid and then shown.","status":"FAIL"},{"name":"6 of 20 component ads in bid, 2 shown.","status":"FAIL"},{"name":"4 of 4 component ads shown multiple times.","status":"FAIL"},{"name":"Same component ad used multiple times in bid.","status":"FAIL"}]}
