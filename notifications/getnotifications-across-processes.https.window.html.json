@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Service worker test setup","status":"PASS"},{"name":"Get notification created from window","status":"PASS"},{"name":"Create and get notification within service worker","status":"PASS"}]}
