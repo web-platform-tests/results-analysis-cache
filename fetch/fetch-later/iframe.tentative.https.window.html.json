@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A blank iframe can trigger fetchLater.","status":"PASS"},{"name":"A same-origin iframe can trigger fetchLater.","status":"PASS"},{"name":"A cross-origin iframe can trigger fetchLater.","status":"PASS"}]}
