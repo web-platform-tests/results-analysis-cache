@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"'transition' does not support 'none'","status":"PASS"},{"name":"'transition' does not support 'none, none'","status":"FAIL"},{"name":"'transition' does not support 'margin-right 4s'","status":"PASS"},{"name":"'transition' does not support 'all 0.5s ease-out, color 1s'","status":"PASS"}]}

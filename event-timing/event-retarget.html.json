@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Event Timing: target reports the last Event Target, i.e. nothing from shadow DOM.","status":"TIMEOUT"}]}
