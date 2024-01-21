@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Don't clear focus within shadow root if light DOM children are cleared","status":"PASS"}]}
