@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"ShadowRoot.createElement() for autonomous custom element","status":"PASS"},{"name":"ShadowRoot.createElementNS() for autonomous custom element","status":"PASS"},{"name":"ShadowRoot.createElement() for customized built-in element","status":"PASS"},{"name":"ShadowRoot.createElementNS() for customized built-in element","status":"PASS"}]}
