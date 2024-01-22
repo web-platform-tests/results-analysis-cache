@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Child frame receives mousedown/mouseup when mousedown is not-canceled","status":"PASS"},{"name":"Child frame receives mousedown/mouseup when mousedown is canceled","status":"PASS"}]}
