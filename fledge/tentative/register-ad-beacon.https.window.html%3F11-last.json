@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Seller calls registerAdBeacon() multiple times.","status":"FAIL"},{"name":"Buyer calls registerAdBeacon() multiple times.","status":"FAIL"}]}
