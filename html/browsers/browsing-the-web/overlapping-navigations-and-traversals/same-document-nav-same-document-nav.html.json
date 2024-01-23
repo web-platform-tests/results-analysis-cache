@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"fragment navigation then fragment navigation","status":"PASS"},{"name":"pushState() then pushState()","status":"PASS"},{"name":"pushState() then fragment navigation","status":"PASS"},{"name":"fragment navigation then pushState()","status":"PASS"}]}
