@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XML parser should create autonomous custom elements.","status":"PASS"},{"name":"XML parser should create custom built-in elements.","status":"FAIL"}]}
