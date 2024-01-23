@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The strict-* referrer policies compare the trustworthiness of a request's referrer string against its URL","status":"FAIL"}]}
