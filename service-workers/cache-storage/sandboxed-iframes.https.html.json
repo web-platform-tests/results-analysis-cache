@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Sandboxed iframe with allow-same-origin is allowed access","status":"PASS"},{"name":"Sandboxed iframe without allow-same-origin is denied access","status":"PASS"}]}
