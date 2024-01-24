@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Snaps to the transformed snap start position","status":"PASS"},{"name":"Snaps to the transformed snap end position","status":"PASS"},{"name":"Snaps to visible top left position of the transformed box","status":"PASS"}]}
