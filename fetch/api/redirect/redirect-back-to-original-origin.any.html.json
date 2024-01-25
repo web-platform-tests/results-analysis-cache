@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"original => remote => original with mode: \"no-cors\"","status":"FAIL"},{"name":"original => remote => original with mode: \"cors\"","status":"FAIL"}]}
