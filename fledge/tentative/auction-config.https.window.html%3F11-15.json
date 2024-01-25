@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"auctionSignals is invalid as JSON","status":"FAIL"},{"name":"sellerSignals is invalid as JSON","status":"FAIL"},{"name":"directFromSellerSignals is invalid","status":"FAIL"},{"name":"directFromSellerSignals is cross-origin with seller","status":"FAIL"},{"name":"directFromSellerSignals has nonempty query","status":"FAIL"}]}
