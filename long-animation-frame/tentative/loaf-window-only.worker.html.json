@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"PerformanceObserver should not include \"long-animation-frame\" in workers","status":"FAIL"},{"name":"PerformanceLongAnimationFrameTiming should not be exposed in workers","status":"PASS"}]}
