@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that preload 'none' is ignored for MediaStream object URL used as srcObject for audio","status":"PASS"},{"name":"Test that preload 'none' is ignored for MediaStream used as srcObject for video","status":"PASS"}]}
