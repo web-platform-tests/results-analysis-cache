@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"grabFrame() of a disabled Track","status":"FAIL"},{"name":"grabFrame() of an ended Track","status":"FAIL"},{"name":"verifies that an ImageCapture cannot be created out of an Audio Track","status":"FAIL"},{"name":"throw \"TypeError\" if parameter is not MediaStreamTrack.","status":"FAIL"}]}
