@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Setting client hints after Clear-Site-Data for client hints shouldn't allow the client hints to take.","status":"PASS"}]}
