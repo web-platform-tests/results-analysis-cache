@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Fenced frames should not load if its parent has subframe loading disabled","status":"PASS"}]}
