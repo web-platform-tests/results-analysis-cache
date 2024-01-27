@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A long busy wait in a same-origin popup is a not long animation frame","status":"PASS"}]}
