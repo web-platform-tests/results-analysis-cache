@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Should not load inline style element with invalid nonce","status":"FAIL"},{"name":"Should fire a securitypolicyviolation event","status":"NOTRUN"}]}
