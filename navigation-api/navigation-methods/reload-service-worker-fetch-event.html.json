@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"reload() appears as a reload to service worker fetch event handlers","status":"FAIL"}]}
