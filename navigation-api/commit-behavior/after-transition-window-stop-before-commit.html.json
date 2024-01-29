@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":" { commit: 'after-transition' } with window.stop() before commit","status":"FAIL"}]}
