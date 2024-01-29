@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Triggers securitypolicyviolation.","status":"TIMEOUT"},{"name":"Inline style element is blocked by CSP.","status":"FAIL"}]}
