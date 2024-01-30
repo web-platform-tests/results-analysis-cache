@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"getSignals() rejects if the port is not open","status":"PASS"},{"name":"getSignals() returns the current state of input control signals","status":"TIMEOUT"},{"name":"getSignals() rejects on failure","status":"NOTRUN"}]}
