@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Entangled port is garbage collected, and the close event is fired.","status":"PASS"}]}
