@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check recency in generateBid() is below a certain threshold and rounded to multiple of 100 milliseconds.","status":"FAIL"}]}
