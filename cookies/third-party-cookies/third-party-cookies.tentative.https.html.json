@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"1P window: Cookies are accessible via HTTP","status":"PASS"},{"name":"1P window: Cookies are accessible via DOM","status":"PASS"}]}
