@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CSS Selector Invalidation: :has() with nesting parent containing :hover","status":"FAIL"}]}
