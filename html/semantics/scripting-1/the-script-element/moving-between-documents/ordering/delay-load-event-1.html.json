@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Script elements (parser-blocking) still delay the load event in the original Document after move","status":"TIMEOUT"},{"name":"Script elements (parser-blocking) does not delay the load event in the new Document after move","status":"PASS"}]}

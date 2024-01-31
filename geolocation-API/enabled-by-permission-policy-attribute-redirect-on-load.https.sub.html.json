@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Permissions-Policy allow=\"geolocation\" allows same-origin relocation","status":"FAIL"},{"name":"Permissions-Policy allow=\"geolocation\" allows cross-origin relocation","status":"FAIL"}]}
