@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"snapchanged lists snapTargets in DOM order.","status":"FAIL"},{"name":"DOM order change doesn't trigger snapchanged if snapped targets don't change.","status":"FAIL"}]}
