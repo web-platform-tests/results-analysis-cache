@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The initiator type for classic worker must be 'other'","status":"FAIL"},{"name":"The initiator type for module worker must be 'other'","status":"FAIL"}]}
