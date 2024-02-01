@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Setting tabindex on the shadow host of a focused element with delegatesFocus should not change focus.","status":"PASS"}]}
