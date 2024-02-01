@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":":any-link & :link pseudo-class invalidation with an HTML link","status":"FAIL"},{"name":":any-link & :link pseudo-class invalidation with an SVG link","status":"FAIL"}]}
