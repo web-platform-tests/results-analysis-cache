@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.event is set before 'handleEvent' lookup","status":"FAIL"}]}
