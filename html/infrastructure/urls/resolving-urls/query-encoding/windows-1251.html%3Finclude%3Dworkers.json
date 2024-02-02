@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Worker constructor","status":"FAIL"},{"name":"SharedWorker constructor","status":"FAIL"},{"name":"importScripts() in a dedicated worker","status":"PASS"},{"name":"Worker() in a dedicated worker","status":"PASS"},{"name":"importScripts() in a shared worker","status":"PASS"},{"name":"Worker() in a shared worker","status":"PASS"}]}
