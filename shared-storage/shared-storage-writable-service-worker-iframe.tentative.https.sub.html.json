@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"test <iframe sharedstoragewritable src=[url]> via JS from service worker for same origin iframe","status":"FAIL"},{"name":"test <iframe sharedstoragewritable src=[url]> via JS from service worker for cross origin iframe","status":"TIMEOUT"}]}
