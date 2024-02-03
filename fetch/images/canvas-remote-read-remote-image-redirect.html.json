@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Load a no-cors image from a same-origin URL that redirects to a cross-origin URL that redirects to the initial origin","status":"PASS"}]}
