@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"`scroll-snap-stop: always` snap point is further than the scroll destination and a snap area covers the snapport","status":"FAIL"}]}
