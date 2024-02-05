@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XMLHttpRequest: send() - Redirects (infinite loop)","status":"PASS"}]}
