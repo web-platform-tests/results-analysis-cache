@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"PendingGetBeacon: same-origin","status":"PASS"},{"name":"PendingGetBeacon: cross-origin","status":"PASS"}]}
