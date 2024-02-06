@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"ServiceWorkerRegistration.update() should be deferred in a prerendered page","status":"PASS"}]}
