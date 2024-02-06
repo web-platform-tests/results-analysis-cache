@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"column-gap responsive to style changes","status":"PASS"},{"name":"column-gap clamped to 0px on keyframes","status":"FAIL"},{"name":"column-gap responsive to inherited changes","status":"PASS"}]}
