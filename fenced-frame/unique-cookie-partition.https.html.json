@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Cookie access from top-level fenced frame","status":"FAIL"},{"name":"Cookie access from iframe nested in a fenced frame","status":"FAIL"},{"name":"Cookie access from nested fenced frame","status":"FAIL"}]}
