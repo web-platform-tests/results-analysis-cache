@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"shadow root has selectable text when focus is not delegated","status":"FAIL"},{"name":"shadow root has selectable text when focus is delegated","status":"FAIL"}]}
