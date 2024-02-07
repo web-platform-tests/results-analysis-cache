@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"An elements dataset property is an instance of a DOMStringMap","status":"PASS"},{"name":"Properties on Object.prototype should shine through.","status":"PASS"}]}
