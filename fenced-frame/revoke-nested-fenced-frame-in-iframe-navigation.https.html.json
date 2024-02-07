@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"FF->IF->FF navigation works","status":"FAIL"},{"name":"FF->UIF->FF navigation works","status":"FAIL"},{"name":"window.fence.disableUntrustedNetwork disables FF->IF->FF navigation","status":"FAIL"},{"name":"window.fence.disableUntrustedNetwork disables FF->UF->FF navigation","status":"FAIL"}]}
