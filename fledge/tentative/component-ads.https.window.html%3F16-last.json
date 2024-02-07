@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Load component ads not in bid.","status":"FAIL"},{"name":"21 component ads not allowed in bid.","status":"FAIL"},{"name":"Same component ad not allowed 21 times in bid.","status":"FAIL"},{"name":"Reports not sent from component ad.","status":"FAIL"}]}
