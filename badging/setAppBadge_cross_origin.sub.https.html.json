@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that navigator.setAppBadge is available","status":"FAIL"},{"name":"Test that calling setAppBadge in a cross-origin iframe throws a SecurityError","status":"FAIL"},{"name":"Test that calling setAppBadge in a same-origin iframe succeeds","status":"FAIL"}]}
