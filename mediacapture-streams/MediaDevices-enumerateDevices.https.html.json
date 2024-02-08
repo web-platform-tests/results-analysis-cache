@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"mediaDevices.enumerateDevices() is present and working - before capture","status":"FAIL"},{"name":"mediaDevices.enumerateDevices() is working - after video capture","status":"FAIL"},{"name":"mediaDevices.enumerateDevices() is working - after video then audio capture","status":"PASS"},{"name":"InputDeviceInfo is supported","status":"PASS"}]}
