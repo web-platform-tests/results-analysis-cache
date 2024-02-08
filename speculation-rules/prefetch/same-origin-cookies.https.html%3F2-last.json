@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"same origin prefetch with no referrer works when cookies are present.","status":"FAIL"}]}
