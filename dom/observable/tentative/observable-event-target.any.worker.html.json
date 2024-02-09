@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"EventTarget.on() returns an Observable","status":"FAIL"},{"name":"Aborting the subscription should stop the emission of events","status":"FAIL"},{"name":"EventTarget Observables can multicast subscriptions for event handling","status":"FAIL"}]}
