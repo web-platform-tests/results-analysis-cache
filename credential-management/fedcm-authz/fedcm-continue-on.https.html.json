@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"continue_on and IdentityProvider.resolve work correctly.","status":"FAIL"}]}
