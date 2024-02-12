@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Sanity check @supports color","status":"PASS"},{"name":"@supports quirky color","status":"PASS"},{"name":"CSS.supports() quirky color","status":"PASS"},{"name":"Sanity check @supports length","status":"PASS"},{"name":"@supports quirky length","status":"PASS"},{"name":"CSS.supports() quirky length","status":"PASS"}]}

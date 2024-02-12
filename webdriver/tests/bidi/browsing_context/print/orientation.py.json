@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_orientation[default]","status":"PASS"},{"name":"test_orientation[portrait]","status":"PASS"},{"name":"test_orientation[landscape]","status":"PASS"}]}
