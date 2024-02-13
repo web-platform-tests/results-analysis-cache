@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Repeated declarative shadow roots keep only the first","status":"PASS"},{"name":"Calling attachShadow() on declarative shadow root must match type","status":"PASS"},{"name":"Calling attachShadow() on declarative shadow root must match all parameters","status":"FAIL"}]}
