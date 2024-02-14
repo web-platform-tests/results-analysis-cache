@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that invalid module assertion leads to SyntaxError on window.","status":"PASS"}]}
