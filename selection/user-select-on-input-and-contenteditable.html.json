@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"selection for auto","status":"FAIL"},{"name":"selection for text","status":"FAIL"},{"name":"selection for none","status":"FAIL"},{"name":"selection for contain","status":"FAIL"},{"name":"selection for all","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"arc() with Infinity/NaN is ignored","status":"FAIL"}]}
