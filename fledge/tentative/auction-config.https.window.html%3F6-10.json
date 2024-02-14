@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"trustedScoringSignalsURL is cross-origin with seller","status":"PASS"},{"name":"interestGroupBuyer is invalid","status":"PASS"},{"name":"interestGroupBuyer is not https","status":"PASS"},{"name":"only one interestGroupBuyer is invalid","status":"PASS"},{"name":"only one interestGroupBuyer is not https","status":"PASS"}]}
