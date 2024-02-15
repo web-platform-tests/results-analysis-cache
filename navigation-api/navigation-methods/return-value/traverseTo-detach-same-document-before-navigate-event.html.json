@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"traverseTo() promise rejections when detaching an iframe before onnavigate (same-document)","status":"FAIL"}]}
