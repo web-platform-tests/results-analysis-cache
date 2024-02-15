@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"event.intercept() throws if invoked on a synthetic event","status":"PASS"}]}
