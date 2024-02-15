@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"yield() with timer tasks (priority option)","status":"TIMEOUT"},{"name":"yield() with timer tasks (signal option)","status":"NOTRUN"},{"name":"yield() with timer tasks (inherit priority)","status":"NOTRUN"},{"name":"yield() with timer tasks (inherit signal)","status":"NOTRUN"}]}
