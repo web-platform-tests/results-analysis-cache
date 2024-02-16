@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"trustedBiddingSignalsURL Set-Cookie.","status":"FAIL"},{"name":"trustedBiddingSignalsURL redirect.","status":"FAIL"},{"name":"trustedScoringSignalsURL request headers.","status":"FAIL"},{"name":"trustedScoringSignalsURL Set-Cookie.","status":"FAIL"},{"name":"trustedScoringSignalsURL redirect.","status":"FAIL"}]}
