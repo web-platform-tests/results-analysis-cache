@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Selectlist should support :open and :closed pseudo selectors.","status":"FAIL"},{"name":"Selectlist :open and :closed should invalidate correctly.","status":"FAIL"}]}
