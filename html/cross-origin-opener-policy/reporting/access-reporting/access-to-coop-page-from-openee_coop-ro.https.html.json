@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"access-to-coop-page-from-openee, same-origin","status":"PASS"},{"name":"access-to-coop-page-from-openee, same-origin + redirect","status":"PASS"}]}
