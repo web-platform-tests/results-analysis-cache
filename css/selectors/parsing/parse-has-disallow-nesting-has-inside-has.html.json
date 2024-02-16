@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"\".a:has(.b:has(.c))\" should be an invalid selector","status":"PASS"},{"name":"CSS Selectors: The relational pseudo-class (disallow nesting :has() inside :has())","status":"FAIL"}]}
