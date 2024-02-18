@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A cross-origin iframe should report an opaque RT entry","status":"PASS"},{"name":"A cross-origin iframe with TAO enabled should report a full RT entry","status":"PASS"}]}
