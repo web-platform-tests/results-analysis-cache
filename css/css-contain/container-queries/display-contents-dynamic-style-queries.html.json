@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initially the color is red","status":"PASS"},{"name":"After display and --foo changes, style() query causes the color to be green","status":"PASS"}]}
