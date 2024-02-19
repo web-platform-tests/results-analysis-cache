@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Component auction top-level auction cannot have buyers.","status":"PASS"},{"name":"Component auction not allowed by top-level seller.","status":"PASS"},{"name":"Component auction browserSignals origins.","status":"FAIL"},{"name":"Component auction unmodified bid.","status":"FAIL"},{"name":"Component auction modified bid.","status":"FAIL"}]}
