@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"fetched gzip data with content type text should be decompressed.","status":"FAIL"},{"name":"fetched gzip data with content type octetstream should be decompressed.","status":"FAIL"}]}
