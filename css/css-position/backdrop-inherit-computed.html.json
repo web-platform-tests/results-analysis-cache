@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Inherit custom property","status":"FAIL"},{"name":"Apply inherited custom property to background-color","status":"FAIL"},{"name":"Implicitly inherited color-scheme","status":"FAIL"},{"name":"Explicitly inherited left","status":"FAIL"}]}
