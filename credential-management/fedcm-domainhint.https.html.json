@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"No domain hint matches an account.","status":"FAIL"},{"name":"Domain hint matches an account.","status":"FAIL"},{"name":"Domain hint matches an account from two accounts.","status":"FAIL"},{"name":"Domain hint 'any' matches an account with any domain hint.","status":"FAIL"}]}
