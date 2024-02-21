@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"same-origin, same-window location cycle","status":"FAIL"},{"name":"cross-origin location has null prototype","status":"PASS"},{"name":"same-origin, different-window location cycle","status":"FAIL"},{"name":"cross-origin, but joined via document.domain, location cycle","status":"FAIL"}]}
