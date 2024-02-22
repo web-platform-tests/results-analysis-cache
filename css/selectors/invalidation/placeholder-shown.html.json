@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initially no placeholder text","status":"PASS"},{"name":"Added placeholder text","status":"FAIL"},{"name":"Set placeholder text to empty string","status":"FAIL"},{"name":"Removed placeholder attribute","status":"PASS"}]}
