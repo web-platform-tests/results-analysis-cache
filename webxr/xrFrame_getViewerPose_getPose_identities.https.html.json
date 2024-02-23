@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"XRFrame getViewerPose(viewerSpace) & getPose(space, space) return identity even during tracking loss - webgl","status":"FAIL"},{"name":"XRFrame getViewerPose(viewerSpace) & getPose(space, space) return identity even during tracking loss - webgl2","status":"FAIL"}]}
