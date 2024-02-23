@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"FF->IF->FF navigation works","status":"TIMEOUT"},{"name":"FF->UIF->FF navigation works","status":"NOTRUN"},{"name":"window.fence.disableUntrustedNetwork disables FF->IF->FF navigation","status":"NOTRUN"},{"name":"window.fence.disableUntrustedNetwork disables FF->UF->FF navigation","status":"NOTRUN"}]}

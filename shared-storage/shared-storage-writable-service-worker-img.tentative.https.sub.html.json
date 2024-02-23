@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"test <img sharedstoragewritable src=[url]> via JS from service worker for same origin img","status":"TIMEOUT"},{"name":"test <img sharedstoragewritable src=[url]> via JS from service worker for cross origin img","status":"NOTRUN"}]}
