@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify open() on detached iframe returns an error","status":"PASS"},{"name":"Verify keys() on detached iframe returns an error","status":"PASS"},{"name":"Verify delete() on detached iframe returns an error","status":"PASS"}]}
