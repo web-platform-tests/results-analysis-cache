@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Template element content is correctly serialized","status":"PASS"},{"name":"HTML fragment serialization algorithm should be applied to the template content","status":"PASS"}]}
