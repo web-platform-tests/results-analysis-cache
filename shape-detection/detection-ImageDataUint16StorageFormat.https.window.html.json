@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"FaceDetector.detect() can process uint16 storage format ImageData","status":"FAIL"},{"name":"BarcodeDetector.detect() can process uint16 storage format ImageData","status":"FAIL"},{"name":"TextDetector.detect() can process uint16 storage format ImageData","status":"FAIL"}]}
