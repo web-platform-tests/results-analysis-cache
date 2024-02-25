@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"no width/height attributes","status":"FAIL"},{"name":"only width attribute","status":"FAIL"},{"name":"only height attribute","status":"FAIL"},{"name":"both width/height attributes","status":"PASS"},{"name":"both width/height attributes and style","status":"FAIL"}]}
