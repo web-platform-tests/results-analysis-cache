@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Does not block window.open(`resources/empty.html?\n<`,'_self')","status":"PASS"},{"name":"Does not block location.replace(`resources/empty.html?\n<`)","status":"PASS"}]}
