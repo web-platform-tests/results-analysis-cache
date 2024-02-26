@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Deleting a @namespace rule when list contains anything other than @import or @namespace rules should throw InvalidStateError.","status":"PASS"}]}
