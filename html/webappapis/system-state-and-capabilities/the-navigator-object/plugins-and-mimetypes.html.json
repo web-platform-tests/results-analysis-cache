@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.pdfViewerEnabled exists","status":"PASS"},{"name":"navigator.mimeTypes contains the hard-coded list","status":"PASS"},{"name":"navigator.plugins contains the hard-coded list","status":"PASS"}]}
