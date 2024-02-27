@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The fenced frame must fail to print the page.","status":"FAIL"},{"name":"The fenced frame must fail to print the page.[looser sandboxed]","status":"FAIL"}]}
