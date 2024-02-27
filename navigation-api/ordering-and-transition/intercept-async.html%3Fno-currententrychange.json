@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"ordering when intercept() handler has sync and async blocks","status":"PASS"}]}
