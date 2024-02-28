@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"data: URIs should not match *","status":"FAIL"},{"name":"blob: URIs should not match *","status":"FAIL"},{"name":"filesystem URIs should not match *","status":"PASS"}]}
