@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test SyncAccessHandle.truncate with different sizes","status":"PASS"},{"name":"test SyncAccessHandle.truncate after SyncAccessHandle.write","status":"PASS"},{"name":"Test truncate effect on cursor","status":"PASS"}]}
