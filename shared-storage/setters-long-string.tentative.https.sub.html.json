@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"sharedStorage.set with key length too big","status":"PASS"},{"name":"sharedStorage.set with value length too big","status":"PASS"},{"name":"sharedStorage.set with max allowed key length","status":"PASS"},{"name":"sharedStorage.set with max allowed value length","status":"PASS"}]}
