@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"a callback inside a script block should not mask LoAFs that come afterwards","status":"PASS"},{"name":"a callback inside a script block should not mask LoAFs in a microtask","status":"PASS"}]}
