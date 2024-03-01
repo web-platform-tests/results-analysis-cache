@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"browserSignals.bidCount leave and rejoin.","status":"FAIL"},{"name":"browserSignals.bidCount two auctions at once.","status":"FAIL"},{"name":"browserSignals.prevWinsMs not affected when ad not used.","status":"FAIL"},{"name":"browserSignals.prevWinsMs, no metadata.","status":"FAIL"}]}
