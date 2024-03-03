@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Focus should cover assigned nodes of slot, especially for nested slots in slot scope.","status":"PASS"}]}
