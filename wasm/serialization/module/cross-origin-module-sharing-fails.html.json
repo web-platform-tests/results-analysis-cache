@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"postMessaging a wasm module to an iframe in a different agent cluster fails","status":"TIMEOUT"},{"name":"postMessaging a wasm module to a cross-origin iframe in the same agent cluster fails","status":"NOTRUN"}]}
