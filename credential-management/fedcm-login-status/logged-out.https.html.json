@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"FedCM request should fail because we are marked as not logged in","status":"PASS"},{"name":"User info request should fail because we are marked as not logged in","status":"TIMEOUT"}]}
