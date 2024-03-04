@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"finalizeAd() should be supported on the navigator interface.","status":"FAIL"},{"name":"finalizeAd() should reject an invalid Ads object.","status":"FAIL"},{"name":"finalizeAd() should reject a missing decisionLogicURL.","status":"FAIL"},{"name":"finalizeAd() should reject a non-HTTPS decisionLogicURL.","status":"FAIL"}]}
