@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"MediaRecorder handles pause() and resume() state and events, mimeType \"''\"","status":"FAIL"},{"name":"MediaRecorder handles stop() in paused state appropriately, mimeType \"''\"","status":"FAIL"}]}
