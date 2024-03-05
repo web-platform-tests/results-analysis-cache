@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"unscopable `document.testVariable` doesn't shadow `window.testVariable`","status":"PASS"},{"name":"unscopable `element.testVariable` doesn't shadow `window.testVariable`","status":"PASS"},{"name":"unscopable `formOwner.testVariable` doesn't shadow `window.testVariable`","status":"PASS"}]}
