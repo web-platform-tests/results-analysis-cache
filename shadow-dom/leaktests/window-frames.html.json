@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.frames should not leak frames in Shadow DOM.","status":"FAIL"}]}
