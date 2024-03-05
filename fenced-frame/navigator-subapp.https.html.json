@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.subApps.list() should fail in the fenced frame.","status":"FAIL"}]}
