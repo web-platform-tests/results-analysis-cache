@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Post an extendable message from a top-level client","status":"PASS"},{"name":"Post an extendable message from a nested client","status":"PASS"},{"name":"Post loopback extendable messages","status":"PASS"},{"name":"Post extendable messages among service workers","status":"PASS"}]}
