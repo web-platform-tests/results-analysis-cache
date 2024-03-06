@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"touch two-finger pan on 'touch-action: pan-x pan-y'","status":"FAIL"},{"name":"touch two-finger pan on 'touch-action: pinch-zoom'","status":"FAIL"}]}
