@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"An outer script does not execute until its inner `<script>` children are finished being inserted into it. The outer script's execution considers any script text that inner scripts added to the outer one.","status":"PASS"}]}
