@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"history.pushState navigates independently with replacement in a prerender","status":"PASS"},{"name":"history.replaceState navigates independently in a prerender","status":"PASS"}]}
