@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"History navigation reuses original policy.","status":"TIMEOUT"},{"name":"New srcdoc iframe uses new policy.","status":"NOTRUN"}]}
