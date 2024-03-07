@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"browserSignals.prevWinsMs not affected when ad not used.","status":"FAIL"},{"name":"browserSignals.prevWinsMs, no metadata.","status":"FAIL"},{"name":"browserSignals.prevWinsMs, with metadata.","status":"FAIL"},{"name":"browserSignals.prevWinsMs, different set of ads for each bid.","status":"FAIL"}]}
