@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Eligibility (BroadcastChannel)","status":"TIMEOUT"},{"name":"Eligibility (BroadcastChannel closed in the pagehide event)","status":"NOTRUN"}]}
