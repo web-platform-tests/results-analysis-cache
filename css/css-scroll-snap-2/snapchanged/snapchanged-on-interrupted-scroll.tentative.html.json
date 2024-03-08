@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"snapchanged doesn't fire if interrupting scroll cancels snap","status":"PASS"}]}
