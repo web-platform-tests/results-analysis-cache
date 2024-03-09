@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Rendering is blocked before render-blocking resources are loaded","status":"PASS"},{"name":"Parser-blocking script is evaluated","status":"PASS"}]}
