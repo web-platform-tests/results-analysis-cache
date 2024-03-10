@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"InterestGroup.nonStandardField.","status":"FAIL"},{"name":"InterestGroup.ads with one ad.","status":"FAIL"},{"name":"InterestGroup.ads one ad with metadata object.","status":"FAIL"},{"name":"InterestGroup.ads one ad with metadata string.","status":"FAIL"},{"name":"InterestGroup.ads one ad with null metadata.","status":"FAIL"}]}
