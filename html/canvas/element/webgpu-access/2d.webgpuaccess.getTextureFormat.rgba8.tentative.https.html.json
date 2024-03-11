@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getTextureFormat() returns RGBA8 or BGRA8 for a typical context","status":"FAIL"}]}
