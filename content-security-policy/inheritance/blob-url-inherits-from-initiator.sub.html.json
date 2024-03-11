@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Initiator is same-origin with target frame.","status":"TIMEOUT"},{"name":"Initiator is cross-origin with target frame.","status":"TIMEOUT"}]}
