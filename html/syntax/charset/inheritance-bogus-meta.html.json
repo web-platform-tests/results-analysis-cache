@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Child with bogus <meta charset>","status":"PASS"},{"name":"Child with bogus Content-Type charset","status":"FAIL"},{"name":"Child with bogus Content-Type charset, but valid <meta charset>","status":"PASS"},{"name":"Cross-origin child with bogus <meta charset>","status":"PASS"}]}
