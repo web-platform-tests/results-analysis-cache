@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"COOP: restrict-properties has no impact in a navigation chain between multiple unsafe-none pages.","status":"PASS"}]}
