@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Synthetic documents should return about:blank for document.baseURI.","status":"FAIL"},{"name":"Synthetic documents should incorporate <base> href URLs correctly.","status":"FAIL"}]}
