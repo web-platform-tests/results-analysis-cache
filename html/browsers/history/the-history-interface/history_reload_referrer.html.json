@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Step 1: Checking HTTP referrer (is \"http://web-platform.test:8000/html/browsers/history/the-history-interface/history_reload_referrer-1.html\")","status":"PASS"},{"name":"Step 1: Checking document.referrer (is \"http://web-platform.test:8000/html/browsers/history/the-history-interface/history_reload_referrer-1.html\")","status":"PASS"}]}
