@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getTextureFormat() returns RGBA16F for a float16 context","status":"FAIL"}]}
