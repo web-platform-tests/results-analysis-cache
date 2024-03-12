@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"font shorthand returns only CSS2 font-variant values","status":"FAIL"}]}
