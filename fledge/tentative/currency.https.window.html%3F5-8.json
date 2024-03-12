@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Returning bid w/currency, configuration w/different currency.","status":"PASS"},{"name":"Different currencies for different origins, all match.","status":"FAIL"},{"name":"Different currencies for different origins, USD one matches.","status":"FAIL"},{"name":"Different currencies for different origins, none match.","status":"PASS"}]}
