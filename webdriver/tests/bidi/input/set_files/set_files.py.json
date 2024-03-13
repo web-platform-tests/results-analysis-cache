@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_set_files","status":"FAIL"},{"name":"test_set_files_empty","status":"PASS"},{"name":"test_set_files_multiple","status":"FAIL"},{"name":"test_set_files_something_then_empty","status":"FAIL"},{"name":"test_set_files_twice","status":"FAIL"},{"name":"test_set_files_twice_same","status":"FAIL"}]}
