@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"popup from sandboxed iframe does not send client hint headers","status":"TIMEOUT"}]}
