@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"FF->FF navigation works","status":"FAIL"},{"name":"window.fence.disableUntrustedNetwork disables FF->FF navigation","status":"FAIL"}]}
