@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"incomingBidInSellerCurrency at top-level trying to convert is OK.","status":"FAIL"},{"name":"incomingBidInSellerCurrency at top-level trying to change bid is not OK.","status":"PASS"},{"name":"incomingBidInSellerCurrency at top-level doing a no-op conversion OK.","status":"FAIL"}]}
