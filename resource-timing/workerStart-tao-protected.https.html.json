@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A resource from a cross-origin service worker must not expose workerStart when there is a TAO failure","status":"PASS"},{"name":"A resource from a cross-origin service worker must expose workerStart when there is a TAO match","status":"PASS"},{"name":"Not a test - needed to unregister the SW and close its embedder","status":"PASS"}]}
