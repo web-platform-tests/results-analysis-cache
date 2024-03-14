@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"click using touch is a PointerEvent with correct properties","status":"FAIL"},{"name":"click using touch is a PointerEvent with correct properties when no other PointerEvent listeners are present","status":"FAIL"},{"name":"click using touch is a PointerEvent with correct properties in a subframe","status":"TIMEOUT"}]}
