@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_set_files_сontext","status":"PASS"},{"name":"test_set_files_in_iframe[same_origin]","status":"PASS"},{"name":"test_set_files_in_iframe[cross_origin]","status":"PASS"}]}
