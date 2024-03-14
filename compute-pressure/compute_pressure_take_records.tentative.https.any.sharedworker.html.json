@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Calling takeRecords() before observe()","status":"PASS"},{"name":"takeRecords() returns empty record after callback invoke","status":"TIMEOUT"}]}
