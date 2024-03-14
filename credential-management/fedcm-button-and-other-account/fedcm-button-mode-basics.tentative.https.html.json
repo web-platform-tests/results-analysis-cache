@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that the button mode without user activation will fail.","status":"FAIL"},{"name":"Test that the button mode succeeds with user activation.","status":"FAIL"}]}
