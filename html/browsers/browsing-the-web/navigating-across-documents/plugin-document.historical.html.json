@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-origin PDFs must not create accessible Document objects","status":"FAIL"}]}
