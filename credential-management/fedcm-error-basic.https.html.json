@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Test that the promise is rejected with proper error details when dialog is dismissed","status":"FAIL"},{"name":"Test that the promise is rejected with proper error details when got it is clicked","status":"FAIL"},{"name":"Test that the promise is rejected with proper error details when more details is clicked","status":"FAIL"}]}
