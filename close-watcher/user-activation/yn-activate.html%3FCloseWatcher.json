@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Create a close watcher with user activation; create a close watcher without user activation; send user activation","status":"FAIL"}]}
