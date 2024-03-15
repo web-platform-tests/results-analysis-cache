@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"cannot detect cross-origin events in `pointer-events: none` region","status":"FAIL"}]}
