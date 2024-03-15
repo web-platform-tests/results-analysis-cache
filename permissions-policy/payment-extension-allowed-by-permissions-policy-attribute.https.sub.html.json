@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"permissions policy \"payment\" is not supported in cross-origin iframe without allow=\"payment\" attribute","status":"TIMEOUT"},{"name":"permissions policy \"payment\" can be enabled in cross-origin iframe using allow=\"payment\" attribute","status":"NOTRUN"}]}
