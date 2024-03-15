@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"close via synthesized Esc key must not work","status":"FAIL"}]}
