@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getParameters() with audio receiver","status":"PASS"},{"name":"getParameters() with video receiver","status":"PASS"},{"name":"getParameters() with simulcast video receiver","status":"FAIL"}]}
