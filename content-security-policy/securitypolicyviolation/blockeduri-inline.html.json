@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Inline violations have a blockedURI of 'inline'","status":"TIMEOUT"},{"name":"Blocked script shouldn't execute.","status":"FAIL"}]}
