@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XMLHttpRequest: abort() during DONE (sync)","status":"FAIL"},{"name":"XMLHttpRequest: abort() during DONE (sync aborted in readystatechange)","status":"FAIL"},{"name":"XMLHttpRequest: abort() during DONE (async)","status":"FAIL"}]}
