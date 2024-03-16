@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that the \"Use Other Account\" button works correctly.","status":"FAIL"},{"name":"Test that the \"Use Other Account\" button works correctly when accounts do not change.","status":"FAIL"}]}
