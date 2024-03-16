@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Removing the open attribute from an open modal dialog should run the closing algorithm.","status":"FAIL"},{"name":"Removing the open attribute from an open non-modal dialog should fire a close event.","status":"FAIL"}]}
