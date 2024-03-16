@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test that promise is rejected silently when accounts fetch fails in unknown state","status":"TIMEOUT"}]}
