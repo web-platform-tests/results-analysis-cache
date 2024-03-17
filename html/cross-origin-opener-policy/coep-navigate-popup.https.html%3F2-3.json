@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Popup navigating to same-origin with coop/no coep","status":"FAIL"},{"name":"Popup navigating to same-site with coop/no coep","status":"FAIL"},{"name":"Popup navigating to same-origin with no coop/no coep","status":"FAIL"},{"name":"Popup navigating to same-site with no coop/no coep","status":"FAIL"}]}
