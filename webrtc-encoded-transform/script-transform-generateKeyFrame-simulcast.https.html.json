@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"generateKeyFrame works with simulcast rids","status":"FAIL"},{"name":"generateKeyFrame for rid that was negotiated away fails","status":"FAIL"},{"name":"generateKeyFrame with rid after simulcast->unicast negotiation fails","status":"FAIL"}]}
