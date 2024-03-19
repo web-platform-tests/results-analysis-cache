@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Performance longtask entries after a promise: successful fetch","status":"PASS"},{"name":"Performance longtask entries after a promise: Response.text()","status":"PASS"},{"name":"Performance longtask entries after a promise: rejected fetch","status":"PASS"},{"name":"Performance longtask entries after a promise: JSON error","status":"PASS"}]}
