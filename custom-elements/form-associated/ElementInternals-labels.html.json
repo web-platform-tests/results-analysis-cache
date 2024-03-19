@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"LABEL association","status":"FAIL"},{"name":"LABEL click","status":"FAIL"},{"name":"ElementInternals.labels should throw NotSupportedError if the target element is not a form-associated custom element","status":"FAIL"}]}
