@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that fenced frame notifyEvent() requires transient activation","status":"FAIL"}]}
