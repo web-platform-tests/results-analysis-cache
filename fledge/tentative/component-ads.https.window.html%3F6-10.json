@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Unknown component ad URL in bid.","status":"FAIL"},{"name":"Render URL used as component ad URL in bid.","status":"FAIL"},{"name":"Component ad URL used as render URL.","status":"FAIL"},{"name":"2 of 2 component ads in bid and then shown.","status":"FAIL"},{"name":"2 of 2 component ads in bid and then shown, with metadata.","status":"FAIL"}]}
