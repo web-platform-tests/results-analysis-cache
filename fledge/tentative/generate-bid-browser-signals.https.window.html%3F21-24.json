@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"browserSignals.prevWinsMs, different set of ads for each bid.","status":"FAIL"},{"name":"browserSignals.prevWinsMs persists across re-join from other top-level origin.","status":"FAIL"},{"name":"browserSignals.prevWinsMs leave and rejoin.","status":"FAIL"},{"name":"browserSignals.prevWinsMs two auctions at once.","status":"FAIL"}]}
