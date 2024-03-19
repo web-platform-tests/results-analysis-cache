@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"PendingGetBeacon is not supported in non-secure context.","status":"PASS"},{"name":"PendingPostBeacon is not supported in non-secure context.","status":"PASS"}]}
