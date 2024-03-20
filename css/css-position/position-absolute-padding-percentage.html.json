@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"absolute positioned element should resolve padding left+right against container padding-box width","status":"PASS"},{"name":"absolute positioned element should resolve padding top+bottom against container padding-box width","status":"PASS"}]}
