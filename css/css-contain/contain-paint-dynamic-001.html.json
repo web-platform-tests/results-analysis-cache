@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"contain: none","status":"PASS"},{"name":"contain: paint","status":"FAIL"},{"name":"switching contain from none to paint","status":"FAIL"},{"name":"switching contain from paint to none","status":"PASS"}]}
