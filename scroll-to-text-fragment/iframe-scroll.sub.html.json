@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"CROSS-ORIGIN: Text directive in iframe doesn't bubble to outer frame.","status":"TIMEOUT"},{"name":"SAME-ORIGIN: Text directive in iframe bubbles to outer frame.","status":"NOTRUN"}]}
