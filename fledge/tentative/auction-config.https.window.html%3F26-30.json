@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"perBuyerCurrencies with non-https currency map key","status":"FAIL"},{"name":"perBuyerCurrencies not convertible to dictionary","status":"FAIL"},{"name":"requestedSize has no width","status":"PASS"},{"name":"requestedSize has no height","status":"PASS"},{"name":"requestedSize width not a number","status":"PASS"}]}
