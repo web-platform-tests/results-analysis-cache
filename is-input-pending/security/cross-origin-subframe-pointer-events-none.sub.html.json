@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"iframe cannot detect events with pointer-events: none","status":"FAIL"}]}
