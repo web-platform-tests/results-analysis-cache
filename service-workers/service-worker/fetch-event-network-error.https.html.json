@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Rejecting the fetch event or using preventDefault() causes a network error","status":"PASS"}]}
