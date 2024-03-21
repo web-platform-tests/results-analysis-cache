@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A sandboxed same-origin grandchild with allow-same-origin can     give itself top-nav privileges","status":"PASS"}]}
