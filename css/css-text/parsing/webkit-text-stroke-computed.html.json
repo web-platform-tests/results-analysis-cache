@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property -webkit-text-stroke value 'green'","status":"PASS"},{"name":"Property -webkit-text-stroke value '3px'","status":"PASS"},{"name":"Property -webkit-text-stroke value '1px red'","status":"PASS"}]}
