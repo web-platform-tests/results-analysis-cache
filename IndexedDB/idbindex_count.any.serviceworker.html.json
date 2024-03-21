@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"count() returns the number of records in the index","status":"PASS"},{"name":"count() returns the number of records that have keys within the range","status":"PASS"},{"name":"count() returns the number of records that have keys with the key","status":"PASS"},{"name":"count() throws DataError when using invalid key","status":"PASS"}]}
