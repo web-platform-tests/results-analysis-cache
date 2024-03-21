@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property box-shadow-position value 'inset'","status":"FAIL"},{"name":"Property box-shadow-position value 'outset'","status":"FAIL"},{"name":"Property box-shadow-position value 'inset, outset'","status":"FAIL"},{"name":"Property box-shadow-position value 'outset, inset'","status":"FAIL"}]}
