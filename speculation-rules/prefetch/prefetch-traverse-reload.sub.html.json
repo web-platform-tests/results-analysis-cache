@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"prefetches can be used for traversal navigations","status":"PASS"},{"name":"History's Document is used for traversal navigations","status":"PASS"},{"name":"prefetches can be used for reload navigations","status":"PASS"}]}
