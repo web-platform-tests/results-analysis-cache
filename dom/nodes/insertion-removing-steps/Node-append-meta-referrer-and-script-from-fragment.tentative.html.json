@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"<meta name=referrer> should apply before script, as it is an insertion step and not a post-insertion step","status":"PASS"}]}
