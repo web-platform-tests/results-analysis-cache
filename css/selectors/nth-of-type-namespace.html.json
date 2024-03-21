@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":":nth-of-type selectors matching takes element namespace into account (http://www.w3.org/1999/xhtml)","status":"PASS"},{"name":":nth-of-type selectors matching takes element namespace into account (http://dummy1/)","status":"PASS"},{"name":":nth-of-type selectors matching takes element namespace into account (http://dummy2/)","status":"PASS"}]}
