@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Access-Control-Request-Private-Network is a forbidden request header","status":"FAIL"},{"name":"Adding invalid request header \"Access-Control-Request-Private-Network: KO\"","status":"FAIL"}]}
