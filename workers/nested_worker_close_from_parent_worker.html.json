@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test terminating a nested workers by calling terminate() from its parent worker","status":"TIMEOUT"}]}
