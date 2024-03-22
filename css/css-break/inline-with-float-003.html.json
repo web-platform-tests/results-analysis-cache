@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Hit first inline-block","status":"FAIL"},{"name":"Hit second inline-block","status":"FAIL"},{"name":"Hit first float fragment","status":"FAIL"},{"name":"Hit second float fragment","status":"FAIL"},{"name":"Hit third float fragment","status":"FAIL"},{"name":"Hit third inline-block","status":"FAIL"}]}
