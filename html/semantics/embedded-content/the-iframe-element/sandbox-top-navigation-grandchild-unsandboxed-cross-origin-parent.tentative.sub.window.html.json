@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A same-origin grandchild in a cross-origin parent can navigate top","status":"PASS"}]}
