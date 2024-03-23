@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The router rule is evaluated without fetch handlers in service worker","status":"PASS"},{"name":"addRoutes should raise if the fetch-event source is used without onfetch","status":"PASS"}]}
