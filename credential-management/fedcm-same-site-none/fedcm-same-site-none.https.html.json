@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"FedCM requests should be considered cross-origin and therefore not send SameSite=Strict cookies.","status":"FAIL"}]}
