@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"HTMLScriptElement.supports returns true for 'importmap'","status":"FAIL"},{"name":"HTMLScriptElement.supports returns false for unsupported types","status":"PASS"}]}
