@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"AuctionConfig.reportingTimeout with positive within-cap value.","status":"FAIL"},{"name":"AuctionConfig.reportingTimeout above the cap value.","status":"FAIL"},{"name":"AuctionConfig.reportingTimeout not provided","status":"FAIL"}]}
