@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"@position-try rule applies","status":"FAIL"},{"name":"@position-try rule wins over inline style","status":"FAIL"},{"name":"@position-try rule does not win over !important","status":"FAIL"},{"name":"@position-try rule does not win over animations","status":"FAIL"},{"name":"@position-try rule does not win over transitions","status":"FAIL"}]}
