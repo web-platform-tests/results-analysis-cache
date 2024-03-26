@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Select with appearance:bikeshed should open and close when clicking the button.","status":"PASS"},{"name":"Clicking an option in an appearance:bikeshed select should choose the option and close the popover.","status":"FAIL"}]}
