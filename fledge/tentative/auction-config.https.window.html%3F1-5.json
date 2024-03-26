@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"no buyers => no winners","status":"PASS"},{"name":"seller is not an https URL","status":"PASS"},{"name":"decisionLogicURL is invalid","status":"PASS"},{"name":"decisionLogicURL is cross-origin with seller","status":"PASS"},{"name":"trustedScoringSignalsURL is invalid","status":"PASS"}]}
