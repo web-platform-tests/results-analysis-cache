@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property mask-origin should be reset to its initial value.","status":"FAIL"},{"name":"Property mask-position should be reset to its initial value.","status":"FAIL"},{"name":"Property mask-repeat should be reset to its initial value.","status":"FAIL"},{"name":"Property mask-size should be reset to its initial value.","status":"FAIL"}]}
