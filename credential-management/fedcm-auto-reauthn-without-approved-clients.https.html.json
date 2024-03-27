@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that if the clientId is missing from approved_clients then autoreauthentication cannot occur.","status":"PASS"}]}
