@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"<iframe src='javascript:...'> not blocked by 'frame-src'","status":"PASS"}]}
