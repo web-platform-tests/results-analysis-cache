@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Trusted scoring signals splits the request if the combined URL length exceeds the limit of regular value.","status":"PASS"},{"name":"Trusted scoring signals splits the request if the combined URL length exceeds the limit of small value.","status":"PASS"}]}
