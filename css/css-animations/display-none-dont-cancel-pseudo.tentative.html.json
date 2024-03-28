@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A CSS Animation on a pseudo-element animating to \"display: none\" with \"fill: forwards\" remains active after animation completion.","status":"FAIL"}]}
