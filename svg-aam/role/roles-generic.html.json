@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"el-circle","status":"PASS"},{"name":"el-ellipse","status":"PASS"},{"name":"el-foreignObject","status":"PASS"},{"name":"el-g","status":"PASS"},{"name":"el-line","status":"PASS"},{"name":"el-path","status":"PASS"},{"name":"el-polygon","status":"PASS"},{"name":"el-polyline","status":"PASS"},{"name":"el-rect","status":"PASS"}]}
