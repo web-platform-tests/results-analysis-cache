@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"WebTransport connection should fail when CSP connect-src is set to none and reject the promises","status":"FAIL"}]}
