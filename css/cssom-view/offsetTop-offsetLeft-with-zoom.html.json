@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verifies that offsetTop and offsetLeft find the right OffsetParent and return values excluding the target zoom","status":"PASS"}]}
