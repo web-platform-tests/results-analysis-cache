@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Backspace at <span contenteditable>ab[]c</span>","status":"PASS"},{"name":"Delete at <span contenteditable>a[]bc</span>","status":"FAIL"},{"name":"Backspace at <span contenteditable>a[b]c</span>","status":"FAIL"},{"name":"Delete at <span contenteditable>a[b]c</span>","status":"FAIL"}]}
