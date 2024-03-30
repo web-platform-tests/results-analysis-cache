@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"snapchanging fires on programmatic scrolls that changes a scroller's snap targets.","status":"FAIL"},{"name":"snapchanging does not fire on programmatic scrolls that don't trigger a change in snap targets.","status":"FAIL"}]}
