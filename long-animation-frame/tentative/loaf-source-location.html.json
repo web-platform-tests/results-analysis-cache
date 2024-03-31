@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Source location should be extracted from non-bound functions","status":"PASS"},{"name":"Source location should be extracted from bound functions","status":"PASS"},{"name":"Source location should be extracted for setTimeout","status":"PASS"},{"name":"Source location should be extracted for promises","status":"PASS"}]}
