@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"pointerleave shouldn't be received on descendant's pointerover","status":"PASS"}]}
