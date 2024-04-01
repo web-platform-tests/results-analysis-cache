@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"First <base> has a javascript: URL so fallback is used","status":"PASS"},{"name":"First <base> is removed so second is used","status":"PASS"},{"name":"Dynamically inserted first <base> has a javascript: URL so fallback is used","status":"FAIL"}]}
