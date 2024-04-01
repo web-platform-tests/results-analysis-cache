@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"DOM access in sandbox='allow-same-origin' iframe is allowed","status":"PASS"}]}
