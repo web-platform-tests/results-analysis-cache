@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"browserSignals.prevWinsMs not updated when no bid.","status":"FAIL"},{"name":"browserSignals.prevWinsMs not updated when makes largest bid, but another interest group wins.","status":"FAIL"},{"name":"browserSignals.wasmHelper.","status":"FAIL"}]}
