@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"assert_not_equals(navigator.ml, undefined, \"ml property is defined on navigator\")","status":"FAIL"},{"name":"[averagePool2d] throw if input is from another builder","status":"FAIL"},{"name":"[l2Pool2d] throw if input is from another builder","status":"FAIL"},{"name":"[maxPool2d] throw if input is from another builder","status":"FAIL"}]}
