@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A blob URL created in a window agent can be imported from a worker","status":"PASS"},{"name":"A blob URL revoked in a window agent will not resolve in a worker","status":"PASS"},{"name":"A revoked blob URL will not resolve in a worker even if it's in the window's module graph","status":"FAIL"}]}
