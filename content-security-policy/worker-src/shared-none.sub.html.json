@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-origin shared worker blocked by 'none'.","status":"FAIL"},{"name":"blob: shared worker blocked by 'none'.","status":"FAIL"}]}
