@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"idl_test setup","status":"PASS"},{"name":"idl_test validation","status":"PASS"},{"name":"Partial interface Performance: original interface defined","status":"PASS"},{"name":"Partial interface Performance: member names are unique","status":"PASS"},{"name":"Performance interface: operation measureUserAgentSpecificMemory()","status":"FAIL"}]}
