@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"one.getBoundingClientRect(): ","status":"PASS"},{"name":"two.getBoundingClientRect(): ","status":"FAIL"},{"name":"three.getBoundingClientRect(): ","status":"FAIL"},{"name":"four.getBoundingClientRect(): ","status":"FAIL"},{"name":"five.getBoundingClientRect(): ","status":"FAIL"}]}
