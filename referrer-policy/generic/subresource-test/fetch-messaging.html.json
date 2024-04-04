@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Fetch is supported by the browser.","status":"PASS"},{"name":"Fetch is responding with HTTP headers","status":"PASS"}]}
