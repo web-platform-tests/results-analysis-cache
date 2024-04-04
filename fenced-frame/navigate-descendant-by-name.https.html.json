@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"setup","status":"PASS"},{"name":"navigate top-level fenced frame by name","status":"FAIL"},{"name":"navigate iframe nested in a fenced frame by name","status":"FAIL"},{"name":"navigate nested fenced frame by name","status":"FAIL"}]}
