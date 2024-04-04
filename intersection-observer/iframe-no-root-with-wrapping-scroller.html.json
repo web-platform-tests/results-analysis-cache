@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Observer with the implicit root; target in a same-origin iframe.","status":"PASS"},{"name":"First rAF.","status":"FAIL"},{"name":"document.scrollingElement.scrollTop = 200","status":"PASS"},{"name":"iframe.contentDocument.scrollingElement.scrollTop = 250","status":"FAIL"},{"name":"document.scrollingElement.scrollTop = 100","status":"FAIL"}]}
