@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"OffscreenCanvas constructor called as normal function","status":"PASS"},{"name":"Test that calling OffscreenCanvas's constructor generates correct width and height.","status":"PASS"},{"name":"Test that OffscreenCanvas constructor handles invalid arguments correctly","status":"PASS"}]}
