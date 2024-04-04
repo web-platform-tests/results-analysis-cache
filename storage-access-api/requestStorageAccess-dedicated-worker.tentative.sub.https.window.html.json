@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Workers inherit storage access","status":"FAIL"},{"name":"Workers don't observe parent's storage access","status":"FAIL"}]}
