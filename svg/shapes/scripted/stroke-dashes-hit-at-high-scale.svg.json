@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Strokes w/dashes are properly hit-tested, even at large scale factors","status":"PASS"}]}
