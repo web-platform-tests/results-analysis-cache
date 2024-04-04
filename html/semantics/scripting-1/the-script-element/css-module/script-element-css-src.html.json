@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that <script> doesn't load when the src is CSS.","status":"PASS"}]}
