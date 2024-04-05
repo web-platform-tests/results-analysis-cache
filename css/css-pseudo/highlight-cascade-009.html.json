@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"body ::selection has the root custom property","status":"PASS"},{"name":"body ::selection uses its own custom property","status":"PASS"},{"name":"div::selection inherits a custom property","status":"PASS"},{"name":"div::selection uses its own custom property","status":"PASS"}]}
