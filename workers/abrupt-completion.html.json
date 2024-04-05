@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"DedicatedWorker should correctly handle abrupt completion","status":"PASS"},{"name":"SharedWorker should correctly handle abrupt completion","status":"TIMEOUT"}]}
