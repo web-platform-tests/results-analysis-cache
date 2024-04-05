@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Image intersectionRect is affected by scaling, but not its intrinsic size.","status":"TIMEOUT"}]}
