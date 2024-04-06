@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A loading='lazy' image starts loading when the element is moved into\n       an iframe where script is disabled","status":"PASS"}]}
