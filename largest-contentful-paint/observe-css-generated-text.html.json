@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CSS generated text is observable as a LargestContentfulPaint candidate","status":"FAIL"},{"name":"Text generated with CSS using content:attr() is observable as a LargestContentfulPaint candidate","status":"FAIL"},{"name":"CSS generated text on a inline element is observable as a LargestContentfulPaint candidate","status":"FAIL"}]}
