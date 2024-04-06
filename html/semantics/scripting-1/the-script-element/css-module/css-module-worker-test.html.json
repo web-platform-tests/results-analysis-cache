@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A static import CSS Module within a web worker should not load and should not attempt to fetch the module.","status":"PASS"},{"name":"A dynamic import CSS Module within a web worker should not load and should not attempt to fetch the module.","status":"PASS"},{"name":"An attempt to load a CSS module as a worker should fail.","status":"PASS"}]}
