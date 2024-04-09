@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"entries() and currentEntry after navigation to a data: URL (which has an opaque origin)","status":"TIMEOUT"}]}
