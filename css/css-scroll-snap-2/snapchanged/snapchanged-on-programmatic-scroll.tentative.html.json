@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"snapchanged event fires after snap target changes via scrollTo","status":"FAIL"},{"name":"snapchanged is not fired if snap target doesn't change on programmatic scroll","status":"FAIL"}]}
