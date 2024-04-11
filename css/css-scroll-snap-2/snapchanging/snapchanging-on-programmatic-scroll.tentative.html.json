@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"snapchanging fires on programmatic scrolls that changes a scroller's snap targets.","status":"PASS"},{"name":"programmatic scroll triggers Element.onsnapchanging when scrolling a snap container","status":"PASS"},{"name":"snapchanging should not fire since the snap target doesn't change.","status":"PASS"}]}
