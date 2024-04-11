@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Clear-Site-Data with \"cache\" directive must unregister dictionary","status":"PASS"},{"name":"Clear-Site-Data with \"cookies\" directive must unregister dictionary","status":"PASS"},{"name":"Clear-Site-Data with \"storage\" directive must not unregister dictionary","status":"PASS"}]}
