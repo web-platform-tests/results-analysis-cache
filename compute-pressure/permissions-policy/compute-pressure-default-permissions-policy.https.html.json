@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Default \"compute-pressure\" permissions policy allows same-origin iframes.","status":"TIMEOUT"},{"name":"Default \"compute-pressure\" permissions policy disallows cross-origin iframes.","status":"PASS"}]}
