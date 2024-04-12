@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"InvokeEvent propagates across shadow boundaries retargeting invoker","status":"FAIL"},{"name":"cross shadow InvokeEvent retargets invoker to host element","status":"FAIL"}]}
