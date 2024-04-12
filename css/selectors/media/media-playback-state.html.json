@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test :pseudo-class syntax is supported without throwing a SyntaxError","status":"FAIL"},{"name":"Test :playing pseudo-classes","status":"FAIL"},{"name":"Test :paused pseudo-classes","status":"FAIL"},{"name":"Test :seeking pseudo-class","status":"FAIL"}]}
