@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Simple dictionary registration and unregistration","status":"PASS"},{"name":"Dictionary registration with dictionary ID","status":"PASS"},{"name":"New dictionary registration overrides the existing one","status":"PASS"}]}
