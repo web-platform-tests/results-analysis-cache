@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"DOMRectList is exposed","status":"FAIL"},{"name":"DOMRectList is not [LegacyArrayClass]","status":"FAIL"},{"name":"DOMRectList length","status":"PASS"},{"name":"DOMRectList indexed getter","status":"PASS"},{"name":"DOMRectList item()","status":"FAIL"}]}
