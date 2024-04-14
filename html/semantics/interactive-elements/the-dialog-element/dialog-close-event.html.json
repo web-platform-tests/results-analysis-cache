@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that dialog receives a close event upon closing.","status":"FAIL"}]}
