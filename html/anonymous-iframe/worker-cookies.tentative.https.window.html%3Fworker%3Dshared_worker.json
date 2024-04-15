@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"set cookies","status":"PASS"},{"name":"Worker spawned from normal iframe can access global cookies","status":"TIMEOUT"},{"name":"Worker spawned from credentialless iframe can't access global cookies","status":"NOTRUN"}]}
