@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test helper: fetching and sanity checking test JSON: data-url-prefix.json","status":"PASS"},{"name":"data: URL prefix: should not resolve since you can't resolve relative to a data: URL: foo/bar","status":"PASS"}]}
