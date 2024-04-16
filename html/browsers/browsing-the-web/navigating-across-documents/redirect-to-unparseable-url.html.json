@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Navigating to a url (A) that redirects to an unparseable URL (B), saves the URL (A) in the history entry, for later traversal","status":"FAIL"}]}
