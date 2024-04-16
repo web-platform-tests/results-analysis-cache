@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"only one interestGroupBuyer is not https","status":"FAIL"},{"name":"auctionSignals is invalid as JSON","status":"FAIL"},{"name":"sellerSignals is invalid as JSON","status":"FAIL"},{"name":"directFromSellerSignals is invalid","status":"FAIL"},{"name":"directFromSellerSignals is cross-origin with seller","status":"FAIL"}]}
