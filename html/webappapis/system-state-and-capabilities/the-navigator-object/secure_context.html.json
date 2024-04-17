@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.registerProtocolHandler does not exist in non-secure contexts.","status":"PASS"},{"name":"navigator.unregisterProtocolHandler does not exist in non-secure contexts.","status":"PASS"}]}
