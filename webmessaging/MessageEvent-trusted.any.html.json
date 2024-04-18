@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"With a MessageChannel and its MessagePorts","status":"PASS"},{"name":"With a BroadcastChannel","status":"TIMEOUT"}]}
