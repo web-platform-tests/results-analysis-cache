@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"location.assign navigates independently with replacement in a prerender","status":"TIMEOUT"},{"name":"location.replace navigates independently in a prerender","status":"NOTRUN"},{"name":"Setting location.href navigates independently with replacement in a prerender","status":"NOTRUN"}]}
