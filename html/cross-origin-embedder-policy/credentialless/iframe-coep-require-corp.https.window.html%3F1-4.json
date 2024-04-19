@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"COEP:require-corp embeds same-origin COEP:none","status":"PASS"},{"name":"COEP:require-corp embeds cross-origin COEP:none","status":"PASS"},{"name":"COEP:require-corp embeds same-origin COEP:credentialless","status":"PASS"},{"name":"COEP:require-corp embeds cross-origin COEP:credentialless","status":"PASS"}]}
