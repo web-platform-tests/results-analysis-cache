@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Navigating to the same URL with an empty fragment aborts the navigation","status":"PASS"}]}
