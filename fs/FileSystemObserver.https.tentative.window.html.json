@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Creating a FileSystemObserver from a window succeeds","status":"PASS"},{"name":"Creating a FileSystemObserver from a dedicated worker succeeds","status":"PASS"},{"name":"Creating a FileSystemObserver from a service worker fails","status":"PASS"}]}
