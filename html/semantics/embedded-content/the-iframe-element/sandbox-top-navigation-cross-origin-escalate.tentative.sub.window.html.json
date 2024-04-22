@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A cross origin unsandboxed frame can't escalate privileges in a child     frame","status":"PASS"}]}
