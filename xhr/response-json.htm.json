@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"json response with no data: response property is null","status":"PASS"},{"name":"json response with malformed data: response property is null","status":"PASS"},{"name":"JSON object roundtrip","status":"FAIL"},{"name":"JSON roundtrip with Japanese text","status":"FAIL"}]}
