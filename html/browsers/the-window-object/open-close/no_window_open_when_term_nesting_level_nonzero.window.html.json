@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"no popups with frame removal","status":"PASS"},{"name":"no popups with frame navigation","status":"FAIL"},{"name":"no popups from synchronously reachable window","status":"FAIL"},{"name":"no popups from another synchronously reachable window","status":"FAIL"}]}
