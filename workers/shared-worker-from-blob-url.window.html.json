@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Creating a shared worker from a blob URL works.","status":"PASS"},{"name":"Creating a shared worker from a blob URL works immediately before revoking.","status":"TIMEOUT"},{"name":"Connecting to a shared worker on a revoked blob URL works.","status":"NOTRUN"}]}
