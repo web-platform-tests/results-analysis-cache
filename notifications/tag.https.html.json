@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Opening two notifications with the same tag should close the first one","status":"PASS"}]}
