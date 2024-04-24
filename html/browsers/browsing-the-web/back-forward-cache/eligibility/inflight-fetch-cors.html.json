@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Eligibility (in-flight fetch): CORS succeeded when in BFCache","status":"TIMEOUT"},{"name":"Eligibility (in-flight fetch): CORS failed when in BFCache","status":"NOTRUN"}]}
