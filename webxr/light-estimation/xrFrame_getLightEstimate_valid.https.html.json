@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Can get XRLightEstimates during frame - webgl","status":"FAIL"},{"name":"Can get XRLightEstimates during frame - webgl2","status":"FAIL"}]}
