@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"PointerEvent.deviceProperties via DevicePropertiesInit","status":"PASS"},{"name":"PointerEvent.deviceProperties via empty DevicePropertiesInit","status":"PASS"},{"name":"No deviceProperties in PointerEventInit","status":"PASS"}]}
