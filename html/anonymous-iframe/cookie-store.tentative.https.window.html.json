@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Set/Get cookie via JS API","status":"PASS"},{"name":"Get Cookie via subresource requests","status":"PASS"},{"name":"Set Cookie via subresource requests","status":"PASS"},{"name":"Set Cookie via navigation requests","status":"PASS"}]}
