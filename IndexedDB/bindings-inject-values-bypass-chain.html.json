@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Returning values to script should bypass prototype chain","status":"PASS"}]}
