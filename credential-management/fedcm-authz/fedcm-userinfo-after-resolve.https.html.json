@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test getUserInfo() after resolve() to verify that resolve stores the RP/IDP connection","status":"TIMEOUT"}]}
