@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"script.setHTML should fail.","status":"PASS"},{"name":"iframe.setHTML should fail.","status":"PASS"},{"name":"object.setHTML should fail.","status":"PASS"},{"name":"div.setHTML should pass.","status":"FAIL"}]}
