@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Ensure fetch() rejects null bytes in headers","status":"PASS"}]}
