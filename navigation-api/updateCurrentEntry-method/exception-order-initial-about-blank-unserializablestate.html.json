@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"updateCurrentEntry() with unserializable state on the initial about:blank must throw an \"InvalidStateError\", not a \"DataCloneError\"","status":"PASS"}]}
