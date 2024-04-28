@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Detect multiple soft navigations and ensure they buffer paint entries.","status":"FAIL"}]}
