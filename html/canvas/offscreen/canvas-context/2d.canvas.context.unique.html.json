@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getContext('2d') returns the same object","status":"FAIL"}]}
