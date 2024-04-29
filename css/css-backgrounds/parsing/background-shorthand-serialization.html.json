@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"single value","status":"FAIL"},{"name":"multiple values","status":"FAIL"},{"name":"multiple backgrounds","status":"FAIL"},{"name":"background-size with non-initial background-position","status":"FAIL"},{"name":"multiple backgrounds with varying values","status":"FAIL"},{"name":"all initial values","status":"FAIL"}]}
