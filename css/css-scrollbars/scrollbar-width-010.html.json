@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"scrollbar-width auto on the root defers to ::-webkit-scrollbar","status":"PASS"}]}
