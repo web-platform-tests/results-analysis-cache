@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"A sandboxed same-origin grandchild without allow-same-origin can't     escalate its own top-nav privileges","status":"TIMEOUT"}]}
