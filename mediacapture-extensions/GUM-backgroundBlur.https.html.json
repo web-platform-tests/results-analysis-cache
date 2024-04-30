@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test getSupportedConstraints().backgroundBlur","status":"FAIL"},{"name":"Test getCapabilities().backgroundBlur","status":"FAIL"},{"name":"Test getSettings().backgroundBlur","status":"FAIL"},{"name":"Test applyConstraints() with backgroundBlur","status":"FAIL"}]}

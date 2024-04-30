@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A same-site unsandboxed iframe navigation does not consume user activation and allows top-level navigation.","status":"FAIL"}]}
