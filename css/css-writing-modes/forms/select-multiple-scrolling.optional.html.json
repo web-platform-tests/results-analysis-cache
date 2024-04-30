@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"select[multiple][style=\"writing-mode: horizontal-tb\"] scrolls correctly","status":"FAIL"},{"name":"select[multiple][style=\"writing-mode: vertical-lr\"] scrolls correctly","status":"FAIL"},{"name":"select[multiple][style=\"writing-mode: vertical-rl\"] scrolls correctly","status":"FAIL"}]}
