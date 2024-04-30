@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"super() after new AudioWorkletProcessor()","status":"FAIL"},{"name":"new AudioWorkletProcessor() after super()","status":"FAIL"},{"name":"new AudioWorkletProcessor() after new AudioWorkletProcessor()","status":"FAIL"},{"name":"Singleton AudioWorkletProcessor","status":"FAIL"}]}
