@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_switch_between_contexts[tab]","status":"PASS"},{"name":"test_switch_between_contexts[window]","status":"FAIL"},{"name":"test_keeps_element_focused","status":"PASS"},{"name":"test_multiple_activation","status":"PASS"}]}
