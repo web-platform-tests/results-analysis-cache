@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Simple document with non-ascii COOP header opening a same-origin popup","status":"PASS"}]}
