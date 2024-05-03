@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"aria-labelledby reference to element with text content inside shadow DOM","status":"PASS"},{"name":"aria-labelledby reference to element with aria-label inside shadow DOM","status":"PASS"}]}
