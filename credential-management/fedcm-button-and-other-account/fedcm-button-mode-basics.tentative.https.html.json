@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test that the button mode without user activation will fail.","status":"TIMEOUT"},{"name":"Test that the button mode succeeds with user activation.","status":"NOTRUN"}]}
