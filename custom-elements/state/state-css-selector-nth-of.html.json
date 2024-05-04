@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"state selector has influence on nth-of when state is applied","status":"FAIL"},{"name":"state selector only applies on given ident","status":"NOTRUN"},{"name":"style is invalided on clear()","status":"NOTRUN"}]}
