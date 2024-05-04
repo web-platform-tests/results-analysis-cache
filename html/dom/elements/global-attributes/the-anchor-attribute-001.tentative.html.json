@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The anchor attribute should position the target element next to its implicit anchor","status":"PASS"},{"name":"The element.anchorElement IDL should reflect the element pointed to by the anchor attribute","status":"PASS"}]}
