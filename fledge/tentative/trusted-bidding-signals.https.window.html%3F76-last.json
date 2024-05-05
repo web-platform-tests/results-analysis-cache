@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Trusted bidding signals response has updateIfOlderThanMs == 1 ms.","status":"FAIL"},{"name":"Trusted bidding signals response has updateIfOlderThanMs == 0 ms.","status":"FAIL"},{"name":"Trusted bidding signals response has updateIfOlderThanMs == -1 ms.","status":"FAIL"}]}
