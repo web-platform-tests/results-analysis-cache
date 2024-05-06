@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initial colors","status":"PASS"},{"name":"Matches after #blocks_match removed","status":"FAIL"},{"name":"Does not match after #blocks_match added","status":"PASS"}]}
