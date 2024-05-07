@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Gyroscope: Feature-Policy header gyroscope 'self' allows the top-level document.","status":"PASS"},{"name":"Gyroscope: Feature-Policy header gyroscope 'self' allows same-origin iframes.","status":"PASS"},{"name":"Gyroscope: Feature-Policy header gyroscope 'self' disallows cross-origin iframes.","status":"PASS"}]}
