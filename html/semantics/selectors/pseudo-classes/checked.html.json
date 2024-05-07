@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"':checked' matches checked <input>s in checkbox and radio button states, selected <option>s","status":"PASS"},{"name":"':checked' should no longer match <input>s whose type checkbox/radio has been removed","status":"PASS"},{"name":"':checked' matches clicked checkbox and radio buttons","status":"PASS"}]}
