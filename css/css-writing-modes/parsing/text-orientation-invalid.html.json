@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['text-orientation'] = \"auto\" should not set the property value","status":"PASS"},{"name":"e.style['text-orientation'] = \"mixed upright\" should not set the property value","status":"PASS"}]}
