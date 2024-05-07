@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['mask-type'] = \"auto\" should not set the property value","status":"PASS"},{"name":"e.style['mask-type'] = \"luminance alpha\" should not set the property value","status":"PASS"},{"name":"e.style['mask-type'] = \"alpha, luminance\" should not set the property value","status":"PASS"}]}
