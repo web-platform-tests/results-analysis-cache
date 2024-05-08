@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"screen.isExtended is present","status":"PASS"},{"name":"screen.isExtended is present for attached iframes","status":"PASS"}]}
