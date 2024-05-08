@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"TCP candidate aimed at port 8001 accepted","status":"FAIL"},{"name":"TCP candidate aimed at port 2049 ignored","status":"PASS"},{"name":"TCP candidate aimed at port 37 ignored","status":"PASS"},{"name":"TCP addIceCandidate aimed at port 8001 accepted","status":"FAIL"},{"name":"TCP addIceCandidate aimed at port 2049 ignored","status":"PASS"}]}
