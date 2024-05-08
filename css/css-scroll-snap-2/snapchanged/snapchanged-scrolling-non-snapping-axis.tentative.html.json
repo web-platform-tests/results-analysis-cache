@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"keyboard scroll on non-snapping axis doesn't trigger snapchanged","status":"TIMEOUT"},{"name":"wheel scroll on non-snapping axis doesn't trigger snapchanged","status":"NOTRUN"}]}
