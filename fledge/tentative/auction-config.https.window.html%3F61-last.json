@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"perBuyerRealTimeReportingConfig has no type","status":"FAIL"},{"name":"perBuyerRealTimeReportingConfig has unknown type","status":"FAIL"},{"name":"forDebuggingOnly lockout and cooldowns updating in one auction, read in another's.","status":"FAIL"}]}
