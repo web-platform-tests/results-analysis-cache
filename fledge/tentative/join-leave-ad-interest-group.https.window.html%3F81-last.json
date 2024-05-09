@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Interest group duration of -600.","status":"PASS"},{"name":"Interest group test with overwritten duration.","status":"FAIL"},{"name":"Interest group test with overwritten duration of -600.","status":"PASS"}]}
