@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"After removing the last over element, redundant pointerenter events should not be fired on the ancestors","status":"PASS"},{"name":"After removing the root element in the shadow under the cursor, pointerleave events should be targeted outside the shadow, but redundant pointerenter events should not be fired","status":"PASS"}]}
