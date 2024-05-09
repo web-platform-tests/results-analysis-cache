@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"sellerRealTimeReportingConfig has no type","status":"PASS"},{"name":"sellerRealTimeReportingConfig has unknown type","status":"FAIL"},{"name":"perBuyerRealTimeReportingConfig","status":"FAIL"},{"name":"perBuyerRealTimeReportingConfig has no entry","status":"FAIL"},{"name":"perBuyerRealTimeReportingConfig has invalid buyer","status":"PASS"}]}
