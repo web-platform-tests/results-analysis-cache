@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"CSP check precedes X-Frame-Options check","status":"TIMEOUT"},{"name":"CSP check precedes COEP check - CSP header first","status":"NOTRUN"},{"name":"CSP check precedes COEP check - COEP header first","status":"NOTRUN"},{"name":"COEP check precedes X-Frame-Options check","status":"NOTRUN"}]}
