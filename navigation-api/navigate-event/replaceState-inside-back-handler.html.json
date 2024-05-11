@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"replaceState inside a navigate event for navigation.back()","status":"PASS"}]}
