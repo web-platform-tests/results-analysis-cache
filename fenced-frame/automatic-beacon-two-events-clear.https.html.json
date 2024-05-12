@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Set expiring automatic beacon but trigger two events in a click handler","status":"FAIL"}]}
