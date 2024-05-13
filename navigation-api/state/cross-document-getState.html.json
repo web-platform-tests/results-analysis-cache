@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"entry.getState() still works for a non-current cross-document entry","status":"FAIL"}]}
