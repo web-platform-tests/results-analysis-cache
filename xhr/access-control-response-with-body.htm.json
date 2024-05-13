@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Tests that XHR doesn't prepend the body from CORS preflight response to the actual response","status":"PASS"}]}
