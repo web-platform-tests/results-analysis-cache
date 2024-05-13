@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"\n  View transitions: null event.viewTransition when new page removes opt-in\n  before pagereveal\n","status":"FAIL"}]}
