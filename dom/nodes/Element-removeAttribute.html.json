@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"removeAttribute should remove the first attribute, irrespective of namespace, when the first attribute is not in a namespace","status":"PASS"},{"name":"removeAttribute should remove the first attribute, irrespective of namespace, when the first attribute is in a namespace","status":"PASS"}]}
