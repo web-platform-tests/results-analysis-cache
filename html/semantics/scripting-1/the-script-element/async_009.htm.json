@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Document.write() silently fails from an Async script","status":"PASS"}]}
