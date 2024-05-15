@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"snapchanged bubbles when fired at the document (addEventListener).","status":"PASS"},{"name":"snapchanged bubbles when fired at the document (onsnapchanged).","status":"PASS"}]}
