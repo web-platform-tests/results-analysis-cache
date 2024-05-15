@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A same-origin unsandboxed frame can navigate top","status":"PASS"}]}
