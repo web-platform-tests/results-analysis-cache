@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Default permissions policy allows sharedStorage in the current page.","status":"FAIL"},{"name":"Default permissions policy allows sharedStorage in same-origin iframes.","status":"TIMEOUT"},{"name":"Default permissions policy allows sharedStorage in cross-origin iframes.","status":"TIMEOUT"}]}
