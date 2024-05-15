@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"check animVal equals baseVal by default","status":"PASS"},{"name":"check clone does not copy the animated value","status":"TIMEOUT"}]}
