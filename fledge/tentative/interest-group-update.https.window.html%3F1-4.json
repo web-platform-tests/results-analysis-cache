@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"userBiddingSignals update overwrites everything in the field.","status":"TIMEOUT"},{"name":"userBiddingSignals updated multi-type","status":"NOTRUN"},{"name":"userBiddingSignals updated to non object","status":"NOTRUN"},{"name":"userBiddingSignals updated to null","status":"NOTRUN"}]}
