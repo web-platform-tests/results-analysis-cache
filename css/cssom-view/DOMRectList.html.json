@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Element getClientRects()","status":"FAIL"},{"name":"Range getClientRects()","status":"FAIL"}]}
