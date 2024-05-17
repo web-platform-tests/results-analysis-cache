@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"setPointerCapture: set to the element which already captured the pointer","status":"PASS"}]}
