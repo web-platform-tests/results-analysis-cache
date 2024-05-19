@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Calls to Bluetooth APIs from a sandboxed iframe are valid.","status":"TIMEOUT"}]}
