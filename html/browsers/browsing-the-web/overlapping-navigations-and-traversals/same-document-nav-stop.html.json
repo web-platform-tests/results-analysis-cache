@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"fragment navigations are not stopped by stop()","status":"FAIL"},{"name":"pushState() navigations are not stopped by stop()","status":"FAIL"}]}
