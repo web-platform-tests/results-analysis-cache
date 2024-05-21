@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_cookie_path[/]","status":"PASS"},{"name":"test_cookie_path[/some_path]","status":"PASS"},{"name":"test_cookie_path[/some/nested/path]","status":"PASS"},{"name":"test_cookie_path[None]","status":"PASS"}]}
