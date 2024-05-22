@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"focused area prefered over targeted area.","status":"PASS"},{"name":"targeted area prefered over non-focused area.","status":"FAIL"},{"name":"block axis area is preferred.","status":"FAIL"},{"name":"block axis area is preferred (vertical writing-mode).","status":"FAIL"}]}
