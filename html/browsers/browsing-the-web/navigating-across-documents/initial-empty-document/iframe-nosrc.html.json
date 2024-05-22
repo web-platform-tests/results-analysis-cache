@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"src","status":"FAIL"},{"name":"location.href","status":"FAIL"},{"name":"location.assign","status":"FAIL"},{"name":"window.open","status":"FAIL"},{"name":"link click","status":"FAIL"},{"name":"form submission","status":"FAIL"}]}
