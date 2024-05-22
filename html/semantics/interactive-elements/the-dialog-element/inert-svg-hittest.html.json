@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Hit-testing doesn't reach contents of an inert SVG","status":"PASS"},{"name":"Hit-testing can reach contents of a no longer inert SVG","status":"PASS"}]}
