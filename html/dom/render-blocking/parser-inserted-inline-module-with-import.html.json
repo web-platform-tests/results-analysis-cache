@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Parser-inserted module script elements with \"blocking=render\" are render-blocking","status":"PASS"}]}
