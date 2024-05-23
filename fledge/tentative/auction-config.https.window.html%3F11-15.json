@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"decisionLogicURL is invalid","status":"PASS"},{"name":"decisionLogicURL is cross-origin with seller","status":"PASS"},{"name":"trustedScoringSignalsURL is invalid","status":"PASS"},{"name":"valid trustedScoringSignalsURL","status":"FAIL"},{"name":"trustedScoringSignalsURL should not have a fragment","status":"FAIL"}]}
