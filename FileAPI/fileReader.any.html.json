@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"FileReader interface object","status":"PASS"},{"name":"no-argument FileReader constructor","status":"PASS"},{"name":"FileReader States -- abort","status":"PASS"},{"name":"FileReader States -- events","status":"PASS"}]}
