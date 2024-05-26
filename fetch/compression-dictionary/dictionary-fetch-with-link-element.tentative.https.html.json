@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Browser supports link element with compression-dictionary rel.","status":"PASS"},{"name":"Fetch same origin dictionary using link element","status":"TIMEOUT"},{"name":"Fetch cross origin dictionary using link element","status":"NOTRUN"}]}
