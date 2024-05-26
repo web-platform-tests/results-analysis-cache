@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"max buffer size must be defined","status":"PASS"},{"name":"max buffer size is not exceeded","status":"PASS"},{"name":"ensure samplebufferfull is fired on full profiler","status":"PASS"}]}
