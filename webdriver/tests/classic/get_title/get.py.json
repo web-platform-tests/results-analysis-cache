@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_payload","status":"PASS"},{"name":"test_no_top_browsing_context","status":"PASS"},{"name":"test_no_browsing_context","status":"PASS"},{"name":"test_with_duplicated_title","status":"PASS"},{"name":"test_without_title","status":"PASS"},{"name":"test_after_modification","status":"PASS"},{"name":"test_strip_and_collapse","status":"PASS"}]}
