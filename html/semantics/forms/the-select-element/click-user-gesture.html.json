@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"select click() requires a user gesture","status":"FAIL"},{"name":"select click() does not throw when user activation is active","status":"PASS"},{"name":"select click() consumes user activation","status":"FAIL"}]}
