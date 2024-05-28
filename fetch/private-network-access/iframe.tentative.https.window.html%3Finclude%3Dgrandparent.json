@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"local to local, grandparent navigates: no preflight required.","status":"PASS"},{"name":"local to local (same-origin), grandparent navigates: no preflight required.","status":"PASS"},{"name":"public to local, grandparent navigates: failure.","status":"FAIL"},{"name":"public to local, grandparent navigates: success.","status":"FAIL"}]}
