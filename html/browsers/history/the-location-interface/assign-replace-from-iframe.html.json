@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Browser sends Referer header in iframe request when location.replace is called from an iframe","status":"TIMEOUT"},{"name":"Browser sends Referer header in iframe request when location.assign is called from an iframe","status":"TIMEOUT"}]}
