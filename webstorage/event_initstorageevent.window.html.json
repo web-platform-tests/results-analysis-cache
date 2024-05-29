@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"initStorageEvent with 0 arguments","status":"PASS"},{"name":"initStorageEvent with 1 argument","status":"FAIL"},{"name":"initStorageEvent with 8 sensible arguments","status":"PASS"},{"name":"initStorageEvent with 8 null arguments","status":"FAIL"},{"name":"initStorageEvent with 8 undefined arguments","status":"FAIL"}]}
