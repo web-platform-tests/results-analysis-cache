@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"touchstart client coordinates are correct in vertical-rl","status":"PASS"},{"name":"click client coordinates are correct in vertical-rl","status":"PASS"}]}
