@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"EventSource: lastEventId persists","status":"PASS"},{"name":"EventSource: lastEventId resets","status":"PASS"},{"name":"EventSource: lastEventId resets (id without colon)","status":"PASS"}]}
