@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The access to the WebXR immersive-vr session API should be deferred until\n    the prerendered page is activated","status":"PASS"}]}
