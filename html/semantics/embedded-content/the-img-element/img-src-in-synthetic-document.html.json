@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"HTMLImageElement.src should return the string from the attribute in about:blank documents.","status":"FAIL"}]}
