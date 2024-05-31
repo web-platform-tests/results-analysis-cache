@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document.hasFocus should be the true when a fenced frame has focus","status":"FAIL"}]}
