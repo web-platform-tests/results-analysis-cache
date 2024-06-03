@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"<input type=radio> shouldn't have the :active pseudo element after pressing the spacebar twice.","status":"PASS"}]}
