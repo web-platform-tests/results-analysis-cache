@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Testing response url getter with http://localhost:44541/ada","status":"PASS"},{"name":"Testing response url getter with http://localhost:44541/#","status":"PASS"},{"name":"Testing response url getter with http://localhost:44541/#ada","status":"PASS"},{"name":"Testing response url getter with http://localhost:44541#ada","status":"PASS"}]}
