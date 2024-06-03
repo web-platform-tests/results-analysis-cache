@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"window.open() inherits policy.","status":"TIMEOUT"},{"name":"`document.write` into `window.open()` inherits policy.","status":"FAIL"},{"name":"window.open('blob:...') inherits policy.","status":"FAIL"},{"name":"window.open('javascript:...') inherits policy.","status":"FAIL"}]}
