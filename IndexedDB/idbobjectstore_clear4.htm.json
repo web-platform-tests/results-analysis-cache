@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IDBObjectStore.clear() - If the object store has been deleted, the implementation must throw a DOMException of type InvalidStateError ","status":"PASS"}]}
