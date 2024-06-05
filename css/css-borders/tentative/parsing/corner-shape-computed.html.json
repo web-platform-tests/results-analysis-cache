@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property corner-shape value 'round'","status":"FAIL"},{"name":"Property corner-shape value 'angle'","status":"FAIL"},{"name":"Property corner-shape value 'round angle'","status":"FAIL"},{"name":"Property corner-shape value 'round angle round'","status":"FAIL"},{"name":"Property corner-shape value 'round angle round angle'","status":"FAIL"}]}
