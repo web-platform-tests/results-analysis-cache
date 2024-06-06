@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"drawImage of unclean canvas makes the canvas origin-unclean","status":"PASS"}]}
