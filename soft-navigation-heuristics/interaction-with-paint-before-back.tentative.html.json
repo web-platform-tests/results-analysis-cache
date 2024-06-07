@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Ensure that soft navigation entry emitted through a synchronous event that modified DOM and committed a same document navigation, and that was preceded by a user intreaction that resulted in a contentful paint is properly detected.","status":"TIMEOUT"}]}
