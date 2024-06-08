@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"setCustomValidity should normalize newlines from the given error message","status":"FAIL"}]}
