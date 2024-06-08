@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Prefetch should include Sec-Purpose=prefetch and Sec-Fetch-Dest=empty headers","status":"FAIL"},{"name":"Prefetch should not include proprietary headers (X-moz/Purpose)","status":"FAIL"},{"name":"Prefetch should respect CORS mode","status":"FAIL"}]}
