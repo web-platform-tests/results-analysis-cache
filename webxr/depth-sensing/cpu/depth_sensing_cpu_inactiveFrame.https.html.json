@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Ensures getDepthInformation() throws when not run in an active frame, `cpu-optimized` - webgl","status":"PASS"},{"name":"Ensures getDepthInformation() throws when not run in an active frame, `cpu-optimized` - webgl2","status":"PASS"}]}
