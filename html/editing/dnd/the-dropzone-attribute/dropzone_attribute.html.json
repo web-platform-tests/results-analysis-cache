@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"div.dropzone should not be undefined if it's been set","status":"PASS"},{"name":"div.dropzone should not be null","status":"FAIL"},{"name":"div dropzone idl attribute must reflect the content attribute of the same name","status":"FAIL"},{"name":"div dropzone content attribute is set to the literal value","status":"PASS"}]}
