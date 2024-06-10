@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-origin fenced frame with allow attribute enabling required feature but page disabling feature.","status":"FAIL"},{"name":"Cross-origin fenced frame with allow attribute enabling required feature but page disabling feature.","status":"FAIL"}]}
