@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"position:absolute should not work as ruby-text","status":"FAIL"},{"name":"float:left should not work as ruby-text","status":"FAIL"}]}
