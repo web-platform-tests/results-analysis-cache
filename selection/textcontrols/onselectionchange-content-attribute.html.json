@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"handler set from parser","status":"PASS"},{"name":"handler set via setAttribute()","status":"PASS"}]}
