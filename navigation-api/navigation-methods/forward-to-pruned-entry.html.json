@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"If forward pruning clobbers the target of a traverse, abort","status":"FAIL"}]}
