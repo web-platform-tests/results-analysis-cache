@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Setup event listeners and wait for load","status":"PASS"},{"name":"Removing an element at mousedown","status":"FAIL"},{"name":"Removing an element at mouseup","status":"FAIL"}]}
