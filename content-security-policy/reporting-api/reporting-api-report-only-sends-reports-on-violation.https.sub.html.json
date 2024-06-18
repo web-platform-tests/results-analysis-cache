@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that image does not load","status":"PASS"},{"name":"Event is fired","status":"PASS"},{"name":"Violation report status OK.","status":"FAIL"}]}
