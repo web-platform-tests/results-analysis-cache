@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that FCP after opacity change is not a larger value than LCP","status":"PASS"}]}
