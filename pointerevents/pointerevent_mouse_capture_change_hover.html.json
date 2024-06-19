@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Mouse down and capture to green.","status":"PASS"},{"name":"Mouse down at green and capture to blue.","status":"PASS"},{"name":"Mouse down and capture to green, move to blue and release capture","status":"PASS"}]}
