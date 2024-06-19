@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"navigator.clipboard.writeText() fails when permission denied","status":"TIMEOUT"}]}
