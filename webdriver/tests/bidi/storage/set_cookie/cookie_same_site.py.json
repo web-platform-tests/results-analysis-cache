@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_cookie_secure[strict]","status":"FAIL"},{"name":"test_cookie_secure[lax]","status":"FAIL"},{"name":"test_cookie_secure[none]","status":"FAIL"},{"name":"test_cookie_secure[None]","status":"FAIL"}]}
