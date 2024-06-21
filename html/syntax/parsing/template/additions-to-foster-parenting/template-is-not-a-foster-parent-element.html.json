@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Template is not a foster parent element. Test the case when <template> is higher in stack of open elements","status":"PASS"},{"name":"Template is not a foster parent element. Test the case when <template> is lower in stack of open elements","status":"PASS"}]}
