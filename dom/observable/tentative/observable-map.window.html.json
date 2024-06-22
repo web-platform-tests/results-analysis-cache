@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"map()'s internal observer's next steps do not crash in a detached document","status":"FAIL"}]}
