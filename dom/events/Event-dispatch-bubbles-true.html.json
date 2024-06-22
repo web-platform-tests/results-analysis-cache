@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"In window.document with click event","status":"PASS"},{"name":"In window.document with load event","status":"PASS"},{"name":"In window.document.cloneNode(true)","status":"PASS"},{"name":"In new Document()","status":"PASS"},{"name":"In DOMImplementation.createHTMLDocument()","status":"PASS"}]}
