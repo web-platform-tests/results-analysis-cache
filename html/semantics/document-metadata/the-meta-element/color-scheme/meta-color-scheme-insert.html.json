@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initial color-scheme","status":"PASS"},{"name":"Inserted meta color-scheme applies","status":"PASS"},{"name":"Inserted meta color-scheme before existing in head applies","status":"PASS"}]}
