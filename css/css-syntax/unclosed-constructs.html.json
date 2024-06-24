@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"\"[foo]\" is a valid selector","status":"PASS"},{"name":"\"[foo\" is a valid selector","status":"PASS"},{"name":"\":nth-child(1)\" is a valid selector","status":"PASS"},{"name":"\":nth-child(1\" is a valid selector","status":"PASS"}]}
