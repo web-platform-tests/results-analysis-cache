@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['max-lines'] = \"none\" should set the property value","status":"FAIL"},{"name":"e.style['max-lines'] = \"1\" should set the property value","status":"FAIL"},{"name":"e.style['max-lines'] = \"6\" should set the property value","status":"FAIL"}]}
