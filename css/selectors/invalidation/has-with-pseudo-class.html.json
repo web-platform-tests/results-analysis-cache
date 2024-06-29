@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Before set checked on checkbox, testing subject","status":"FAIL"},{"name":"Set checked on checkbox, testing subject","status":"FAIL"},{"name":"Unset checked on checkbox, testing subject","status":"FAIL"}]}
