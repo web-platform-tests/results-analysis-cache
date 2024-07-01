@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that the widget mode can succeed after the button mode.","status":"FAIL"},{"name":"Test that the button mode can replace widget mode.","status":"FAIL"},{"name":"Test that the button mode cannot replace button mode.","status":"FAIL"},{"name":"Test that the widget mode cannot replace button mode.","status":"FAIL"}]}
