@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that promise is rejected if identity assertion does not use CORS","status":"FAIL"}]}
