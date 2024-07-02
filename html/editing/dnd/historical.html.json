@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"ondragexit must not be present on the GlobalEventHandlers locations","status":"FAIL"}]}
