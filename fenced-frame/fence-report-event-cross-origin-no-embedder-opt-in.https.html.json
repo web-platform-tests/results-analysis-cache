@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Cross-origin window.fence.reportEvent without embedder opt-in","status":"FAIL"}]}
