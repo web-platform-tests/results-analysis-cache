@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"disconnect requires 3 parameters: configURL, clientId, and accountHint","status":"TIMEOUT"},{"name":"disconnect fails if the disconnect endpoint is cross-origin with respectto the config file","status":"NOTRUN"},{"name":"disconnect fails if the server sends failure","status":"NOTRUN"}]}
