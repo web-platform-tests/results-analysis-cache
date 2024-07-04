@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Subresource loading from WebBundles should respect Cross-Origin-Resource-Policy header.","status":"PASS"}]}
