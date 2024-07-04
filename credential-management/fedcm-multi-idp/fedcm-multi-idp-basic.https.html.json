@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Multi IDP FedCM call succeeds when picking the first account.","status":"FAIL"},{"name":"Multi IDP FedCM call succeeds when picking account from the second IDP.","status":"FAIL"}]}
