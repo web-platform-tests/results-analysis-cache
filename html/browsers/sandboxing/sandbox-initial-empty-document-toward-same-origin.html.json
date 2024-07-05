@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"\n  Check sandbox-flags inheritance in case of javascript window reuse.\n","status":"PASS"}]}
