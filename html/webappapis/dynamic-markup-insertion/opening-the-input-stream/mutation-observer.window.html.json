@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"document.open() should inform mutation observer of node removal","status":"TIMEOUT"}]}

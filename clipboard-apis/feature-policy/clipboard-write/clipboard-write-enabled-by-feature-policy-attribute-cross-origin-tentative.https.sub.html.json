@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Feature policy \"clipboard-write\" can be enabled in cross-origin iframe using allow=\"clipboard-write\" attribute","status":"FAIL"}]}
