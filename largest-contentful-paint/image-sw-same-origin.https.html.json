@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-origin images served from a service-worker should have a correct renderTime","status":"PASS"}]}
