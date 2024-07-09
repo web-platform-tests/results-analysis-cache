@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"ServiceWorkerRegistration.unregister() should be deferred in a prerendered page","status":"TIMEOUT"}]}
