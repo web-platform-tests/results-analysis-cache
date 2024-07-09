@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"contents for selector ['auto']","status":"PASS"},{"name":"contents for selector ['_abcd']","status":"PASS"},{"name":"expected empty selector when assigning blank string","status":"PASS"},{"name":"CSS Paged Media: parsing @page selectors","status":"FAIL"}]}
