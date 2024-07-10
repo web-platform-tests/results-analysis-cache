@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Redirect and final response received before navigation start","status":"PASS"},{"name":"Same-origin redirect response received after navigation start","status":"PASS"},{"name":"Cross-site redirect response received after navigation start","status":"FAIL"}]}
