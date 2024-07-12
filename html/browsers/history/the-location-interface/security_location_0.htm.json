@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Accessing location object from different origins doesn't raise SECURITY_ERR exception","status":"PASS"}]}
