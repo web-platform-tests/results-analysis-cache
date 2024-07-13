@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Allowed scripts without a correct nonce are not permitted with `strict-dynamic`.","status":"FAIL"}]}
