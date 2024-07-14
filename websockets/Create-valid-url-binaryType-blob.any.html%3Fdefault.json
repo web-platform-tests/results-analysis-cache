@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Create WebSocket - wsocket.binaryType should be set to 'blob' after connection is established - Connection should be closed","status":"PASS"}]}
