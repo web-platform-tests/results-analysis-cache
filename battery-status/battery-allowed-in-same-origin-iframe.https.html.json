@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"navigator.getBattery() is allowed in same origin iframe","status":"TIMEOUT"}]}
