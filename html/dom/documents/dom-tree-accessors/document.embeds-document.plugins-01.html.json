@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"No plugins","status":"PASS"},{"name":"One plugin","status":"PASS"},{"name":"Two plugins","status":"PASS"},{"name":"Document.embeds should be a live collection","status":"PASS"},{"name":"Document.plugins should be a live collection","status":"PASS"}]}
