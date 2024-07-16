@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test Description: Same-origin: event.source returns the WindowProxy of the source window.","status":"PASS"}]}
