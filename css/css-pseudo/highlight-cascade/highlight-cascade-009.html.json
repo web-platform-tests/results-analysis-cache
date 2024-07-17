@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"body ::selection uses the originating custom property","status":"PASS"},{"name":"body ::selection does not use its own custom property","status":"FAIL"},{"name":"div::selection uses the originating element custom property","status":"FAIL"},{"name":"div::selection does not use its own custom property","status":"FAIL"}]}
