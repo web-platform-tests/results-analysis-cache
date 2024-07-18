@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"[top-level-context] document.requestStorageAccess() should exist on the document interface","status":"PASS"}]}
