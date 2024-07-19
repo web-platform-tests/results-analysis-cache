@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"generateKeyFrame works with simulcast rids","status":"TIMEOUT"},{"name":"generateKeyFrame for rid that was negotiated away fails","status":"NOTRUN"},{"name":"generateKeyFrame with rid after simulcast->unicast negotiation fails","status":"NOTRUN"}]}
