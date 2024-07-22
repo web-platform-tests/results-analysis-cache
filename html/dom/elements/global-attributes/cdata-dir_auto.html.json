@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Content of CDATA is ignored for dir=auto in html document","status":"PASS"},{"name":"Text in CDATASection is considered when determining auto directionality","status":"PASS"},{"name":"Directionality is updated when removing CDATASection","status":"PASS"},{"name":"Directionality is updated when changing text of CDATASection","status":"PASS"}]}
