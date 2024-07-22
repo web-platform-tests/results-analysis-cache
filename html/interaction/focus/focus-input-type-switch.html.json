@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Can change an input's type during focus handler without breaking focus","status":"PASS"}]}
