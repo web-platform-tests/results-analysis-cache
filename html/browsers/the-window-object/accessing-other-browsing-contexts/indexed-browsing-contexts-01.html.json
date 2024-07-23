@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The window's length must return the number of child browsing contexts(in iframe)","status":"PASS"},{"name":"The window's length must return zero if it has no child browsing context","status":"PASS"},{"name":"The window's length must return the number of child browsing contexts","status":"PASS"}]}
