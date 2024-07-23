@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"resolveToConfig set to a promise that resolves to true","status":"FAIL"},{"name":"resolveToConfig set to a promise that resolves to false","status":"FAIL"},{"name":"resolveToConfig set to a promise that immediately resolves","status":"FAIL"},{"name":"resolveToConfig set to a promise that resolves to an invalid value","status":"FAIL"}]}
