@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Creating an WFS should not make it ineligible for the BFCache.","status":"PASS"},{"name":"Creating a WFS on an active page evicts an inactive page on contention.","status":"FAIL"}]}
