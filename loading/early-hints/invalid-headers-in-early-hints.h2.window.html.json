@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Early Hints contains invalid header: newline byte","status":"PASS"},{"name":"Early Hints contains invalid header: nul byte","status":"PASS"}]}
