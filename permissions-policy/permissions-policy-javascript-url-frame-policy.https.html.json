@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"allow attribute(container policy) can enable feature on javascript generated document","status":"PASS"},{"name":"allow attribute(container policy) can disable feature on javascript generated document","status":"PASS"}]}
