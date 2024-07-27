@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Tests to check that deviceorientation events are not fired when the page is not visible.","status":"FAIL"}]}
