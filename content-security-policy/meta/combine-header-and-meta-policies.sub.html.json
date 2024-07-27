@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Expecting logs: [\"TEST COMPLETE\", \"violated-directive=img-src\", \"violated-directive=style-src-elem\"]","status":"FAIL"},{"name":"combine-header-and-meta-policies","status":"PASS"}]}

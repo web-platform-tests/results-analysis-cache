@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Notification.requestPermission must be called from a secure context","status":"FAIL"},{"name":"Notification.permission must be called from a secure context","status":"FAIL"}]}
