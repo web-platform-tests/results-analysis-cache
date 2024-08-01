@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check that baseURI fires a securitypolicyviolation event when it does not match the csp directive","status":"PASS"},{"name":"Check that the baseURI is not set when it does not match the csp directive","status":"PASS"}]}
