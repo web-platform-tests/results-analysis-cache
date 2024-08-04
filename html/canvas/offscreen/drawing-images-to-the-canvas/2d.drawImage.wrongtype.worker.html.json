@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Incorrect image types in drawImage do not match any defined overloads, so WebIDL throws a TypeError","status":"FAIL"}]}
