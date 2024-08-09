@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"dynamic import should work when triggered from inline event handlers","status":"PASS"}]}
