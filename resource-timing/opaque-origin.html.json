@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"An opaque origin should be authorized to see resource timings when theTAO header is the string 'null'","status":"FAIL"},{"name":"An opaque origin must not be authorized to see resource timings when the TAO header is the string 'Null'. (The check for 'null' must be case-sensitive)","status":"FAIL"}]}
