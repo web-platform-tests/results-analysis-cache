@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"scroller prefers target aligned in both axes.","status":"TIMEOUT"},{"name":"scroller follows selected snap target after layout shift, regardless of common snap area.","status":"NOTRUN"}]}
