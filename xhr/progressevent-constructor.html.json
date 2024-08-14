@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Default event values.","status":"PASS"},{"name":"There must not be a initProgressEvent().","status":"PASS"},{"name":"Basic test.","status":"PASS"},{"name":"ECMAScript value conversion test.","status":"PASS"},{"name":"ProgressEventInit members must be matched case-sensitively.","status":"PASS"}]}
