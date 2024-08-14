@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The scrolldelay attribute is a string","status":"FAIL"},{"name":"The scrolldelay attribute is a negative","status":"FAIL"},{"name":"The scrolldelay attribute is less than 60","status":"FAIL"},{"name":"The scrolldelay attribute is greater than 60","status":"FAIL"}]}
