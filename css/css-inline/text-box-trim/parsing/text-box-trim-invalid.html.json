@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"e.style['text-box-trim'] = \"trim-start trim-end\" should not set the property value","status":"PASS"}]}
