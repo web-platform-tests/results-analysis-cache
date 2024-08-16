@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Inline style attribute should not be applied without 'unsafe-inline'","status":"FAIL"},{"name":"Should fire a securitypolicyviolation event","status":"NOTRUN"}]}
