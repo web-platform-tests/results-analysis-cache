@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"ORB should block opaque-response-blocklisted MIME type with status 206: fetch(..., {mode: \"no-cors\"})","status":"FAIL"},{"name":"ORB should block opaque response with non-ok status: fetch(..., {mode: \"no-cors\"})","status":"FAIL"}]}
