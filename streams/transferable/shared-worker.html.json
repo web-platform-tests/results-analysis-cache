@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"worker.postMessage should be able to transfer a ReadableStream","status":"FAIL"},{"name":"postMessage in a worker should be able to transfer a ReadableStream","status":"FAIL"}]}
