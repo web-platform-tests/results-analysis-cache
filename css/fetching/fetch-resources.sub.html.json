@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Background images should fetch with no-cors","status":"PASS"},{"name":"Shape images should fetched with cors","status":"PASS"},{"name":"WebFonts should be fetched with cors","status":"PASS"},{"name":"CSS imports should be fetched without cors","status":"PASS"}]}
