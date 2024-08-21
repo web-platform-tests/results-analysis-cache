@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Injected style attributes should not be applied","status":"FAIL"},{"name":"Should fire a securitypolicyviolation event","status":"NOTRUN"}]}

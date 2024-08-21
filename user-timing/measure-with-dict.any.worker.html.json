@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"measure entries' detail and start/end are customizable","status":"FAIL"},{"name":"measure should throw a TypeError when passed an invalid argument combination","status":"FAIL"}]}
