@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"support for appearance","status":"PASS"},{"name":"initial value for appearance","status":"PASS"},{"name":"support for -webkit-appearance","status":"PASS"},{"name":"initial value for -webkit-appearance","status":"PASS"}]}
