@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Non-modal dialog should let parent visibility inherit","status":"FAIL"},{"name":"Modal dialog should have visibility: visible by default in UA sheet","status":"FAIL"},{"name":"Modal dialog visibility should be overridable","status":"FAIL"}]}
