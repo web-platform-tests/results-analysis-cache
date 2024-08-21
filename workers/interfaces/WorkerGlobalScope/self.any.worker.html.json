@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"self === self","status":"PASS"},{"name":"self instanceof WorkerGlobalScope","status":"PASS"},{"name":"'self' in self","status":"PASS"},{"name":"self = 1","status":"PASS"}]}
