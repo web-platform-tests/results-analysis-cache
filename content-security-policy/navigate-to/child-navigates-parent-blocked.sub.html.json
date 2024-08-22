@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that the child can't navigate the parent because the relevant policy belongs to the navigation initiator (in this case the child which has the policy `navigate-to 'none'`)","status":"PASS"},{"name":"Violation report status OK.","status":"PASS"}]}
