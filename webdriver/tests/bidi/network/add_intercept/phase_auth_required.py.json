@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_basic_authentication","status":"PASS"},{"name":"test_no_authentication","status":"PASS"}]}
