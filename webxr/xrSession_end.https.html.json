@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"end event fires when immersive session ends - webgl","status":"PASS"},{"name":"end event fires when immersive session ends - webgl2","status":"PASS"},{"name":"end event fires when non-immersive session ends - webgl","status":"PASS"},{"name":"end event fires when non-immersive session ends - webgl2","status":"PASS"}]}
