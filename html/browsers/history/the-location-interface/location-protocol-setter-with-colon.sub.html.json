@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"General setup","status":"PASS"},{"name":"Set location.protocol = location.protocol","status":"PASS"},{"name":"Set location.protocol to http:gunk","status":"PASS"}]}
