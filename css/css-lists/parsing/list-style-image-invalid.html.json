@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['list-style-image'] = \"auto\" should not set the property value","status":"PASS"},{"name":"e.style['list-style-image'] = \"url(\\\"https://example.com/\\\") none\" should not set the property value","status":"PASS"}]}
