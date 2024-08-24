@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that the text fragment directive requires a user activation when invoked by clicking a link in the same or a new tab","status":"FAIL"}]}

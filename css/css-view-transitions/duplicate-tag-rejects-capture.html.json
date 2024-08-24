@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Two different elements with the same name in the old DOM should skip the transition","status":"FAIL"}]}
