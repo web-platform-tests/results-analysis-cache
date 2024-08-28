@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"replaceState should be able to set the location state","status":"PASS"},{"name":"replaced location should be reflected immediately","status":"PASS"},{"name":"replaced location should be retained after the page has loaded","status":"PASS"}]}
