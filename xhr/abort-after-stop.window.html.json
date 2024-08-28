@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XMLHttpRequest: abort event should fire when stop() method is used","status":"PASS"}]}
