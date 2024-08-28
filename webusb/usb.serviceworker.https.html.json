@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Ensure that WebUSB is inaccessible from a service worker.","status":"PASS"},{"name":"Service workers should not have access to the WebUSB API.","status":"PASS"}]}
