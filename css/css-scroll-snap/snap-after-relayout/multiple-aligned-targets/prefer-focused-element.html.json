@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"scroller selects focused target from aligned choices on snap","status":"TIMEOUT"},{"name":"out-of-viewport focused element is not the selected snap target.","status":"NOTRUN"},{"name":"scroller follows selected snap target through layout shift,regardless of focus","status":"NOTRUN"}]}
