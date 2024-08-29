@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Trailing declarations","status":"FAIL"},{"name":"Mixed declarations","status":"FAIL"},{"name":"CSSNestedDeclarations.style","status":"FAIL"},{"name":"Nested group rule","status":"FAIL"},{"name":"Nested @scope rule","status":"FAIL"},{"name":"Inner rule starting with an ident","status":"FAIL"}]}
