@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"If an insecure iframe request is upgraded to https to be same-origin, referrer policies that consider same-origin-ness should be applied correctly","status":"TIMEOUT"}]}
