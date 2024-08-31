@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"<input> has a form owner","status":"PASS"},{"name":"<img> has a form owner","status":"PASS"},{"name":"<div> doesn't have a form owner","status":"PASS"},{"name":"form-associated <x-foo> has a form owner","status":"PASS"}]}
