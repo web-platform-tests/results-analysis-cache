@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The box should be 400px since that is the size of the content","status":"PASS"},{"name":"The first cell is 200px due to its 50% specified width is greater than ","status":"PASS"},{"name":"The second cell is 200px due to the 50% set on the first cell and the second gets distributed the remaining space since its auto","status":"PASS"}]}
