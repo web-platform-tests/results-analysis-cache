@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"audio events - readyState property during canplay","status":"PASS"},{"name":"audio.readyState should be >= HAVE_FUTURE_DATA during canplay event","status":"NOTRUN"},{"name":"video events - readyState property during canplay","status":"PASS"},{"name":"video.readyState should be >= HAVE_FUTURE_DATA during canplay event","status":"NOTRUN"}]}
