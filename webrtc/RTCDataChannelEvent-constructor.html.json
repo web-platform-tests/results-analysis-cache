@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"RTCDataChannelEvent constructor without a required argument.","status":"PASS"},{"name":"RTCDataChannelEvent constructor with channel passed as null.","status":"PASS"},{"name":"RTCDataChannelEvent constructor with a channel passed as undefined.","status":"PASS"},{"name":"RTCDataChannelEvent constructor with full arguments.","status":"PASS"}]}
