@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Expecting alerts: [\"PASS (1/2)\",\"PASS (2/2)\", \"violated-directive=script-src-elem\"]","status":"TIMEOUT"}]}
