@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Missing property values in the last keyframe are correctly interpolated from a neutral keyframe value","status":"FAIL"}]}
