@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that notifyEvent consumes user activation.","status":"FAIL"},{"name":"Test that popup navigation on click prevents notifyEvent() from firing.","status":"FAIL"}]}
