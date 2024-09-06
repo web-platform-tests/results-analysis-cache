@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"WebXR InputSource's gamepad properly registers input - webgl","status":"PASS"},{"name":"WebXR InputSource's gamepad properly registers input - webgl2","status":"PASS"}]}
