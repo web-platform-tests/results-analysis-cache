@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"traverseTo() promise never settle when preventDefault()ing the navigate event (cross-document)","status":"FAIL"}]}
