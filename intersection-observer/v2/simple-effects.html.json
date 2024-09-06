@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IntersectionObserverV2 in a single document using the implicit root, with a non-zero opacity ancestor.","status":"PASS"},{"name":"First rAF.","status":"FAIL"},{"name":"effects.style.opacity = 0.99","status":"FAIL"},{"name":"effects.style.opacity = 1","status":"FAIL"},{"name":"effects.style.filter = grayscale(50%)","status":"FAIL"}]}
