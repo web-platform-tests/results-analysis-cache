@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The dialog element should support :open and :closed.","status":"FAIL"},{"name":"The details element should support :open and :closed.","status":"FAIL"},{"name":"The select element should support :open and :closed.","status":"FAIL"}]}
