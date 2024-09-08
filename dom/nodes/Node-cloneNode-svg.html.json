@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"cloned <svg> should have the right properties","status":"PASS"},{"name":"cloned <svg>'s xmlns:xlink attribute should have the right properties","status":"PASS"},{"name":"cloned <use> should have the right properties","status":"PASS"},{"name":"cloned <use>'s xlink:href attribute should have the right properties","status":"PASS"}]}
