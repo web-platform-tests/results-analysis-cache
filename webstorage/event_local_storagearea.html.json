@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"storageArea property test of local event - Local event is fired due to an invocation of the setItem() method.","status":"FAIL"}]}
