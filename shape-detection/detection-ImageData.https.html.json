@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Face - detect(ImageData)","status":"TIMEOUT"},{"name":"Barcode - detect(ImageData)","status":"NOTRUN"},{"name":"Text - detect(ImageData)","status":"NOTRUN"}]}
