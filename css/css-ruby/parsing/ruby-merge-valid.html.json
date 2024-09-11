@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['ruby-align'] = \"separate\" should set the property value","status":"FAIL"},{"name":"e.style['ruby-align'] = \"merge\" should set the property value","status":"FAIL"},{"name":"e.style['ruby-align'] = \"auto\" should set the property value","status":"FAIL"}]}
