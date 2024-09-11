@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Label applies to descendant custom element that uses shadowrootreferencetarget","status":"FAIL"},{"name":"Label applies to multiple layers of descendant custom elements that use shadowrootreferencetarget","status":"FAIL"}]}
