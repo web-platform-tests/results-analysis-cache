@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-origin dedicated worker allowed by 'self'.","status":"PASS"},{"name":"blob: dedicated worker allowed by 'blob:'.","status":"PASS"}]}
