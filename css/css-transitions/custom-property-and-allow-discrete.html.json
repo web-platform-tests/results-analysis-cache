@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"It is possible to transition an unregistered custom property using \"transition-behavior: allows-discrete\"","status":"FAIL"}]}
