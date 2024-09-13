@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Loading an iframe with src=redirecting URL","status":"PASS"},{"name":"Navigating an iframe to a redirecting URL","status":"PASS"},{"name":"Loading a popup directly to the redirecting URL","status":"PASS"},{"name":"Loading a popup that eventually goes to the redirecting URL","status":"TIMEOUT"}]}
