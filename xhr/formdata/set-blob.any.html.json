@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"blob without type","status":"FAIL"},{"name":"blob with type","status":"FAIL"},{"name":"blob with custom name","status":"FAIL"},{"name":"file without lastModified or custom name","status":"FAIL"},{"name":"file with lastModified and custom name","status":"FAIL"}]}
