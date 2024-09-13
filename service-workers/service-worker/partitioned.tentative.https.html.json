@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Services workers under different top-level sites are partitioned.","status":"PASS"},{"name":"Services workers with cross-site ancestors are partitioned.","status":"PASS"}]}
