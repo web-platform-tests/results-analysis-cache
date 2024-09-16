@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.outerWidth","status":"FAIL"},{"name":"window.outerHeight","status":"FAIL"},{"name":"window.outerWidth nested iframe","status":"FAIL"},{"name":"window.outerHeight nested iframe","status":"FAIL"}]}
