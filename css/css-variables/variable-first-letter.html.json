@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"color","status":"FAIL"},{"name":"font-size","status":"FAIL"},{"name":"font-weight","status":"FAIL"},{"name":"position","status":"PASS"},{"name":"nested color","status":"FAIL"},{"name":"abspos","status":"PASS"}]}
