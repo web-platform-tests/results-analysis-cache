@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Image resources should generate conformant entries","status":"FAIL"},{"name":"Font resources should generate conformant entries","status":"FAIL"},{"name":"Same-origin redirects should populate redirectStart/redirectEnd","status":"FAIL"}]}
