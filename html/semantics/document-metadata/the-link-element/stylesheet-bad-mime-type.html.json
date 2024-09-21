@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"'load' event does not fire at link@rel=stylesheet having non-empty resource with bad MIME type","status":"FAIL"},{"name":"'load' event does not fire at link@rel=stylesheet having empty resource with bad MIME type","status":"FAIL"}]}
