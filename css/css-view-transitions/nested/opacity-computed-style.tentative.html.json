@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Applied opacity should not be observable via getComputedStyle","status":"PASS"}]}
