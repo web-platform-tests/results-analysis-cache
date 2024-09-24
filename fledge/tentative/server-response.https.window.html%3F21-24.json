@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Basic B&A auction - negative bid is bad","status":"FAIL"},{"name":"Basic B&A auction - zero bid is bad","status":"FAIL"},{"name":"Basic B&A auction - winning group did not bid","status":"FAIL"},{"name":"Basic B&A auction - negative bidding group index","status":"FAIL"}]}
