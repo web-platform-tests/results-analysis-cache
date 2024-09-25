@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Feature-Policy header: autoplay * allows the top-level document.","status":"TIMEOUT"},{"name":"Feature-Policy header: autoplay * allows same-origin iframes.","status":"TIMEOUT"},{"name":"Feature-Policy header: autoplay * allows cross-origin iframes.","status":"PASS"}]}
