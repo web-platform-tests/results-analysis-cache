@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"entries() should not be leaked from cross-origin when navigating to about:blank","status":"PASS"}]}
