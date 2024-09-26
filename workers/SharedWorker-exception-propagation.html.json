@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Uncaught error in shared worker should not propagate to window","status":"TIMEOUT"}]}

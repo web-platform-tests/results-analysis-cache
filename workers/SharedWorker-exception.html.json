@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"This test checks whether exceptions in SharedWorkers are logged to the parent document. An exception should be logged to the error console.","status":"TIMEOUT"}]}
