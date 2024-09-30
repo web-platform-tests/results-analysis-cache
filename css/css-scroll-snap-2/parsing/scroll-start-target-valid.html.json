@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['scroll-start-target'] = \"none\" should set the property value","status":"FAIL"},{"name":"e.style['scroll-start-target'] = \"auto\" should set the property value","status":"FAIL"}]}
