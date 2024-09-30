@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Fetch in service worker: referrer with no-referrer policy","status":"PASS"},{"name":"Request's referrer is empty","status":"PASS"}]}
