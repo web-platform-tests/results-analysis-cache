@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test nested :is() chooses highest specificity for class outside :is().","status":"FAIL"},{"name":"Test nested :is() specificity for class within arguments.","status":"FAIL"}]}
