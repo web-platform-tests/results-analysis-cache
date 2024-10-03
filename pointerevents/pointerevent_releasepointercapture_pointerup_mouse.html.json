@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"target0.releasePointerCapture should not throw","status":"PASS"},{"name":"pointerup was received before lostpointercapture","status":"PASS"}]}
