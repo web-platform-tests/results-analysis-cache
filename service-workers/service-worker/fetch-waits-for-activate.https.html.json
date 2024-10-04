@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Navigation fetch events should wait for the activate event to complete.","status":"PASS"},{"name":"Subresource fetch events should wait for the activate event to complete.","status":"PASS"}]}
