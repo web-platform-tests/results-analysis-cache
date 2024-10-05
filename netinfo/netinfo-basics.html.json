@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"type attribute","status":"PASS"},{"name":"saveData attribute","status":"PASS"},{"name":"downlinkMax attribute","status":"PASS"},{"name":"effectiveType attribute","status":"PASS"},{"name":"rtt attribute","status":"PASS"},{"name":"downlink attribute","status":"PASS"}]}
