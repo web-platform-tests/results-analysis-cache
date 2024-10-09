@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Events fire even if the status object is garbage collected","status":"FAIL"}]}
