@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"When the focus is set on a focusable element that isn't a focusgroup item, an arrow key press shouldn't move the focus at all.","status":"PASS"}]}
