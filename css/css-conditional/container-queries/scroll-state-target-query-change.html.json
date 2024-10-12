@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initially snapped to #snapped, but scroll-state() is not queried","status":"FAIL"},{"name":"scroll-state(snapped) queried for #snapped after adding class to #target","status":"FAIL"}]}
