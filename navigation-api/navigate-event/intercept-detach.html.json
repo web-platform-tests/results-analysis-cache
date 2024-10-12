@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"event.intercept() throws if used on an event from a detached iframe","status":"PASS"}]}
