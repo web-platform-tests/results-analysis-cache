@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A longtask in a frame from window.open is not reported in original frame","status":"PASS"}]}
