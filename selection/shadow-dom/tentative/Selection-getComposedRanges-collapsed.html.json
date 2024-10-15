@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Setting the range to nodes that aren't in the same tree collapses both composed and non-composed ranges.","status":"FAIL"},{"name":"Setting the range to nodes in different shadow trees collapses ordinary ranges, but does not collapse composed ranges.","status":"FAIL"}]}
