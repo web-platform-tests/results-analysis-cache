@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"eval with plain string throws (both block).","status":"PASS"},{"name":"eval with TrustedScript throws (script-src blocks).","status":"PASS"}]}
