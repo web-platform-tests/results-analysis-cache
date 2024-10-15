@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Normalize spaces","status":"FAIL"},{"name":"No value - invalid, serializes as <general-enclosed>","status":"PASS"},{"name":"Boolean context","status":"FAIL"},{"name":"Logical with 'or'","status":"FAIL"},{"name":"Not a scroll-state function with space before '('","status":"PASS"}]}
