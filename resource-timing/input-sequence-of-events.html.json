@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"An image input element should receive its load event after the ResourceTiming entry is available","status":"PASS"}]}
