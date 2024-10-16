@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"The EventHandler is an element's event handler and has no form owner.","status":"FAIL"},{"name":"The EventHandler is an element's event handler and has a form owner.","status":"FAIL"},{"name":"The EventHandler is not an element's event handler (i.e. Window's event handler) and has no form owner.","status":"TIMEOUT"}]}
