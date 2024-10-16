@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.name should equal \"\" after a cross-origin main frame navigation","status":"FAIL"}]}
