@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document.open() should inform mutation observer of node removal","status":"PASS"}]}
