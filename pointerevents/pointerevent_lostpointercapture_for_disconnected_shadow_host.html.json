@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"lostpointercapture is dispatched on the document when shadow host is removed","status":"PASS"}]}
