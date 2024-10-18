@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Closing a FileSystemWritableFileStream that's modified the file produces a \"modified\" event","status":"PASS"},{"name":"All FileSystemWritableFileStream methods that aren't closed don't produce events","status":"PASS"}]}
