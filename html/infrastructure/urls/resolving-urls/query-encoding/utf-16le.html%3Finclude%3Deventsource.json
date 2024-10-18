@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"EventSource constructor","status":"FAIL"},{"name":"EventSource#url","status":"FAIL"}]}
