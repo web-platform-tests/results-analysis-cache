@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"noop scrollTo doesn't interrupt ongoing smooth scroll.","status":"PASS"},{"name":"noop scrollIntoView doesn't interrupt ongoing smooth scroll.","status":"PASS"}]}
