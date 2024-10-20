@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"default object size is 300x150","status":"FAIL"},{"name":"default height is half the width","status":"FAIL"},{"name":"default width is twice the height","status":"FAIL"},{"name":"default object size after src is removed","status":"TIMEOUT"},{"name":"default object size after poster is removed","status":"TIMEOUT"}]}
