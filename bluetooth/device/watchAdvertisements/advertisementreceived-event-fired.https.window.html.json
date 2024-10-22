@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"watchAdvertisements() enables 'advertisementreceived' events to be fired on the device object.","status":"FAIL"}]}
