@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"No replace before load, triggered by window.open() on a non-_self window","status":"TIMEOUT"}]}
