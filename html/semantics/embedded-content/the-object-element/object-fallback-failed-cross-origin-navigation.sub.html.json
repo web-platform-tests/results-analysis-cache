@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify fallback content for failed cross-origin navigations is shown correctly: http://www.not-web-platform.test:8000/foo.html","status":"FAIL"},{"name":"Verify fallback content for failed cross-origin navigations is shown correctly: http://nonexistent.not-web-platform.test:8000/foo.html","status":"FAIL"}]}
