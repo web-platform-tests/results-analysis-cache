@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"plaintext-only is an accepted attribute value for contenteditable","status":"FAIL"},{"name":"plaintext-only can be assigned to contenteditable dynamically","status":"FAIL"}]}
