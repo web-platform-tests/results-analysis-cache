@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verifies that form submissions cancel javascript navigations to prevent duplicate load events.","status":"FAIL"}]}
