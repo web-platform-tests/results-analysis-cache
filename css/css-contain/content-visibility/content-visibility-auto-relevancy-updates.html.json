@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Relevancy updated after changing proximity to the viewport.","status":"FAIL"},{"name":"Relevancy updated after being focused/unfocused.","status":"FAIL"},{"name":"Relevancy updated after being selected/unselected.","status":"FAIL"}]}
