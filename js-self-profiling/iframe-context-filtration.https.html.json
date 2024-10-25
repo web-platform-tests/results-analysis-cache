@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"wait for load event","status":"PASS"},{"name":"functions from child frame are not included in profile created by parent frame","status":"PASS"}]}
