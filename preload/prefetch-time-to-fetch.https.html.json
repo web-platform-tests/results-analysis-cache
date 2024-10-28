@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Changing a prefetch href should trigger a fetch","status":"PASS"},{"name":"Changing a prefetch crossorigin attribute should trigger a fetch","status":"PASS"}]}
