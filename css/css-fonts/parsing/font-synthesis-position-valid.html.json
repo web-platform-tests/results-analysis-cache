@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['font-synthesis-position'] = \"auto\" should set the property value","status":"FAIL"},{"name":"e.style['font-synthesis-position'] = \"none\" should set the property value","status":"FAIL"}]}
