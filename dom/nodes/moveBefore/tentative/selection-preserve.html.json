@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"moveBefore should not reset selection with preceding text","status":"FAIL"},{"name":"moveBefore should not reset selection with preceding and following text","status":"FAIL"}]}
