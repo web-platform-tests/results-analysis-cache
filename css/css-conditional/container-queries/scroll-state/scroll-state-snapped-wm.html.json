@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check scroll-state(snapped) matching for vertical writing-mode","status":"FAIL"},{"name":"Check scroll-state(snapped) matching dynamically changing to horizontal writing-mode","status":"FAIL"}]}
