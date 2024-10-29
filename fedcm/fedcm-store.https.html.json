@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.credentials.store() with an identity credential returns NotSupportedError","status":"FAIL"}]}
