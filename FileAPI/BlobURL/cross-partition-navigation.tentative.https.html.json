@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Blob URL navigation should enforce noopener for a cross-top-level-site navigation","status":"FAIL"}]}
