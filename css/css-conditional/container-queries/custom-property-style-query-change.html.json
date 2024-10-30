@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initially no queries match.","status":"PASS"},{"name":"Target child","status":"FAIL"},{"name":"Target grandchild","status":"FAIL"},{"name":"Initially no queries for registered property match.","status":"PASS"},{"name":"Registered property query child","status":"FAIL"},{"name":"Registered property query grandchild","status":"FAIL"}]}
