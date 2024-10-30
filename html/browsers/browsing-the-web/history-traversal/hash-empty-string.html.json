@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"URL has no hash","status":"PASS"},{"name":"changing the hash from an empty string to an empty string does not trigger a popstate event","status":"PASS"},{"name":"changing the hash from an empty string to an empty string does not trigger a hashchange event","status":"PASS"}]}

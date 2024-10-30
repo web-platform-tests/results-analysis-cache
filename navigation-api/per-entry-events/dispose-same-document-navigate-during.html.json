@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigate() during a same-document-navigation-initiated dispose works (since it's after the previous navigation)","status":"PASS"}]}
