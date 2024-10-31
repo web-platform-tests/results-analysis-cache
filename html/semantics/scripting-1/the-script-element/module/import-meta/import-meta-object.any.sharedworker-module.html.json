@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"import.meta is an object","status":"PASS"},{"name":"import.meta is extensible","status":"PASS"},{"name":"import.meta's properties are writable, configurable, and enumerable","status":"PASS"}]}
