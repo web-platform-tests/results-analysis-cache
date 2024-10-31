@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Removing the text control should not add selection range","status":"PASS"},{"name":"Removing the text control parent should not add selection range","status":"PASS"}]}
