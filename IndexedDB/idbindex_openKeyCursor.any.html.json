@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Throw DataError when using a invalid key","status":"FAIL"},{"name":"Throw InvalidStateError when the index is deleted","status":"FAIL"},{"name":"Throw TransactionInactiveError on aborted transaction","status":"FAIL"},{"name":"Throw InvalidStateError on index deleted by aborted upgrade","status":"FAIL"}]}
