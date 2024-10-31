@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Capabilities object has sorted keys and boolean values","status":"PASS"},{"name":"Capabilities keys are known","status":"FAIL"}]}
