@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Check scroll-state(snapped) matching for vertical writing-mode","status":"TIMEOUT"},{"name":"Check scroll-state(snapped) matching dynamically changing to horizontal writing-mode","status":"NOTRUN"}]}

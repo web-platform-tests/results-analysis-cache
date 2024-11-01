@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Initially snapped to #snapped1, scroll-state() styling #target1","status":"TIMEOUT"},{"name":"scroll-state(snapped) matching #snapped2 while scrolling","status":"NOTRUN"}]}
