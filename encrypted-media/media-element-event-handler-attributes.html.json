@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"onencrypted handler set from parser","status":"PASS"},{"name":"onencrypted handler set via setAttribute()","status":"PASS"},{"name":"onwaitingforkey handler set from parser","status":"PASS"},{"name":"onwaitingforkey handler set via setAttribute()","status":"PASS"}]}
