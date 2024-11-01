@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Below-viewport loading=lazy images do not block the window load event when scrolled into viewport","status":"FAIL"}]}
