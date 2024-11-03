@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"::before uses originating element's implicit anchor","status":"PASS"},{"name":"::after uses originating element's implicit anchor","status":"PASS"},{"name":"::backdrop uses originating element's implicit anchor","status":"PASS"}]}
