@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"audio events - play","status":"FAIL"},{"name":"video events - play","status":"PASS"},{"name":"calling play() on audio should trigger play event","status":"NOTRUN"},{"name":"calling play() on video should trigger play event","status":"PASS"}]}
