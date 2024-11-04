@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Starting history.length for window.open()","status":"FAIL"},{"name":"Starting history.length for window.open(about:blank)","status":"NOTRUN"},{"name":"Starting history.length for window.open(url-with-204-response)","status":"NOTRUN"}]}
