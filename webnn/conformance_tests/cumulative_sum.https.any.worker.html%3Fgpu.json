@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"cumulativeSum with float32 input and default options.","status":"FAIL"},{"name":"cumulativeSum with int32 input and axis = 2.","status":"FAIL"},{"name":"cumulativeSum with float32 input and set exclusive to true.","status":"FAIL"},{"name":"cumulativeSum with float32 input and set reversed to true.","status":"FAIL"}]}
