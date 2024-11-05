@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"scriptPercentScaleDown=80, scriptScriptPercentScaleDown=40","status":"FAIL"},{"name":"scriptPercentScaleDown=0, scriptScriptPercentScaleDown=40","status":"FAIL"},{"name":"scriptPercentScaleDown=80, scriptScriptPercentScaleDown=0","status":"FAIL"},{"name":"No MATH table","status":"FAIL"}]}
