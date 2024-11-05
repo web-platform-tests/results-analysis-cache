@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Page with <embed type=image/png src=/404.png>","status":"TIMEOUT"},{"name":"Page with <object type=image/png data=/404.png>","status":"NOTRUN"}]}
