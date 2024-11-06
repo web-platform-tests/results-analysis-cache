@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"It should accept the speculation rules when the main page has strict CSP.","status":"FAIL"}]}
