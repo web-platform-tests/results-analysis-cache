@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test getSupportedConstraints().eyeGazeCorrection","status":"PASS"},{"name":"Test getCapabilities().eyeGazeCorrection","status":"PASS"},{"name":"Test getSettings().eyeGazeCorrection","status":"PASS"},{"name":"Test applyConstraints() with eyeGazeCorrection","status":"PASS"}]}
