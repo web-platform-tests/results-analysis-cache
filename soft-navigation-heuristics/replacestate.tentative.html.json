@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Should not detect soft navigation with just replaceState","status":"PASS"}]}
