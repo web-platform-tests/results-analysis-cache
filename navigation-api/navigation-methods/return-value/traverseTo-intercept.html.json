@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"traverseTo() and intercept() with a fulfilled promise","status":"FAIL"}]}
