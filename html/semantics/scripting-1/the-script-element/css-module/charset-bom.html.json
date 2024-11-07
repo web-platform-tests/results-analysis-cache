@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"UTF-8 BOM should be stripped when decoding JSON module script","status":"PASS"},{"name":"UTF-16BE BOM should be ignored, so CSS module should be UTF-8 decoded","status":"PASS"},{"name":"UTF-16LE BOM should be ignored, so CSS module should be UTF-8 decoded","status":"PASS"}]}
