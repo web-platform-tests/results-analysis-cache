@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Clear-Site-Data must fail pending subresource fetch events.","status":"FAIL"}]}
