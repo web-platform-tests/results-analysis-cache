@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"transitionend should not be fired if the element is made display:none during the transition","status":"TIMEOUT"}]}
