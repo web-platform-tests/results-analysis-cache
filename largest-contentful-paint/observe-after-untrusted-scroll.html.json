@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Same-origin image after a JS initiated scroll event is observable.","status":"TIMEOUT"}]}
