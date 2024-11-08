@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Alignment of the base on the baseline","status":"FAIL"},{"name":"Dimensions of the scripted elements","status":"FAIL"},{"name":"Vertical positions of scripts","status":"FAIL"},{"name":"Horizontal alignment of scripts","status":"FAIL"},{"name":"Horizontal positions of scripts","status":"FAIL"}]}
