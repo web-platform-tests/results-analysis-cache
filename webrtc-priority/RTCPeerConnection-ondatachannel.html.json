@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"In-band negotiated channel created on remote peer should match the same configuration as local peer","status":"PASS"},{"name":"In-band negotiated channel created on remote peer should match the same (default) configuration as local peer","status":"PASS"}]}
