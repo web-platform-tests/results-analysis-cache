@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getContext('2d') returns objects which share canvas state","status":"FAIL"}]}
