@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test getSupportedConstraints().eyeGazeCorrection","status":"PRECONDITION_FAILED"},{"name":"Test getCapabilities().eyeGazeCorrection","status":"TIMEOUT"},{"name":"Test getSettings().eyeGazeCorrection","status":"NOTRUN"},{"name":"Test applyConstraints() with eyeGazeCorrection","status":"NOTRUN"}]}

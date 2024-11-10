@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"InterestEvent dispatches on area focus","status":"FAIL"},{"name":"InterestEvent dispatches on area hover","status":"TIMEOUT"}]}

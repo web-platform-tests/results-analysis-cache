@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"InterestEvent dispatches on svg a focus","status":"FAIL"},{"name":"InterestEvent dispatches on svg a hover","status":"TIMEOUT"}]}
