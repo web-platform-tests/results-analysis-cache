@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"location.reload() of empty iframe.","status":"FAIL"},{"name":"location.reload() of blob URL iframe.","status":"FAIL"},{"name":"location.reload() of srcdoc iframe.","status":"FAIL"}]}
