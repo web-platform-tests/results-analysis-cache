@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Selection in contenteditable shouldn't be reinitialized when changing designMode","status":"PASS"}]}
