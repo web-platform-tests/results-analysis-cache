@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"insecure context should not receive an object for secure contexts only","status":"TIMEOUT"}]}
