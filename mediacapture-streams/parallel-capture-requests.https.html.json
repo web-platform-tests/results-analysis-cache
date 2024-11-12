@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getDisplayMedia() and parallel getUserMedia()","status":"FAIL"},{"name":"getUserMedia() and parallel getDisplayMedia()","status":"FAIL"}]}
