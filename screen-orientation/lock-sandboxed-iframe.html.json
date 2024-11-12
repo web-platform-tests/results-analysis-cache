@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test without 'allow-orientation-lock' sandboxing directive","status":"TIMEOUT"},{"name":"Test with 'allow-orientation-lock' sandboxing directive","status":"NOTRUN"}]}
