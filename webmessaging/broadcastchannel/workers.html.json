@@ -1,0 +1,1 @@
+{"status":"CRASH","subtests":[{"name":"BroadcastChannel works in shared workers","status":"FAIL"},{"name":"BroadcastChannel works in workers","status":"PASS"}]}
