@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"perBuyerCumulativeTimeouts nullability 2","status":"FAIL"},{"name":"perBuyerCurrencies nullability","status":"FAIL"},{"name":"perBuyerCurrencies nullability 2","status":"FAIL"}]}
