@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"lostpointercapture event received","status":"PASS"},{"name":"Lostpointercapture fires on document when target is removed","status":"PASS"},{"name":"lostpointercapture must be received before the next pointerevent after the node is disconnected","status":"FAIL"},{"name":"lostpointercapture is dispatched on the document","status":"PASS"}]}
