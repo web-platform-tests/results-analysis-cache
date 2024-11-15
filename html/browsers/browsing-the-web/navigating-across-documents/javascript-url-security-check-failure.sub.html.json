@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"cross-origin, setting src","status":"PASS"},{"name":"cross-origin, setting location.href","status":"FAIL"},{"name":"cross-origin-domain but same-origin, setting src","status":"PASS"},{"name":"cross-origin-domain but same-origin, setting location.href","status":"FAIL"}]}
