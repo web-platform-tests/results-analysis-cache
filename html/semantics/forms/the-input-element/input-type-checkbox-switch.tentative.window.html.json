@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"switch IDL attribute, setter","status":"FAIL"},{"name":"switch IDL attribute, getter","status":"FAIL"}]}
