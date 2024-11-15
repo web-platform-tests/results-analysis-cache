@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify registration attributes on ServiceWorkerGlobalScope","status":"PASS"},{"name":"Verify registration attributes on ServiceWorkerGlobalScope of the newer worker","status":"PASS"}]}
