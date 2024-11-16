@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Hit test within unscaled box","status":"PASS"},{"name":"Hit test intersecting scaled box","status":"FAIL"}]}
