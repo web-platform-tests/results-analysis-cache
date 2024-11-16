@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"In-viewport loading=lazy iframe does not block the load event","status":"NOTRUN"},{"name":"In-viewport loading=lazy visibility:hidden iframe does not block the load event","status":"NOTRUN"}]}
