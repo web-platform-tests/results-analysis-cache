@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"cross-origin subresource redirect with Feature Policy delegation got client hints according to expectations.","status":"FAIL"}]}
