@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document.open() do not make the callee's origin to alias the caller's one","status":"PASS"}]}
