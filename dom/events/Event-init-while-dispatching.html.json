@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Calling initKeyboardEvent while dispatching.","status":"FAIL"},{"name":"Calling initMouseEvent while dispatching.","status":"FAIL"},{"name":"Calling initCustomEvent while dispatching.","status":"FAIL"},{"name":"Calling initUIEvent while dispatching.","status":"FAIL"},{"name":"Calling initEvent while dispatching.","status":"FAIL"}]}
