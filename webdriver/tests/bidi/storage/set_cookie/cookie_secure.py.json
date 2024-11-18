@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_cookie_secure[True]","status":"PASS"},{"name":"test_cookie_secure[False]","status":"PASS"},{"name":"test_cookie_secure[None]","status":"PASS"}]}
