@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Accelerometer is not exposed in an insecure context.","status":"PASS"},{"name":"GravitySensor is not exposed in an insecure context.","status":"PASS"},{"name":"LinearAccelerationSensor is not exposed in an insecure context.","status":"PASS"}]}
