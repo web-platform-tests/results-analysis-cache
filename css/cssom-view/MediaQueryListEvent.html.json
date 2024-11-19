@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"type can be different from \"change\"","status":"PASS"},{"name":"init dictionary default values","status":"PASS"},{"name":"init dictionary overrides","status":"PASS"},{"name":"argument of addListener","status":"PASS"},{"name":"argument of onchange","status":"PASS"},{"name":"constructor of \"change\" event","status":"PASS"}]}
