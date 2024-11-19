@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"opener:coi, openee:basic, sw:basic","status":"TIMEOUT"},{"name":"opener:coi, openee:basic, sw:coi","status":"NOTRUN"},{"name":"opener:coi, openee:coi, sw:basic","status":"NOTRUN"},{"name":"opener:coi, openee:coi, sw:coi","status":"NOTRUN"}]}
