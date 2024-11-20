@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The & selector matches the scoping root","status":"FAIL"},{"name":"The & selector behaves like :scope","status":"FAIL"}]}
