@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Mutating the style declaration doesn't remove the style attribute","status":"PASS"}]}
