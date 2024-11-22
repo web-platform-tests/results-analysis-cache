@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"MessagePort still works after the page is restored from BFCache","status":"TIMEOUT"}]}
