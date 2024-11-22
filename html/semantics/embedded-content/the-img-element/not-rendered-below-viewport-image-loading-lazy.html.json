@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Below-viewport loading=lazy not-rendered images should never load, even when scrolled into view","status":"FAIL"}]}
