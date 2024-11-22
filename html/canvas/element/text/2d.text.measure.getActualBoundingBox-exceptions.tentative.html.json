@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check that TextMetrics::getActualBoundingBox() throws when using invalid indexes.","status":"FAIL"}]}
