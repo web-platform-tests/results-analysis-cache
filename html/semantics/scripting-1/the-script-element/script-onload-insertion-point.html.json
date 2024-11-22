@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that the insertion point is defined in the load event of a parser-inserted script.","status":"PASS"}]}
