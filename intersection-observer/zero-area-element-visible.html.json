@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Ensure that a zero-area target intersecting root generates a notification with intersectionRatio == 1","status":"TIMEOUT"}]}

@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Basic element fragment navigation","status":"PASS"},{"name":"Basic text directive navigation","status":"PASS"},{"name":"Basic element id fallback","status":"TIMEOUT"},{"name":"Malformed text directive element id fallback","status":"NOTRUN"}]}

@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"gotpointercapture event received","status":"NOTRUN"},{"name":"lostpointercapture event received","status":"NOTRUN"},{"name":"pointerover event for black rectangle received","status":"NOTRUN"},{"name":"pointerover event for purple rectangle received","status":"NOTRUN"}]}
