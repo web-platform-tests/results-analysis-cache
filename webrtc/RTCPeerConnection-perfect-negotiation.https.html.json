@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Perfect negotiation setup connects","status":"PASS"},{"name":"Perfect negotiation setup connects with roles reversed","status":"PASS"},{"name":"Perfect negotiation glare","status":"PASS"},{"name":"Perfect negotiation glare with roles reversed","status":"PASS"}]}
