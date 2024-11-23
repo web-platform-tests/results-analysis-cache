@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"cookieStore.get() in ServiceWorker reads cookie set in cross-origin frame","status":"TIMEOUT"}]}
