@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"When in the same layer, the last rule of each name wins","status":"PASS"},{"name":"When in different layers, the rule of each name in the highest layer wins","status":"PASS"}]}
