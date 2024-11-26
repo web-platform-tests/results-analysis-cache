@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Fetch from https-private port works.","status":"FAIL"},{"name":"Fetch from http-private port works.","status":"FAIL"},{"name":"Fetch from https-public port works.","status":"FAIL"},{"name":"Fetch from http-public port works.","status":"FAIL"},{"name":"Fetch from http-public to local http fails.","status":"TIMEOUT"}]}
