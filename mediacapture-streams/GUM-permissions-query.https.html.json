@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"camera is granted after getUserMedia, according to permissions.query()","status":"TIMEOUT"},{"name":"microphone is granted after getUserMedia, according to permissions.query()","status":"NOTRUN"}]}
