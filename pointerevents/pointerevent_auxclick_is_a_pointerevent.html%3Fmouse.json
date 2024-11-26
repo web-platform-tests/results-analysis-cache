@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"auxclick using mouse is a PointerEvent with correct properties","status":"PASS"},{"name":"auxclick using mouse is a PointerEvent with correct properties when no other PointerEvent listeners are present","status":"PASS"}]}
