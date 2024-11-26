@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"tests for navigator.userAgentData","status":"PASS"},{"name":"test NavigatorUAData.toJSON() output","status":"PASS"},{"name":"Arch should be one of two permitted values.","status":"PASS"}]}
