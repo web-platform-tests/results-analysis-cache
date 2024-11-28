@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CORB doesn't block a stylesheet that has a proper Content-Type and begins with a JSON parser breaker","status":"PASS"}]}
