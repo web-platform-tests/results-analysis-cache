@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Referrer Policy: iframes with javascript url reuse referrer policy","status":"FAIL"},{"name":"Referrer Policy: iframes with javascript url reuse referrer policy 1","status":"FAIL"}]}
