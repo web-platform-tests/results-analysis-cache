@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Make sure the page is ready for animation.","status":"TIMEOUT"},{"name":"Instant scrolling of an element with default scroll-behavior","status":"NOTRUN"},{"name":"Smooth scrolling of an element with default scroll-behavior","status":"NOTRUN"}]}
