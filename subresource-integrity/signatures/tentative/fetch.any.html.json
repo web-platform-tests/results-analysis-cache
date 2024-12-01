@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"No signature: loads.","status":"PASS"},{"name":"Valid signature: loads.","status":"PASS"},{"name":"Non-matching signature: blocked.","status":"FAIL"}]}
