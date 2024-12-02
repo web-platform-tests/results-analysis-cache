@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"scrollsnapchange bubbles when fired at the document (addEventListener).","status":"TIMEOUT"},{"name":"scrollsnapchange bubbles when fired at the document (onscrollsnapchange).","status":"NOTRUN"}]}
