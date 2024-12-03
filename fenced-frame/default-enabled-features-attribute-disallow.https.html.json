@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-origin fenced frame with allow attribute disabling required feature","status":"FAIL"},{"name":"Cross-origin fenced frame with allow attribute disabling required feature","status":"FAIL"}]}
