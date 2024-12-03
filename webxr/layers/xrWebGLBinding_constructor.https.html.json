@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Ensure that XRWebGLBinding's constructor throws appropriate errors using webgl","status":"FAIL"},{"name":"Ensure that XRWebGLBinding's constructor throws appropriate errors using webgl2","status":"FAIL"}]}
