@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test soft navigation when navigate event intecepts with { commit: 'after-transition' }","status":"FAIL"}]}
