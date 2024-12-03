@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Verify cross-site Partitioned Popins proxies only have access to postMessage and closed methods.","status":"TIMEOUT"}]}
