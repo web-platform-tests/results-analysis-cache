@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Trusted Type violation report-only: assign string to html","status":"PASS"},{"name":"Trusted Type violation report-only: assign string to script.src","status":"PASS"},{"name":"Trusted Type violation report-only: assign string to script content","status":"PASS"},{"name":"Trusted Type violation report: check report contents","status":"PASS"}]}
