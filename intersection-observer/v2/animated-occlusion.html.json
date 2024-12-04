@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IntersectionObserverV2 in a single document using the implicit root, with an animated occluding element.","status":"PASS"},{"name":"First rAF.","status":"PASS"}]}
