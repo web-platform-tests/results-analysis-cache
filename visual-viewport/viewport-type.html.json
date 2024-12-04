@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.visualViewport is an object","status":"PASS"},{"name":"window.visualViewport has type `VisualViewport`","status":"PASS"}]}
