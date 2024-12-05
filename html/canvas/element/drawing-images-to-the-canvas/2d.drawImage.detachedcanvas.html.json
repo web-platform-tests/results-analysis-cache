@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"drawImage with detached OffscreenCanvas as the source should throw exception","status":"PASS"}]}
