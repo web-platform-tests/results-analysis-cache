@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Empty <source> immediately sets media.networkState during DOM insertion, so that an earlier-running script can observe networkState","status":"PASS"}]}
