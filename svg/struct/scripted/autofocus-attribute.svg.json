@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"<a> should support autofocus","status":"PASS"},{"name":"Renderable element with tabindex should support autofocus","status":"PASS"},{"name":"Never-rendered element with tabindex should not support autofocus","status":"FAIL"}]}
