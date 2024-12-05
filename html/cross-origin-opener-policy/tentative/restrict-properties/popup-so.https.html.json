@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"SAME_ORIGIN popup with coop restrict-properties","status":"TIMEOUT"},{"name":"SAME_SITE popup with coop restrict-properties","status":"NOTRUN"},{"name":"CROSS_ORIGIN popup with coop restrict-properties","status":"NOTRUN"}]}
