@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Default value is \"auto\"","status":"PASS"},{"name":"It is writable","status":"PASS"},{"name":"Invalid values are ignored","status":"PASS"}]}
