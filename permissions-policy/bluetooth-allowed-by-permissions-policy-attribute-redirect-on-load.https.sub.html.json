@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"bluetooth-allowed-by-permissions-policy-attribute-redirect-on-load","status":"FAIL"},{"name":"permissions policy allow=\"bluetooth\" allows same-origin navigation in an iframe.","status":"PASS"},{"name":"permissions policy allow=\"bluetooth\" disallows cross-origin navigation in an iframe.","status":"PASS"}]}
