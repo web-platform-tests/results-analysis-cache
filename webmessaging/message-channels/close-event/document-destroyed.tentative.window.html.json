@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"The context is navigated to a new document and a close event is fired.","status":"TIMEOUT"},{"name":"The window is closed and a close event is fired.","status":"NOTRUN"},{"name":"The iframe is deleted and a close event is fired.","status":"NOTRUN"}]}
