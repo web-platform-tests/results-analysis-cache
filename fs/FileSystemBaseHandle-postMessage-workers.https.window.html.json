@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Send and receive messages using a dedicated worker.","status":"FAIL"},{"name":"Send and receive messages using a service worker.","status":"FAIL"}]}
