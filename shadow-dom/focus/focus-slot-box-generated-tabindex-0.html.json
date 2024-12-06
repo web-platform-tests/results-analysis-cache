@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"slot with tabindex=0 that generates a box should be focusable","status":"PASS"}]}
