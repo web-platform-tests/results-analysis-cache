@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"ResizeObserver implemented","status":"PASS"},{"name":"guard","status":"NOTRUN"},{"name":"test0: observe `foreignObject` SVG in HTML document","status":"FAIL"}]}
