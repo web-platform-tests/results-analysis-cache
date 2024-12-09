@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Getting property descriptor for key 9","status":"PASS"},{"name":"Setting property for key 9 with accessor property on prototype","status":"PASS"},{"name":"Getting property descriptor for key x","status":"PASS"},{"name":"Setting property for key x with accessor property on prototype","status":"PASS"}]}
