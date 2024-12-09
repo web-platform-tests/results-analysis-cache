@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Real time reporting buyer and seller same origin.","status":"FAIL"},{"name":"Real time reporting both winning and losing buyers opted-in.","status":"FAIL"},{"name":"Real time reporting one buyer opted-in but not the other.","status":"FAIL"}]}
