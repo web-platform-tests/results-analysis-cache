@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Posting to the push endpoint should fire push event on the service worker","status":"FAIL"},{"name":"Posting to the push endpoint with encrypted data should fire push event on the service worker","status":"FAIL"}]}
