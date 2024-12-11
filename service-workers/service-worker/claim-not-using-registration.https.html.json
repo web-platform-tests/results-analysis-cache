@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test claim client which is not using registration","status":"PASS"},{"name":"Test claim client when there's a longer-matched registration not already used by the page","status":"PASS"}]}
