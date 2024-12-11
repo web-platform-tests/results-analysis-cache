@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Call a constructor from iframe page and then destroy the iframe","status":"PASS"}]}
