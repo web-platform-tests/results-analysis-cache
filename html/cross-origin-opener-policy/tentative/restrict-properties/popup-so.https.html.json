@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SAME_ORIGIN popup with coop restrict-properties","status":"PASS"},{"name":"SAME_SITE popup with coop restrict-properties","status":"PASS"},{"name":"CROSS_ORIGIN popup with coop restrict-properties","status":"PASS"}]}
