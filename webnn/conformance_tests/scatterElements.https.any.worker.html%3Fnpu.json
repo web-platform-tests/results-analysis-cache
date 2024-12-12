@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Scatter elements along axis 0","status":"FAIL"},{"name":"Scatter elements along axis 0 and constant indices","status":"PASS"},{"name":"Scatter elements along axis 1","status":"FAIL"},{"name":"Scatter elements along axis 1 and constant indices","status":"PASS"}]}
