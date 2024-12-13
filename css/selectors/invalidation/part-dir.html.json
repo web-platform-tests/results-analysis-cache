@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"::part():dir() invalidation","status":"PASS"},{"name":"::part():dir() invalidation from setAttribute","status":"PASS"}]}
