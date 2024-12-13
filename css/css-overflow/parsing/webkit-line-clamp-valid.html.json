@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['-webkit-line-clamp'] = \"none\" should set the property value","status":"FAIL"},{"name":"e.style['-webkit-line-clamp'] = \"1\" should set the property value","status":"PASS"},{"name":"e.style['-webkit-line-clamp'] = \"6\" should set the property value","status":"PASS"}]}
