@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Dedicated worker delivers its own CSP","status":"FAIL"},{"name":"Shared worker delivers its own CSP","status":"PASS"}]}
