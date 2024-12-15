@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"scroll-snap-align: start","status":"PASS"},{"name":"scroll-snap-align: end","status":"FAIL"},{"name":"scroll-snap-align: center","status":"FAIL"}]}
