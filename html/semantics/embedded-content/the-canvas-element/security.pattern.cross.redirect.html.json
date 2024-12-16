@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Using an unclean pattern makes the target canvas origin-unclean, not the pattern canvas","status":"PASS"}]}
