@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that a soft navigation is not detected when a URL is not passed to the history API.","status":"PASS"}]}
