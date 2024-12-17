@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"self.reportError() dispatches an \"error\" event for this's relevant global object","status":"PASS"}]}
