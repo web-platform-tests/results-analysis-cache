@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Creating a FileSystemObserver from an unsupported global fails","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigate() with an unserializable state inside onbeforeunload \"DataCloneError\", not \"InvalidStateError\"","status":"FAIL"}]}
