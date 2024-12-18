@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"isPointInRange() test for collapsed selection","status":"PASS"},{"name":"isPointInRange() test for non-collapsed selection","status":"PASS"}]}
