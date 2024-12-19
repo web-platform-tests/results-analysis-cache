@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Main crossOriginIsolated case:","status":"FAIL"},{"name":"Missing HTTPS:","status":"PASS"},{"name":"Missing COOP:same-origin:","status":"TIMEOUT"},{"name":"Report-only:","status":"TIMEOUT"},{"name":"Report-only + enforced:","status":"FAIL"}]}
