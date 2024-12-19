@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"cursor.request from IDBObjectStore.openCursor","status":"PASS"},{"name":"cursor.request from IDBObjectStore.openKeyCursor","status":"PASS"},{"name":"cursor.request from IDBIndex.openCursor","status":"PASS"},{"name":"cursor.request from IDBIndex.openKeyCursor","status":"PASS"}]}
