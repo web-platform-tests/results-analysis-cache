@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"normalize-space() without arguments","status":"FAIL"},{"name":"normalize-space() should handle only #x20, #x9, #xD, and #xA","status":"FAIL"}]}
