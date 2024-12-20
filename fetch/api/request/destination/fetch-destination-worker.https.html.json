@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initialize global state","status":"PASS"},{"name":"DedicatedWorker fetches with a \"worker\" Request.destination","status":"PASS"},{"name":"SharedWorker fetches with a \"sharedworker\" Request.destination","status":"PASS"}]}
