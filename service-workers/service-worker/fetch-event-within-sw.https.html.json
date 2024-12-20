@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Service worker intercepts requests from window","status":"PASS"},{"name":"Service worker does not intercept fetch/cache requests within service worker","status":"PASS"}]}
