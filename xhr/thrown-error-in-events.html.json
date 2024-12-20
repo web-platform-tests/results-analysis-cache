@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"errors thrown in XMLHttpRequest's load event (using addEventListener) goes to window.onerror","status":"PASS"},{"name":"errors thrown in XMLHttpRequest's load event (using onload) goes to window.onerror","status":"PASS"}]}
