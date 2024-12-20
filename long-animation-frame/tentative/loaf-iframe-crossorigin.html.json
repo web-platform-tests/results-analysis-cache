@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A long busy wait in a REMOTE_ORIGIN iframe is not a long animation frame","status":"PASS"},{"name":"A long busy wait in a HTTP_NOTSAMESITE_ORIGIN iframe is not a long animation frame","status":"PASS"}]}
