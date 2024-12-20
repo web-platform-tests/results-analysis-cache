@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that imports of invalid WebAssembly modules leads to WebAssembly.CompileError on window.","status":"FAIL"}]}
