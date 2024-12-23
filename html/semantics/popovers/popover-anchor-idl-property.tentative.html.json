@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"popover anchorElement IDL property returns the anchor element","status":"FAIL"},{"name":"popover anchorElement is settable","status":"FAIL"},{"name":"anchorElement affects anchor positioning","status":"FAIL"}]}
