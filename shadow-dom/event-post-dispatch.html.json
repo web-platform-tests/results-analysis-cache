@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Event properties post dispatch without ShadowRoots (composed: true).","status":"FAIL"},{"name":"Event properties post dispatch without ShadowRoots (composed: false).","status":"FAIL"}]}
