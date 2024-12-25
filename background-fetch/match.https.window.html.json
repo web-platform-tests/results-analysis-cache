@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Matching to a single request should work","status":"FAIL"},{"name":"Matching to a non-existing request should work","status":"FAIL"},{"name":"Matching multiple times on the same request works as expected.","status":"FAIL"},{"name":"Access to active fetches is supported.","status":"FAIL"},{"name":"Match with query options.","status":"FAIL"}]}
