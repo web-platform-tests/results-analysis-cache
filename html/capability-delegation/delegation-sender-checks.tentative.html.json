@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Delegating an unsupported capability throws an exception","status":"PASS"},{"name":"Delegating to targetOrigin='*' throws an exception","status":"PASS"},{"name":"Delegating without user activation throws an exception","status":"PASS"}]}
