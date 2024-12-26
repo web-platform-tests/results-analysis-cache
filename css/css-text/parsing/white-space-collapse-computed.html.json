@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property white-space-collapse value 'collapse'","status":"FAIL"},{"name":"Property white-space-collapse value 'preserve'","status":"FAIL"},{"name":"Property white-space-collapse value 'preserve-breaks'","status":"FAIL"},{"name":"Property white-space-collapse value 'break-spaces'","status":"FAIL"}]}

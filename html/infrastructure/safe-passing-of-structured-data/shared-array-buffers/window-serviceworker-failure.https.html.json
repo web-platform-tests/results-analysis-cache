@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SharedArrayBuffer cannot cross agent clusters, service worker edition","status":"FAIL"}]}
