@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"biddingLogicURL request headers.","status":"FAIL"},{"name":"biddingLogicURL Set-Cookie.","status":"PASS"},{"name":"biddingLogicURL redirect.","status":"PASS"},{"name":"biddingWasmHelperURL request headers.","status":"FAIL"},{"name":"biddingWasmHelperURL Set-Cookie.","status":"PASS"}]}
