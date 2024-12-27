@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Adopting an Element called 'x<' should work.","status":"PASS"},{"name":"Adopting an Element called ':good:times:' should work.","status":"PASS"},{"name":"Explicitly adopting a DocumentType should work.","status":"PASS"},{"name":"Adopting a Document should throw.","status":"PASS"}]}
