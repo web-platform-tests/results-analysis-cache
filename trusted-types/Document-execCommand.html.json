@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Document.execCommand(\"insertHTML\") works as usual.","status":"PASS"},{"name":"Document.execCommand(\"paste\") works as usual.","status":"PASS"}]}
