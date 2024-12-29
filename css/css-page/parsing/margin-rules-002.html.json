@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"margin rule without any preceding @page properties","status":"PASS"},{"name":"margin rule followed by @page properties","status":"PASS"},{"name":"margin rule preceded by @page properties","status":"PASS"},{"name":"margin rules with @page properties between","status":"PASS"}]}
