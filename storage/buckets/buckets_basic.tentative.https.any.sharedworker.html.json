@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"keys() lists all stored bucket names alphabetically","status":"PASS"},{"name":"delete() removes stored bucket name","status":"PASS"},{"name":"delete() does nothing if bucket name does not exist","status":"PASS"}]}
