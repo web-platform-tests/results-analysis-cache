@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test font-variation-settings for duplicates using 'yyyy' 1, 'yyyy' 2","status":"PASS"},{"name":"Test font-variation-settings for child inheritance","status":"PASS"},{"name":"Test font-variation-settings for child override","status":"PASS"}]}
