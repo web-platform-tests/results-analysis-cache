@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"forEach()'s internal observer's next steps do not crash in a detached document","status":"FAIL"},{"name":"forEach()'s internal observer's next steps do not crash when visitor callback detaches the document","status":"FAIL"}]}
