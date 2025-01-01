@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"NOT invoking resource selection with pause() when networkState is not NETWORK_EMPTY","status":"PASS"}]}
