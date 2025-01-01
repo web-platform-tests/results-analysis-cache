@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Frame ignores paint-timing events fired from sibling frame.","status":"FAIL"}]}
