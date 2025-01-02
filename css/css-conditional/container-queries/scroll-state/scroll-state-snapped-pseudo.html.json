@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initially, snapped query does not match and ::before/::after do not apply","status":"FAIL"},{"name":"::before/::after depending on snapped query","status":"PASS"}]}
