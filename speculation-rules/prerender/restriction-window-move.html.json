@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"a prerendering page cannot move its window by executing moveTo.","status":"FAIL"},{"name":"a prerendering page cannot move its window by executing moveBy.","status":"FAIL"}]}
