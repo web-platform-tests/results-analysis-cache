@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Empty second line in #inner does not generate baseline for #span","status":"PASS"},{"name":"Empty second line in #inner does not generate baseline for #span with white-space: pre-line","status":"PASS"},{"name":"Empty second line in #inner does not generate baseline for #span with white-space: pre","status":"PASS"}]}
