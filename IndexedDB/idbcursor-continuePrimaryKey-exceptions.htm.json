@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IDBCursor continuePrimaryKey() on object store cursor","status":"FAIL"},{"name":"IDBCursor continuePrimaryKey() on \"nextunique\" cursor","status":"FAIL"},{"name":"IDBCursor continuePrimaryKey() on \"prevunique\" cursor","status":"FAIL"}]}
