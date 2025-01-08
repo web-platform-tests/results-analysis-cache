@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"970.1x250","status":"FAIL"},{"name":"970x250.1","status":"FAIL"},{"name":"971x250","status":"FAIL"},{"name":"970x251","status":"FAIL"},{"name":"0x100","status":"FAIL"},{"name":"100x0","status":"FAIL"},{"name":"MAXxMAX","status":"FAIL"},{"name":"INFINITYxINFINITY","status":"FAIL"}]}
