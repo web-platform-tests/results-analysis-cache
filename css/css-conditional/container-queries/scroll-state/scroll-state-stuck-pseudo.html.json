@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initially, stuck query does not match and ::before/::after do not apply","status":"FAIL"},{"name":"::before/::after depending on stuck query","status":"FAIL"}]}
