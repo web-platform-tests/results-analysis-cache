@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"An earlier-inserted script can upgrade a later-inserted custom element, whose upgrading is synchronously observable to the script, since DOM insertion has been completed by the time it runs","status":"FAIL"}]}
