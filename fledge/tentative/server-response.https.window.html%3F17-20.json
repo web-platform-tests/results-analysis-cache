@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Basic B&A auction - response marked as error, with bad message","status":"FAIL"},{"name":"Basic B&A auction - response marked as chaff","status":"FAIL"},{"name":"Basic B&A auction - response marked as non-chaff","status":"FAIL"},{"name":"Basic B&A auction - incorrectly includes topLevelSeller","status":"FAIL"}]}
