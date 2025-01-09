@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"If the index is deleted, throw InvalidStateError","status":"PASS"},{"name":"If the transaction has been aborted, throw TransactionInactiveError","status":"PASS"},{"name":"If the index is deleted by an aborted upgrade, throw InvalidStateError","status":"PASS"}]}
