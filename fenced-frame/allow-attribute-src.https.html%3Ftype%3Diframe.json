@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Src permissions policy in allow attribute.","status":"TIMEOUT"},{"name":"Src permissions policy after same-origin navigation.","status":"NOTRUN"},{"name":"Src permissions policy after cross-origin navigation.","status":"NOTRUN"},{"name":"Src permissions policy in child iframe inheritance works properly.","status":"NOTRUN"}]}
