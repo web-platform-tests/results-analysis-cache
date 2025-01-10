@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Moving <source> out of <picture> triggers a relevant mutation on sibling <img>","status":"FAIL"},{"name":"Moving <img> into a <picture> triggers a relevant mutation on the <img>, loading <source>","status":"FAIL"}]}
