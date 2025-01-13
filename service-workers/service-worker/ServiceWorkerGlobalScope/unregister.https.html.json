@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Unregister on script evaluation","status":"FAIL"},{"name":"Unregister on installing event","status":"FAIL"},{"name":"Unregister on activate event","status":"FAIL"},{"name":"Unregister controlling service worker","status":"FAIL"}]}
