@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"multiple calls to getDevices() resolves with the sameBluetoothDevice objects for each granted Bluetooth device.","status":"FAIL"}]}
