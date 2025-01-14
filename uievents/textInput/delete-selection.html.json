@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"textInput: delete selection, <input>","status":"PASS"},{"name":"textInput: delete selection, <textarea>","status":"PASS"},{"name":"textInput: delete selection, <div contenteditable=\"true\">","status":"FAIL"}]}
