@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"the access to the storage.persist() should be deferred until the prerendered\n    page is activated","status":"PASS"}]}
