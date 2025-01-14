@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"paymentManager should fail inside a fenced frame","status":"FAIL"},{"name":"paymentManager should fail from the service worker inside a fenced frame","status":"FAIL"}]}
