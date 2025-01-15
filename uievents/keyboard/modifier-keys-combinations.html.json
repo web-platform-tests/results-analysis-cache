@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check sending \"Shift + y\" key combination","status":"PASS"},{"name":"Check sending \"Control + y\" key combination","status":"FAIL"},{"name":"Check sending \"Alt + y\" key combination","status":"FAIL"},{"name":"Check sending \"Meta + y\" key combination","status":"FAIL"}]}
