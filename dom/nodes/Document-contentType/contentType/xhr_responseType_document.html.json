@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XHR - retrieve HTML document: document.contentType === 'application/xml'","status":"PASS"}]}
