@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-origin popup with structured coop unsafe-none","status":"FAIL"},{"name":"Same-origin popup with structured coop same-origin","status":"PASS"},{"name":"Same-origin popup with structured coop same-origin-allow-popups","status":"FAIL"}]}
