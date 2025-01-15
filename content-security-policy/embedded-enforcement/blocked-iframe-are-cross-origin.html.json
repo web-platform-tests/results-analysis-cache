@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Document blocked by embedded enforcement and its parent are cross-origin","status":"PASS"},{"name":"Two same-origin iframes must appear as cross-origin when one is blocked","status":"PASS"}]}
