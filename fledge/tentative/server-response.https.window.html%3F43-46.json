@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Hybrid B&A auction --- missing top-level seller","status":"FAIL"},{"name":"Hybrid B&A auction --- wrong top-level seller","status":"FAIL"},{"name":"Hybrid B&A auction --- no bid","status":"FAIL"},{"name":"Hybrid B&A auction --- currency check --- nothing configured","status":"FAIL"}]}
