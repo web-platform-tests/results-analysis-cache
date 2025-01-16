@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"IntersectionObserver with `implicit root` in a nested cross-origin iframe works","status":"TIMEOUT"}]}
