@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"can detect same-origin iframe events in parent","status":"FAIL"},{"name":"can detect same-origin iframe events in subframe","status":"FAIL"}]}
