@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SVGMarkerElement.orientType synchronization, setting orientType to 'auto'","status":"PASS"},{"name":"SVGMarkerElement.orientType synchronization, setting orientAngle using valueInSpecifiedUnits","status":"FAIL"}]}
