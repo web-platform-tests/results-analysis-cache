@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IntersectionObserverV2 in a single document using the implicit root, with an occluding element.","status":"PASS"},{"name":"First rAF.","status":"PASS"},{"name":"occluder.style.marginTop = '-10px'","status":"PASS"},{"name":"occluder.style.opacity = 0","status":"PASS"}]}
