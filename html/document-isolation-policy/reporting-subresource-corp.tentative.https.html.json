@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"[document] same-origin","status":"PASS"},{"name":"[document] blocked by CORP: same-origin","status":"PASS"},{"name":"[document] blocked due to DIP","status":"FAIL"},{"name":"[document] blocked during redirect","status":"FAIL"},{"name":"destination: script","status":"FAIL"}]}
