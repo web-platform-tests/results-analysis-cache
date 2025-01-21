@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"adoptNode on a shadow root in open mode must throw a HierarchyRequestError","status":"PASS"},{"name":"adoptNode on a shadow root in closed mode must throw a HierarchyRequestError","status":"PASS"}]}
