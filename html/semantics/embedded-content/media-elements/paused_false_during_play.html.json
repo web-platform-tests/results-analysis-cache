@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"audio events - paused property","status":"PASS"},{"name":"audio.paused should be false during play event","status":"PASS"},{"name":"video events - paused property","status":"PASS"},{"name":"video.paused should be false during play event","status":"PASS"}]}
