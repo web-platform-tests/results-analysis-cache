@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test basic User InFo API flow","status":"TIMEOUT"},{"name":"Test that User Info API only works when invoked from iframe that is same origin as the IDP","status":"NOTRUN"},{"name":"Test that User Info API does not work in the top frame","status":"NOTRUN"}]}
