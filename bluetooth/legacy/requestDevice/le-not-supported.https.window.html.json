@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Reject with NotFoundError if Bluetooth is not supported.","status":"FAIL"}]}
