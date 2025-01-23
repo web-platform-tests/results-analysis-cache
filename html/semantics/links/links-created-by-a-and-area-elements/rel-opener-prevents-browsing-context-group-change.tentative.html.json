@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"rel=opener prevents browsing context group change","status":"FAIL"},{"name":"opener window feature prevents browsing context group change","status":"TIMEOUT"}]}
