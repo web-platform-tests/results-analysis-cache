@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"subsequent watchAdvertisements() calls result in the second call resolving successfully.","status":"FAIL"}]}
