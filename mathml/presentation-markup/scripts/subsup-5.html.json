@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Alignment on the baseline with different and large script heights","status":"FAIL"},{"name":"Tall subscripts/superscripts are not placed too high/low","status":"FAIL"},{"name":"No collisions for tall subscripts and superscripts","status":"FAIL"}]}
