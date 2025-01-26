@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"word-wrap should be defined as an alias of overflow-wrap","status":"PASS"},{"name":"word-wrap is a legacy name alias for overflow-wrap","status":"PASS"}]}
