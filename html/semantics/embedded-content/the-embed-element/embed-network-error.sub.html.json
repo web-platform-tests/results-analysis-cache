@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"new embed: nonexistent host","status":"TIMEOUT"},{"name":"new embed: X-Frame-Options prevents embedding","status":"PASS"},{"name":"navigating an existing embed: nonexistent host","status":"TIMEOUT"},{"name":"navigating an existing embed: X-Frame-Options prevents embedding","status":"PASS"}]}
