@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"<a download> fires navigate, but not navigatesuccess or navigateerror when not intercepted by intercept()","status":"FAIL"}]}
