@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test point (103,136.875) is on the scrollbar","status":"PASS"},{"name":"Verifies that pointerup/down are fired correctly for corresponding mouse events on the scollbar.","status":"PASS"}]}
