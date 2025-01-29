@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"AuctionConfig.nonStandardField.","status":"FAIL"},{"name":"AuctionConfig.requestedSize not set.","status":"FAIL"},{"name":"AuctionConfig.requestedSize in pixels.","status":"FAIL"},{"name":"AuctionConfig.requestedSize in implicit pixels.","status":"FAIL"},{"name":"AuctionConfig.requestedSize in screen units.","status":"FAIL"}]}
