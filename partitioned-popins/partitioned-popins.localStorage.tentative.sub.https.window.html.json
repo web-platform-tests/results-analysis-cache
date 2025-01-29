@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify Partitioned Popins only have access to third-party localStorage","status":"PASS"}]}
