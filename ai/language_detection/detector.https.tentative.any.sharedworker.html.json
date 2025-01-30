@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Simple AILanguageDetector.detect() call","status":"TIMEOUT"},{"name":"AILanguageDetector.detect() call with an aborted signal.","status":"NOTRUN"}]}
