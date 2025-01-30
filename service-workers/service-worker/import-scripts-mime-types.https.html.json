@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Global setup","status":"FAIL"},{"name":"Fetch importScripts tests from service worker","status":"FAIL"}]}
