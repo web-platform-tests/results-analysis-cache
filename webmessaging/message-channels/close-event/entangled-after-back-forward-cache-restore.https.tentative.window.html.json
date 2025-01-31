@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"MessagePort still works after the page is restored from BFCache","status":"FAIL"}]}
