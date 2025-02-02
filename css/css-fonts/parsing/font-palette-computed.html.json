@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property font-palette value 'normal'","status":"FAIL"},{"name":"Property font-palette value 'light'","status":"FAIL"},{"name":"Property font-palette value 'dark'","status":"FAIL"},{"name":"Property font-palette value '--pitchfork'","status":"FAIL"}]}
