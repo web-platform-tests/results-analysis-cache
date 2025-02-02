@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"beforeunload and unload events do not fire after window.close() in script-uncloseable browsing context","status":"PASS"}]}
