@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"mspace layout in SVG foreignObject","status":"FAIL"},{"name":"mfrac layout in SVG foreignObject","status":"FAIL"}]}
