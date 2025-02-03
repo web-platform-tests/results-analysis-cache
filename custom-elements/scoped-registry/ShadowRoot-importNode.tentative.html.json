@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"ShadowRoot.importNode: an upgrade candidate from document","status":"PASS"},{"name":"ShadowRoot.importNode: a custom element from another shadow tree","status":"PASS"},{"name":"ShadowRoot.importNode: a template content from document","status":"PASS"}]}
