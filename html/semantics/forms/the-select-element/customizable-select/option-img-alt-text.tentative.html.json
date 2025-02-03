@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"option.label and option.text should include alt text of <img> elements.","status":"PASS"},{"name":"option.label and option.text should not have special logic for <svg> elements.","status":"PASS"}]}
