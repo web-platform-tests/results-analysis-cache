@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"\"h1#chapter1\" should be a valid selector","status":"PASS"},{"name":"\"#chapter1\" should be a valid selector","status":"PASS"},{"name":"\"*#z98y\" should be a valid selector","status":"PASS"}]}
