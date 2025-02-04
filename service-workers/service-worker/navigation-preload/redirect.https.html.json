@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Navigation Preload redirect response.","status":"PASS"},{"name":"Navigation Preload no-location redirect response.","status":"PASS"},{"name":"Navigation Preload no-location redirect response with body.","status":"PASS"},{"name":"Navigation Preload redirect to the same scope.","status":"PASS"}]}
