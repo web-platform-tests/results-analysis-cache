@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"assertion without credBlob","status":"FAIL"},{"name":"assertion with credBlob","status":"FAIL"}]}
