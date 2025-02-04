@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Removing the `src` content attribute does not 'prepare' the script","status":"PASS"}]}
