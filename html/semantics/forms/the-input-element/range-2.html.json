@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"range input value set to ''","status":"PASS"},{"name":"range input value set to an integer","status":"PASS"},{"name":"range input value equals 50","status":"PASS"},{"name":"range input value equals 100","status":"PASS"},{"name":"range input value equals 2","status":"PASS"}]}
