@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"[inert] { interactivity: inert }","status":"FAIL"},{"name":"[inert] { interactivity: inert } inherited","status":"FAIL"},{"name":"Author interactivity:auto overrides inherited UA [inert] { interactivity: inert }","status":"PASS"},{"name":"Author interactivity:auto overrides UA [inert] { interactivity: inert }","status":"PASS"}]}
