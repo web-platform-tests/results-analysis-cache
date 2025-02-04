@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Iframes should not report resource timing for non-handled mime-types (downloads)","status":"PASS"}]}
