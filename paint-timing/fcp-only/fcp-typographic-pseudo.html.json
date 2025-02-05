@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"First contentful paint fires only when some of the text is visible, considering ::first-letter.","status":"PASS"}]}
