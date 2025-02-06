@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-origin custom-header request, redirect to cross-origin fails after doing a non-successful preflight","status":"PASS"},{"name":"Same-origin custom-header request, redirect to cross-origin succeeds after doing a preflight","status":"PASS"}]}
