@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"overrideMimeType() is not reset by open(), basic","status":"FAIL"},{"name":"overrideMimeType() is not reset by open()","status":"FAIL"},{"name":"If charset is not overridden by overrideMimeType() the original continues to be used","status":"FAIL"},{"name":"Charset can be overridden by overrideMimeType() with a bogus charset","status":"FAIL"}]}
