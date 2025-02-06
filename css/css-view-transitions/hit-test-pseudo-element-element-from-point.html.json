@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Hit-testing view transition pseudo-elements should always return the document element","status":"FAIL"}]}
