@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check that scroll-state(scrollable) matches bottom before scroll","status":"FAIL"},{"name":"Check that scroll-state(scrollable) matches both top and bottom in a middle position","status":"FAIL"},{"name":"Check that scroll-state(scrollable) matches both top when scrolled to the end","status":"FAIL"}]}

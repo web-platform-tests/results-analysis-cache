@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check that scroll-state(snapped: block) matches on #target1 before scroll","status":"FAIL"},{"name":"Check that scroll-state(snapped: block) matches on #target2 after scroll","status":"FAIL"}]}
