@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Basic @supports","status":"FAIL"},{"name":"Basic @supports (false)","status":"PASS"},{"name":"Nested @supports","status":"FAIL"},{"name":"Nested @supports (false)","status":"FAIL"},{"name":"Inconsequential conditional","status":"PASS"},{"name":"@supports with locals","status":"FAIL"}]}
