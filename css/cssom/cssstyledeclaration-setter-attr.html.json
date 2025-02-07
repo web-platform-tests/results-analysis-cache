@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Setting an invalid property via the declaration setter doesn't create a declaration","status":"PASS"},{"name":"Setting an invalid value via the declaration setter doesn't create a declaration","status":"PASS"}]}
