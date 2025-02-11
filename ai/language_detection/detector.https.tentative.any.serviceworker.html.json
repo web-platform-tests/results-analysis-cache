@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Simple AILanguageDetector.detect() call","status":"FAIL"},{"name":"AILanguageDetectorFactory.create() call with an aborted signal.","status":"PASS"},{"name":"AILanguageDetector.detect() call with an aborted signal.","status":"FAIL"}]}
