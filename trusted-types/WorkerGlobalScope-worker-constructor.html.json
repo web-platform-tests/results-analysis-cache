@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Creating a Worker from a string should throw (dedicated worker scope)","status":"PASS"}]}
