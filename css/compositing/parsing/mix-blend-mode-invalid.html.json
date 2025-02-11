@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['mix-blend-mode'] = \"auto\" should not set the property value","status":"PASS"},{"name":"e.style['mix-blend-mode'] = \"normal luminosity\" should not set the property value","status":"PASS"},{"name":"e.style['mix-blend-mode'] = \"normal, luminosity\" should not set the property value","status":"PASS"}]}
