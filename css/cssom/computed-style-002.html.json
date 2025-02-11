@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check that a percent width in an iframe is resolved against iframe width for getComputedStyle.","status":"PASS"}]}
