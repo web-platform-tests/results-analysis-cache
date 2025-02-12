@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that FedCM accounts autogrant storage access.","status":"FAIL"},{"name":"Test that FedCM accounts do not autogrant storage access without permissions policy.","status":"PASS"},{"name":"Test that FedCM accounts do not autogrant storage access if preventSilentAccess is set.","status":"PASS"}]}
