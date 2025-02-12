@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['writing-mode'] = \"horizontal-tb\" should set the property value","status":"PASS"},{"name":"e.style['writing-mode'] = \"vertical-rl\" should set the property value","status":"PASS"},{"name":"e.style['writing-mode'] = \"vertical-lr\" should set the property value","status":"PASS"}]}
