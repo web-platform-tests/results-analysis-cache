@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"userBiddingSignals update overwrites everything in the field.","status":"FAIL"},{"name":"userBiddingSignals updated multi-type","status":"FAIL"},{"name":"userBiddingSignals updated to non object","status":"FAIL"},{"name":"userBiddingSignals updated to null","status":"FAIL"}]}
