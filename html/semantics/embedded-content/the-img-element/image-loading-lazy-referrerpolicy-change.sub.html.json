@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that when a deferred image is loaded, it uses the latest referrerpolicy","status":"PASS"}]}
