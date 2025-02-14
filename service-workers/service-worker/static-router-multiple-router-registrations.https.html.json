@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Main reosurce load matched with the service worker having multiple rules","status":"PASS"},{"name":"Resource load matched with the rule registered in the imported service worker","status":"PASS"}]}
