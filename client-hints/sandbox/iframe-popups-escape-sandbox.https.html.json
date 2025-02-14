@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"popup from sandboxed iframe with allow-popups-to-escape-sandbox flag does send client hint headers","status":"FAIL"}]}
