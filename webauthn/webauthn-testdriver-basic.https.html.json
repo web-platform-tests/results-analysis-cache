@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Set up the test environment","status":"PASS"},{"name":"Create a credential","status":"PASS"},{"name":"Get an assertion","status":"PASS"},{"name":"Clean up the test environment","status":"PASS"}]}
