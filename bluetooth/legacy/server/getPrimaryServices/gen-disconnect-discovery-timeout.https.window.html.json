@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Calls to getPrimaryServices when device disconnects and discovery times out should reject promise rather than get stuck.","status":"FAIL"}]}
