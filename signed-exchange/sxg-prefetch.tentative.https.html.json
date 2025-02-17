@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Prefetched signed exchange and certificate must not be fetched again.","status":"PASS"}]}
