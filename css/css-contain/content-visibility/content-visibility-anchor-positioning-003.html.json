@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CSS Content Visibility: auto still anchors even if the anchor and positioned element are both skipped by the same element","status":"PASS"}]}
