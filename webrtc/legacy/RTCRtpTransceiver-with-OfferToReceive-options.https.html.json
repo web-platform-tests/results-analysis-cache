@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"checkAddTransceiverWithStream","status":"FAIL"},{"name":"checkAddTransceiverWithOfferToReceiveAudio","status":"PASS"},{"name":"checkAddTransceiverWithOfferToReceiveVideo","status":"PASS"},{"name":"checkAddTransceiverWithOfferToReceiveBoth","status":"PASS"}]}
