@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"precondition","status":"PASS"},{"name":"Invalidation of sibling combinators in :not()","status":"PASS"}]}

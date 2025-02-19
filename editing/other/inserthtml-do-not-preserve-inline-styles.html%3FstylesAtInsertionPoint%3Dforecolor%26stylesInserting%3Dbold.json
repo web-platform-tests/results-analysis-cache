@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"insertHTML with \"<b>abc</b>\" into <font color=\"#0000FF\">[]def</font>","status":"FAIL"},{"name":"insertHTML with \"<b>def</b>\" into <font color=\"#0000FF\">abc[]</font>","status":"FAIL"},{"name":"insertHTML with \"<b>b</b>\" into <font color=\"#0000FF\">a[]c</font>","status":"FAIL"}]}
