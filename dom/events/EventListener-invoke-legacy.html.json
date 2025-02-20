@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Listener of transitionend","status":"PASS"},{"name":"Legacy listener of transitionend","status":"PASS"},{"name":"Listener of animationend","status":"PASS"},{"name":"Legacy listener of animationend","status":"PASS"},{"name":"Listener of animationstart","status":"PASS"},{"name":"Legacy listener of animationstart","status":"PASS"}]}
