@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Mediation silent fails if there is no returning account.","status":"TIMEOUT"},{"name":"Mediation silent succeeds when there is one returning account.","status":"NOTRUN"},{"name":"Mediation silent fails when there is more than one returning account.","status":"NOTRUN"}]}
