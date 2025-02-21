@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Automatic beacons will not send if the document does not opt in.","status":"FAIL"}]}
