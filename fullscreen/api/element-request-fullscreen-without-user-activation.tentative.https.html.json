@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Element#requestFullscreen() rejects without user activation by default","status":"PASS"},{"name":"Element#requestFullscreen() resolves without user activation with permission","status":"FAIL"}]}
