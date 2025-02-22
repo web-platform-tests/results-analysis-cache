@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"lineTo() with Infinity/NaN is ignored","status":"PASS"}]}
