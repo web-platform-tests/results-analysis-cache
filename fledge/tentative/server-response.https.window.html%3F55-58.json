@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Basic B&A auction - updateIfOlderThanMs","status":"FAIL"},{"name":"Basic B&A auction - winner with candidates","status":"FAIL"},{"name":"Basic B&A auction - winner with bad render hash","status":"FAIL"},{"name":"Basic B&A auction - winner with bad reporting hash","status":"FAIL"}]}
