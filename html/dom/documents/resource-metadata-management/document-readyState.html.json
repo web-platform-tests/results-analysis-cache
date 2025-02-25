@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"readyState equals 'complete' when the document has loaded","status":"PASS"},{"name":"readyState equals 'interactive' when the document is finished parsing","status":"PASS"},{"name":"readystatechange event is fired each time document.readyState changes","status":"PASS"}]}
