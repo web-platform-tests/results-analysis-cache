@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SameSite=None cookies are rejected unless the Secure attribute is set.","status":"PASS"}]}
