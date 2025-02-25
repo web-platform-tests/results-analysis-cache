@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"pause() a running animation","status":"TIMEOUT"},{"name":"pause() from idle","status":"NOTRUN"},{"name":"pause() from idle with a negative playbackRate","status":"NOTRUN"},{"name":"pause() from idle with a negative playbackRate and endless effect","status":"PASS"},{"name":"pause() on a finished animation","status":"NOTRUN"}]}
