@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_beforeunload[capabilities0-False]","status":"PASS"},{"name":"test_beforeunload[capabilities0-True]","status":"PASS"}]}
