@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"track CORS: Anonymous, not same-origin, no headers, redirects to not same-origin, with headers","status":"PASS"}]}
