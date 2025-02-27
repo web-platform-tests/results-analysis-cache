@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Validate pointer events track pointer movement without pointer capture.","status":"TIMEOUT"},{"name":"Test pointer capture.","status":"NOTRUN"}]}
