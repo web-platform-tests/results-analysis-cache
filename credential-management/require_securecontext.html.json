@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Credential Management must not be accessible in insecure contexts","status":"PASS"}]}
