@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A sandboxed iframe cannot navigate its sibling via its own navigation object by using back()","status":"FAIL"}]}
