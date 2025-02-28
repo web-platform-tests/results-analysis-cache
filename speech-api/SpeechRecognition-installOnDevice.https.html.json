@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"SpeechRecognition.installOnDevice resolves with a boolean value.","status":"PASS"},{"name":"SpeechRecognition.installOnDevice rejects in a detached context.","status":"TIMEOUT"}]}
