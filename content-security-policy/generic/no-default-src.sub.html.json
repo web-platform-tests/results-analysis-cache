@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Allows scripts from the same host.","status":"PASS"},{"name":"Violation report status OK.","status":"PASS"}]}
