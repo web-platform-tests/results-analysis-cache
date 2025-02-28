@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Script that requires integrity executes and does not generate a violation report.","status":"PASS"}]}
