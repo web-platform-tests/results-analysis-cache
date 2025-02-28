@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Parsing coop as a structured header 'string' item","status":"PASS"},{"name":"Parsing coop as a structured header 'byte sequence' item","status":"PASS"},{"name":"Parsing coop as a structured header 'boolean' item","status":"PASS"},{"name":"Parsing coop as a structured header 'integer or decimal' item","status":"PASS"}]}
