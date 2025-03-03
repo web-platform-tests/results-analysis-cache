@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Fetch from https-private port works.","status":"PASS"},{"name":"Fetch from http-private port works.","status":"PASS"},{"name":"Fetch from https-public port works.","status":"PASS"},{"name":"Fetch from http-public port works.","status":"PASS"},{"name":"Fetch from http-public to local http fails.","status":"FAIL"}]}
