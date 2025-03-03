@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"accept upon request_device_prompt_updated event","status":"TIMEOUT"},{"name":"cancel upon request_device_prompt_updated event","status":"NOTRUN"}]}
