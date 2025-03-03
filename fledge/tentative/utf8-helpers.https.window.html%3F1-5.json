@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"encodeUtf8 - basic","status":"FAIL"},{"name":"encodeUtf8 - mismatched surrogate gets replaced","status":"FAIL"},{"name":"encodeUtf8 - surrogate pair combined","status":"FAIL"},{"name":"encodeUtf8 - custom string conversion","status":"FAIL"},{"name":"encodeUtf8 - not enough arguments","status":"FAIL"}]}
