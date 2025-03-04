@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"input tensor is not modified: hardSwish","status":"PASS"},{"name":"input tensor is not modified: mul","status":"PASS"}]}
