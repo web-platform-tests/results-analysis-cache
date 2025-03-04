@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Register service worker","status":"FAIL"},{"name":"Verify dedicated worker gets messages if setting event listener early","status":"FAIL"},{"name":"Verify dedicated worker does not get all messages if not setting event listener early","status":"FAIL"}]}
