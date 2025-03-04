@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"request Picture-in-Picture consumes user gesture","status":"TIMEOUT"},{"name":"request Picture-in-Picture does not require user gesture if document.pictureInPictureElement is set","status":"NOTRUN"}]}
