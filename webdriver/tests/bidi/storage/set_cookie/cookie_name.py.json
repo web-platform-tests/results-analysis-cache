@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_cookie_name[]","status":"ERROR"},{"name":"test_cookie_name[cookie name with special symbols !@#$%&*()_+-{}[]|\\\\:\"'<>,.?/`~]","status":"ERROR"},{"name":"test_cookie_name[123cookie]","status":"ERROR"}]}
