@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"computed style on pseudo-element stays in sync with the DOM element","status":"PASS"}]}
