@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IntersectionObserver should only report intersection change after the target grows height and is scrolled.","status":"PASS"},{"name":"grow-height-and-scrolled","status":"PASS"},{"name":"grow-height-and-scrolled 1","status":"PASS"}]}
