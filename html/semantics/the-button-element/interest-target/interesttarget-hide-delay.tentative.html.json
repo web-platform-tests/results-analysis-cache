@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test the harness","status":"PASS"},{"name":"The interest-target-hide-delay causes interest to be lost after a delay","status":"PASS"},{"name":"hovering the interest target element keeps the invoker from losing interest","status":"PASS"},{"name":"moving hover between the invoker and the target prevents interest lost","status":"PASS"}]}
