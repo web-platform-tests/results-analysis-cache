@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['scroll-initial-target'] = \"none\" should set the property value","status":"PASS"},{"name":"e.style['scroll-initial-target'] = \"nearest\" should set the property value","status":"PASS"}]}
