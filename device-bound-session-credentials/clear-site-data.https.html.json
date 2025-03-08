@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"An session ended with Clear-Site-Data: 'cookies' does not refresh cookies","status":"FAIL"},{"name":"An session ended with Clear-Site-Data: 'storage' does not refresh cookies","status":"FAIL"}]}
