@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Basic B&A auction - fault inject at CBOR","status":"FAIL"},{"name":"Basic B&A auction - fault inject at gzip","status":"FAIL"},{"name":"Basic B&A auction - fault inject at framing","status":"FAIL"},{"name":"Basic B&A auction - fault inject at encryption","status":"FAIL"}]}
