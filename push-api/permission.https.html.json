@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Query \"push\" powerful feature","status":"NOTRUN"},{"name":"Granting permission should allow subscription","status":"NOTRUN"},{"name":"Denying permission should disallow subscription","status":"NOTRUN"}]}
