@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test sharedStorageWritable img request in sandboxed iframe with \"allow-same-origin\"","status":"PASS"},{"name":"test sharedStorageWritable img request in sandboxed iframe without \"allow-same-origin\"","status":"PASS"}]}
