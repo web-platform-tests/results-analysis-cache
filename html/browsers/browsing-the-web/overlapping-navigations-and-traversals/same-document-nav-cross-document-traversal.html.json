@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"fragment navigation then go(-2)","status":"PASS"},{"name":"pushState then go(-2)","status":"PASS"}]}
