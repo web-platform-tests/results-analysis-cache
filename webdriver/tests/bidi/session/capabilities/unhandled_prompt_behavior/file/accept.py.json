@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_string_accept[capabilities0]","status":"ERROR"},{"name":"test_string_accept_and_notify[capabilities0]","status":"ERROR"},{"name":"test_default_accept[capabilities0]","status":"ERROR"},{"name":"test_file_accept[capabilities0]","status":"ERROR"}]}
