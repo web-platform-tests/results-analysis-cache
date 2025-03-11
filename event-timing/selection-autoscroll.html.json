@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Event Timing: test that the events received in PerformanceObserver during an active text selection autoscroll does not have interaction id.","status":"FAIL"}]}
