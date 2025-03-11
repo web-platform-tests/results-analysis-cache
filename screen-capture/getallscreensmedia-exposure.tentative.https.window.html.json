@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"No CSP, no exposure.","status":"FAIL"},{"name":"Strict CSP + TT, exposure.","status":"FAIL"}]}
