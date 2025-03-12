@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['gap-rule-paint-order'] = \"row-over-column\" should set the property value","status":"FAIL"},{"name":"e.style['gap-rule-paint-order'] = \"column-over-row\" should set the property value","status":"FAIL"}]}
