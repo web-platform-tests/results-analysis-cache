@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The registration and refresh endpoints can be configured as absolute URLs","status":"FAIL"},{"name":"The registration and refresh endpoints can be configured as relative URLs with leading slash","status":"FAIL"},{"name":"The registration and refresh endpoints can be configured as relative URLs without leading slash","status":"FAIL"}]}
