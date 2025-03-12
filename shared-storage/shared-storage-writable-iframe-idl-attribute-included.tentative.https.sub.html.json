@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test <iframe sharedstoragewritable src=[url]></iframe> via JS for same origin iframe","status":"PASS"},{"name":"test <iframe sharedstoragewritable src=[url]></iframe> via JS for cross origin iframe","status":"PASS"}]}
