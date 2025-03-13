@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"encodeUtf8 - custom string conversion failure","status":"FAIL"},{"name":"decodeUtf8 - basic","status":"FAIL"},{"name":"decodeUtf8 - broken utf-8","status":"FAIL"},{"name":"decodeUtf8 - mismatched surrogate","status":"FAIL"},{"name":"decodeUtf8 - non-BMP character","status":"FAIL"}]}
