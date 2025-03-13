@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Automatic beacon in an ad component should send without data with a header opt-in.","status":"FAIL"}]}
