@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_string_dismiss[capabilities0]","status":"PASS"},{"name":"test_string_dismiss_and_notify[capabilities0]","status":"PASS"},{"name":"test_default_dismiss[capabilities0]","status":"PASS"},{"name":"test_file_dismiss[capabilities0]","status":"PASS"}]}
