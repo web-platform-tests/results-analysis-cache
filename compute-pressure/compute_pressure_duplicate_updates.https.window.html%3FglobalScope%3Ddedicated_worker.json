@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Changes that fail the \"should dispatch\" test are discarded.","status":"TIMEOUT"},{"name":"Updates should be received even when no changes when sampleInterval is set.","status":"NOTRUN"}]}
