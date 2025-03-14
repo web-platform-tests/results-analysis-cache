@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Basic B&A auction - loading winning component ads","status":"FAIL"},{"name":"Basic B&A auction --- beacon reporting","status":"FAIL"},{"name":"Basic B&A auction - invalid ad currency","status":"FAIL"},{"name":"Basic B&A auction - valid ad currency","status":"FAIL"}]}
