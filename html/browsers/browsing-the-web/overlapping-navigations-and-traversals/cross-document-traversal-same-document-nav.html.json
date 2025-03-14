@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"same-document traversals + fragment navigations","status":"PASS"},{"name":"same-document traversals + pushState()","status":"PASS"}]}
