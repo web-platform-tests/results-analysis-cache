@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Single item","status":"FAIL"},{"name":"Empty index","status":"FAIL"},{"name":"Get all records","status":"FAIL"},{"name":"Get all records with empty options","status":"FAIL"},{"name":"Get all records with large value","status":"FAIL"},{"name":"Count","status":"FAIL"}]}
