@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"The 'Sec-Shared-Storage-Writable' header cannot successfully be added directly via a JS fetch request with mode cors.","status":"TIMEOUT"},{"name":"The 'Sec-Shared-Storage-Writable' header cannot successfully be added directly via a JS fetch request with mode no-cors.","status":"NOTRUN"}]}
