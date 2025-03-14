@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-origin credentialless iframe can't request storage access","status":"PASS"},{"name":"Cross-origin credentialless iframe can't request storage access","status":"PASS"}]}
