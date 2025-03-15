@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The navigationPreload attribute must return service worker registration's NavigationPreloadManager object.","status":"PASS"}]}
