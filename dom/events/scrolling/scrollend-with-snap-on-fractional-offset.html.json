@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"snap to fractional offset fires scrollend exactly once.","status":"FAIL"}]}
