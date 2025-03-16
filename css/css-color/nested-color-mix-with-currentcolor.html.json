@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Nested color-mix function with inner currentColor should inherit unresolved","status":"FAIL"}]}
