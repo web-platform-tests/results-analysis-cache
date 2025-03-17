@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Starts rendering with --try","status":"PASS"},{"name":"No successful position, keep --try","status":"FAIL"},{"name":"No successful position, last successful invalidated by @position-try change","status":"PASS"}]}
