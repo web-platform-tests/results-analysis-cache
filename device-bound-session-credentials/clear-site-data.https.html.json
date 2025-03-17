@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"An session ended with Clear-Site-Data: 'cookies' does not refresh cookies","status":"TIMEOUT"},{"name":"An session ended with Clear-Site-Data: 'storage' does not refresh cookies","status":"NOTRUN"}]}
