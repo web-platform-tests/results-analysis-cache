@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that promise is rejected if accounts endpoint redirects","status":"PASS"},{"name":"Test that token endpoint does not follow redirects","status":"PASS"}]}
