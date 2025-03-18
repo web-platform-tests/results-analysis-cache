@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document.open()","status":"FAIL"},{"name":"other_document.open()","status":"FAIL"}]}
