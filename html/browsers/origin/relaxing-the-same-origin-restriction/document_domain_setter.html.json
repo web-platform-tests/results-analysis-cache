@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"failed setting of document.domain","status":"PASS"},{"name":"same-origin-domain iframe","status":"PASS"},{"name":"failed setting of document.domain for documents without browsing context","status":"PASS"}]}
