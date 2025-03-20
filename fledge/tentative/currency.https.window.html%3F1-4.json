@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Returning bid with invalid currency.","status":"FAIL"},{"name":"Returning bid with currency, configuration w/o currency.","status":"FAIL"},{"name":"Returning bid w/o currency, configuration w/currency.","status":"FAIL"},{"name":"Returning bid w/currency, configuration w/matching currency.","status":"FAIL"}]}
