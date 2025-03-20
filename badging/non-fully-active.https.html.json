@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"badging a non-fully active document should reject with InvalidStateError","status":"FAIL"}]}
