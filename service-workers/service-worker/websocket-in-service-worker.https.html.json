@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify WebSockets can be created in a Service Worker","status":"PASS"}]}
