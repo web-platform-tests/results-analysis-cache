@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document.querySelector(\":target\") must work when called in the window.load event","status":"PASS"}]}
