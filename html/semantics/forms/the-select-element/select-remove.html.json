@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"select.remove(n) should work","status":"PASS"},{"name":"select.options.remove(n) should work","status":"PASS"},{"name":"remove() should work on select elements.","status":"PASS"},{"name":"Element#remove() should work on select elements.","status":"PASS"}]}
