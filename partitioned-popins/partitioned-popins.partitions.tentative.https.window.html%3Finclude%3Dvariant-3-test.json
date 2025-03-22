@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify Partitioned Popins have access to the proper cookie/storage partitions - Same-site frame opens same-site popin.","status":"FAIL"}]}
