@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_content_attribute","status":"PASS"},{"name":"test_idl_attribute","status":"PASS"},{"name":"test_idl_attribute_element","status":"PASS"},{"name":"test_script_defining_property","status":"PASS"}]}
