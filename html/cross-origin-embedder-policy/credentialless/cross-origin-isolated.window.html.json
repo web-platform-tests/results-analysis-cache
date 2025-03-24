@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Main crossOriginIsolated case:","status":"FAIL"},{"name":"Missing HTTPS:","status":"PASS"},{"name":"Missing COOP:same-origin:","status":"PASS"},{"name":"Report-only:","status":"PASS"},{"name":"Report-only + enforced:","status":"FAIL"}]}
