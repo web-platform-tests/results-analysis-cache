@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['hyphens'] = \"none\" should set the property value","status":"FAIL"},{"name":"e.style['hyphens'] = \"manual\" should set the property value","status":"FAIL"},{"name":"e.style['hyphens'] = \"auto\" should set the property value","status":"FAIL"}]}
