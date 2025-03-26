@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Checking reported violations for setTimeout('unsafe') from DedicatedWorker","status":"PASS"}]}
