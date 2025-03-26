@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test that the promise is rejected with proper error details when dialog is dismissed","status":"TIMEOUT"},{"name":"Test that the promise is rejected with proper error details when got it is clicked","status":"NOTRUN"},{"name":"Test that the promise is rejected with proper error details when more details is clicked","status":"NOTRUN"}]}
