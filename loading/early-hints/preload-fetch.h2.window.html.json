@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Ensure early hints preload works for fetch()","status":"PASS"}]}
