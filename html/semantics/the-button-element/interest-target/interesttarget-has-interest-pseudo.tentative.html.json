@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The :has-interest pseudo class matches when an element has interest","status":"PASS"},{"name":"The :has-interest pseudo class only matches after delays, once interest is shown","status":"PASS"}]}
