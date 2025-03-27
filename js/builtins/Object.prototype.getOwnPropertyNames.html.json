@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"object","status":"PASS"},{"name":"array-like","status":"PASS"},{"name":"non-enumerable property","status":"PASS"},{"name":"items on the prototype chain are not listed","status":"PASS"}]}
