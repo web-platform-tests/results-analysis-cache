@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigation.traverseTo() in an iframe with same-document preventDefault in its parent","status":"FAIL"}]}
