@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Cross-Origin audio should get upgraded even if CORS is set","status":"FAIL"},{"name":"Cross-Origin image should get upgraded even if CORS is set","status":"FAIL"},{"name":"Cross-Origin video should get upgraded even if CORS is set","status":"FAIL"}]}
