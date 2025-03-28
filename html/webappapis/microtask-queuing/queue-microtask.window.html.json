@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"It interleaves with MutationObservers as expected","status":"PASS"},{"name":"It interleaves with MutationObservers and promises together as expected","status":"PASS"}]}
