@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Private aggregation - invalid filteringId","status":"FAIL"},{"name":"Private aggregation - successfully sent report","status":"FAIL"},{"name":"Private aggregation - invalid contributions do not affect valid ones","status":"FAIL"}]}
