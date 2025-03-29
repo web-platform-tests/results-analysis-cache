@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Ensure that the framebuffer given by the WebGL layer works with stencil for immersive - webgl","status":"FAIL"},{"name":"Ensure that the framebuffer given by the WebGL layer works with stencil for immersive - webgl2","status":"FAIL"}]}
