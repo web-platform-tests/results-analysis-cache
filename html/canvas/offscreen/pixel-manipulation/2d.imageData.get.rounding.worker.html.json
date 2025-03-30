@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test the handling of non-integer source coordinates in getImageData().","status":"FAIL"}]}
