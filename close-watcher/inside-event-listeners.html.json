@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"destroy() inside oncancel","status":"FAIL"},{"name":"destroy() inside onclose","status":"FAIL"},{"name":"close() inside oncancel","status":"FAIL"},{"name":"close() inside onclose","status":"FAIL"},{"name":"requestClose() inside oncancel","status":"FAIL"},{"name":"requestClose() inside onclose","status":"FAIL"}]}
