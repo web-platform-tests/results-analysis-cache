@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"FencedFrame is not available in an insecure context","status":"FAIL"},{"name":"navigator.canLoadAdAuctionFencedFrame is unavailable in insecure contexts","status":"PASS"}]}
