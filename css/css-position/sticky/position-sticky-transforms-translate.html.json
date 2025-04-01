@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Translation transform can move sticky element past sticking point","status":"PASS"},{"name":"Stuck elements can still be moved via translations","status":"PASS"},{"name":"The sticky element should stick before the container is offset by a translation","status":"PASS"}]}
