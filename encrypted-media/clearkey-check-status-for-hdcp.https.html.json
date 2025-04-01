@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"org.w3.clearkey support for empty HDCP version.","status":"FAIL"},{"name":"org.w3.clearkey support for HDCP 1.0.","status":"FAIL"}]}
