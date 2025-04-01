@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Should not stylesheet when style-src is 'none'","status":"PASS"},{"name":"Should fire a securitypolicyviolation event","status":"PASS"}]}
