@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Fenced frames should inherit features from parent if nothing specified.","status":"FAIL"},{"name":"Fenced frames default feature policies should inherit when using `allow` but should be able to further restrict the policies.","status":"FAIL"}]}
