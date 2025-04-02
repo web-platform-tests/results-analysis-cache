@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-origin request with non-safelisted content type succeeds","status":"PASS"},{"name":"CORS request with non-safelisted content type sends preflight and fails","status":"PASS"}]}
