@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Cross-origin fetches from a frame with storage-access are not credentialed by default","status":"FAIL"},{"name":"Cross-origin HTTP redirects from a frame with storage-access are not credentialed by default","status":"FAIL"}]}
