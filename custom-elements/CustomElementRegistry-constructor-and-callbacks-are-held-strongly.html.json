@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"constructor","status":"PASS"},{"name":"connectedCallback","status":"PASS"},{"name":"attributeChangedCallback","status":"PASS"},{"name":"disconnectedCallback","status":"PASS"},{"name":"adoptedCallback","status":"PASS"}]}
