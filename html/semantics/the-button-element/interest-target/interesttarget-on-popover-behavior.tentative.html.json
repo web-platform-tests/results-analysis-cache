@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"hover interest invoking closed popover opens","status":"FAIL"},{"name":"interest invoking closed popover with preventDefault does not open","status":"NOTRUN"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Tab focus from parent frame into cross-origin iframe is allowed with permissions policy \"focus-without-user-activation\" set to \"none\"","status":"FAIL"}]}
