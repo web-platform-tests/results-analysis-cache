@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getSubscriptions returns a subscription passed to subscribe","status":"FAIL"}]}
