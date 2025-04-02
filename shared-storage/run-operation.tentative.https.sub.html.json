@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"run()","status":"PASS"},{"name":"run() with custom data","status":"PASS"},{"name":"run() with unsupported serializable type","status":"PASS"}]}
