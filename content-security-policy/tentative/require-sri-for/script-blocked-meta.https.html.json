@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that meta require-sri-for blocks scripts with no SRI","status":"PASS"}]}
