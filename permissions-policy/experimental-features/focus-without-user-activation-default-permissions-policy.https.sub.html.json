@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Default \"focus-without-user-activation\" permissions policy [self] allows same-origin iframes.","status":"TIMEOUT"},{"name":"Default \"focus-without-user-activation\" permissions policy [self] doesn't allow cross-origin iframes.","status":"TIMEOUT"}]}
