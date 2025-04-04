@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"No platform authenticator","status":"FAIL"},{"name":"Non-user-verifying platform authenticator","status":"FAIL"},{"name":"User verifying platform authenticator","status":"PASS"}]}
