@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The access to the Dedicated Worker API should be deferred until the\n    prerendered page is activated","status":"PASS"}]}
