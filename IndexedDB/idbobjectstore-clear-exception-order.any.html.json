@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"IDBObjectStore.clear exception order: InvalidStateError vs. TransactionInactiveError","status":"TIMEOUT"},{"name":"IDBObjectStore.clear exception order: TransactionInactiveError vs. ReadOnlyError","status":"TIMEOUT"}]}
