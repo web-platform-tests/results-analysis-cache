@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Changing to a non-matching anchor-name should restore the box to its normal position.","status":"FAIL"},{"name":"Changing to a non-matching position-anchor should restore the box to its normal position.","status":"TIMEOUT"},{"name":"Removing the scroller should restore the box to its normal position.","status":"NOTRUN"}]}
