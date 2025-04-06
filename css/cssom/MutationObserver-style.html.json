@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Updating style property with the same value does not trigger an observation callback","status":"FAIL"},{"name":"Updating cssText triggers an observation callback even if the value is the same","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"setSinkId on default audio output should always work","status":"NOTRUN"},{"name":"setSinkId fails with NotFoundError on made up deviceid","status":"NOTRUN"},{"name":"setSinkId() with output device ID exposed by selectAudioOutput() should resolve","status":"NOTRUN"}]}
