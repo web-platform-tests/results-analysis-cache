@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Trusted Type violation report: evaluating a string.","status":"TIMEOUT"},{"name":"Trusted Type violation report: evaluating a Trusted Script.","status":"NOTRUN"},{"name":"Trusted Type violation report: default policy runs in report-only mode.","status":"NOTRUN"}]}
