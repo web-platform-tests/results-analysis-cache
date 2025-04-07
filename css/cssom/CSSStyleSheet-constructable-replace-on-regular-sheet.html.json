@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CSSStyleSheet.replaceSync throws NotAllowedError for non-constructed sheets","status":"PASS"},{"name":"CSSStyleSheet.replace returns a rejected promise for non-constructed sheets","status":"PASS"},{"name":"CSSStyleSheet.replace returns a rejected promise for non-constructed sheets that have no associated document","status":"PASS"}]}
