@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"enumerateDevices depends only on capture state, not permission state","status":"FAIL"}]}
