@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"shadowRootCustomElements reflects as string","status":"FAIL"},{"name":"Serializing a ShadowRoot with a null registry","status":"FAIL"},{"name":"Serializing a ShadowRoot with a registry that differs from its host","status":"FAIL"}]}
