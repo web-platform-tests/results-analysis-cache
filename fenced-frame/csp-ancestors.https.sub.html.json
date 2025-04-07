@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Fenced frames check beyond fenced boundary for CSP frame-ancestors","status":"FAIL"},{"name":"Protected Audience fenced frames do not check beyond fenced boundary for CSP frame-ancestors","status":"FAIL"}]}
