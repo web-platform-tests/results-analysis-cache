@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that fenced frame notifyEvent() succeeds on click","status":"FAIL"},{"name":"Test that fenced frame notifyEvent() succeeds on click when using the 'onfencedtreeclick' attribute.","status":"FAIL"}]}
