@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"same-origin sandbox iframes should not load until activation","status":"PASS"}]}
