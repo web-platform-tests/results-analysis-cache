@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"No violation reported for TrustedHTML.","status":"TIMEOUT"},{"name":"No violation reported (paste command).","status":"NOTRUN"},{"name":"Violation report for plain string (insertHTML command).","status":"NOTRUN"}]}
