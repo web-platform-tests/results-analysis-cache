@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"'stroke' does not support 'black'","status":"PASS"},{"name":"'stroke' does not support 'red gray'","status":"FAIL"}]}
