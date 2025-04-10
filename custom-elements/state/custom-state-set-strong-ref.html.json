@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"customstateset doesn't crash after GC on detached node","status":"PASS"}]}
