@@ -1,0 +1,1 @@
+{"status":"CRASH","subtests":[{"name":"registrations are not returned following unregister","status":"FAIL"},{"name":"Register then getRegistrations","status":"FAIL"},{"name":"Register multiple times then getRegistrations","status":"FAIL"}]}
