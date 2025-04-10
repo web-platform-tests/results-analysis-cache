@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"for selectURL(), a saved query stores the default index on rejection.","status":"PASS"}]}
