@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Video with poster should not emit a second LCP entry after playing.","status":"TIMEOUT"}]}
