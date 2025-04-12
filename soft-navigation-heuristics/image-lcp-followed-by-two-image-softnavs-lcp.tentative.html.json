@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Multiple soft navigations get FP, FCP and LCP for each one","status":"FAIL"}]}
