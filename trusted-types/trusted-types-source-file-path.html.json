@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"same-document script","status":"TIMEOUT"},{"name":"same-origin script","status":"NOTRUN"},{"name":"cross-origin script","status":"NOTRUN"}]}
