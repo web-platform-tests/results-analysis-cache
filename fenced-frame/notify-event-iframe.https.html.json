@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that fenced frame notifyEvent() fails in a nested same-origin iframe.","status":"FAIL"},{"name":"Test that fenced frame notifyEvent() fails in a nested cross-origin iframe.","status":"FAIL"},{"name":"Test that notifyEvent() fails in a URN iframe.","status":"FAIL"}]}
