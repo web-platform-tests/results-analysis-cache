@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"registering service worker","status":"FAIL"},{"name":"list of available images tuple-matching logic","status":"PASS"},{"name":"unregistering service worker","status":"FAIL"}]}
