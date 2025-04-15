@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"attempt to draw a closed ImageBitmap to a 2d canvas throws INVALID_STATE_ERR","status":"PASS"}]}
