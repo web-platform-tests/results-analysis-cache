@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.postMessage should be able to transfer a ReadableStream","status":"PASS"},{"name":"port.postMessage should be able to transfer a ReadableStream","status":"PASS"},{"name":"the same ReadableStream posted multiple times should arrive together","status":"PASS"},{"name":"transfer to and from an iframe should work","status":"PASS"}]}
