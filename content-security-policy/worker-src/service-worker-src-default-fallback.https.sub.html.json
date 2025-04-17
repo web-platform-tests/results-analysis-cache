@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Same-origin service worker allowed by default-src 'self'.","status":"TIMEOUT"}]}
