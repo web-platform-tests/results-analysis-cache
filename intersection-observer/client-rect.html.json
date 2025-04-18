@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"IntersectionObserverEntry.boundingClientRect should match target.boundingClientRect()","status":"PASS"},{"name":"First rAF should generate notification.","status":"TIMEOUT"}]}
