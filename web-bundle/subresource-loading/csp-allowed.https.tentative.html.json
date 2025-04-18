@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"URL matching of CSP should be done based on the subresource URL when the subresource URL is HTTPS URL.","status":"FAIL"},{"name":"URL matching of script-src CSP should be done based on the bundle URL when the subresource URL is uuid-in-package: URL.","status":"TIMEOUT"}]}
