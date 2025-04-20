@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"ResizeObserver implemented","status":"PASS"},{"name":"guard","status":"NOTRUN"},{"name":"test0: notification ordering","status":"PASS"},{"name":"test1: display:none triggers notification","status":"PASS"},{"name":"test2: remove/appendChild trigger notification","status":"FAIL"}]}

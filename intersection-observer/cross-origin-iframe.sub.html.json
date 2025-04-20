@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Intersection observer test with no explicit root and target in a cross-origin iframe.","status":"FAIL"},{"name":"First rAF","status":"FAIL"}]}
