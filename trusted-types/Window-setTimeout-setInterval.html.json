@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Window.setTimeout assigned via policy (successful Script transformation).","status":"FAIL"},{"name":"Window.setInterval assigned via policy (successful Script transformation).","status":"FAIL"}]}
