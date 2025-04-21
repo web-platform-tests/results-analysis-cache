@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Basic pseudo class function, with mouse hover triggering","status":"PASS"},{"name":"Basic pseudo class function, with keyboard focus triggering","status":"PASS"},{"name":"The pseudo classes only match after delays, once interest is shown","status":"PASS"}]}
