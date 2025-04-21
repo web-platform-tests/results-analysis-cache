@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Summarizer.summarizeStreaming returns ReadableStream with a non-empty text.","status":"FAIL"},{"name":"Summarizer.summarizeStreaming returns a ReadableStream without any chunk on an empty input.","status":"FAIL"}]}
