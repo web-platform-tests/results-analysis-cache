@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"script.src without trusted types","status":"PASS"},{"name":"div.innerHTML without trusted types","status":"PASS"},{"name":"script.text without trusted types","status":"PASS"}]}
