@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['shape-image-threshold'] = \"auto\" should not set the property value","status":"PASS"},{"name":"e.style['shape-image-threshold'] = \"10px\" should not set the property value","status":"PASS"}]}
