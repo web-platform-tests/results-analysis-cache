@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SpeechRecognition.installOnDevice resolves with a boolean value.","status":"FAIL"},{"name":"SpeechRecognition.installOnDevice rejects in a detached context.","status":"FAIL"}]}
