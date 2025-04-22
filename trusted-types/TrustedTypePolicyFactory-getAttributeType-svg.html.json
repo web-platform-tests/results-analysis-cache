@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"trustedTypes.getAttributeType html script[href]","status":"PASS"},{"name":"trustedTypes.getAttributeType svg script[href]","status":"FAIL"},{"name":"trustedTypes.getAttributeType svg script[href] xlink href","status":"FAIL"},{"name":"trustedTypes.getAttributeType svg script[href] other href","status":"PASS"}]}
