@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Preflight request must not contain any cookie header","status":"FAIL"}]}
