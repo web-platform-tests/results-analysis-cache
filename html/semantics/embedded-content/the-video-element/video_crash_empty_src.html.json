@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"src=\"about:blank\" does not crash.","status":"PASS"},{"name":"src=\"\" does not crash.","status":"PASS"}]}
