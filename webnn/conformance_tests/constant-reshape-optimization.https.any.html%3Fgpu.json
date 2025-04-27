@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"reshape + reshape + reshape + instanceNormalization float32","status":"PASS"}]}
