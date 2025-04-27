@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Object.prototype.hasOwnProperty: Check prototype chain","status":"PASS"},{"name":"Object.prototype.hasOwnProperty: Check prototype chain 1","status":"PASS"},{"name":"Object.prototype.hasOwnProperty: Check prototype chain 2","status":"PASS"}]}

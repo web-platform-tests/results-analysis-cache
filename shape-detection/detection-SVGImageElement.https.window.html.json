@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"FaceDetector.detect() rejects on an SVGImageElement","status":"PASS"},{"name":"BarcodeDetector.detect() rejects on an SVGImageElement","status":"FAIL"},{"name":"TextDetector.detect() rejects on an SVGImageElement","status":"PASS"}]}
