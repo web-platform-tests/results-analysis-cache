@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document not in a browsing context","status":"PASS"},{"name":"document.location equals window.location","status":"PASS"},{"name":"Attribute getter deduplication","status":"FAIL"},{"name":"Attribute setter deduplication","status":"FAIL"}]}
