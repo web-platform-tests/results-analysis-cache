@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Deny window management permission should work.","status":"FAIL"},{"name":"Grant window management permission should work.","status":"FAIL"}]}
