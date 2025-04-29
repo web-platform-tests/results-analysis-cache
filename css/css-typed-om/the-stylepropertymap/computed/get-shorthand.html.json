@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Getting an shorthand property set explicitly in computed style returns a base CSSStyleValue","status":"FAIL"},{"name":"Getting a shorthand property from initial computed style returns a base CSSStyleValue","status":"FAIL"}]}
