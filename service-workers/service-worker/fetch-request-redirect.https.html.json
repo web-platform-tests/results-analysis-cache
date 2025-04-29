@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify redirect mode of Fetch API and ServiceWorker FetchEvent.","status":"FAIL"},{"name":"Verify redirected of Response(Fetch API) and ServiceWorker FetchEvent.","status":"FAIL"},{"name":"Verify redirected of Response(Fetch API), Cache API and ServiceWorker FetchEvent.","status":"FAIL"}]}
