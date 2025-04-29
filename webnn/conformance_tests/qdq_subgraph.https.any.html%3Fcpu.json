@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"quantized conv2d","status":"FAIL"},{"name":"quantized element-wise binary add","status":"PASS"},{"name":"quantized element-wise binary sub","status":"PASS"},{"name":"quantized element-wise binary mul","status":"PASS"},{"name":"quantized transpose","status":"PASS"}]}
