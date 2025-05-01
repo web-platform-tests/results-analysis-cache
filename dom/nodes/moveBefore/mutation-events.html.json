@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"MutationEvents (if supported by the UA) are suppressed during `moveBefore()`","status":"PASS"}]}
