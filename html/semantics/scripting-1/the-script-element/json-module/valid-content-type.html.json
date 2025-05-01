@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"text/json","status":"NOTRUN"},{"name":"application/json","status":"NOTRUN"},{"name":"text/html+json","status":"NOTRUN"},{"name":"image/svg+json","status":"NOTRUN"},{"name":"text/json;boundary=something","status":"NOTRUN"},{"name":"text/json;foo=bar","status":"NOTRUN"}]}
