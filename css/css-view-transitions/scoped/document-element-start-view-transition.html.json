@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Synchronously starting a view transition on document.documentElement skips the previously active document view transition.","status":"TIMEOUT"},{"name":"Synchronously starting a view transition on document skips the previously active view transition on document.documentElement.","status":"NOTRUN"}]}
