@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A file input without a disabled attribute that is a descendant of a disabled fieldset should be disabled (modulo legend-related complications that don't apply here)","status":"PASS"}]}
