@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"fetchLater() accepts max payload in a POST request body of String in same-origin iframe.","status":"FAIL"},{"name":"fetchLater() rejects max+1 payload in a POST request body of String in same-origin iframe.","status":"FAIL"}]}
