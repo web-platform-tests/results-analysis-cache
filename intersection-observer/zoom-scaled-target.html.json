@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IntersectionObserver observing elements with css zoom","status":"PASS"},{"name":"Validate intersection rect","status":"PASS"}]}
