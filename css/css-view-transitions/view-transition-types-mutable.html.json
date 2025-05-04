@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"ViewTransition.types is a ViewTransitionTypeSet","status":"FAIL"},{"name":"ViewTransitionTypeSet behaves like an ordinary Set of strings","status":"FAIL"},{"name":"ViewTransitionTypeSet should reflect its members for a non-active transition","status":"FAIL"}]}
