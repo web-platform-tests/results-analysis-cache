@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Both old and new snapshots","status":"TIMEOUT"},{"name":"Only old snapshot","status":"NOTRUN"},{"name":"Only new snapshot","status":"NOTRUN"}]}
