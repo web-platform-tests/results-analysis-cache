@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Web Bluetooth requestDevice() must fail in a fenced frame","status":"FAIL"}]}
