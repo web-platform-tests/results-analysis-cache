@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Synchronously starting a view transition skips the previously active  transition.","status":"TIMEOUT"}]}
