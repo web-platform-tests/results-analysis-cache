@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The headers of FetchEvent shouldn't contain freshness headers.","status":"FAIL"}]}
