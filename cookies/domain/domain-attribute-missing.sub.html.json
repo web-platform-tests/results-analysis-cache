@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"No domain attribute => available via `document.cookie`","status":"PASS"},{"name":"No domain attribute => sent with same-origin requests.","status":"PASS"},{"name":"No domain attribute => not sent with subdomain requests.","status":"PASS"}]}
