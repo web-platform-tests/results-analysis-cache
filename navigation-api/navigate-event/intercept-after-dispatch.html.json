@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"event.intercept() throws if used after the dispatch phase","status":"FAIL"}]}
