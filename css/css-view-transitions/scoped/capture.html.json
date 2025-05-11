@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"View-transition pseudo elements created for correct element","status":"FAIL"},{"name":"Capture with concurrent scoped view-transitions","status":"NOTRUN"}]}
