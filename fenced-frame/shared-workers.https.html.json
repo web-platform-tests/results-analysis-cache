@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Shared workers should not be shared across fenced frame boundaries","status":"FAIL"}]}
