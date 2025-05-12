@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Default \"focus-without-user-activation\" permissions policy [self] allows same-origin iframes.","status":"FAIL"},{"name":"Default \"focus-without-user-activation\" permissions policy [self] doesn't allow cross-origin iframes.","status":"PASS"}]}
