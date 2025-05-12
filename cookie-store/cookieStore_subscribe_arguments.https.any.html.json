@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"cookieStore.subscribe without url in option","status":"PASS"},{"name":"cookieStore.subscribe with invalid url path in option","status":"NOTRUN"},{"name":"cookieStore.subscribe is idempotent","status":"NOTRUN"},{"name":"CookieStore.unsubscribe is idempotent","status":"NOTRUN"}]}
