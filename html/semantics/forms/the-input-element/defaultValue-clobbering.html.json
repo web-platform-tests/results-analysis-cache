@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Visible value and validity should not be affected when assigning to the defaultValue property for type=email.","status":"FAIL"},{"name":"Visible value and validity should not be affected when assigning to the defaultValue property for type=number.","status":"FAIL"}]}
