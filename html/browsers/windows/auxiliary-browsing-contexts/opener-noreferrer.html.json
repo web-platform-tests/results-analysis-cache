@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Auxiliary browsing context created with `rel=\"noreferrer\"` should report `window.opener` `null`","status":"PASS"}]}
