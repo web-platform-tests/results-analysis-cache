@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"ShadowRoot ReferenceTarget works with anchor attribute.","status":"PASS"},{"name":"ShadowRoot ReferenceTarget works with anchor attribute via options.","status":"PASS"},{"name":"ShadowRoot ReferenceTarget works with .anchorElement property.","status":"PASS"}]}
