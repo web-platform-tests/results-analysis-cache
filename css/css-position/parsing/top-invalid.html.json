@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['top'] = \"min-content\" should not set the property value","status":"PASS"},{"name":"e.style['top'] = \"60\" should not set the property value","status":"PASS"},{"name":"e.style['top'] = \"10px 20%\" should not set the property value","status":"PASS"}]}
