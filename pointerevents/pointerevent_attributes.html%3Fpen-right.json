@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test pointer events in the main document","status":"FAIL"},{"name":"Test pointer events in an iframe","status":"FAIL"}]}
