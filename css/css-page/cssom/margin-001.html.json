@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"There should be 3 @page rules.","status":"PASS"},{"name":"Rule #0","status":"FAIL"},{"name":"Rule #1","status":"FAIL"},{"name":"Rule #2","status":"FAIL"}]}
