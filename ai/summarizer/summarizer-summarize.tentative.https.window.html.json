@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Summarizer.summarize() returns non-empty result.","status":"PASS"},{"name":"Multiple Summarizer.summarize() calls are resolved successfully.","status":"PASS"}]}
