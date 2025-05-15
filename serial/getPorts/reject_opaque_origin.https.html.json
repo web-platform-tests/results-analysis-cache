@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Calls to Serial APIs from an origin with opaque top origin get blocked.","status":"FAIL"}]}
