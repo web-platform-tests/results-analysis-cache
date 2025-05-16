@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"srcdoc can access with no 'document.domain' modification.","status":"PASS"},{"name":"srcdoc can access with valid 'document.domain'.","status":"PASS"},{"name":"srcdoc can access when parent modifies 'document.domain'.","status":"PASS"}]}
