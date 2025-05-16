@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"loading=auto for disconnected image","status":"PASS"},{"name":"loading=eager for disconnected image","status":"PASS"},{"name":"loading=lazy for disconnected image","status":"PASS"}]}
