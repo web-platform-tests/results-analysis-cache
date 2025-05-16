@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"spanning col visibility:collapse changes table width","status":"FAIL"},{"name":"spanning row visibility:collapse changes height","status":"FAIL"}]}
