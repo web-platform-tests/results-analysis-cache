@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"'pan-x none' is corrected properly","status":"FAIL"},{"name":"'pan-y none' is corrected properly","status":"FAIL"},{"name":"'auto none' is corrected properly","status":"FAIL"}]}
