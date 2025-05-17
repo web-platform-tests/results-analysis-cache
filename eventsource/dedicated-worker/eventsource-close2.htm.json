@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"dedicated worker - EventSource created after: worker.close()","status":"PASS"}]}
