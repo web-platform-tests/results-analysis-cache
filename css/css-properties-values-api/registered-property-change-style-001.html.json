@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"New registered property declaration","status":"FAIL"},{"name":"Registered property overrides a previous declaration ","status":"FAIL"}]}
