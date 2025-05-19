@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.open(download, ) triggering download in sandbox is blocked.","status":"FAIL"},{"name":"window.open(download, \"_blank\") triggering download in sandbox is blocked.","status":"FAIL"},{"name":"window.open(download, \"_blank\", \"noopener\") triggering download in sandbox is blocked.","status":"PASS"}]}
