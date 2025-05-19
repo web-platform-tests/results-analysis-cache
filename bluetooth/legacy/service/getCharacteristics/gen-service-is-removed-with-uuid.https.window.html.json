@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Service is removed before getCharacteristics call. Reject with InvalidStateError.","status":"FAIL"}]}
