@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verifies that form restoration does not fire input or change events for <input type=range>.","status":"PASS"},{"name":"Verifies that form restoration does not fire input or change events for <input type=text>.","status":"PASS"}]}
