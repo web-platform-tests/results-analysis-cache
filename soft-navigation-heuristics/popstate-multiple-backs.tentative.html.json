@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"A soft navigation that started from a back() call inside a popstate event is recognized by SoftNavigationHeuristics","status":"TIMEOUT"}]}
