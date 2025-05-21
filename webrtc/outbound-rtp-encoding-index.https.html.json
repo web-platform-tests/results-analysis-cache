@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"In singlecast, encodingIndex is 0","status":"FAIL"},{"name":"In simulcast, encodingIndex reflects index of sendEncodings","status":"TIMEOUT"},{"name":"encodingIndex is undefined for audio streams","status":"NOTRUN"}]}
