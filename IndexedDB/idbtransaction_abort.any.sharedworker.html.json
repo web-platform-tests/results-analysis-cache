@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Abort event should fire during transaction","status":"TIMEOUT"},{"name":"Abort during auto-committing should throw InvalidStateError.","status":"TIMEOUT"},{"name":"Abort on completed transaction should throw InvalidStateError.","status":"TIMEOUT"}]}
