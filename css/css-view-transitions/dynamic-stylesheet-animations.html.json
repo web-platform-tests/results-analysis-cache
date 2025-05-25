@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Both old and new snapshots","status":"FAIL"},{"name":"Only old snapshot","status":"PASS"},{"name":"Only new snapshot","status":"PASS"}]}
