@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Prefetch should fail when restricted by default-src","status":"PASS"}]}
