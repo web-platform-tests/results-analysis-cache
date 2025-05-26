@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Default AnimationTrigger for CSS Animation","status":"FAIL"},{"name":"AnimationTrigger for CSS Animation with scroll() timeline","status":"FAIL"},{"name":"AnimationTrigger for CSS Animation with view() timeline","status":"FAIL"},{"name":"AnimationTrigger for CSS Animation with deferred timeline","status":"FAIL"}]}
