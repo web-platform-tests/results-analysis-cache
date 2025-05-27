@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"LanguageDetector.detect() detects the correct language","status":"FAIL"},{"name":"Creating LanguageDetector with expectedInputLanguages","status":"FAIL"},{"name":"LanguageDetector.detect() detects empty string","status":"FAIL"}]}
