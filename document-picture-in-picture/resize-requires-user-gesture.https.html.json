@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that calling resizeTo() or resizeBy() on a document\n  picture-in-picture window requires user gesture","status":"FAIL"}]}
