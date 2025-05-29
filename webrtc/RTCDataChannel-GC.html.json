@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Control: detected remote PC being closed using a data channel","status":"TIMEOUT"},{"name":"While remote PC remains open, its datachannel should not be collected","status":"NOTRUN"}]}
