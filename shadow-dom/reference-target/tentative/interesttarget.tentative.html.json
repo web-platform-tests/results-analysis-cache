@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Shadow root reference target works with interesttarget attribute.","status":"PASS"},{"name":"Shadow root reference target works with interesttarget attribute via options.","status":"PASS"},{"name":"Shadow root reference target works with .interestTargetElement property.","status":"PASS"}]}
