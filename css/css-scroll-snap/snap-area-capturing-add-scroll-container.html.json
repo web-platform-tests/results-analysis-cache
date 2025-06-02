@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Making an element scrollable should make it capture the correct descendant snap areas' snap points.","status":"PASS"},{"name":"Attaching a new element that is scrollable should assign the correct snap areas to it.","status":"PASS"}]}
