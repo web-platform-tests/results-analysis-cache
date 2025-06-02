@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"perBuyerRealTimeReportingConfig has no entry","status":"FAIL"},{"name":"no buyers => no winners","status":"FAIL"},{"name":"seller is not an https URL","status":"FAIL"},{"name":"decisionLogicURL is invalid","status":"FAIL"},{"name":"decisionLogicURL is cross-origin with seller","status":"FAIL"}]}
