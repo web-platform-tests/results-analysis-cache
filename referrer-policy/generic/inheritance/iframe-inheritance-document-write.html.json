@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document.open() should not change the referrer policy of the opened document.","status":"PASS"}]}
