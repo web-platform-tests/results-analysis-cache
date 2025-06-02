@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"same-origin report","status":"TIMEOUT"},{"name":"same-site report","status":"TIMEOUT"},{"name":"cross-site report","status":"TIMEOUT"}]}
