@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A synchronously loaded external classic script without nomodule content attribute must run","status":"PASS"},{"name":"A synchronously loaded external classic script with nomodule content attribute must not run","status":"PASS"}]}
