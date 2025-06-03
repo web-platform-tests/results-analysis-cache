@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Request revalidation aren't blocked by CSP","status":"FAIL"}]}
