@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Single, valid integrity assertion.","status":"FAIL"},{"name":"One matching + malformed integrity assertion.","status":"FAIL"},{"name":"One matching + one mismatching integrity assertion.","status":"FAIL"},{"name":"One matching + one mismatching + malformed integrity assertion.","status":"FAIL"}]}
