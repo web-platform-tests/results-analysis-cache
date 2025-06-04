@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"sharedStorageWritable not allowed in insecure context.","status":"FAIL"}]}
