@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Builtins in localStorage","status":"PASS"},{"name":"Builtins in sessionStorage","status":"PASS"}]}
