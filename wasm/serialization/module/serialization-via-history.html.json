@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"history.pushState(): simple case","status":"PASS"},{"name":"history.pushState(): is interleaved correctly","status":"PASS"},{"name":"history.replaceState(): simple case","status":"PASS"},{"name":"history.replaceState(): is interleaved correctly","status":"PASS"}]}
