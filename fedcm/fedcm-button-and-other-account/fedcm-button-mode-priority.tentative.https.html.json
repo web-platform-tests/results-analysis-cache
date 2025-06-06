@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that the passive mode can succeed after the active mode.","status":"FAIL"},{"name":"Test that the active mode can replace passive mode.","status":"PASS"},{"name":"Test that the active mode cannot replace active mode.","status":"PASS"},{"name":"Test that the passive mode cannot replace active mode.","status":"PASS"}]}
