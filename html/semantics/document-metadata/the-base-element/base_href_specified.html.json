@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The href attribute of the base element is specified","status":"PASS"},{"name":"The src attribute of the img element must relative to the href attribute of the base element","status":"PASS"}]}
