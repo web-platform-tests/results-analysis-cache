@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Nonces don't leak via CSS side-channels when a dangling body is injected.","status":"FAIL"},{"name":"Nonces don't leak via CSS side-channels when a dangling html is injected.","status":"FAIL"}]}
