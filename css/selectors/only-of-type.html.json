@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Whitespace nodes should be ignored.","status":"PASS"},{"name":"A comment node should be ignored.","status":"PASS"},{"name":"Non-whitespace text node should be ignored.","status":"PASS"},{"name":"There is another child element of a different type.","status":"PASS"},{"name":"Dynamic addition and removal","status":"PASS"}]}
