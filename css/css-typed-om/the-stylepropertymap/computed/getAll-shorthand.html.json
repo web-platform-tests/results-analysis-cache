@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"StylePropertyMap.getAll() with a shorthand property set explicitly in computed style returns a list containing a base CSSStyleValue","status":"PASS"},{"name":"StylePropertyMap.getAll() with a shorthand property from initial computed style returns a list containing a base CSSStyleValue","status":"PASS"}]}
