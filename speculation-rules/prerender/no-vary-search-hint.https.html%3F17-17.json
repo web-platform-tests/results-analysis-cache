@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Use in-flight prefetch as the URLs do not vary on any query parameters. Allow extension via parameters.","status":"FAIL"}]}
