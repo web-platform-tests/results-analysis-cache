@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test that the passive mode can succeed after the active mode.","status":"TIMEOUT"},{"name":"Test that the active mode can replace passive mode.","status":"NOTRUN"},{"name":"Test that the active mode cannot replace active mode.","status":"NOTRUN"},{"name":"Test that the passive mode cannot replace active mode.","status":"NOTRUN"}]}
