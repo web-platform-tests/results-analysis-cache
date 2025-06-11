@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Snaps to the positions adjusted by scroll-margin","status":"PASS"},{"name":"scroll-margin doesn't contribute to the snap position of the element if it's outside of the scroll port","status":"PASS"}]}
