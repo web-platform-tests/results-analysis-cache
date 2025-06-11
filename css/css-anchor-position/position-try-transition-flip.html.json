@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Transition to a flipped state","status":"PASS"},{"name":"Transition to an unflipped state","status":"FAIL"}]}
