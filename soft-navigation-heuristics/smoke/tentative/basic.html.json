@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"No soft navigation detection without user interaction.","status":"PASS"},{"name":"Detect soft navigation after a click.","status":"FAIL"}]}
