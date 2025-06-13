@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Deleting an object store and a database containing blobs doesn't crash.","status":"PASS"}]}
