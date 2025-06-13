@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Menu elements are HTML elements.","status":"FAIL"},{"name":"menuitem checked attribute","status":"FAIL"},{"name":"Menuitem with valid command/commandfor can invoke menulist popover.","status":"FAIL"},{"name":"Menuitem with invalid command/commandfor cannot invoke menulist popover.","status":"PASS"}]}
