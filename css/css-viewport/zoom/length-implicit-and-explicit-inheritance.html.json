@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"width: inherit from 100px","status":"FAIL"},{"name":"height: inherit from 100px","status":"FAIL"},{"name":"word-spacing: inherit from 100px","status":"FAIL"},{"name":"word-spacing: unset from 100px","status":"FAIL"},{"name":"word-spacing:  from 100px","status":"FAIL"}]}
