@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"`,SAMEORIGIN,,DENY,` blocks same-origin framing","status":"PASS"},{"name":"`,SAMEORIGIN,,DENY,` blocks cross-origin framing","status":"PASS"},{"name":"`  SAMEORIGIN,    DENY` blocks same-origin framing","status":"PASS"},{"name":"`  SAMEORIGIN,    DENY` blocks cross-origin framing","status":"PASS"}]}
