@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"location.assign navigates independently with replacement in a prerender","status":"PASS"},{"name":"location.replace navigates independently in a prerender","status":"PASS"},{"name":"Setting location.href navigates independently with replacement in a prerender","status":"PASS"}]}
