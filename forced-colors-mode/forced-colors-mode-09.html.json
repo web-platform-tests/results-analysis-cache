@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Checks that styles defined inside/outside forced-colors are overridden in forced colors mode.","status":"FAIL"}]}
