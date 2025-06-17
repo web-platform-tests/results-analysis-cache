@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"queryLocalFonts(): permission not given","status":"TIMEOUT"},{"name":"queryLocalFonts(): permission denied","status":"NOTRUN"},{"name":"queryLocalFonts(): permission granted","status":"NOTRUN"}]}
