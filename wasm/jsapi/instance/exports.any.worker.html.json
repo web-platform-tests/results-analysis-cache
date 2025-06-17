@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Branding","status":"PASS"},{"name":"Stray argument","status":"PASS"},{"name":"Setting (sloppy mode)","status":"PASS"},{"name":"Setting (strict mode)","status":"PASS"}]}
