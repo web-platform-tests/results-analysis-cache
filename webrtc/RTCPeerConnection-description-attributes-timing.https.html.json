@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"pendingLocalDescription is surfaced at the right time","status":"PASS"},{"name":"pendingRemoteDescription is surfaced at the right time","status":"PASS"},{"name":"currentLocalDescription is surfaced at the right time","status":"PASS"},{"name":"currentRemoteDescription is surfaced at the right time","status":"PASS"}]}
