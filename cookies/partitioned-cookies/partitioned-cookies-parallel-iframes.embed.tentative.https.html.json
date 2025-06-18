@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Partitioned cookies set in same-site contexts are available in other same-site documents.","status":"PASS"}]}
