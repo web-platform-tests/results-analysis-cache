@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Video with poster should not emit a second LCP entry after playing.","status":"PASS"}]}
