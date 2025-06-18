@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Candidates are added dynamically; connection should work","status":"FAIL"},{"name":"Candidates are added at PC1; connection should work","status":"FAIL"},{"name":"Candidates are added at PC2; connection should work","status":"FAIL"}]}
