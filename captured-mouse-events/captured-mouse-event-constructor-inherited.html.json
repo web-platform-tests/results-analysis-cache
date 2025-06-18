@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"type argument is passed to the Event's constructor","status":"FAIL"},{"name":"EventInit options are passed to the Event's constructor","status":"FAIL"}]}
