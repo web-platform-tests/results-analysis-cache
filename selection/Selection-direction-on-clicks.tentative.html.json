@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"direction returns \"none\" when there is a double click selection(directionless)","status":"PASS"},{"name":"direction returns \"none\" when there is a triple click selection(directionless)","status":"PASS"},{"name":"direction returns \"none\" when the selection is collapsed","status":"PASS"}]}
