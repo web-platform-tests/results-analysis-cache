@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"ScoreAd browserSignals renderSize test.","status":"FAIL"},{"name":"ScoreAd browserSignals.creativeScanningMetadata test, no adComponents","status":"FAIL"},{"name":"ScoreAd browserSignals.creativeScanningMetadata test, w/adComponents","status":"FAIL"}]}
