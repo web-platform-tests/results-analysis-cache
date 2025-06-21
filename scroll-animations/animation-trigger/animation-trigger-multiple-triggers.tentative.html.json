@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Triggers on same animation; no conflict.","status":"TIMEOUT"},{"name":"Triggers on same animation; conflict.","status":"NOTRUN"}]}
