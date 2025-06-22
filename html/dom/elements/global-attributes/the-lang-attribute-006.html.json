@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"If there is a conflict between the language declarations in the HTTP header and the Content-Language meta element, the UA will recognize the language declared in the meta element.","status":"PASS"}]}
