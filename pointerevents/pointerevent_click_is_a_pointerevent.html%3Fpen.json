@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"click using pen is a PointerEvent with correct properties","status":"TIMEOUT"},{"name":"click using pen is a PointerEvent with correct properties when no other PointerEvent listeners are present","status":"NOTRUN"},{"name":"click using pen is a PointerEvent with correct properties in a subframe","status":"NOTRUN"}]}
