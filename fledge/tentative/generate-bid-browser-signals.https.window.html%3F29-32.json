@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"browserSignals.prevWinsMs not updated when no bid.","status":"FAIL"},{"name":"browserSignals.prevWinsMs not updated when makes largest bid, but another interest group wins.","status":"FAIL"},{"name":"browserSignals.wasmHelper.","status":"FAIL"},{"name":"browserSignals for clickiness.","status":"TIMEOUT"}]}
