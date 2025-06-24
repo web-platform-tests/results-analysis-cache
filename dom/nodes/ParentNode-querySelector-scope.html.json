@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"querySelector with :scope","status":"PASS"},{"name":"querySelector with id and sibling","status":"PASS"},{"name":"querySelectorAll with :scope","status":"PASS"},{"name":"querySelectorAll with id and sibling","status":"PASS"}]}
