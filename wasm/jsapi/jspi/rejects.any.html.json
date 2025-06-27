@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Throw after the first suspension","status":"FAIL"},{"name":"Throw before suspending","status":"FAIL"},{"name":"Throw and propagate via Promise","status":"FAIL"},{"name":"Stack overflow","status":"FAIL"},{"name":"Try to suspend JS","status":"FAIL"}]}
