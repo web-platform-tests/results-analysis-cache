@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"writing-mode: lr","status":"PASS"},{"name":"writing-mode: lr-tb","status":"PASS"},{"name":"writing-mode: rl","status":"PASS"},{"name":"writing-mode: rl-tb","status":"PASS"},{"name":"writing-mode: tb","status":"PASS"},{"name":"writing-mode: tb-rl","status":"PASS"}]}
