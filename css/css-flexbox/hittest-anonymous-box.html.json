@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Hit-testing within an anonymous flex-item should return the flexbox as the hittest result.","status":"PASS"}]}
