@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_install_from_base64","status":"ERROR"},{"name":"test_install_from_path","status":"ERROR"},{"name":"test_install_from_archive_path","status":"ERROR"}]}
