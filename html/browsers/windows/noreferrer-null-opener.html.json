@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"rel=noreferrer nullifies window.opener","status":"PASS"}]}
