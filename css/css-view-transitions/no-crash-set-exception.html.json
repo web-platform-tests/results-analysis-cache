@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"An exception thrown during a transition shouldn't crash.","status":"TIMEOUT"}]}
