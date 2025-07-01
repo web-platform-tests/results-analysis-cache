@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"insertAdjacentHTML(beforebegin, <h3>beforebegin</h3> )","status":"PASS"},{"name":"insertAdjacentHTML(afterbegin, <h3>afterbegin</h3> )","status":"PASS"},{"name":"insertAdjacentHTML(beforeend, <h3>beforeend</h3> )","status":"PASS"},{"name":"insertAdjacentHTML(afterend, <h3>afterend</h3> )","status":"PASS"}]}
