@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Permissions policy allow=\"deferred-fetch\" allows fetchLater() from a redirected same-origin iframe.","status":"FAIL"},{"name":"Permissions policy allow=\"deferred-fetch\" disallows fetchLater() from a redirected cross-origin iframe.","status":"FAIL"}]}
