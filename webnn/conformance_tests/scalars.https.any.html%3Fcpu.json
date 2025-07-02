@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"scalar input","status":"PASS"},{"name":"float32 scalar input, constant, and output","status":"PASS"},{"name":"int32 scalar input, constant, and output","status":"PASS"}]}
