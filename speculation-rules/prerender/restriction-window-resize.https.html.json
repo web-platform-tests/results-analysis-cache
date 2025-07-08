@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"a prerendering page cannot resize its window by executing resizeTo.","status":"TIMEOUT"},{"name":"a prerendering page cannot resize its window by executing resizeBy.","status":"NOTRUN"}]}
