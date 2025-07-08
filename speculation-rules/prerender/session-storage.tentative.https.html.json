@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"session-storage-carry-over-to-prerender-page.html","status":"PASS"},{"name":"session-storage-no-leak-to-initiator-page.html","status":"PASS"},{"name":"session-storage-isolated-while-prerendering.html","status":"PASS"},{"name":"session-storage-swap-after-activate.html","status":"PASS"}]}
