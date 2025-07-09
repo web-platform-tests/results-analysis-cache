@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"addition of a shadow root should not cancel in-flight transitions","status":"PASS"}]}
