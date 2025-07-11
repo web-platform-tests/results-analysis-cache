@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"cross-origin sync XHR redirect got client hints according to expectations.","status":"PASS"}]}
