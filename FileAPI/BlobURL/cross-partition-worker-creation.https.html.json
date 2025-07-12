@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Cross-partition Shared worker shouldn't be created from blob URL.","status":"TIMEOUT"},{"name":"Cross-partition Dedicated worker shouldn't be created from blob URL.","status":"NOTRUN"}]}
