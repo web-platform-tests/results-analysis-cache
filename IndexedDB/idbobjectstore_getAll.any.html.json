@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Single item get","status":"FAIL"},{"name":"Single item get (generated key)","status":"FAIL"},{"name":"getAll on empty object store","status":"FAIL"},{"name":"Get all values","status":"FAIL"},{"name":"Get all with large values","status":"FAIL"},{"name":"Test maxCount","status":"FAIL"}]}
