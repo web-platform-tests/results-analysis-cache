@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Direct [[Set]] preserves [[Enumerable]]: false property attribute","status":"PASS"},{"name":"Prototype chain [[Set]] creates property on receiver","status":"PASS"}]}

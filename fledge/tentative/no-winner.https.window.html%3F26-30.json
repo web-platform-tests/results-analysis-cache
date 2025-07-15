@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Decision logic script: error=fledge-not-allowed","status":"PASS"},{"name":"Decision logic script: error=no-allow-fledge","status":"PASS"},{"name":"Decision logic script: error=no-body","status":"PASS"},{"name":"Decision logic script: error=no-scoreAd","status":"PASS"},{"name":"Decision logic script: scoreAd=throw 1;","status":"PASS"}]}
