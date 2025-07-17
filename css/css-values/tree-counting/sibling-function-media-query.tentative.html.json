@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"sibling-index() and sibling-count() are not valid in @media queries","status":"PASS"},{"name":"@media queries with sibling-index() and sibling-count() as general-enclosed","status":"FAIL"}]}
