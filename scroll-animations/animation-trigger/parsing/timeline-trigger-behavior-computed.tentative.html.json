@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property timeline-trigger-behavior value 'initial'","status":"PASS"},{"name":"Property timeline-trigger-behavior value 'once, repeat, alternate, state'","status":"PASS"}]}
