@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"setProperty","status":"FAIL"},{"name":"removeProperty","status":"FAIL"},{"name":"property assignment","status":"PASS"},{"name":"getPropertyValue","status":"FAIL"},{"name":"property access","status":"FAIL"}]}
