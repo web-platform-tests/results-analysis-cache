@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"deleteRow function invalid argument","status":"PASS"},{"name":"deleteRow function invalid argument bis","status":"PASS"},{"name":"check normal deleteRow","status":"PASS"},{"name":"check normal deleteRow bis","status":"PASS"},{"name":"deleteRow(-1) with no rows","status":"PASS"},{"name":"deleteRow(0) with no rows","status":"PASS"}]}
