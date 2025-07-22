@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window detach inside a navigate event signals event.signal","status":"FAIL"}]}
