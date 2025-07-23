@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"patching pseudo-class","status":"PASS"},{"name":"patching state change should invalidate style","status":"PASS"}]}
