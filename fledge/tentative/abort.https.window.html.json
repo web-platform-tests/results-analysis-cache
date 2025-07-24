@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Abort auction.","status":"FAIL"},{"name":"Abort triggered before auction started.","status":"FAIL"},{"name":"Abort signalled after auction completes.","status":"FAIL"},{"name":"Abort component auction.","status":"FAIL"}]}
