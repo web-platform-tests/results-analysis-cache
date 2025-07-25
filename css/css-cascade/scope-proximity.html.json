@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Alternating light/dark","status":"FAIL"},{"name":"Proximity wins over order of appearance","status":"FAIL"},{"name":"Specificity wins over proximity","status":"FAIL"},{"name":"Identical root with further proximity is not ignored","status":"FAIL"},{"name":"Most proximate match wins under multiple scoping roots","status":"FAIL"}]}
