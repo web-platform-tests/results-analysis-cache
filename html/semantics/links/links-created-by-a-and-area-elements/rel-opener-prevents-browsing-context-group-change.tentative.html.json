@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"rel=opener prevents browsing context group change","status":"PASS"},{"name":"opener window feature prevents browsing context group change","status":"PASS"}]}
