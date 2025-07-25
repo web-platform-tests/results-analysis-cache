@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Cross-partition Shared worker shouldn't be created from blob URL.","status":"FAIL"},{"name":"Cross-partition Dedicated worker shouldn't be created from blob URL.","status":"FAIL"}]}
