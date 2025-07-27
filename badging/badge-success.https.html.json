@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Resolves successfully for number input cases","status":"PASS"},{"name":"Resolves successfully for string input cases","status":"PASS"},{"name":"Resolves successfully for boolean input cases","status":"PASS"}]}
