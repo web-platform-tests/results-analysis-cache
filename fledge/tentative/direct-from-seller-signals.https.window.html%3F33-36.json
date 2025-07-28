@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test invalid directFromSellerSignals with duplicate values in response.","status":"FAIL"},{"name":"directFromSellerSignals slot named \"null\"","status":"FAIL"},{"name":"null directFromSellerSignals slot","status":"FAIL"}]}
