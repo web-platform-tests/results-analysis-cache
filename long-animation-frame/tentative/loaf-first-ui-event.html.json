@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"LoAF should expose firstUIEventTimestamp for click events","status":"PASS"},{"name":"LoAF should expose firstUIEventTimestamp for pointermove events","status":"PASS"},{"name":"firstUIEventTimestamp doesn't have to come from a long script","status":"PASS"}]}
