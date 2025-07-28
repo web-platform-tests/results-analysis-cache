@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"PC should enter connected (or completed) state when candidates are sent","status":"TIMEOUT"},{"name":"PC should generate offer with a=ice-options:trickle","status":"NOTRUN"},{"name":"PC should enter disconnected state when a failing candidate is sent","status":"NOTRUN"}]}
