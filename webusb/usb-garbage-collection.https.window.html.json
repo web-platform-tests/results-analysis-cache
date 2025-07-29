@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Run garbage collection when the device reference is out of scope","status":"PASS"}]}
