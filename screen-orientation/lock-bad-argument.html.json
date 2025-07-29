@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"screen.orientation.lock() must throw given invalid input.","status":"FAIL"},{"name":"screen.orientation.lock() must throw when the input is missing.","status":"FAIL"}]}
