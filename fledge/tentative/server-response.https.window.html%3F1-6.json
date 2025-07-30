@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Basic B&A auction","status":"FAIL"},{"name":"Basic B&A auction - nonces","status":"FAIL"},{"name":"Basic B&A auction - not authorized","status":"FAIL"},{"name":"Basic B&A auction with reporting URLs","status":"FAIL"},{"name":"Hybrid B&A auction","status":"FAIL"},{"name":"Hybrid B&A auction with reporting URLs","status":"FAIL"}]}
