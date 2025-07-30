@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"ws","status":"PASS"},{"name":"wss","status":"PASS"},{"name":"cross-origin","status":"PASS"},{"name":"redirect","status":"FAIL"}]}
