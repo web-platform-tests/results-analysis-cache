@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"abort before constructing should prevent connection","status":"PASS"},{"name":"abort during handshake should work","status":"PASS"},{"name":"abort after connect should do nothing","status":"PASS"}]}
