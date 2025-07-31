@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Parsing coop with capital letter","status":"PASS"},{"name":"Parsing coop with bad structured header 1","status":"PASS"},{"name":"Parsing coop with bad structured header 2","status":"PASS"},{"name":"Parsing coop with bad structured header 3","status":"PASS"}]}
