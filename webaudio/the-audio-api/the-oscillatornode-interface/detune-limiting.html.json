@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Oscillator with large detune produces 0 output at Nyquist or above","status":"FAIL"},{"name":"Oscillator with detune automation becomes silent above Nyquist","status":"FAIL"}]}
