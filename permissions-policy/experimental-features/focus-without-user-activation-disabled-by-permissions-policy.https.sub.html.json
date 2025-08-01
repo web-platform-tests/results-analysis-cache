@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Tab focus from parent frame into same-origin iframe is allowed with permissions policy \"focus-without-user-activation\" set to \"none\"","status":"TIMEOUT"}]}
