@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"prerendering pages should not be able to invoke the Screen Capture API","status":"TIMEOUT"}]}
