@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getBoundingClientRect.top","status":"PASS"},{"name":"getBoundingClientRect.height","status":"FAIL"},{"name":"elementFromPoint: 10px above the client rect","status":"FAIL"},{"name":"elementFromPoint: 10px below the client rect","status":"PASS"}]}
