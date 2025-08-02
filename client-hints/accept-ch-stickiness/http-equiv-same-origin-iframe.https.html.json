@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"http-equiv same origin iframe precondition: Test that the browser does not have client hints preferences cached","status":"FAIL"},{"name":"http-equiv same origin iframe set Accept-CH","status":"PASS"},{"name":"http-equiv same origin iframe got client hints according to expectations.","status":"FAIL"}]}
