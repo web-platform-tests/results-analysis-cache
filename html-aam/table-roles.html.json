@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"el-table","status":"FAIL"},{"name":"el-caption","status":"FAIL"},{"name":"el-tr-thead","status":"FAIL"},{"name":"el-th","status":"FAIL"},{"name":"el-tr-tbody","status":"FAIL"},{"name":"el-th-in-row","status":"FAIL"},{"name":"el-td","status":"FAIL"}]}
