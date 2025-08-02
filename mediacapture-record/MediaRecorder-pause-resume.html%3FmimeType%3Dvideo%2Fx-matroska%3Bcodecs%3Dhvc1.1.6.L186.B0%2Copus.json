@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"MediaRecorder handles pause() and resume() state and events, mimeType \"video/x-matroska;codecs=hvc1.1.6.L186.B0,opus\"","status":"FAIL"},{"name":"MediaRecorder handles stop() in paused state appropriately, mimeType \"video/x-matroska;codecs=hvc1.1.6.L186.B0,opus\"","status":"FAIL"}]}
