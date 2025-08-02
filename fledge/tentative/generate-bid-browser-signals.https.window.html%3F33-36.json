@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IG owner is default clickiness provider if nothing is specified","status":"FAIL"},{"name":"IG owner is default clickiness provider if empty list provided","status":"FAIL"},{"name":"browserSignals for clickiness --- just a click","status":"FAIL"},{"name":"browserSignals for clickiness --- no click report w/o user action","status":"FAIL"}]}
