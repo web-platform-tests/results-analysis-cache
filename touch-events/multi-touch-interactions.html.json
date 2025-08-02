@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"touchstart event received","status":"NOTRUN"},{"name":"touchmove event received","status":"NOTRUN"},{"name":"touchend event received","status":"NOTRUN"},{"name":"Interaction with mouse events","status":"FAIL"}]}
