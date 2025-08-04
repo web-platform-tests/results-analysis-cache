@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Clear timeout with clearInterval","status":"PASS"},{"name":"Clear interval with clearTimeout","status":"PASS"}]}
