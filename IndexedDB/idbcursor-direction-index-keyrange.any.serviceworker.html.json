@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IDBCursor direction - index with keyrange - next","status":"PASS"},{"name":"IDBCursor direction - index with keyrange - prev","status":"PASS"},{"name":"IDBCursor direction - index with keyrange - nextunique","status":"PASS"},{"name":"IDBCursor direction - index with keyrange - prevunique","status":"PASS"}]}
