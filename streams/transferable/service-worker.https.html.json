@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"service-worker","status":"PASS"},{"name":"serviceWorker.controller.postMessage should be able to transfer a ReadableStream","status":"PASS"},{"name":"postMessage in a service worker should be able to transfer ReadableStream","status":"PASS"}]}

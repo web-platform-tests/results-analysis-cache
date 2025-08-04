@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initially, the sibling-index() is 2 for #target","status":"PASS"},{"name":"Removing a preceding sibling of #target reduces the sibling-index()","status":"PASS"}]}
