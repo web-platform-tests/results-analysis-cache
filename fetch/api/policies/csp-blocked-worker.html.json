@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Fetch is blocked by CSP, got a TypeError","status":"FAIL"}]}
