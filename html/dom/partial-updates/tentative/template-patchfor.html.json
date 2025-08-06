@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"<template patchfor> should apply directly to its target","status":"PASS"},{"name":"<template patchfor> should work when chunked","status":"PASS"},{"name":"<template patchfor> should work when elements are sliced in the middle","status":"PASS"}]}
