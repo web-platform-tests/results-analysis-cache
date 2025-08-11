@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Two noopener window.open() calls create separate windows","status":"TIMEOUT"},{"name":"Two rel=noopener <a href> clicks create separate windows","status":"NOTRUN"}]}
