@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that playbackState is initialized as \"none\"","status":"FAIL"},{"name":"Test that playbackState is read/write","status":"FAIL"},{"name":"Test that warning is thrown when setting invalid playbackState","status":"FAIL"}]}
