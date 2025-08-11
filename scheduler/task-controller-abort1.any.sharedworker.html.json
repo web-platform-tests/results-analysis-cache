@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that TaskController.abort() prevents a task from running and rejects the promise","status":"FAIL"}]}
