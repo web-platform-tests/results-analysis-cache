@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"PressureObserver observe method doesnt throw error for sampleInterval value 0","status":"TIMEOUT"},{"name":"PressureObserver observe method requires a positive sampleInterval","status":"NOTRUN"},{"name":"PressureObserver observe method requires a sampleInterval in unsigned long range","status":"NOTRUN"}]}
