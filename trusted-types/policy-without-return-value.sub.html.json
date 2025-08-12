@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"createHTML with a policy that returns undefined","status":"FAIL"},{"name":"createScript with a policy that returns undefined","status":"FAIL"},{"name":"createScriptURL with a policy that returns undefined","status":"FAIL"}]}
