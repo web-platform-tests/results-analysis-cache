@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initial scroll position","status":"PASS"},{"name":"Scroll to 40,60","status":"FAIL"},{"name":"Reattach at 40,60","status":"PASS"},{"name":"Redisplay at 40,60","status":"FAIL"},{"name":"Scroll to 0,0 and relayout","status":"FAIL"},{"name":"Redisplay at 0,0","status":"PASS"}]}
