@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"clone within removed iframe should not crash","status":"PASS"}]}
