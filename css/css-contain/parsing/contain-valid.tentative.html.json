@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['contain'] = \"view-transition\" should set the property value","status":"FAIL"},{"name":"e.style['contain'] = \"view-transition layout\" should set the property value","status":"FAIL"},{"name":"e.style['contain'] = \"paint view-transition style\" should set the property value","status":"FAIL"}]}
