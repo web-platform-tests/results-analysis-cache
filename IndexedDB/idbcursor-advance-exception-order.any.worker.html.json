@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IDBCursor.advance exception order: TypeError vs. TransactionInactiveError","status":"FAIL"},{"name":"IDBCursor.advance exception order: TransactionInactiveError vs. InvalidStateError #1","status":"FAIL"},{"name":"IDBCursor.advance exception order: TransactionInactiveError vs. InvalidStateError #2","status":"FAIL"}]}
