@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"StorageBucketManager methods must reject in a sandboxed iframe.","status":"PASS"},{"name":"StorageBucketManager methods must reject in a sandboxed opened window.","status":"PASS"}]}
