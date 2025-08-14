@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"window.performance is defined","status":"PASS"},{"name":"window.performance.getEntriesByName is defined","status":"PASS"}]}
