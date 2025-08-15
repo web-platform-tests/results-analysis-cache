@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Fetch in worker: referrer with unsafe-url policy","status":"PASS"},{"name":"Request's referrer is the full url of current document/worker","status":"PASS"}]}
