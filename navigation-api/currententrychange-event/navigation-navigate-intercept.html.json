@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"currententrychange fires for navigation.navigate() intercepted by intercept()","status":"PASS"}]}
