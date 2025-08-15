@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"initiatorUrl by main html file","status":"TIMEOUT"},{"name":"initiatorUrl for resource by document.write()","status":"NOTRUN"}]}
