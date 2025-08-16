@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"User denies access, check that error callback is called with correct code","status":"PASS"}]}
