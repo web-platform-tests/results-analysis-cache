@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Event handler-bearing node moved across local roots and its event listeners still work","status":"PASS"}]}
