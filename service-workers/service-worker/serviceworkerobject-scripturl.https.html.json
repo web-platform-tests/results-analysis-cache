@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify the scriptURL property: relative","status":"FAIL"},{"name":"Verify the scriptURL property: with-fragment","status":"FAIL"},{"name":"Verify the scriptURL property: with-query","status":"FAIL"},{"name":"Verify the scriptURL property: absolute","status":"FAIL"}]}
