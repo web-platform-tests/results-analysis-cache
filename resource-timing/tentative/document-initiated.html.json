@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"initiatorUrl by main html file","status":"FAIL"},{"name":"initiatorUrl for resource by document.write()","status":"FAIL"}]}
