@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IdleDeadline::timeRemaining() uses relevant global object as a high-res timestamp origin","status":"PASS"}]}
