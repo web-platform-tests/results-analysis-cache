@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_channel[default]","status":"PASS"},{"name":"test_channel[with serializationOptions]","status":"PASS"},{"name":"test_channel[with ownership]","status":"PASS"},{"name":"test_channel_with_multiple_arguments","status":"PASS"},{"name":"test_two_channels","status":"PASS"},{"name":"test_channel_and_nonchannel_arguments","status":"PASS"}]}
