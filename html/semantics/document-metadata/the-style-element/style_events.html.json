@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"If the style is loaded successfully, the 'load' event must be fired","status":"PASS"},{"name":"If the style is loaded unsuccessfully, the 'error' event must be fired","status":"PASS"}]}
