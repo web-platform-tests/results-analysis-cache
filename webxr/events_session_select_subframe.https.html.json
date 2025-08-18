@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Ensures that an XRInputSources primary input being pressed and released in the space of a single frame properly fires off the right events - webgl","status":"FAIL"},{"name":"Ensures that an XRInputSources primary input being pressed and released in the space of a single frame properly fires off the right events - webgl2","status":"FAIL"}]}
