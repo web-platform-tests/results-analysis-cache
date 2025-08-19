@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"javascript: in src attribute should do nothing","status":"PASS"},{"name":"location.href = 'javascript:\"test\"' should fire a load event","status":"PASS"},{"name":"location.href = 'javascript:1' should not fire a load event","status":"PASS"}]}
