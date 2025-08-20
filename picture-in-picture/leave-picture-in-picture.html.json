@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"leavepictureinpicture event is fired if document.exitPictureInPicture","status":"PASS"},{"name":"leavepictureinpicture event is fired if video.disablePictureInPicture is set to true","status":"PASS"}]}
