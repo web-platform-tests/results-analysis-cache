@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"attachShadow with a default-namespaced element","status":"PASS"},{"name":"Test attachShadow with a namespaced element","status":"PASS"}]}
