@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Optionally, at the user agent's discretion, return a promise rejected with a \"NotAllowedError\" DOMException.","status":"FAIL"}]}
