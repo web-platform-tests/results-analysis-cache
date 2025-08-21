@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"shared storage iframe request disallowed in opaque origin from data URL","status":"PASS"}]}
