@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"new iframe: nonexistent host","status":"TIMEOUT"},{"name":"new iframe: X-Frame-Options prevents embedding","status":"PASS"},{"name":"navigating an existing iframe: nonexistent host","status":"TIMEOUT"},{"name":"navigating an existing iframe: X-Frame-Options prevents embedding","status":"PASS"}]}
