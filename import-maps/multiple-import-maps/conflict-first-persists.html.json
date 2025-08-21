@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"First defined rule persists in case of conflict","status":"PASS"},{"name":"First defined rule persists in case of conflict - prefixed bare specifiers","status":"PASS"},{"name":"First defined rule persists in case of conflict - non-prefix bare specifier","status":"PASS"}]}
