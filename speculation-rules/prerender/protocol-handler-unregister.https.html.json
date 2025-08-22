@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"prerendering page unregisterProtocolHandler call defers registration until activation.","status":"PASS"}]}
