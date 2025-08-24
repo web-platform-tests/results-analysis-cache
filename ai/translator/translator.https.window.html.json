@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"If monitor throws an error, LanguageDetector.create() rejects with that error","status":"FAIL"}]}
