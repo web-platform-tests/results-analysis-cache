@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Properties with out-of-bounds values should be corrected","status":"FAIL"},{"name":"Properties with values in bounds should not be modified","status":"PASS"}]}
