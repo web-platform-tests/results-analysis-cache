@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Grants have per-frame scope","status":"TIMEOUT"},{"name":"Cross-site sibling iframes should not be able to take advantage of the existing permission grant requested by others.","status":"NOTRUN"}]}
