@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Rewriter.availability() is defined","status":"PASS"},{"name":"Rewriter.availability() returns a valid value with no options","status":"PASS"},{"name":"Rewriter.availability() returns a valid value with plausible options","status":"PASS"},{"name":"Rewriter.availability() rejects when given invalid language tags","status":"PASS"}]}
