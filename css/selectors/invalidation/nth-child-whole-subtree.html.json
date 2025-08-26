@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CSS Selectors Invalidation: :nth-child(... of :not()) combined with whole subtree invalidation","status":"FAIL"}]}
