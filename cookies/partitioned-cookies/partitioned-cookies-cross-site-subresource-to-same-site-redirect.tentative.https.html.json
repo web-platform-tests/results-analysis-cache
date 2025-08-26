@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Partitioned cookies are sent in embedded cross-site to same-site redirects","status":"PASS"}]}
