@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The interactionId of the first input entry should match the same pointerdown entry of event timing when click.","status":"PASS"}]}
