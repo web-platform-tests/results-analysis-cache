@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Uses the same browser bound key authentication as enrollment.","status":"FAIL"},{"name":"If ES256 is supported, the browser bound key is the same during authentication as enrollment.","status":"FAIL"},{"name":"If RS256 is supported, the browser bound key is the same during authentication as enrollment.","status":"FAIL"}]}
