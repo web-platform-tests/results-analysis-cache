@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"::before pseudo element querying style() of originating element","status":"PASS"},{"name":"::before pseudo element not matching style()","status":"PASS"},{"name":"::before pseudo element matching style() query after class change","status":"PASS"}]}
