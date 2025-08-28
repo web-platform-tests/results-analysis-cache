@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Outer animation can see scroll timeline defined by :host","status":"PASS"},{"name":"Outer animation can see scroll timeline defined by ::slotted","status":"PASS"},{"name":"Inner animation can see scroll timeline defined by ::part","status":"PASS"},{"name":"Slotted element can see scroll timeline within the shadow","status":"PASS"}]}
