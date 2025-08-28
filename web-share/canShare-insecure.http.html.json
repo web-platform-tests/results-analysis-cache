@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.canShare must be undefined in non-secure context","status":"PASS"}]}
