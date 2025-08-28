@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"InterestGroup.auctionServerRequestFlags has multiple values.","status":"FAIL"},{"name":"InterestGroup.auctionServerRequestFlags.","status":"FAIL"},{"name":"InterestGroup.adComponents duplicate ad.","status":"FAIL"}]}
