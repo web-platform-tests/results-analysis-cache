@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Parsing of initial style attribute","status":"FAIL"},{"name":"Parsing of invalid style attribute","status":"FAIL"},{"name":"Parsing of style attribute","status":"FAIL"},{"name":"Update style.backgroundColor","status":"FAIL"}]}
