@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Testcase #0 with xmlDoc.setHTML(\"Hello!\")","status":"PASS"},{"name":"Testcase #1 with xmlDoc.setHTML(\"<br>\")","status":"PASS"},{"name":"Testcase #2 with xmlDoc.setHTML(\"<p>Hi</p>\")","status":"PASS"},{"name":"Testcase #3 with xmlDoc.setHTML(\"<iframe></iframe><p>text</p>\")","status":"PASS"}]}
