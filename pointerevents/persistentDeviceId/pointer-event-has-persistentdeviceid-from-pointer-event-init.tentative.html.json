@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"PointerEvent.persistentDeviceId via PointerEventInit","status":"PASS"},{"name":"No persistentDeviceId in PointerEventInit","status":"PASS"}]}
