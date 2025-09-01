@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"shadowRoot must be defined on Element prototype","status":"PASS"},{"name":"shadowRoot attribute must return the open shadow root associated with the element","status":"PASS"},{"name":"shadowRoot attribute must return null if the shadow root attached to the element is closed","status":"PASS"}]}
