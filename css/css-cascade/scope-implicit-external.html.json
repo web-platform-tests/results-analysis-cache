@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"@scope with external stylesheet through link element","status":"PASS"},{"name":"@scope with external stylesheet through @import","status":"PASS"}]}
