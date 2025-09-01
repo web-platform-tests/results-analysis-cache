@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Setting location from document.write() call should not trigger load event until that load completes","status":"PASS"}]}
