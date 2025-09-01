@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Child frame should have no required policy by default.","status":"PASS"},{"name":"Child frame can have an explicit required policy.","status":"FAIL"}]}
