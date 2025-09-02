@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"PerformanceObserver.supportedEntryTypes exists","status":"PASS"},{"name":"'mark' entries should be observable","status":"PASS"},{"name":"'measure' entries should be observable","status":"PASS"},{"name":"'resource' entries should be observable","status":"PASS"}]}
