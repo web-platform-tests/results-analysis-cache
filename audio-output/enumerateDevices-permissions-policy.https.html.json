@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"permissions policy on enumerateDevices() after getUserMedia()","status":"FAIL"}]}
