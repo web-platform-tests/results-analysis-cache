@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Permission queries without an origin are rejected","status":"PASS"},{"name":"Permission default state can be queried","status":"PASS"}]}
