@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The active service worker in charge of a navigation load should not be terminated as part of updating the registration","status":"PASS"}]}
