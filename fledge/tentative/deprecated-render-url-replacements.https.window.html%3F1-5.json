@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Replacements with brackets.","status":"FAIL"},{"name":"Replacements with percents.","status":"FAIL"},{"name":"Multiple replacements within a URL.","status":"FAIL"},{"name":"Recursive and reduce size with brackets.","status":"FAIL"},{"name":"Recursive and increase size with brackets.","status":"FAIL"}]}
