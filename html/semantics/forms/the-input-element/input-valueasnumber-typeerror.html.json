@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"valueAsNumber = Infinity (input type does apply)","status":"PASS"},{"name":"valueAsNumber = -Infinity (input type does apply)","status":"PASS"},{"name":"valueAsNumber = Infinity (input type does not apply)","status":"PASS"},{"name":"valueAsNumber = -Infinity (input type does not apply)","status":"PASS"}]}
