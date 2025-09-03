@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"permissions policy allow=\"battery\" allows same-origin relocation.","status":"PASS"},{"name":"permissions policy allow=\"battery\" disallows cross-origin relocation.","status":"FAIL"}]}
