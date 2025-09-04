@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IDBRequest.result throws if ready state is pending","status":"PASS"}]}

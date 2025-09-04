@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"allowTargetOrigin with fake dataTransfer should block events","status":"FAIL"}]}
