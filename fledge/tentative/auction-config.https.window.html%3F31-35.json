@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"only one interestGroupBuyer is invalid","status":"PASS"},{"name":"only one interestGroupBuyer is not https","status":"PASS"},{"name":"auctionSignals is invalid as JSON","status":"PASS"},{"name":"sellerSignals is invalid as JSON","status":"PASS"},{"name":"perBuyerSignals has invalid URL in a key","status":"PASS"}]}
