@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Starting history.length for window.open()","status":"PASS"},{"name":"Starting history.length for window.open(about:blank)","status":"PASS"},{"name":"Starting history.length for window.open(url-with-204-response)","status":"PASS"}]}
