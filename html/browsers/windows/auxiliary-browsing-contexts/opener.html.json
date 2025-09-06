@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Newly-created auxiliary browsing context should report `window.opener`","status":"PASS"},{"name":"Browsing context created with `window.open` should report `window.opener`","status":"PASS"}]}
