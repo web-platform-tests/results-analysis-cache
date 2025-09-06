@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"mediaDevices.getUserMedia() is present on navigator","status":"PASS"}]}
