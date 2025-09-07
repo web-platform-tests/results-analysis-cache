@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Default appearance value","status":"FAIL"},{"name":"Default appearance value: display:none","status":"PASS"},{"name":"appearance:none should work","status":"FAIL"},{"name":"appearance:none should work: display gets its initial value","status":"FAIL"}]}
