@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"An automatic beacon does not use data set by a same-origin sibling.","status":"FAIL"}]}
