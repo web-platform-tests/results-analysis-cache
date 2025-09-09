@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Reloaded same-host top-level form POSTs are strictly same-site","status":"TIMEOUT"},{"name":"Reloaded subdomain top-level form POSTs are strictly same-site","status":"NOTRUN"},{"name":"Reloaded cross-site top-level form POSTs are strictly same-site","status":"NOTRUN"}]}
