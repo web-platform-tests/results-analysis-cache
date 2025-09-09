@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"valueAsDate setter with non-Date object (input type date)","status":"FAIL"},{"name":"valueAsDate setter with non-Date object (input type time)","status":"FAIL"},{"name":"valueAsDate setter with non-Date object (input type text)","status":"FAIL"},{"name":"valueAsDate setter with non-Date object (input type text)","status":"FAIL"}]}
