@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The popover attribute, on an element with no implicit role, then the element's role instead maps to group.","status":"FAIL"},{"name":"Dynamic changes to popover attribute should change the role.","status":"FAIL"}]}
