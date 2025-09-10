@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Service worker controlled navigation timing","status":"FAIL"},{"name":"Service worker controlled navigation timing network fallback","status":"FAIL"},{"name":"Service worker controlled navigation timing redirect","status":"FAIL"}]}
