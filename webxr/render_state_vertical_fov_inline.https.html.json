@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"inlineVerticalFieldOfView is set appropriately on inline sessions - webgl","status":"PASS"},{"name":"inlineVerticalFieldOfView is set appropriately on inline sessions - webgl2","status":"PASS"}]}
