@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Style query on #target should query parent element","status":"FAIL"},{"name":"Style query on ::before should query originating element","status":"FAIL"}]}
