@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"If an element with an associated EditContext loses focus, the EditContext is deactivated even when another focus change was triggered recursively.","status":"FAIL"}]}
