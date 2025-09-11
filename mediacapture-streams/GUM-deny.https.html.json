@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Tests that the error callback is triggered when permission is denied","status":"FAIL"}]}
