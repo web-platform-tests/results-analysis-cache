@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"window.open() makes a different Navigator object thus getting another battery promise","status":"TIMEOUT"}]}
