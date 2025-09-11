@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"xsl:document function disabled in transformToFragment","status":"PASS"},{"name":"xsl:document function disabled in transformToDocument","status":"PASS"}]}
