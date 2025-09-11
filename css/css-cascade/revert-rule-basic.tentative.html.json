@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The revert-rule keyword rolls back to the previous rule","status":"PASS"},{"name":"Cascade order determines the previous rule, not order of appearance","status":"PASS"},{"name":"Reverting from style attribute reverts to regular rules","status":"PASS"},{"name":"A chain of revert-rule works","status":"PASS"}]}
