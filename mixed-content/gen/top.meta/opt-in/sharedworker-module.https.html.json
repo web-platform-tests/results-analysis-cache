@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Mixed-Content: Expects allowed for sharedworker-module to same-https origin and no-redirect redirection from https context.","status":"FAIL"},{"name":"Mixed-Content: Expects blocked for sharedworker-module to same-http origin and no-redirect redirection from https context.","status":"PASS"}]}
