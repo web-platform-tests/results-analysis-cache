@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"selection for auto","status":"PASS"},{"name":"selection for text","status":"TIMEOUT"},{"name":"selection for none","status":"NOTRUN"},{"name":"selection for contain","status":"NOTRUN"},{"name":"selection for all","status":"NOTRUN"}]}
