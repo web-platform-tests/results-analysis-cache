@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"pointerrawupdate event is not fired","status":"TIMEOUT"},{"name":"onpointerrawupdate is not exposed","status":"NOTRUN"}]}
