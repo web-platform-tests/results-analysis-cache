@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A trailing semicolon is allowed in the 'keyTimes' attribute","status":"FAIL"}]}
