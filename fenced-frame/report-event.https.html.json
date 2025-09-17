@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that window.fence.reportEvent() succeeds in a fenced frame.","status":"FAIL"}]}
