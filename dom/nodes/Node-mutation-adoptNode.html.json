@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"simple append of foreign div with text","status":"PASS"},{"name":"Adopting an element into a different document update's the element's owner doc as well as the owner docs of it's attributes","status":"PASS"}]}
