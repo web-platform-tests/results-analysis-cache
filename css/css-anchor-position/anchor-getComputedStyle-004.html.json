@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"position-area does not affect resolved inset properties","status":"PASS"},{"name":"'auto' inset properties resolve to 0px when position-area is non-initial","status":"PASS"}]}
