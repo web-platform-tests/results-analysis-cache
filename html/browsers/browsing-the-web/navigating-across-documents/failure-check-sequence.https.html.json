@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CSP check precedes X-Frame-Options check","status":"PASS"},{"name":"CSP check precedes COEP check - CSP header first","status":"PASS"},{"name":"CSP check precedes COEP check - COEP header first","status":"PASS"},{"name":"COEP check precedes X-Frame-Options check","status":"FAIL"}]}
