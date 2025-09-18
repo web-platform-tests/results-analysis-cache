@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"background-origin_initial","status":"PASS"},{"name":"background-origin_border-box","status":"PASS"},{"name":"background-origin_padding-box","status":"PASS"},{"name":"background-origin_content-box","status":"PASS"}]}
