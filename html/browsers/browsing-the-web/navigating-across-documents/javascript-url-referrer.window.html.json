@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"unsafe-url referrer policy used to create the starting page","status":"PASS"},{"name":"origin referrer policy used to create the starting page","status":"PASS"},{"name":"no-referrer referrer policy used to create the starting page","status":"PASS"}]}
