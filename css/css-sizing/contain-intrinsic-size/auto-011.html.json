@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"contain:size does not prevent recording last remembered size","status":"PASS"},{"name":"contain:inline-size does not prevent recording last remembered inline size","status":"PASS"}]}
