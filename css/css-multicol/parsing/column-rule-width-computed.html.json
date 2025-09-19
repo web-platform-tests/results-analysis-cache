@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property column-rule-width value 'calc(10px + 0.5em)'","status":"FAIL"},{"name":"Property column-rule-width value 'calc(10px - 0.5em)'","status":"FAIL"},{"name":"column-rule-width is as specified when column-rule-style is none or hidden","status":"FAIL"}]}
