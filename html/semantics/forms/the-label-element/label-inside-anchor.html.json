@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"click on inline element inside a label that's placed inside a anchor should trigger default label behavior","status":"PASS"}]}
