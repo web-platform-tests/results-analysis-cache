@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"global setup","status":"TIMEOUT"},{"name":"respondWith in a task throws InvalidStateError","status":"NOTRUN"},{"name":"respondWith in a microtask does not throw","status":"NOTRUN"},{"name":"global cleanup","status":"NOTRUN"}]}
