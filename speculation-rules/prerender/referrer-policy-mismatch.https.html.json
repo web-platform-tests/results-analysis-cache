@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"prerendered with \"strict-origin-when-cross-origin\", activated with \"no-referrer\"","status":"PASS"},{"name":"prerendered with \"strict-origin-when-cross-origin\", activated with \"strict-origin\"","status":"PASS"},{"name":"prerendered with \"strict-origin\", activated with \"unsafe-url\"","status":"PASS"}]}
