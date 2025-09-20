@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test that orientationchange event is not fired when the orientation does not change.","status":"TIMEOUT"},{"name":"Test that orientationchange event is fired when the orientation changes.","status":"NOTRUN"}]}
