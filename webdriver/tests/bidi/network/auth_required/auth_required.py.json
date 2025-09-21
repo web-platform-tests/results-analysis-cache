@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_subscribe_status","status":"FAIL"},{"name":"test_no_authentication","status":"FAIL"},{"name":"test_request_timing_info","status":"FAIL"},{"name":"test_with_wrong_credentials","status":"FAIL"}]}
