@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Getting spellcheck IDL attribute","status":"FAIL"},{"name":"Setting spellcheck IDL attribute to true","status":"FAIL"},{"name":"Setting spellcheck IDL attribute to false","status":"FAIL"}]}
