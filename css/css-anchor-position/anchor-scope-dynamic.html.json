@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"anchor-scope:all appearing dynamically","status":"FAIL"},{"name":"anchor-scope:--a appearing dynamically","status":"FAIL"},{"name":"anchor-scope:--b appearing dynamically (--b never referenced)","status":"FAIL"},{"name":"anchor-scope:--a appearing dynamically scopes only --a","status":"FAIL"}]}

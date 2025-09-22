@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SameSite=None cookies should be allowed in the iframe by the `allow-same-site-none-cookies` value","status":"FAIL"},{"name":"SameSite=None cookies are not present in a frame with a cross-site ancestor (A->B->A)","status":"TIMEOUT"},{"name":"Intermediate Frame","status":"PASS"}]}
