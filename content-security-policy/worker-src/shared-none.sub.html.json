@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Same-origin shared worker blocked by 'none'.","status":"TIMEOUT"},{"name":"blob: shared worker blocked by 'none'.","status":"TIMEOUT"}]}
