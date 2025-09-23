@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Streaming into node.patchAll() updates subtree by ID","status":"FAIL"},{"name":"IDs are scoped to the patchAll target","status":"FAIL"},{"name":"ID of the root node itself is ignored","status":"FAIL"}]}
