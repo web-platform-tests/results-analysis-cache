@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"the access to the Battery Status API should be deferred until the\n   prerendered page is activated","status":"PASS"}]}
