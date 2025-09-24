@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"ForEach Check","status":"PASS"},{"name":"For-of Check","status":"PASS"},{"name":"empty","status":"PASS"},{"name":"delete next param during iteration","status":"PASS"},{"name":"delete current param during iteration","status":"PASS"},{"name":"delete every param seen during iteration","status":"PASS"}]}
