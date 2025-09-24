@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test that image does not load","status":"PASS"},{"name":"Buffer filled","status":"FAIL"},{"name":"Event is fired","status":"TIMEOUT"},{"name":"CSP Report limits were honored","status":"FAIL"},{"name":"Test Report limits were honored","status":"FAIL"},{"name":"Combined report limits were honored","status":"FAIL"}]}
