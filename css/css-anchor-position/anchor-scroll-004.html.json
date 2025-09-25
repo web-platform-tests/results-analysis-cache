@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initial position of the targets","status":"FAIL"},{"name":"#target1 should scroll with #anchor1","status":"FAIL"},{"name":"#target2 should scroll with #anchor2","status":"FAIL"}]}
