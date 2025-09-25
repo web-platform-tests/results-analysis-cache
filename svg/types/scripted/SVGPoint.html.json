@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SVGPoint interface, 'x' and 'y' attributes","status":"PASS"},{"name":"SVGPoint interface, matrixTransform()","status":"PASS"}]}
