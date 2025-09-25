@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A sticky element should not be affected by ancestor padding until it reaches it","status":"PASS"},{"name":"A sticky element should be offset by ancestor padding even when stuck","status":"PASS"},{"name":"Ancestor overflow padding does not allow a sticky element to escape its container","status":"FAIL"}]}

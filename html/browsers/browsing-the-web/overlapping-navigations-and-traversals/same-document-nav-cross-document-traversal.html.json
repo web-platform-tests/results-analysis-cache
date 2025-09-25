@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"fragment navigation then go(-2)","status":"TIMEOUT"},{"name":"pushState then go(-2)","status":"NOTRUN"}]}
