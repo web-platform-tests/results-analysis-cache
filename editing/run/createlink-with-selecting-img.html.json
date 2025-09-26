@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"createLink should wrap the <img style=\"display:inline>\"","status":"FAIL"},{"name":"createLink should wrap the <img style=\"display:block>\"","status":"FAIL"},{"name":"createLink should wrap the <img style=\"display:inline-block>\"","status":"FAIL"}]}
