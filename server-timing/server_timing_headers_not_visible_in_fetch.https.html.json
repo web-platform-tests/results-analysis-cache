@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Server-Timing headers should be explicitly allowed by CORS","status":"PASS"}]}
