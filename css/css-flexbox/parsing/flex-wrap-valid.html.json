@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['flex-wrap'] = \"nowrap\" should set the property value","status":"PASS"},{"name":"e.style['flex-wrap'] = \"wrap\" should set the property value","status":"PASS"},{"name":"e.style['flex-wrap'] = \"wrap-reverse\" should set the property value","status":"PASS"}]}
