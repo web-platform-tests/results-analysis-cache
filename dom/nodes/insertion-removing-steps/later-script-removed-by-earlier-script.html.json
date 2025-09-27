@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A later-inserted script removed by an earlier-inserted script in the same document fragment should not run","status":"PASS"},{"name":"A later-inserted script removed by an earlier-inserted script in the same append() call should not run","status":"PASS"}]}
