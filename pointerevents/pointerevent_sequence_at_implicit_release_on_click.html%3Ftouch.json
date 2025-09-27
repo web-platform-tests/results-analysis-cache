@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"touch Boundary events are emitted after lostpointercapture","status":"FAIL"},{"name":"No extra events are emitted","status":"PASS"}]}

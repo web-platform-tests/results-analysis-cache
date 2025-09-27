@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Host wildcard doesn't affect scheme matching.","status":"FAIL"},{"name":"Host wildcard allows arbitrary hosts (www1).","status":"PASS"},{"name":"Host wildcard allows arbitrary hosts (www2).","status":"PASS"}]}
