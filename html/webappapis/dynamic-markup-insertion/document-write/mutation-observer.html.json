@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Mutation observer for classic script element","status":"PASS"},{"name":"Mutation observer for module script element","status":"PASS"},{"name":"Mutation observer for async script element","status":"PASS"},{"name":"Mutation observer for defer script element","status":"PASS"}]}
