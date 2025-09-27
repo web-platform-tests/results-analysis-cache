@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"different path name","status":"PASS"},{"name":"same path name, no document fragment","status":"PASS"},{"name":"same path name, different document fragment","status":"PASS"},{"name":"same path name, no document fragement (intermediary browsing context)","status":"PASS"}]}
