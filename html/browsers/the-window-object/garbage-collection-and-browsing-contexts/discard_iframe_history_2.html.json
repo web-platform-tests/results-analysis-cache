@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Removing iframe from document via innerHTML removes it from history","status":"FAIL"}]}
