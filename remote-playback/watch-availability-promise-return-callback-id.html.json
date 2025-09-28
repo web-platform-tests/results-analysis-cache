@@ -1,0 +1,1 @@
+{"status":"CRASH","subtests":[{"name":"Test that the Promise returned by watchAvailability() resolves with a numeric callback id.","status":"FAIL"}]}
