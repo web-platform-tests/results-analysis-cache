@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"label with for attribute should proxy click events to the associated element","status":"PASS"},{"name":"label without for attribute should proxy click events to the first labelable child","status":"PASS"},{"name":"clicking a label that prevents the event's default should not proxy click events","status":"PASS"}]}
