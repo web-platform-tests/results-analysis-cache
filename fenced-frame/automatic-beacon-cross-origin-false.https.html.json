@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Automatic beacon in a cross-origin subframe should send without data when crossOrigin=false.","status":"FAIL"}]}
