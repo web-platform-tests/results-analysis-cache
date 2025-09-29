@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A custom property with <number>|<percentage> syntax should not transition between values of the different types","status":"FAIL"}]}
