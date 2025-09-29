@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"PeerConnection MediaRecorder receives data after onstart, kinds \"video,audio \"mimeType \"video/mp4;codecs=avc3.64003E,mp4a.40.2\"","status":"TIMEOUT"},{"name":"PeerConnection MediaRecorder gets ondata on stopping tracks, kinds \"video,audio \"mimeType \"video/mp4;codecs=avc3.64003E,mp4a.40.2\"","status":"NOTRUN"}]}
