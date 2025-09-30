@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"COEP support on SharedWorker.","status":"FAIL"},{"name":"COEP-Report-Only support on SharedWorker.","status":"FAIL"}]}
