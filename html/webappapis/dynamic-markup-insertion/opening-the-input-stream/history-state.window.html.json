@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"history.state is kept by document.open()","status":"PASS"},{"name":"history.state is kept by document.open() (with historical replace parameter set)","status":"PASS"}]}
