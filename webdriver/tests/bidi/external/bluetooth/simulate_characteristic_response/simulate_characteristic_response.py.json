@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_simulate_characteristic_write_event[write_type0]","status":"ERROR"},{"name":"test_simulate_characteristic_write_event[write_type1]","status":"ERROR"},{"name":"test_simulate_characteristic_read_event","status":"ERROR"},{"name":"test_simulate_characteristic_notification_event","status":"ERROR"}]}
