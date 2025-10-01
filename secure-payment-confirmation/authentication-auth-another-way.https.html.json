@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Choose to auth another way without matching credential","status":"FAIL"},{"name":"Choose to auth another way when credential matched","status":"FAIL"}]}
