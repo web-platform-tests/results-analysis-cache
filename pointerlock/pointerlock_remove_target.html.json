@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that pointer lock will be lost when taking the target element out of the DOM.","status":"PASS"}]}
