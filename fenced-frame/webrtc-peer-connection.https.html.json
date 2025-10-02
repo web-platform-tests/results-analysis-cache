@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that RTCPeerConnection construction fails in a fenced frame.","status":"FAIL"}]}
