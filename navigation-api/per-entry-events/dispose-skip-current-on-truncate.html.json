@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Removing a currentEntry from the joint session history shouldn't dispose it","status":"FAIL"}]}
