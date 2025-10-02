@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"@keyframes is unaffected by @scope","status":"PASS"},{"name":"@keyframes is unaffected by non-matching @scope","status":"PASS"},{"name":"@property is unaffected by @scope","status":"PASS"},{"name":"@property is unaffected by non-matching @scope","status":"PASS"}]}
