@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SVGAnimatedAngle, initial values, SVGMarkerElement.prototype.orientAngle (remove)","status":"PASS"},{"name":"SVGAnimatedAngle, initial values, SVGMarkerElement.prototype.orientAngle (invalid value)","status":"PASS"}]}
