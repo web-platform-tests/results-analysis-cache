@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test type of close function.","status":"PASS"},{"name":"Test sending a message after closing.","status":"PASS"},{"name":"Test errors are delivered after close.","status":"PASS"},{"name":"Test workers do not deliver pending events.","status":"PASS"},{"name":"Test terminating a worker after close.","status":"PASS"}]}
