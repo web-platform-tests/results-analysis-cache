@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Fixed-position intersection observer on scroll","status":"PASS"},{"name":"First rAF.","status":"PASS"},{"name":"scrollTo(0, 1000)","status":"FAIL"}]}
