@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test isConfigSupported() and configure() using a SharedArrayBuffer","status":"PASS"},{"name":"Test isConfigSupported() and configure() using a Uint8Array(SharedArrayBuffer)","status":"PASS"}]}
