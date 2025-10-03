@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"resizeTo(-1, -1) might shrink window size, but it stays positive","status":"PASS"}]}
