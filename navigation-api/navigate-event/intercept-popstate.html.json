@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"event.intercept() should provide popstate with a valid state object","status":"TIMEOUT"}]}

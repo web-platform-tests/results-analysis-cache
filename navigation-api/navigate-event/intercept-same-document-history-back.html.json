@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"event.intercept() can intercept same-document history.back()","status":"TIMEOUT"}]}
