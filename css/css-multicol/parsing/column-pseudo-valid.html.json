@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"\"::column\" should be a valid selector","status":"PASS"},{"name":"\"::column::scroll-marker\" should be a valid selector","status":"PASS"},{"name":"\"::before::column\" should be a valid selector","status":"FAIL"},{"name":"\"::before::column::scroll-marker\" should be a valid selector","status":"FAIL"}]}
