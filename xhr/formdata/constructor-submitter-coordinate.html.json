@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The constructed FormData object should contain correct entries for Image Button submitter's dispatched coordinate","status":"FAIL"}]}
