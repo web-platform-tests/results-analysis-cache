@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Selectionchange event is fired after removing the character","status":"TIMEOUT"},{"name":"Selectionchange event is fired after removing the range","status":"NOTRUN"}]}
