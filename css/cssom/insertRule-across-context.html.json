@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The constructor of inserted rule object must be from iframe","status":"PASS"},{"name":"The constructor of inserted rule object must be from iframe for new CSSStyleSheet()","status":"PASS"}]}
