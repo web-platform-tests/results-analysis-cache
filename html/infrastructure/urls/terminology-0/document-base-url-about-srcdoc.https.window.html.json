@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"allow-same-origin","status":"PASS"},{"name":"disallow-same-origin","status":"TIMEOUT"}]}
