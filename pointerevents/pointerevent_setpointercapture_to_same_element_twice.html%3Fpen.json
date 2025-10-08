@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A repeated setPointerCapture call does not redispatch capture events","status":"PASS"},{"name":"A failed setPointerCapture call does not affect existing capture","status":"PASS"}]}
