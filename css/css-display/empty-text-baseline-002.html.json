@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Empty content pseudo-element does not generate baseline","status":"PASS"},{"name":"Empty content pseudo-element does not generate baseline with white-space: pre","status":"PASS"}]}
