@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['stroke-miterlimit'] = \"1.\" should not set the property value","status":"PASS"},{"name":"e.style['stroke-miterlimit'] = \"2 3\" should not set the property value","status":"PASS"},{"name":"e.style['stroke-miterlimit'] = \"-4\" should not set the property value","status":"PASS"}]}
