@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Fenced frame's service workers can control fenced frame's dedicated workers","status":"FAIL"},{"name":"Fenced frame's service workers can not control the dedicated workers in the parent frame","status":"FAIL"},{"name":"Service workers in the parent frame of fenced frames can not control dedicated workers in fenced frames","status":"FAIL"}]}
