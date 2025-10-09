@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Do not crash when setting an invalid @font-face descriptor via CSSOM","status":"PASS"}]}
