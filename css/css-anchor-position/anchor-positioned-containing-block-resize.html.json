@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initial anchored position","status":"PASS"},{"name":"Anchored position after resizing the containing block","status":"PASS"}]}
