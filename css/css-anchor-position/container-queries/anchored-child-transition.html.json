@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initial scale is 1","status":"PASS"},{"name":"Start transition of scale property on anchored child","status":"PASS"}]}
