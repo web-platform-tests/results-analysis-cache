@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that javascript: evaluation only performs a navigation to the\n  result when the result is a string value.","status":"PASS"}]}
