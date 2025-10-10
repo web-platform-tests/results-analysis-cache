@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Parents embeds a CSP:frame-ancestors credentialless iframe","status":"FAIL"}]}
