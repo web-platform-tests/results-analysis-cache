@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check that scroll-state(scrolled) state before scrolling","status":"FAIL"},{"name":"scrollTop and scrollLeft scrolls should not affect scroll-state(scrolled)","status":"FAIL"},{"name":"scrollTo scrolls should not affect scroll-state(scrolled)","status":"FAIL"}]}
