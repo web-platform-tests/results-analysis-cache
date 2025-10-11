@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IDBCursor direction - object store with keyrange - next","status":"FAIL"},{"name":"IDBCursor direction - object store with keyrange - prev","status":"FAIL"},{"name":"IDBCursor direction - object store with keyrange - nextunique","status":"FAIL"},{"name":"IDBCursor direction - object store with keyrange - prevunique","status":"FAIL"}]}
