@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"elementsFromPoint for a point inside two rects","status":"FAIL"},{"name":"elementsFromPoint for a point inside two rects that are inside a <g>","status":"FAIL"},{"name":"elementsFromPoint for a point inside two images","status":"FAIL"},{"name":"elementsFromPoint for a point inside transformed rects and <g>","status":"FAIL"}]}
