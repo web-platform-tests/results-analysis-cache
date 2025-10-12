@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Face - detect(HTMLVideoElement)","status":"TIMEOUT"},{"name":"Barcode - detect(HTMLVideoElement)","status":"NOTRUN"},{"name":"Text - detect(HTMLVideoElement)","status":"NOTRUN"}]}
