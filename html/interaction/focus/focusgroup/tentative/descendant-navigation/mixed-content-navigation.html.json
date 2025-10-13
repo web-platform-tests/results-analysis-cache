@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Navigation should skip non-focusable descendants and only move between focusable items","status":"FAIL"},{"name":"Backward navigation should skip non-focusable descendants","status":"FAIL"},{"name":"Vertical navigation should work correctly with mixed focusable/non-focusable content","status":"FAIL"}]}
