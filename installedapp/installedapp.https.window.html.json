@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check calling getInstalledRelatedApps works as expected","status":"PASS"},{"name":"Calling getInstalledrelatedApps from an iframe fails","status":"PASS"}]}
