@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.getBattery() does not operate on a closed window","status":"PASS"},{"name":"navigator.getBattery() on a detached frame does not leak or crash","status":"PASS"}]}
