@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Shadow root reference target works with commandfor attribute.","status":"FAIL"},{"name":"Shadow root reference target works with commandfor attribute via options.","status":"FAIL"},{"name":"Shadow root reference target works with .commandForElement property.","status":"FAIL"}]}
