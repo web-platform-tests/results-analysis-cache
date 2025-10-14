@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The transform property with ease on ::view-transition-group()","status":"PASS"},{"name":"The sizing properties with linear on ::view-transition-group()","status":"PASS"},{"name":"Changing the timing function of ::view-transition-group() when animating","status":"PASS"}]}
