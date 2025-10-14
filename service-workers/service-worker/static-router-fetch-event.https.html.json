@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Main resource matched the rule with fetch-event source","status":"FAIL"},{"name":"Subresource load matched the rule fetch-event source","status":"PASS"}]}
