@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property page value 'auto'","status":"PASS"},{"name":"Property page value 'AUTO'","status":"PASS"},{"name":"Property page value 'blablabla'","status":"PASS"},{"name":"Property page value 'BLABLABLA'","status":"PASS"},{"name":"Property page value 'table'","status":"PASS"},{"name":"Property page value 'TABLE'","status":"PASS"}]}
