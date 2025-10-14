@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A table with 'overflow-anchor: none' shouldn't generate any scroll anchor candidates.","status":"PASS"}]}
