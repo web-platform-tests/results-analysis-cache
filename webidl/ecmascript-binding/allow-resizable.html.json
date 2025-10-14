@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"APIs without [AllowResizable] throw when passed resizable ArrayBuffers","status":"FAIL"},{"name":"APIs with [AllowShared] but without [AllowResizable] throw when passed growable SharedArrayBuffers","status":"FAIL"}]}
