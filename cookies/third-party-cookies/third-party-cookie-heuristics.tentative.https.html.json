@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Cross-site window opened correctly","status":"PASS"},{"name":"3P fetch: Cookies are not accessible via HTTP","status":"PASS"},{"name":"3P fetch: Cross site window setting HTTP cookies","status":"PASS"}]}
