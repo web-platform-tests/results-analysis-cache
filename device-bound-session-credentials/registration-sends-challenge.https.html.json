@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Registration can't send back 403 with challenge","status":"TIMEOUT"},{"name":"Registration can send back challenge with session instructions","status":"NOTRUN"}]}
