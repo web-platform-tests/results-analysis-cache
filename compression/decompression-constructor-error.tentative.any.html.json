@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"\"a\" should cause the constructor to throw","status":"FAIL"},{"name":"no input should cause the constructor to throw","status":"FAIL"},{"name":"non-string input should cause the constructor to throw","status":"FAIL"}]}
