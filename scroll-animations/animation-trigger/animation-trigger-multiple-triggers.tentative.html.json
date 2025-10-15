@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Triggers on same animation; no conflict.","status":"PASS"},{"name":"Triggers on same animation; conflict.","status":"PASS"}]}
