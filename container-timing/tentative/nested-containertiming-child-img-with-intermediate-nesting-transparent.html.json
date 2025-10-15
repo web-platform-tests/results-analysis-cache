@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A parent containertiming root with default nesting policy does not get paints from children containertiming roots, even if an intermediate node could set a different nesting policy.","status":"FAIL"}]}
