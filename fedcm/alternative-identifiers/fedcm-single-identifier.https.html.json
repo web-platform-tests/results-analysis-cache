@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Accounts that only have a phone number or only a username should not cause failure.","status":"FAIL"}]}
