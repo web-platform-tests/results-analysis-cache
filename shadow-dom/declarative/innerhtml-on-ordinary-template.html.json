@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Declarative Shadow DOM: innerHTML should work on <template shadowroot> that is left over","status":"PASS"}]}
