@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A parent containertiming root with transparent nesting policy and child containertiming including image, an intermediate ignore blocks paints to parent root.","status":"PASS"}]}
