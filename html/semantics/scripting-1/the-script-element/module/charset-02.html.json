@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"UTF-8 module script with UTF-8 BOM","status":"PASS"},{"name":"UTF-16 module script with UTF-16BE BOM","status":"PASS"},{"name":"UTF-16 module script with UTF-16LE BOM","status":"PASS"}]}
