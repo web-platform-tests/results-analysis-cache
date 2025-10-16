@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.userAgentData is exposed.","status":"FAIL"},{"name":"navigator.userAgentData returns a UserAgentMetadata object.","status":"FAIL"}]}
