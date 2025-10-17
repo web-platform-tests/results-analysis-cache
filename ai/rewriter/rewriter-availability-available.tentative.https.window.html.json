@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Rewriter.availability() is available with no options","status":"FAIL"},{"name":"Rewriter.availability() returns available with supported options","status":"FAIL"},{"name":"Rewriter.availability() returns unavailable for unsupported languages","status":"FAIL"}]}
