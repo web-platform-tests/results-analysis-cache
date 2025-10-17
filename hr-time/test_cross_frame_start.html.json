@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Setup the frame","status":"PASS"},{"name":"parent performance.now() > 0","status":"PASS"},{"name":"child performance.now() > 0","status":"PASS"},{"name":"Child created at least 1 second after parent","status":"PASS"},{"name":"Child and parent time bases are correct","status":"PASS"}]}
