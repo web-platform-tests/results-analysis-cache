@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"IntersectionObserver observing an SVG <rect> with fractional bounds element","status":"PASS"},{"name":"Initial Observation","status":"FAIL"},{"name":"Changing target y position to -2 (-0.002 in root coordinates)","status":"TIMEOUT"}]}
