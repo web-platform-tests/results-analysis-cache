@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"An empty response fails on registration","status":"FAIL"},{"name":"An empty response is allowed on refresh","status":"TIMEOUT"}]}
