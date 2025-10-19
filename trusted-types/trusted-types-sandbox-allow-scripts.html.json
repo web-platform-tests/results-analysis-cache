@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.trustedTypes.createPolicy() in a sandboxed page with allow-scripts.","status":"PASS"},{"name":"Default Trusted Types policy in a sandboxed page with allow-scripts.","status":"PASS"}]}
