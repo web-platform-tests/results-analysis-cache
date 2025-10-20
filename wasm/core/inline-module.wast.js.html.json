@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"#1 Reinitialize the default imports","status":"PASS"},{"name":"#2 Test that WebAssembly compilation succeeds (inline-module.wast:1)","status":"PASS"},{"name":"#3 Reinitialize the default imports","status":"PASS"},{"name":"#4 Test that WebAssembly compilation succeeds (inline-module.wast:1)","status":"PASS"}]}
