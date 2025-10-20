@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Summarizer.availability() is defined","status":"FAIL"},{"name":"Summarizer.availability() returns a valid value with no options","status":"FAIL"},{"name":"Summarizer.availability() returns a valid value with plausible options","status":"FAIL"},{"name":"Summarizer.availability() rejects when given invalid language tags","status":"FAIL"}]}
