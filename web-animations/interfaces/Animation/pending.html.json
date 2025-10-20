@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"reports true -> false when initially played","status":"PASS"},{"name":"reports true -> false when paused","status":"PASS"},{"name":"reports true -> true when played without a timeline","status":"TIMEOUT"},{"name":"reports true -> true when paused without a timeline","status":"NOTRUN"}]}
