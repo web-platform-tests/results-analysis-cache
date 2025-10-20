@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"No violation reported for TrustedHTML.","status":"FAIL"},{"name":"No violation reported (paste command).","status":"FAIL"},{"name":"Violation report for plain string (insertHTML command).","status":"FAIL"}]}
