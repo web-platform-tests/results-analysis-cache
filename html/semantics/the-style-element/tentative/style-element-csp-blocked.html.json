@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"securitypolicyviolation events should be fired for declarative style violations.","status":"PASS"},{"name":"Test error event fires on inline style","status":"PASS"},{"name":"style-src CSP can block Declarative CSS Modules.","status":"PASS"}]}
