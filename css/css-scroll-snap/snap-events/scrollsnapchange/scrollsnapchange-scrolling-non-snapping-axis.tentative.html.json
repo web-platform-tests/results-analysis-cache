@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"keyboard scroll on non-snapping axis doesn't trigger scrollsnapchange","status":"PASS"},{"name":"wheel scroll on non-snapping axis doesn't trigger scrollsnapchange","status":"PASS"}]}
