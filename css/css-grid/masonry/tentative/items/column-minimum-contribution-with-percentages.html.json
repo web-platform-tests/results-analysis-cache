@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"auto - columns","status":"FAIL"},{"name":"min - columns","status":"FAIL"},{"name":"max - columns","status":"FAIL"},{"name":"size - columns","status":"FAIL"},{"name":"min max - columns","status":"FAIL"},{"name":"min size - columns","status":"FAIL"},{"name":"max size - columns","status":"FAIL"},{"name":"min max size - columns","status":"FAIL"}]}
