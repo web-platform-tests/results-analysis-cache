@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify no Partitioned Popins can be opened from insecure page","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"clicking on anchor without link should open details and not navigate.","status":"FAIL"},{"name":"clicking on anchor without link, with embedded inline element should open details and not navigate.","status":"FAIL"}]}
