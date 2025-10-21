@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Horizontal drag on a horizontal slider.","status":"FAIL"},{"name":"Vertical drag on a horizontal slider.","status":"PASS"},{"name":"Vertical drag on a horizontal slider with touch-action:none.","status":"PASS"},{"name":"Vertical drag on a vertical slider.","status":"FAIL"},{"name":"Horizontal drag on a vertical slider.","status":"PASS"}]}
