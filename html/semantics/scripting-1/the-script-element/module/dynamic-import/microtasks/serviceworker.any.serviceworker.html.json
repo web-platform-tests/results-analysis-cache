@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"import() should not drain the microtask queue if it fails because it's used in a ServiceWorker","status":"PASS"}]}
