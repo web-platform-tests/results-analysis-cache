@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getComputedStyle should not affect whether an anchor positioned element transitions from display:none","status":"PASS"}]}
