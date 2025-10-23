@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"<button> should have the same double-submit protection as <input type=submit>","status":"PASS"}]}
