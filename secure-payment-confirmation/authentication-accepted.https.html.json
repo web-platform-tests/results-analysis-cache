@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Successful SPC authentication - mandatory fields","status":"FAIL"},{"name":"Successful SPC authentication - optional fields","status":"FAIL"}]}
