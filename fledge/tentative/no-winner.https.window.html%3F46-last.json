@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Bidding WASM helper: error=no-body","status":"FAIL"},{"name":"Bidding WASM helper: error=not-wasm","status":"FAIL"}]}
