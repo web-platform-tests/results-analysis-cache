@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that isConfigSupported() with orientation","status":"PASS"},{"name":"Decode frames with orientation metadata","status":"PASS"}]}
