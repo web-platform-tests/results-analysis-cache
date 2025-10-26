@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"this.matches(:defined) should not match during an upgrade","status":"PASS"}]}
