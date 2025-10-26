@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"window.fence is unavailable in normal (non-urn) iframes","status":"PASS"},{"name":"window.fence is available in urn iframes","status":"TIMEOUT"},{"name":"window.fence is available in same-origin subframes of urn iframes","status":"NOTRUN"}]}
