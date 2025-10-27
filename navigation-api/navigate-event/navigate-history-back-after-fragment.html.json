@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"history.back() fires the navigate event and sets hashChange when reversing a fragment navigation","status":"FAIL"}]}
