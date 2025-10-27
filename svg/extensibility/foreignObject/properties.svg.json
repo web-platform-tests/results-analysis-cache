@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"width and height default to auto (which computes to \"0px\")","status":"FAIL"},{"name":"style rules are applied","status":"PASS"},{"name":"attributes set properties","status":"PASS"},{"name":"style rules override attributes","status":"PASS"}]}
