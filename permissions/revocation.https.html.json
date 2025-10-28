@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Transition \"granted\" -> \"prompt\" fires a \"change\" event","status":"FAIL"},{"name":"Transition \"granted\" -> \"denied\" fires a \"change\" event","status":"FAIL"}]}
