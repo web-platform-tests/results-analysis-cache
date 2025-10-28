@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"blob: URL inherits CSP from a meta tag whose contents have newline characters.","status":"PASS"}]}
