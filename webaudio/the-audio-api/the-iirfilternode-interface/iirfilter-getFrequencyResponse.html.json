@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"1â€‘pole IIR getFrequencyResponse() matches analytic response","status":"PASS"},{"name":"IIR filter equivalent to biquad has matching frequency response","status":"PASS"},{"name":"Outâ€‘ofâ€‘range frequency values yield NaN responses","status":"PASS"}]}
