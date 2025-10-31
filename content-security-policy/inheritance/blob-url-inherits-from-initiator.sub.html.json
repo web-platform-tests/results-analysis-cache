@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initiator is same-origin with target frame.","status":"PASS"},{"name":"Initiator is cross-origin with target frame.","status":"PASS"}]}
