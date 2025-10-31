@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"<form target=_blank>.submit()","status":"FAIL"},{"name":"<form target=_blank>.requestSubmit()","status":"FAIL"}]}
