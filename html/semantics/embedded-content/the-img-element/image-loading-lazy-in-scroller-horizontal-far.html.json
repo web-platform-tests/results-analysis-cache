@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that lazy-loaded images do not load when far from viewport.","status":"PASS"}]}
