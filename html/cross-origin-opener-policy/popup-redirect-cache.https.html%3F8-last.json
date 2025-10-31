@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"same-origin document opening popup redirect from https://www1.web-platform.test:8443 to https://not-web-platform.test:8443 with redirectCache true and destCache true","status":"PASS"}]}
