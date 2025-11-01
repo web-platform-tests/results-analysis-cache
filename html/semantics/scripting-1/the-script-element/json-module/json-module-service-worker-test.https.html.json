@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Javascript importing JSON Module should load within the context of a service worker","status":"FAIL"},{"name":"Trying to register a service worker with a top-level JSON Module should fail","status":"PASS"},{"name":"JSON Module dynamic import should not load within the context of a service worker","status":"PASS"}]}
