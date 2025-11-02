@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify Partitioned Popins in an iframe fail when the policy is 'self'","status":"PASS"}]}
