@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that a fenced frame with a config explicitly set to null navigates to about:blank","status":"FAIL"}]}
