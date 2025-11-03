@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XMLHttpRequest: setRequestHeader() - headers that differ in case","status":"PASS"},{"name":"XMLHttpRequest: setRequestHeader() - headers that differ in case 1","status":"PASS"}]}
