@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"WebAuthn \"payment\" extension is not supported in cross-origin iframe without allow=\"payment\" attribute","status":"PASS"},{"name":"WebAuthn \"payment\" extension can be enabled in cross-origin iframe using allow=\"payment\" attribute","status":"PASS"}]}
