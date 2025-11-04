@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Invalidation of style data while ShadowRoot is disconnected.","status":"PASS"}]}
