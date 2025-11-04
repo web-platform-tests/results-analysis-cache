@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Pasting text ends with a visible character","status":"PASS"},{"name":"Pasting text ends with a collapsible white-space","status":"PASS"}]}
