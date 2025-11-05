@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A cross-origin subframe navigating to a javascript: URL should use the CSP policy associated to its document for pre-navigation check and execute the JavaScript code modified by its default policy.","status":"PASS"}]}
