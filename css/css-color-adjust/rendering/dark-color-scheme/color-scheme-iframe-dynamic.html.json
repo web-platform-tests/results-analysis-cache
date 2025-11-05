@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initially, the preferred color-scheme is the same in both documents","status":"PASS"},{"name":"Modify color-scheme <meta>","status":"FAIL"},{"name":"Modify iframe color-scheme","status":"FAIL"}]}
