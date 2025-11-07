@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A pointerout should be fired on the capturing element after losing the capture","status":"FAIL"}]}
