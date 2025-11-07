@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"base appearance should not propagate to nested elements which support appearance.","status":"FAIL"}]}
