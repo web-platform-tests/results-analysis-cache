@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"At initial scroll position","status":"FAIL"},{"name":"Scrolled to half way through target element","status":"FAIL"},{"name":"Scrolled to target element completely off screen","status":"FAIL"}]}
