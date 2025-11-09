@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"A request within the scope origin refreshes","status":"TIMEOUT"},{"name":"A request outside the scope origin does not refresh","status":"NOTRUN"}]}
