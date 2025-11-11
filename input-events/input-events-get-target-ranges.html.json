@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"getTargetRanges() returns correct range and cleared after dispatch.","status":"TIMEOUT"},{"name":"Actions other than deletion should have current selection as target ranges.","status":"NOTRUN"},{"name":"Textarea should have empty target range.","status":"NOTRUN"}]}
