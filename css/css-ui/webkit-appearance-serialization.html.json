@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"serialization via CSSStyleDeclaration","status":"PASS"},{"name":"serialization via CSSStyleRule","status":"PASS"},{"name":"serialization via CSSMediaRule","status":"PASS"}]}
