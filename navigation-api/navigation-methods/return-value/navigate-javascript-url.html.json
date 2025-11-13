@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigate() to \"javascript:void 0\" with { history: 'replace' }","status":"FAIL"},{"name":"navigate() to \"javascript:'foo'\" with { history: 'replace' }","status":"FAIL"}]}
