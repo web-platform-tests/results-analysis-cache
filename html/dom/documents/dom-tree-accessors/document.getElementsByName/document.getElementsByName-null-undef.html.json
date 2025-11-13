@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getElementsByName(null)","status":"PASS"},{"name":"getElementsByName(undefined)","status":"PASS"}]}
