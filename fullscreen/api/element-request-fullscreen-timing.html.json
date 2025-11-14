@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Timing of fullscreenchange and resize events","status":"PASS"},{"name":"Timing of fullscreenerror event","status":"PASS"}]}
