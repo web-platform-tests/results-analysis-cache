@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"cumulative-buyer-time when not configured","status":"FAIL"},{"name":"cumulative-buyer-time when configured","status":"FAIL"},{"name":"percent-regular-ig-count-quota-used","status":"FAIL"},{"name":"percent-negative-ig-count-quota-used","status":"TIMEOUT"},{"name":"percent-ig-storage-quota-used","status":"NOTRUN"}]}
