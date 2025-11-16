@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"navigate() to \"javascript:void 0\" with { history: 'replace' }","status":"TIMEOUT"},{"name":"navigate() to \"javascript:'foo'\" with { history: 'replace' }","status":"NOTRUN"}]}
