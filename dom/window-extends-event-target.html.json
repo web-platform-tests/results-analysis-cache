@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"EventTarget methods on Window instances are inherited from the EventTarget prototype","status":"PASS"},{"name":"window.addEventListener respects custom `this`","status":"PASS"},{"name":"window.addEventListener treats nullish `this` as `window`","status":"PASS"}]}
