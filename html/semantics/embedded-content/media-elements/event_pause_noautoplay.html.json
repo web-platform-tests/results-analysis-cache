@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"audio events - pause","status":"FAIL"},{"name":"video events - pause","status":"PASS"},{"name":"calling play() then pause() on non-autoplay audio should trigger pause event","status":"PASS"},{"name":"calling play() then pause() on non-autoplay video should trigger pause event","status":"PASS"}]}
