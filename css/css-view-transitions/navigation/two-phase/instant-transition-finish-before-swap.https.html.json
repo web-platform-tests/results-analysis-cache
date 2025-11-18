@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"view transition should run until its end if started after navigation-triggering input","status":"FAIL"}]}
