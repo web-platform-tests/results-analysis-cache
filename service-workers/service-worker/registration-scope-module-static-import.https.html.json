@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"imported-module-script.js works when used as top-level","status":"PASS"},{"name":"static imports to outside path restriction should be allowed","status":"PASS"},{"name":"static imports redirecting to outside path restriction should be allowed","status":"PASS"}]}
