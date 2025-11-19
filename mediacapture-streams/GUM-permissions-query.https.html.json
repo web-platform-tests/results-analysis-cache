@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"camera is granted after getUserMedia, according to permissions.query()","status":"FAIL"},{"name":"microphone is granted after getUserMedia, according to permissions.query()","status":"FAIL"}]}
