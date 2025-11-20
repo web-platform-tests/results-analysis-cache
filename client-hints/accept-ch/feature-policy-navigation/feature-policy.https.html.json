@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Client hints loaded on cross-origin iframe request with feature policy.","status":"TIMEOUT"},{"name":"Client hints loaded on same-origin iframe request with feature policy.","status":"NOTRUN"},{"name":"Client hints loaded on cross-origin iframe request with feature policy after attempting to set independently.","status":"NOTRUN"}]}
