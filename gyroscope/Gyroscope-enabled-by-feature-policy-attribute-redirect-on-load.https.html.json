@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Gyroscope: Feature-Policy allow='gyroscope' attribute allows same-origin relocation","status":"PASS"},{"name":"Gyroscope: Feature-Policy allow='gyroscope' attribute disallows cross-origin relocation","status":"TIMEOUT"}]}
