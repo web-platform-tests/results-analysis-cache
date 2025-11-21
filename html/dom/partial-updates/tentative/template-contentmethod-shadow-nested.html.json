@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"<template contentmethod> inside a <template shadowrootmode><div> should apply directly to its target","status":"FAIL"}]}
