@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SVGRect interface, initial values","status":"FAIL"},{"name":"SVGRect interface, assignment, numeric values","status":"FAIL"},{"name":"SVGRect interface, assignment, invalid values","status":"FAIL"}]}
