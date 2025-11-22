@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Checks that the fullscreenchange events fire in right order when entering fullscreen","status":"FAIL"},{"name":"Checks that the fullscreenchange events fire in right order when exiting fullscreen","status":"TIMEOUT"}]}
