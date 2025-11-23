@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A parent containertiming root with transparent nesting policy does not get paints from children containertiming roots if an intermediate ignore is set.","status":"PASS"}]}
