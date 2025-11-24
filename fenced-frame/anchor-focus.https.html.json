@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Anchor focusing is blocked on an element in a fenced frame without user activation.","status":"FAIL"},{"name":"Anchor focusing is allowed on an element in a fenced frame with user activation.","status":"FAIL"}]}
