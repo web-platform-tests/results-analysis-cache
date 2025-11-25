@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_unsubscribe","status":"FAIL"},{"name":"test_subscribe","status":"FAIL"},{"name":"test_show_picker","status":"FAIL"},{"name":"test_multiple[True]","status":"FAIL"},{"name":"test_multiple[False]","status":"FAIL"},{"name":"test_element","status":"FAIL"}]}
