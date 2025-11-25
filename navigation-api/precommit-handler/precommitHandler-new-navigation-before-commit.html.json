@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Cancel a navigation with a precommitHandler before commit by starting a new navigation","status":"PASS"}]}
