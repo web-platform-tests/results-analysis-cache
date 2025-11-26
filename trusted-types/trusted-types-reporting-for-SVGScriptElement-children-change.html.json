@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"sink mismatch violation report when the script text is changed by manipulating its children.","status":"PASS"},{"name":"inline check violation report when the script text is changed by manipulating its children.","status":"PASS"}]}
