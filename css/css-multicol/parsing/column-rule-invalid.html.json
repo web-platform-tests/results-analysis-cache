@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['column-rule'] = \"reverse\" should not set the property value","status":"PASS"},{"name":"e.style['column-rule'] = \"10\" should not set the property value","status":"PASS"},{"name":"e.style['column-rule'] = \"red medium green\" should not set the property value","status":"PASS"}]}
