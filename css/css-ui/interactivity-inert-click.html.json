@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"No click event for interactivity:inert element","status":"PASS"},{"name":"Click event should work after interactivity change","status":"PASS"}]}
