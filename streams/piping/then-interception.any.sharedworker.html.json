@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"piping should not be observable","status":"FAIL"},{"name":"tee should not be observable","status":"FAIL"}]}
