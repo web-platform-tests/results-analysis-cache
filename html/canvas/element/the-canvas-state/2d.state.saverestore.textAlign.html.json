@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"save()/restore() works for textAlign, with a canvas size of (300, 150)","status":"PASS"},{"name":"save()/restore() works for textAlign, with a canvas size of (0, 0)","status":"FAIL"}]}
