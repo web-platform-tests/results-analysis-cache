@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that the Keyboard generated click does not fire pointer or mouse events for button","status":"PASS"},{"name":"Test that the Keyboard generated click does not fire pointer or mouse events for inputbutton","status":"PASS"},{"name":"Test that the Keyboard generated click does not fire pointer or mouse events for label","status":"PASS"}]}
