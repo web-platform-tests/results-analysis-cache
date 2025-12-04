@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Input reset button inside draggable element should be draggable from border","status":"PASS"},{"name":"Input reset button inside draggable element should be draggable from button text","status":"FAIL"}]}
