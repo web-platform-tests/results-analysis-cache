@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Grid items in shadow host with delegatesFocus","status":"FAIL"},{"name":"Grid items in shadow host without delegatesFocus","status":"FAIL"}]}
