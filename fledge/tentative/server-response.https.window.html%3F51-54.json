@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Hybrid B&A auction --- top perBuyerCurrencies mismatch","status":"FAIL"},{"name":"Hybrid B&A auction --- perBuyerCurrencies config, no bidCurrency","status":"FAIL"},{"name":"Hybrid B&A auction --- bid info passed to top-level scoreAd","status":"FAIL"},{"name":"Hybrid B&A auction --- bid info passed to top-level reporting","status":"FAIL"}]}
