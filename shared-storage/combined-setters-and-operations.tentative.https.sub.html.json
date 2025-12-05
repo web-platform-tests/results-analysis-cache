@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"verify-storage-entries-url-selection-operation selectURL() resolves to config","status":"FAIL"},{"name":"verify-storage-entries-url-selection-operation selectURL() resolves to urn:uuid","status":"FAIL"}]}
