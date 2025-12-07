@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"postMessaging to a not same-origin-domain, but similar origin, iframe allows them to instantiate","status":"TIMEOUT"}]}
