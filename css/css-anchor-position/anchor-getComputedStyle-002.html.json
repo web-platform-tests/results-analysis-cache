@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getComputedStyle() with fragmented containing block in multicolumn layout","status":"PASS"},{"name":"getComputedStyle() with fragmented containing block in inline layout","status":"PASS"}]}
