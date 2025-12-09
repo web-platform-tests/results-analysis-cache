@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"pointermove after pointerup which deletes the overlay should not keep expanding selection","status":"PASS"},{"name":"pointermove after pointerup which deletes the overlay and move focus to the button should not keep expanding selection","status":"TIMEOUT"}]}
