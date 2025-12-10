@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"<mtd> relies on mrow algorithm to layout its children","status":"FAIL"},{"name":"<mtable> layout does not change if children of <mtd> elements are wrapped in an explicit <mrow>","status":"FAIL"}]}
