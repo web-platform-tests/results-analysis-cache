@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"setSinkId() after selectAudioOutput()","status":"PASS"},{"name":"setSinkId() on video after loadeddata","status":"PASS"},{"name":"setSinkId() on video after play","status":"PASS"},{"name":"setSinkId() with deviceID from another window","status":"PASS"}]}
