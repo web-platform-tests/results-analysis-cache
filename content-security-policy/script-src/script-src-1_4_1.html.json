@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"window.setTimeout()","status":"PASS"},{"name":"window.setInterval()","status":"PASS"},{"name":"Test that securitypolicyviolation event is fired","status":"NOTRUN"}]}
