@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Check calling getInstalledRelatedApps works as expected","status":"TIMEOUT"},{"name":"Calling getInstalledrelatedApps from an iframe fails","status":"NOTRUN"}]}
