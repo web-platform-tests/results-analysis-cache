@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Worker is allowed because of deprecated 'child-src' directive","status":"PASS"}]}
