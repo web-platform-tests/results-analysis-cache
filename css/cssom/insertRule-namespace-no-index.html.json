@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"insertRule with namespace and omitted index argument","status":"PASS"},{"name":"insertRule with namespace and undefined index argument","status":"PASS"},{"name":"insertRule with namespace and omitted index argument should insert import","status":"PASS"}]}
