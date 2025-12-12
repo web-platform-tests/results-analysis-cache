@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"unnamespaced lang attribute only works on elements in the HTML namespace","status":"PASS"}]}
