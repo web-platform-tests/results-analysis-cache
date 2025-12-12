@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"When no providers are registered an error should be returned.","status":"PASS"}]}
