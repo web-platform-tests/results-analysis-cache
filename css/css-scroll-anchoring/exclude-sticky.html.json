@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Sticky-positioned headers shouldn't be chosen as scroll anchors (we should use 'content' instead)","status":"PASS"}]}
