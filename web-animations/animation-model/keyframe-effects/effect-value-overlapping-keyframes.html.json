@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Overlapping keyframes at 0 and 1 use the appropriate value when the progress is outside the range [0, 1]","status":"PASS"},{"name":"Overlapping keyframes between 0 and 1 use the appropriate value on each side of the overlap point","status":"PASS"}]}
