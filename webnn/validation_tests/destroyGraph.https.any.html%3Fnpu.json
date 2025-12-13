@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Graph can be destroyed twice.","status":"PASS"},{"name":"Destroyed graph can not dispatch.","status":"PASS"},{"name":"Destroying graph after dispatch() and before readTensor() is OK.","status":"PASS"}]}
