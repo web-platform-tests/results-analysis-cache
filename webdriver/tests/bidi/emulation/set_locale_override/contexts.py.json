@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_contexts","status":"PASS"},{"name":"test_multiple_contexts","status":"ERROR"},{"name":"test_iframe[same_origin]","status":"PASS"},{"name":"test_iframe[cross_origin]","status":"FAIL"},{"name":"test_locale_override_applies_to_new_sandbox","status":"PASS"},{"name":"test_locale_override_applies_to_existing_sandbox","status":"PASS"}]}
