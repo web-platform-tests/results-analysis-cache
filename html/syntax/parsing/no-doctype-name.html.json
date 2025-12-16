@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Doctype without root name should have the empty string as the name.","status":"PASS"}]}
