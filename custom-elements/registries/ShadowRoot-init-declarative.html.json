@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Custom element inside 'shadowrootcustomelementregistry' declarative shadow root","status":"PASS"},{"name":"Built-in element inside 'shadowrootcustomelementregistry' declarative shadow root","status":"FAIL"}]}
