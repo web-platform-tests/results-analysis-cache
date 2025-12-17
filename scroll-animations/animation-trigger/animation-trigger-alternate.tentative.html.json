@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"animation triggered via scroll() timeline.","status":"FAIL"},{"name":"animation triggered via view() timeline.","status":"FAIL"},{"name":"animation triggered via deferred (view) timeline.","status":"FAIL"}]}
