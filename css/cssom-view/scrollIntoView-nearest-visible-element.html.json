@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"scrollIntoView with `nearest` block and inline option shouldn't scroll a completely visible element","status":"PASS"}]}
