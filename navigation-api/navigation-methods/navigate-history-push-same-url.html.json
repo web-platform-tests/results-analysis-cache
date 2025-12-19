@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"navigate() to the current URL with history: 'push' and intercept so it remains same-document","status":"TIMEOUT"}]}
