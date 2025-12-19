@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Window and Worker - shared mode","status":"PASS"},{"name":"Window and Worker - exclusive mode","status":"TIMEOUT"},{"name":"Worker and Worker - exclusive mode","status":"NOTRUN"},{"name":"Terminated Worker - exclusive mode","status":"NOTRUN"}]}
