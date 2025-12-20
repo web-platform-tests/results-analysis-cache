@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_no_capabilities","status":"PASS"},{"name":"test_string_ignore","status":"FAIL"},{"name":"test_default_ignore","status":"FAIL"},{"name":"test_file_ignore","status":"FAIL"}]}
