@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"pagehide should be called before visibilitychange, and visibilityState should be set to hidden at the right time","status":"PASS"}]}
