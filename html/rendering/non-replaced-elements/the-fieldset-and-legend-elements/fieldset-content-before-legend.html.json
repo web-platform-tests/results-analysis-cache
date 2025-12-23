@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"fieldset content before legend","status":"PASS"},{"name":"Showing a node just before the rendered legend should not crash","status":"PASS"}]}
