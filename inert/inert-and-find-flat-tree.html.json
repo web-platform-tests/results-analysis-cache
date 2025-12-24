@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Text inside a dialog inside a shadowroot should be findable.","status":"FAIL"},{"name":"Text slotted into a dialog which is inside a shadowroot should be findable.","status":"FAIL"}]}
