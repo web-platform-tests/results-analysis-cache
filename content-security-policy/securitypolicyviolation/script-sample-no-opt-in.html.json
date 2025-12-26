@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Inline script should not have a sample.","status":"PASS"},{"name":"Inline event handlers should not have a sample.","status":"PASS"},{"name":"JavaScript URLs in iframes should not have a sample.","status":"PASS"},{"name":"eval()-alikes should not have a sample.","status":"PASS"}]}
