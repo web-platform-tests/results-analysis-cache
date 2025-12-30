@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"executionMode updated to frozen context","status":"FAIL"},{"name":"executionMode updated to compatibility","status":"FAIL"},{"name":"executionMode updated to group by origin","status":"FAIL"},{"name":"executionMode updated with invalid input","status":"FAIL"},{"name":"owner cannot be updated.","status":"FAIL"}]}
