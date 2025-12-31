@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Worker has an opaque origin.","status":"PASS"},{"name":"Worker can read its own blobs.","status":"PASS"},{"name":"Worker can read its owners blobs.","status":"PASS"},{"name":"Worker can XHR fetch a blob.","status":"PASS"},{"name":"Worker can fetch a blob.","status":"PASS"},{"name":"Worker can access BroadcastChannel","status":"PASS"}]}
