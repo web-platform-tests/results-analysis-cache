@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Cookie-Indices should not prevent a prefetch from succeeding with unchanged cookies, even with redirect","status":"FAIL"}]}
