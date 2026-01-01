@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that scheduler.postTask() accepts an AbortSignal that is not also a TaskSignal","status":"PASS"}]}
