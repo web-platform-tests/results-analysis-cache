@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Throwing in an onmessage handler in the AudioWorkletGlobalScope shouldn't stop AudioWorkletProcessor","status":"FAIL"}]}
