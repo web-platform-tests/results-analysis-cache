@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"\n    Element#requestFullscreen() when the document is not the active document\n","status":"TIMEOUT"}]}
