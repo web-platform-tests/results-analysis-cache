@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"setRemoteDescription() with valid state and answer should succeed","status":"PASS"},{"name":"Calling setRemoteDescription(answer) from stable state should reject with InvalidStateError","status":"PASS"},{"name":"Calling setRemoteDescription(answer) from have-remote-offer state should reject with InvalidStateError","status":"PASS"}]}
