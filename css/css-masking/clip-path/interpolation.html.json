@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test circle with negative easing on clip-path","status":"FAIL"},{"name":"Test ellipse with negative easing on clip-path","status":"FAIL"},{"name":"Test inset with negative easing on clip-path","status":"FAIL"}]}
