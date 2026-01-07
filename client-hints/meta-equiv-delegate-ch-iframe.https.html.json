@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Client hints loaded on same-origin iframe include hints with a default permissions policy of self and *.","status":"PASS"},{"name":"Client hints loaded on cross-origin iframe only include hints with a default permissions policy of *.","status":"PASS"}]}
