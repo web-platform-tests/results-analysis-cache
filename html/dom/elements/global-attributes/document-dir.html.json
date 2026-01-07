@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Markup attribute","status":"PASS"},{"name":"Setting the idl attribute to a garbage value","status":"PASS"},{"name":"Setting the idl attribute to the empty string","status":"PASS"}]}
