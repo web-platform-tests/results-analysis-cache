@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_delta_0","status":"FAIL"},{"name":"test_delta_forward_and_back","status":"FAIL"},{"name":"test_navigate_in_the_same_document","status":"FAIL"},{"name":"test_history_push_state","status":"FAIL"},{"name":"test_navigate_special_protocols[data url]","status":"FAIL"},{"name":"test_navigate_special_protocols[file url]","status":"FAIL"}]}
