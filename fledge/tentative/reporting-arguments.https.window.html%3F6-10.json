@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"browserSignals.seller test.","status":"FAIL"},{"name":"browserSignals.topLevelSeller and browserSignals.componentSeller test.","status":"FAIL"},{"name":"browserSignals.renderURL test.","status":"FAIL"},{"name":"browserSignals.bid test.","status":"FAIL"},{"name":"browserSignals.desirability test.","status":"FAIL"}]}
