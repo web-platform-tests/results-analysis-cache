@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Basic B&A auction - Wrong seller","status":"FAIL"},{"name":"Basic B&A auction - Wrong request Id","status":"FAIL"},{"name":"Basic B&A auction - response marked as error","status":"FAIL"},{"name":"Basic B&A auction - nonsense error field","status":"FAIL"}]}
