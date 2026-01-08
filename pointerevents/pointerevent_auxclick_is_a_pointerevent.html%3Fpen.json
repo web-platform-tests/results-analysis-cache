@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"auxclick using pen is a PointerEvent with correct properties","status":"FAIL"},{"name":"auxclick using pen is a PointerEvent with correct properties when no other PointerEvent listeners are present","status":"FAIL"}]}
