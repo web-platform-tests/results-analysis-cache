@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"idl_test setup","status":"PASS"},{"name":"idl_test validation","status":"PASS"},{"name":"Partial interface XRInputSource: original interface defined","status":"PASS"},{"name":"Partial interface XRInputSource: member names are unique","status":"PASS"},{"name":"XRInputSource interface: attribute gamepad","status":"FAIL"}]}
