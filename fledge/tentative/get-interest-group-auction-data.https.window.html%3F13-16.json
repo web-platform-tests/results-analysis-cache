@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getInterestGroupAdAuctionData() with multiple buyers","status":"FAIL"},{"name":"getInterestGroupAdAuctionData() uses perBuyerConfig to select buyers","status":"FAIL"},{"name":"getInterestGroupAdAuctionData() requests k-anon.","status":"FAIL"},{"name":"getInterestGroupAdAuctionData() multi-seller with single seller","status":"FAIL"}]}
