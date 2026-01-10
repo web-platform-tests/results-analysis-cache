@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"No violation reported for ServiceWorkerContainer register with TrustedScriptURL.","status":"FAIL"},{"name":"Violation report for ServiceWorkerContainer register with plain string.","status":"FAIL"}]}
