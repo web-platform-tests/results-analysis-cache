@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Cross-origin popup with coop/coep","status":"PASS"},{"name":"Cross-origin popup with coop unsafe-none/coep","status":"PASS"},{"name":"Cross-origin popup with coop unsafe-none without coep","status":"PASS"},{"name":"Cross-origin popup without coep","status":"PASS"},{"name":"Bonus: window.crossOriginIsolated","status":"PASS"}]}
