@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"If event's isTrusted attribute is false, then then throw an InvalidStateError DOMException.","status":"PASS"}]}
