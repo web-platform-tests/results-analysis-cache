@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"when prerender-until-script action prerenders a page, the script on that page should always be executed after activation.","status":"PASS"}]}

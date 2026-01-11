@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Bucket quota is properly set as long as it is within the storage quota","status":"PASS"}]}
