@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Test main context receipt of postMessage'd MediaSourceHandle from DedicatedWorker MediaSource","status":"FAIL"},{"name":"Test main-thread has MediaSourceHandle defined","status":"FAIL"},{"name":"Test main-thread MediaSource does not have handle getter","status":"FAIL"}]}
