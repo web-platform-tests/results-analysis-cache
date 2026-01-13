@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"self.reportError(1)","status":"PASS"},{"name":"self.reportError(TypeError)","status":"PASS"},{"name":"self.reportError(undefined)","status":"PASS"},{"name":"self.reportError() (without arguments) throws","status":"PASS"},{"name":"self.reportError() doesn't invoke getters","status":"PASS"}]}
