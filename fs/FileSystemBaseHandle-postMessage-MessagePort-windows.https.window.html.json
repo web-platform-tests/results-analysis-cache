@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Send and receive messages using a message port in a same origin window.","status":"FAIL"},{"name":"Send and receive messages using a message port in a blob window.","status":"FAIL"},{"name":"Send and receive messages using a message port in a sandboxed same origin window.","status":"FAIL"}]}

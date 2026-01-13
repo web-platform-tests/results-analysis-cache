@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test that navigation.back() silently aborts during onnavigate","status":"TIMEOUT"},{"name":"Test that navigation.traverseTo() works during onnavigate","status":"NOTRUN"}]}
