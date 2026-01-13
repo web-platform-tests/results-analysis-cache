@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"document.write external script that document.writes inline script","status":"TIMEOUT"}]}
