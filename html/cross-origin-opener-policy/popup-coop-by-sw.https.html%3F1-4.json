@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"opener:basic, openee:basic, sw:basic","status":"FAIL"},{"name":"opener:basic, openee:basic, sw:coi","status":"FAIL"},{"name":"opener:basic, openee:coi, sw:basic","status":"FAIL"},{"name":"opener:basic, openee:coi, sw:coi","status":"FAIL"}]}
