@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Should have removed only one BOM from frame 0","status":"PASS"},{"name":"Should have removed only one BOM from frame 1","status":"PASS"},{"name":"Should have removed only one BOM from frame 2","status":"PASS"}]}
