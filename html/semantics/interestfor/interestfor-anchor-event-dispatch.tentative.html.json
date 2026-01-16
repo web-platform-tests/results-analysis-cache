@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"InterestEvent is not dispatched unless the anchor has an href","status":"TIMEOUT"},{"name":"InterestEvent dispatches on anchor hover","status":"NOTRUN"},{"name":"Nested invoker and invokee","status":"NOTRUN"}]}
