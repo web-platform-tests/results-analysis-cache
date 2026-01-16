@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"querySelector works on template contents fragments with HTML elements (sanity check)","status":"PASS"},{"name":"querySelector works on template contents fragments with SVG elements","status":"PASS"},{"name":"querySelector works on template contents fragments with nested SVG elements","status":"PASS"}]}
