@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Assert testdriver can subscribe without arguments","status":"PASS"},{"name":"Assert testdriver can subscribe for current window","status":"PASS"},{"name":"Assert testdriver can subscribe for another window","status":"PASS"},{"name":"Assert testdriver can subscribe globally","status":"PASS"}]}
