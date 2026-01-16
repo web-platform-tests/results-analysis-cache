@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"#monolith1","status":"PASS"},{"name":"#monolith2","status":"PASS"},{"name":"#monolith3","status":"PASS"},{"name":"#container","status":"PASS"}]}
