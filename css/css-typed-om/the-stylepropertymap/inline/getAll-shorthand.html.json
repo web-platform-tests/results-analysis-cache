@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"StylePropertyMap.getAll() with a shorthand property set explicitly in inline style returns a base CSSStyleValue","status":"PASS"},{"name":"StylePropertyMap.getAll() with a shorthand property that is partially in inline style returns empty list","status":"PASS"}]}
