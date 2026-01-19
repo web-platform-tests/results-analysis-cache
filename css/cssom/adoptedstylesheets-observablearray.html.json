@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document.adoptedStyleSheets should allow mutation in-place","status":"FAIL"},{"name":"shadowRoot.adoptedStyleSheets should allow mutation in-place","status":"FAIL"},{"name":"adoptedStyleSheets should return true for isArray()","status":"PASS"}]}
