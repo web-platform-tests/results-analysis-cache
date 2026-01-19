@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Basic B&A auction - invalid ad currency","status":"FAIL"},{"name":"Basic B&A auction - valid ad currency","status":"FAIL"},{"name":"Hybrid B&A auction --- missing top-level seller","status":"FAIL"},{"name":"Hybrid B&A auction --- wrong top-level seller","status":"FAIL"}]}
