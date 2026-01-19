@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IntersectionObserver generates notifications when a transform animation changes intersection state","status":"PASS"}]}
