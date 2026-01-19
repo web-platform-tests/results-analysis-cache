@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test :playing and :paused timing without media resource","status":"FAIL"},{"name":"Test :playing and :paused timing with a media resource","status":"FAIL"},{"name":"Test :seeking timing when setting currentTime","status":"FAIL"}]}
