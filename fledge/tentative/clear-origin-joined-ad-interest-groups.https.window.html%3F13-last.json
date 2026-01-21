@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"clearOriginJoinedAdInterestGroups(). Cross-origin interest group joined in iframe, clear call in iframe passing iframe origin.","status":"FAIL"},{"name":"clearOriginJoinedAdInterestGroups(). Cross-origin interest group joined from another joining origin, clear call in iframe.","status":"FAIL"}]}
