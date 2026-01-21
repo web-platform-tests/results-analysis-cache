@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"<a target=_blank\">.click()","status":"FAIL"},{"name":"<a target=_blank\"> mouse click","status":"FAIL"},{"name":"<area target=_blank\">.click()","status":"FAIL"},{"name":"<area target=_blank\"> mouse click","status":"TIMEOUT"}]}
