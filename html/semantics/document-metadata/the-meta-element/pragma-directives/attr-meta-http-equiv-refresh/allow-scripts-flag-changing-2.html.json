@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Meta refresh of the original iframe is not blocked if moved into a sandboxed iframe","status":"FAIL"}]}
