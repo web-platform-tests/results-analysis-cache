@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"decoration propagates into table","status":"FAIL"},{"name":"table 1","status":"PASS"},{"name":"table 2","status":"FAIL"},{"name":"table 3","status":"FAIL"},{"name":"table 4","status":"PASS"},{"name":"table 5","status":"FAIL"},{"name":"table 6","status":"FAIL"}]}
