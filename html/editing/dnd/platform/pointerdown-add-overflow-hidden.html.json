@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"dragstart should still fire when the dragged element gets overflow:hidden in its pointerdown","status":"PASS"}]}
