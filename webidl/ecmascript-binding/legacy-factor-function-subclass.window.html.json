@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"[LegacyFactoryFunction] can be subclassed and correctly handles NewTarget","status":"PASS"}]}
