@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IDBCursor direction - index - next","status":"FAIL"},{"name":"IDBCursor direction - index - prev","status":"FAIL"},{"name":"IDBCursor direction - index - nextunique","status":"FAIL"},{"name":"IDBCursor direction - index - prevunique","status":"FAIL"}]}
