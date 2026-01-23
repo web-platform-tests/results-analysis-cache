@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A cross origin subframe can set automatic beacon data.","status":"FAIL"}]}
