@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test WebNN API batchNormalization operation with constant inputs","status":"PASS"},{"name":"[optional] batchNormalization float32 2D constant tensors default options","status":"FAIL"},{"name":"[optional] batchNormalization float16 2D constant tensors default options","status":"PASS"}]}
