@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"custom property '--a'","status":"PASS"},{"name":"custom property '--a;b'","status":"PASS"},{"name":"custom property '---'","status":"PASS"},{"name":"custom property '--\\'","status":"PASS"},{"name":"custom property '--ab'","status":"PASS"},{"name":"custom property '--0'","status":"PASS"}]}
