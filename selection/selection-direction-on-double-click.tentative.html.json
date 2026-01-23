@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"direction returns \"none\" when there is a double click selection(directionless)","status":"FAIL"}]}
