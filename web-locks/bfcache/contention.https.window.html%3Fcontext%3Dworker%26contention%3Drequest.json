@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A held lock on a worker should cause eviction on navigator.locks.request()","status":"FAIL"}]}
