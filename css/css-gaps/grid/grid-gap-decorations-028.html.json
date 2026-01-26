@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"`column-rule-color` should be rgb(0, 255, 0)","status":"FAIL"},{"name":"Visited `column-rule-color` should not be blue but it is","status":"PASS"}]}
