@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Detect soft navigation with replaceState that has a null URL, then pushState with the URL","status":"FAIL"}]}
