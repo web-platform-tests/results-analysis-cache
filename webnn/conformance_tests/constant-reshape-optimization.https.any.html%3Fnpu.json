@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test constant reshape optimization","status":"PASS"},{"name":"[required] reshape + reshape + reshape + instanceNormalization float32","status":"PASS"}]}
