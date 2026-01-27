@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Navigating iframe loading='lazy' before it is loaded: location.assign","status":"PASS"}]}
