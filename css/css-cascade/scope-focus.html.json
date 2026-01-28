@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":":focus via :scope in subject","status":"PASS"},{"name":":focus via :scope in non-subject","status":"PASS"},{"name":":focus in limit, :scope in subject","status":"PASS"},{"name":":focus in intermediate limit, :scope in subject","status":"PASS"}]}
