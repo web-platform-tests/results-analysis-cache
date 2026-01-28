@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"dropEffect is correctly set when it matches effectAllowed","status":"FAIL"},{"name":"dropEffect is correctly set when it matches effectAllowed 1","status":"FAIL"},{"name":"dropEffect is correctly set when it matches effectAllowed 2","status":"FAIL"}]}
