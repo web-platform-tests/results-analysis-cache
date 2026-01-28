@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"AuctionConfig.sellerSignals is null","status":"FAIL"},{"name":"AuctionConfig.sellerSignals is explicit undefined","status":"FAIL"},{"name":"AuctionConfig.sellerSignals is \"null\"","status":"FAIL"},{"name":"AuctionConfig.auctionSignals is null","status":"FAIL"},{"name":"AuctionConfig.auctionSignals is explicit undefined","status":"FAIL"}]}
