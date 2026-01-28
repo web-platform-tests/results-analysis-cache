@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Writer.availability() is available with no options","status":"PASS"},{"name":"Writer.availability() returns available with supported options","status":"PASS"},{"name":"Writer.availability() returns unavailable for unsupported languages","status":"PASS"}]}
