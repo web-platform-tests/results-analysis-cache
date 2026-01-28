@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"<template contentmethod> in innerHTML should not patch outer element","status":"FAIL"}]}
