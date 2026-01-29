@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"If a getter in a custom parameter object throws an exception, it should get passed through","status":"FAIL"},{"name":"Parameters should be sent to the server correctly","status":"FAIL"}]}
