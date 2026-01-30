@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Tests FormControlRange constructor and inheritance.","status":"FAIL"},{"name":"Tests FormControlRange default values when no form control is set.","status":"FAIL"},{"name":"FormControlRange handles empty value correctly.","status":"FAIL"}]}
