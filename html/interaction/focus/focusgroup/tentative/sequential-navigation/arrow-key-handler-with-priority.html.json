@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Native arrow key handler participates in arrow navigation as target only","status":"PASS"},{"name":"Focused native arrow key handler behaves as opted-out but memory restores to it","status":"PASS"},{"name":"Focused native arrow key handler takes precedence over memory","status":"PASS"}]}
