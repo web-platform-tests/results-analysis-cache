@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Aborting Writer.create()","status":"FAIL"},{"name":"Aborting Writer.write()","status":"FAIL"},{"name":"Aborting Writer.writeStreaming()","status":"FAIL"},{"name":"Aborting Writer.writeStreaming() after finished reading","status":"FAIL"}]}
