@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"same-document traversals are not stopped by stop()","status":"PASS"}]}
