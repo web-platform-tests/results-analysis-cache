@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Permissions-Policy is by default 'self' for get().","status":"FAIL"},{"name":"Permissions-Policy is by default 'self' for create().","status":"FAIL"}]}
