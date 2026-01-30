@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigateEvent.defaultPrevented isn't affected when the navigation is preempted after dispatch","status":"PASS"}]}
