@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"No violation reported for TrustedHTML.","status":"PASS"},{"name":"Violation report for plain string.","status":"PASS"}]}
