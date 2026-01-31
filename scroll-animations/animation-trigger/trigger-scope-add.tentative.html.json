@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Added scope prevents subtree from searching for external trigger","status":"PASS"},{"name":"Added scope prevents external references from finding trigger within scope.","status":"PASS"}]}
