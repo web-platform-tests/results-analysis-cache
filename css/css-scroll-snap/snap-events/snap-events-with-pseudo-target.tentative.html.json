@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"snapTarget for scrollsnapchange is the owning element when a snap area belongs to a pseudo-element","status":"PASS"},{"name":"snapTarget for scrollsnapchanging is the owning element when a snap area belongs to a pseudo-element","status":"PASS"}]}
