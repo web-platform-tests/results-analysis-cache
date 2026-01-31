@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Summarizer.availability() is available with no options","status":"FAIL"},{"name":"Summarizer.availability() returns available with supported options","status":"FAIL"},{"name":"Summarizer.availability() returns unavailable for unsupported languages","status":"FAIL"}]}
