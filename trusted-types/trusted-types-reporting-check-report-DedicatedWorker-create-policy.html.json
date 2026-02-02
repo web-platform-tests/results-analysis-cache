@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Creating policy works for policy in the allowlist.","status":"PASS"},{"name":"Creating policy works for policy in the blocklist, since it's report-only.","status":"PASS"},{"name":"Test report-uri works with trusted-types violation.","status":"PASS"},{"name":"Test number of sent reports.","status":"PASS"}]}
