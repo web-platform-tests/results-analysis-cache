@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Creating a Worker from a string should throw (dedicated worker scope)","status":"PASS"},{"name":"Creating a Worker from a TrustedScriptURL should not throw (dedicated worker scope)","status":"PASS"},{"name":"Creating a Worker from a string with a default policy should not throw (dedicated worker scope)","status":"PASS"}]}
