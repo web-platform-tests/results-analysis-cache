@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"No violation reported for setTimeout with TrustedScript.","status":"PASS"},{"name":"No violation reported for setInterval with TrustedScript.","status":"PASS"},{"name":"Violation report for setTimeout with plain string.","status":"PASS"},{"name":"Violation report for setInterval with plain string.","status":"PASS"}]}
