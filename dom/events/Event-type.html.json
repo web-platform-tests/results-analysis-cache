@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Event.type should initially be the empty string","status":"PASS"},{"name":"Event.type should be initialized by initEvent","status":"PASS"},{"name":"Event.type should be initialized by the constructor","status":"PASS"}]}
