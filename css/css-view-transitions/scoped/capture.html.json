@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"View-transition pseudo elements created for correct element","status":"PASS"},{"name":"Capture with concurrent scoped view-transitions","status":"PASS"}]}
