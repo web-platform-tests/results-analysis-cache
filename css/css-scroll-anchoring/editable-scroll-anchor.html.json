@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Scroll anchoring is suppressed during editing in a textarea","status":"TIMEOUT"},{"name":"Scroll anchoring is suppressed during editing in a contenteditable element","status":"NOTRUN"}]}
