@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Accessing detectedPlanes on inactive frame throws InvalidStateError - webgl","status":"FAIL"},{"name":"Accessing detectedPlanes on inactive frame throws InvalidStateError - webgl2","status":"FAIL"}]}
