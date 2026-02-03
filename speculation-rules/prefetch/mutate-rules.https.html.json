@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Removing the <script type=speculationrules> must cancel the prefetch","status":"PASS"},{"name":"Removing a rule from the <script type=speculationrules> must not cancel the prefetch","status":"PASS"},{"name":"Adding a rule to the <script type=speculationrules> must not prefetch","status":"PASS"}]}

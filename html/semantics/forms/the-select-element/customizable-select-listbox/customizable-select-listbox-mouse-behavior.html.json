@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"mouse: input behavior for base appearance <select multiple>","status":"PASS"},{"name":"mouse: input behavior for base appearance <select size=4>","status":"PASS"},{"name":"touch: input behavior for base appearance <select multiple>","status":"PASS"},{"name":"touch: input behavior for base appearance <select size=4>","status":"PASS"}]}
