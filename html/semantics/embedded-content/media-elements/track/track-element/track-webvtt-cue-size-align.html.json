@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check cues from resources/cue-size-align.vtt","status":"PASS"},{"name":"Check cues from resources/cue-size-align-bad.vtt","status":"PASS"}]}
