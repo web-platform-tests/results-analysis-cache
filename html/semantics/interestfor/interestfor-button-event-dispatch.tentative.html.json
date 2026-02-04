@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"InterestEvent dispatches on button hover","status":"FAIL"},{"name":"event does not dispatch if invoker is disabled","status":"PASS"},{"name":"event dispatches if interestee is non-HTML Element","status":"FAIL"}]}
