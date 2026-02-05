@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-origin fetch from a dedicated worker (data: URL) succeeds.","status":"PASS"},{"name":"Cross-origin fetch from a dedicated worker (data: URL) should be blocked by inherited policy.","status":"PASS"}]}
