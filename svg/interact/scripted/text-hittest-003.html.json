@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"elementFromPoint(...) on visibility=hidden <svg:text> with visible descendants","status":"FAIL"}]}
