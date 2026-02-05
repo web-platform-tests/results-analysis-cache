@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Navigate to the final URL of the prefetch","status":"PASS"},{"name":"Navigation is redirected to the final URL of the prefetch","status":"PASS"}]}
