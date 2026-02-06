@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Animation attached to tripped (default) trigger plays.","status":"FAIL"},{"name":"Animation attached to untripped trigger is paused initially.","status":"FAIL"},{"name":"Animation attached to tripped trigger is played immediately.","status":"FAIL"}]}
