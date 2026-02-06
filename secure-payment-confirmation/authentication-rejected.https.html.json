@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Rejected SPC authentication without matching credential","status":"FAIL"},{"name":"Rejected SPC authentication when credential matched","status":"NOTRUN"}]}
