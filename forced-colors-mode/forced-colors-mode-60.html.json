@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"font-variant-emoji should resolve to 'text' at computed value time in forced-colors mode","status":"FAIL"}]}
