@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Hybrid B&A auction --- beacon reporting","status":"FAIL"},{"name":"Basic B&A auction - updateIfOlderThanMs - invalid index","status":"FAIL"},{"name":"Basic B&A auction - updateIfOlderThanMs","status":"FAIL"},{"name":"Basic B&A auction - winner with candidates","status":"FAIL"}]}
