@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"rules include webkit-prefixed pseudo-element should be cascaded","status":"FAIL"},{"name":"webkit-prefixed pseudo-element selectors should be accessible from CSSOM","status":"FAIL"},{"name":"qS and qSA shouldn't throw exception","status":"FAIL"},{"name":"webkit-prefix without dash is invalid","status":"FAIL"}]}
