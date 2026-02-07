@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Explicit focusgroup=none excludes element from arrow navigation","status":"FAIL"},{"name":"Arrow keys do not work from explicitly opted-out native arrow key handler","status":"PASS"},{"name":"Explicit focusgroup=none includes element in Tab order even when not focused","status":"FAIL"}]}
