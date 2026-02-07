@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document.open() keeps inherited CSPs on initial about:blank.","status":"PASS"},{"name":"document.open() does not change delivered CSPs.","status":"PASS"},{"name":"document.open() keeps inherited CSPs on transient about:blank.","status":"PASS"}]}
