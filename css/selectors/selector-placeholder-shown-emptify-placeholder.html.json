@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"input:placeholder-shown should not be matched","status":"PASS"},{"name":"textarea:placeholder-shown should not be matched","status":"PASS"}]}
