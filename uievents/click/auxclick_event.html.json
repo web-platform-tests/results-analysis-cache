@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"auxclick event sequence received.","status":"PASS"},{"name":"First auxclick should have detail=1 indicating the fire click","status":"PASS"},{"name":"Second auxclick should have detail=2 indicating the fire click","status":"PASS"}]}
