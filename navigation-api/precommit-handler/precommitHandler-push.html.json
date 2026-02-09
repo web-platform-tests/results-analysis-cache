@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"precommitHandler for a push navigation, reject before commit","status":"TIMEOUT"},{"name":"precommitHandler for a push navigation, reject after commit","status":"NOTRUN"},{"name":"precommitHandler for a push navigation, success","status":"NOTRUN"}]}
