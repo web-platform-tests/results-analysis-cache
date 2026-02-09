@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"fetchpriority attribute on <link> elements should reflect valid IDL values","status":"FAIL"},{"name":"default fetchpriority attribute on <link> elements should be 'auto'","status":"FAIL"}]}
