@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Encode video frame with orientation","status":"FAIL"},{"name":"Encode video frames with different orientation has non-fatal failures","status":"FAIL"},{"name":"Encode video frames with different orientations after reconfigure","status":"FAIL"}]}
