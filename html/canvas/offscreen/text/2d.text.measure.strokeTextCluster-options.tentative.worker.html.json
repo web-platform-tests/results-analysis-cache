@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that strokeTextCluster() correctly applies the options passed as a dictionary.","status":"FAIL"}]}
