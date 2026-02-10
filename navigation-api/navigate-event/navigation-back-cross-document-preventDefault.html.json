@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"navigation.back() cross-document cannot be cancelled with the navigate event","status":"TIMEOUT"}]}
