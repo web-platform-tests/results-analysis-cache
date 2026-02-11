@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Blob URLs work on importScripts","status":"PASS"},{"name":"A revoked blob URL will fail","status":"FAIL"},{"name":"Revoking a blob URL in an earlier script will not fail","status":"PASS"}]}
