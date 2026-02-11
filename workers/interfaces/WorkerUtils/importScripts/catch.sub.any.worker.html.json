@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Same-origin syntax error","status":"PASS"},{"name":"Same-origin throw","status":"PASS"},{"name":"Cross-origin syntax error","status":"TIMEOUT"}]}
