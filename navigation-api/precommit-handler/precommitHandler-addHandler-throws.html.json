@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"addHandler() after finish","status":"PASS"},{"name":"addHandler() after commit","status":"PASS"},{"name":"addHandler() in detached iframe","status":"PASS"}]}
