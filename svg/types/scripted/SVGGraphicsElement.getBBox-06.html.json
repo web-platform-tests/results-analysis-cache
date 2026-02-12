@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Non-rendered symbol with rect","status":"PASS"},{"name":"display:none <g> with rect","status":"PASS"},{"name":"display:none <rect>","status":"FAIL"}]}
