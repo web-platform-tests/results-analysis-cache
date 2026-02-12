@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"properties of pseudo elements in update callback","status":"PASS"},{"name":"properties of pseudo elements outside of transition","status":"PASS"}]}
