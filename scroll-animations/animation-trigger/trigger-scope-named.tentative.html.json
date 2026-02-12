@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"target within named trigger-scope finds trigger within scope; out-of-scope target does not.","status":"FAIL"}]}
