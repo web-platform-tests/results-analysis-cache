@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"BfCached document not be dropped when containing cross-site iframe and that cross-site received clear-cache header","status":"PASS"},{"name":"BfCached document should be dropped when containing same-site iframe and that same-site received clear-cache header","status":"FAIL"}]}
