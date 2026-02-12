@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_simulate_descriptor_write_event","status":"PASS"},{"name":"test_simulate_characteristic_read_event","status":"PASS"}]}
