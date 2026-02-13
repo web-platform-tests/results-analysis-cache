@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Object cloning: own properties only, don't follow prototype","status":"PASS"}]}
