@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Basic B&A auction - buyerReportingId in wrong ad","status":"FAIL"},{"name":"Basic B&A auction - buyerAndSellerReportingId not in ad","status":"FAIL"},{"name":"Basic B&A auction - buyerAndSellerReportingId in ad","status":"FAIL"},{"name":"Basic B&A auction - buyerAndSellerReportingId in wrong ad","status":"FAIL"}]}
