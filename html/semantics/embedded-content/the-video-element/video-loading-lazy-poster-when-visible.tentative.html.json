@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Video with loading=lazy does not fetch poster while not visible, then fetches poster once scrolled into view","status":"FAIL"}]}
