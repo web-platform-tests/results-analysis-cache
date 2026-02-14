@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"contributeToHistogram() with too large bucket in scoreAd()","status":"FAIL"},{"name":"contributeToHistogram() with negative bucket in reportResult()","status":"FAIL"},{"name":"contributeToHistogram() with non-BigInt bucket in generateBid()","status":"FAIL"},{"name":"contributeToHistogram() with negative value in reportWin()","status":"FAIL"}]}
