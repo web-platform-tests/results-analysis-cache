@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"In singlecast, encodingIndex is 0","status":"PASS"},{"name":"In simulcast, encodingIndex reflects index of sendEncodings","status":"FAIL"},{"name":"encodingIndex is undefined for audio streams","status":"PASS"}]}
