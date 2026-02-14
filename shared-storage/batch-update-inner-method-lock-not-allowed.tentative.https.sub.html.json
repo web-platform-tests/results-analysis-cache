@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"batchUpdate() with a set method that specifies the 'withLock' option","status":"PASS"}]}
