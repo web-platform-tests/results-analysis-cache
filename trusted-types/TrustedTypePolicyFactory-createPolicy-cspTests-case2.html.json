@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Cannot create a policy when CSP lists 'none'","status":"PASS"}]}

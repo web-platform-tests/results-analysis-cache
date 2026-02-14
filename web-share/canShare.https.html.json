@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"canShare() empty and default dictionary","status":"PASS"},{"name":"canShare() url member","status":"PASS"},{"name":"canShare() title member","status":"PASS"},{"name":"canShare() text member","status":"PASS"},{"name":"canShare() files member","status":"PASS"},{"name":"canShare() multiple members","status":"PASS"}]}
