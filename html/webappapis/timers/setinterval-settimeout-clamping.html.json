@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"setInterval(0) before setTimeout(0)","status":"PASS"},{"name":"setTimeout(0) before setInterval(0)","status":"PASS"}]}
