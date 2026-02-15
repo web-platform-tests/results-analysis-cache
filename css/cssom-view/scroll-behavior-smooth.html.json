@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"scroll-behavior: smooth on DIV element","status":"NOTRUN"},{"name":"HTML element scroll-behavior should propagate to viewport","status":"NOTRUN"},{"name":"BODY element scroll-behavior should not propagate to viewport","status":"NOTRUN"}]}

@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Text directive allowed in text/html","status":"TIMEOUT"},{"name":"Text directive blocked in text/css","status":"NOTRUN"},{"name":"Text directive blocked in text/javascript","status":"NOTRUN"},{"name":"Text directive allowed in text/plain","status":"NOTRUN"},{"name":"Text directive blocked in application/xml","status":"NOTRUN"}]}
