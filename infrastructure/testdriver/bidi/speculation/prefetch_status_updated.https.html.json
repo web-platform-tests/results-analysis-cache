@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"prefetch_status_updated event subscription and structure validation","status":"FAIL"},{"name":"prefetch_status_updated event with navigation to success","status":"FAIL"},{"name":"prefetch_status_updated event with prefetch failure","status":"FAIL"}]}
