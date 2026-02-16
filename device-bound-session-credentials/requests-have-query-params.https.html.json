@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Registration and refresh endpoints can contain query params","status":"FAIL"}]}
