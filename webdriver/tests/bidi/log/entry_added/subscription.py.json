@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_subscribe_twice[console_api_log]","status":"FAIL"},{"name":"test_subscribe_twice[javascript_error]","status":"FAIL"},{"name":"test_subscribe_unsubscribe[console_api_log]","status":"FAIL"},{"name":"test_subscribe_unsubscribe[javascript_error]","status":"FAIL"}]}
