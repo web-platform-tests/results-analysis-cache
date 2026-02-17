@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"markers are respected in declarative shadow root","status":"PASS"},{"name":"markers are respected in imperative shadow root with streaming","status":"PASS"}]}
