@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"#target1 is scroll-adjusted in x axis only","status":"PASS"},{"name":"#target2 is scroll-adjusted in y axis only","status":"PASS"},{"name":"#target3 is scroll-adjusted in neither axis","status":"PASS"}]}
