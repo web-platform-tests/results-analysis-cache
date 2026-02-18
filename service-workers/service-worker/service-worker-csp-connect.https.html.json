@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CSP test for connect-src in ServiceWorkerGlobalScope","status":"PASS"},{"name":"importScripts test for connect-src","status":"PASS"},{"name":"eval test for connect-src","status":"PASS"},{"name":"Fetch test for connect-src","status":"PASS"},{"name":"Redirected fetch test for connect-src","status":"PASS"}]}
