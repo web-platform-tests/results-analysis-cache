@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"restrictOwnAudio is supported","status":"PASS"},{"name":"getDisplayMedia({\"audio\":{\"restrictOwnAudio\":true}}) with getSettings","status":"FAIL"},{"name":"getDisplayMedia({\"audio\":{\"restrictOwnAudio\":false}}) with getSettings","status":"PASS"}]}
