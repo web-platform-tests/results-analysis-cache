@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Suppress compat mouse events on drag","status":"PASS"},{"name":"primary pointer pointerdown@target0","status":"PASS"},{"name":"primary pointer pointerdown@target1","status":"PASS"},{"name":"Event log","status":"PASS"}]}
