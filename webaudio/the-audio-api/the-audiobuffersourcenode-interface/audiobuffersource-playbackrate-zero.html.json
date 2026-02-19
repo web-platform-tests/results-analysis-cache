@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Synthesize and verify sample-and-hold behavior when playbackRate is set to zero halfway","status":"PASS"},{"name":"Subsample start with playbackRate 0 should produce sample-and-hold from exact start frame","status":"PASS"}]}
