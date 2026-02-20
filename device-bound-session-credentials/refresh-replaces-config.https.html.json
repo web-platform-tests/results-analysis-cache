@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Refresh can replace session config","status":"PASS"},{"name":"Refresh cannot replace session identifier","status":"PASS"}]}
