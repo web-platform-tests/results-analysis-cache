@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_multiple_events_for_interrupted_navigation[Interrupted immediately]","status":"PASS"},{"name":"test_multiple_events_for_interrupted_navigation[Interrupted on DOMContentLoaded]","status":"PASS"},{"name":"test_multiple_events_for_interrupted_navigation[Interrupted on load]","status":"FAIL"}]}
