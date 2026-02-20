@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Decompresion using Brotli with the dictionary works as expected","status":"FAIL"},{"name":"Decompresion using Zstandard with the dictionary works as expected","status":"FAIL"},{"name":"Decompresion of a cross origin resource works as expected","status":"FAIL"}]}
