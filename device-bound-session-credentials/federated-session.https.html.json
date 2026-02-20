@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Successful federated session registration","status":"TIMEOUT"},{"name":"Invalid thumbprint","status":"NOTRUN"},{"name":"Invalid provider session id","status":"NOTRUN"},{"name":"Not authorized by .well-known","status":"NOTRUN"}]}
