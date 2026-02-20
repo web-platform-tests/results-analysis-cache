@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Successful federated session registration","status":"FAIL"},{"name":"Invalid thumbprint","status":"PASS"},{"name":"Invalid provider session id","status":"PASS"},{"name":"Not authorized by .well-known","status":"PASS"}]}
