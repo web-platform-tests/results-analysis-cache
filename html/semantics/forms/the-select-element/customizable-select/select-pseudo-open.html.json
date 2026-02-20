@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"select should support :open pseudo selector.","status":"TIMEOUT"},{"name":"select :open and :not(:open) should invalidate correctly.","status":"NOTRUN"}]}
