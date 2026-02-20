@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Service Worker responds to fetch event with the referrer policy","status":"FAIL"}]}
