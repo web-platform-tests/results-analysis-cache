@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Tests getValueRange returns FormControlRange that extends AbstractRange.","status":"FAIL"},{"name":"FormControlRange handles getValueRange correctly.","status":"FAIL"},{"name":"FormControlRange handles empty value correctly.","status":"FAIL"}]}
