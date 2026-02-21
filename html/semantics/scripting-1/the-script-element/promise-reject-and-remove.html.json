@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Removing iframe in promise reject handler should not crash","status":"PASS"}]}
