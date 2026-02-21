@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"'type' parameter in WakeLock.request() defaults to 'screen'","status":"FAIL"},{"name":"'TypeError' is thrown when set an invalid wake lock type","status":"FAIL"}]}
