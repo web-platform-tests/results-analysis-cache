@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Query with an unsupported name rejects with TypeError","status":"PASS"}]}
