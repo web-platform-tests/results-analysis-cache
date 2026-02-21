@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Event handler IDL attributes must return a function from the element's document's realm","status":"PASS"},{"name":"Event handler IDL attribute compilation errors must be fired on the element's document's global","status":"FAIL"}]}
