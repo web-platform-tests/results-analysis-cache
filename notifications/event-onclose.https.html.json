@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Invoked the onclose event handler.","status":"TIMEOUT"},{"name":"Invoked the onclose event handler on immediate close.","status":"NOTRUN"}]}
