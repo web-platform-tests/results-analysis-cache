@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"new Notification() should give a resolved icon URL","status":"NOTRUN"},{"name":"getNotifications() should give a resolved icon URL","status":"NOTRUN"}]}
