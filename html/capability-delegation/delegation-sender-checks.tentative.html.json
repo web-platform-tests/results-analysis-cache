@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Delegating an unsupported capability throws an exception","status":"NOTRUN"},{"name":"Delegating to targetOrigin='*' throws an exception","status":"NOTRUN"},{"name":"Delegating without user activation throws an exception","status":"NOTRUN"}]}
