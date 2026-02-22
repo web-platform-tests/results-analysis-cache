@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"handler added in addHandler() delays navigation finish","status":"FAIL"},{"name":"handler added in addHandler() is executed in the correct order","status":"FAIL"}]}
