@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.open() with noopener should have equal viewport width and height","status":"FAIL"},{"name":"window.open() with noreferrer should have equal viewport width and height","status":"FAIL"}]}
