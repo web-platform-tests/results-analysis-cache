@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"regular-igs-count","status":"FAIL"},{"name":"negative-igs-count","status":"FAIL"},{"name":"ig-storage-used","status":"TIMEOUT"},{"name":"report.once in a component auction","status":"NOTRUN"}]}
