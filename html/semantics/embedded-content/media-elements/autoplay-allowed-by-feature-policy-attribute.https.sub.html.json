@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Feature policy \"autoplay\" can be enabled in same-origin iframe using allow=\"autoplay\" attribute","status":"TIMEOUT"},{"name":"Feature policy \"autoplay\" can be enabled in cross-origin iframe using allow=\"autoplay\" attribute","status":"PASS"}]}
