@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getConfiguration returns default empty certificates","status":"FAIL"}]}
