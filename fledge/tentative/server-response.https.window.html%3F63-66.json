@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Basic B&A auction - multiple ghost winners","status":"FAIL"},{"name":"Basic B&A auction - second ghost winner invalid","status":"FAIL"},{"name":"Basic B&A auction - winner with ghost winner","status":"FAIL"},{"name":"Basic B&A auction - invalid GhostWinnerForTopLevelAuction","status":"FAIL"}]}
