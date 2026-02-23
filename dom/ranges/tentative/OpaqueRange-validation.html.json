@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getValueRange throws IndexSizeError for out-of-bounds offsets.","status":"FAIL"},{"name":"getValueRange handles all range types correctly: forward, backwards, and out-of-bounds.","status":"FAIL"}]}
