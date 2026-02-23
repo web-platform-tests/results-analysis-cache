@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Local mutable global exports should be live bindings","status":"FAIL"},{"name":"Dep module mutable global exports should be live bindings","status":"FAIL"}]}
