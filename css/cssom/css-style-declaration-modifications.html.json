@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Reading CSSStyleDeclaration initialized from a style element","status":"PASS"},{"name":"Setting CSSStyleDeclaration#cssText","status":"PASS"},{"name":"Calling CSSStyleDeclaration#setProperty","status":"PASS"},{"name":"setProperty priority should be case-insensitive","status":"PASS"}]}
