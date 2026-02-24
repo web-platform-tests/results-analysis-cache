@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"about: allowed in embed","status":"PASS"},{"name":"blob: allowed in embed","status":"PASS"},{"name":"data: allowed in embed","status":"PASS"},{"name":"https: allowed in embed","status":"PASS"},{"name":"http: allowed in embed","status":"PASS"}]}
