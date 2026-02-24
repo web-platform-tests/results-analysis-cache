@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A zero-area hidden target should not be intersecting.","status":"PASS"},{"name":"First rAF.","status":"PASS"}]}
