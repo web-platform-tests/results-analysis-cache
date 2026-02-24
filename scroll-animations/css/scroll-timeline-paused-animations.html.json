@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that the scroll animation is paused","status":"FAIL"},{"name":"Test that the scroll animation is paused by updating animation-play-state","status":"FAIL"}]}
