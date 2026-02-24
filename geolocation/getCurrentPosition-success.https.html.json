@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getCurrentPosition called with success and error callbacks","status":"PASS"},{"name":"Error callback is nullable for getCurrentPosition().","status":"PASS"}]}
