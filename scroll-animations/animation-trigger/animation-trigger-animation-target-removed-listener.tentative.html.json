@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"triggered animation with event listener can trigger after target is removed.","status":"FAIL"}]}
