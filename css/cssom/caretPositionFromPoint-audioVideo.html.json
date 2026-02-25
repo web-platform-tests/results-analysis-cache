@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document.caretPositionFromPoint() should return a CaretPosition over audio elements","status":"FAIL"},{"name":"document.caretPositionFromPoint() should return a CaretPosition over video elements","status":"FAIL"}]}
