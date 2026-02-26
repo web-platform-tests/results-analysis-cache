@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"read type for binary messages is Uint8Array","status":"TIMEOUT"}]}
