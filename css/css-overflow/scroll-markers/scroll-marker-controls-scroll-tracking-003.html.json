@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"::scroll-marker is not activated when its originating element is not scrolled into the view","status":"FAIL"},{"name":"::scroll-marker is activated when its originating element is scrolled into the view","status":"FAIL"}]}
