@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Keyboard behavior for base appearance <select multiple>","status":"PASS"},{"name":"Keyboard behavior for base appearance <select size=4>","status":"PASS"},{"name":"Base appearance listbox selects should not be focusable.","status":"PASS"}]}
