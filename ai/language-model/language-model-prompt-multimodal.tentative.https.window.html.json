@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Prompt with type:\"text\" and image content should reject","status":"FAIL"},{"name":"Prompt with assistant role should reject with multimodal input","status":"FAIL"}]}
