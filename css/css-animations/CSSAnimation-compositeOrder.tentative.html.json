@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Animations are composited by their order in the animation-name property.","status":"PASS"},{"name":"Web-animation replaces CSS animation","status":"PASS"}]}
