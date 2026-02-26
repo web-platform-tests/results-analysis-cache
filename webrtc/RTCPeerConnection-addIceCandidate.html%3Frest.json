@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"addIceCandidate after close should reject with InvalidStateError","status":"FAIL"},{"name":"addIceCandidate should not recognize relayProtocol or url","status":"FAIL"}]}

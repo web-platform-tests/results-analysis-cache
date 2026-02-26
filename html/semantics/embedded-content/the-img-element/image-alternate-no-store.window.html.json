@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Reassigning the same src value should not trigger an extra image fetch","status":"TIMEOUT"}]}
