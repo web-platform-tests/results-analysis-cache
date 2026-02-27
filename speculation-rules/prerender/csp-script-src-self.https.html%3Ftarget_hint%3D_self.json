@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test if CSP script-src self does not permit inline speculationrules.","status":"TIMEOUT"}]}
