@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getValueRange creates independent ranges on same element.","status":"FAIL"},{"name":"getValueRange works on different form controls.","status":"FAIL"},{"name":"getValueRange works with disconnected form controls.","status":"FAIL"},{"name":"OpaqueRange collapses on full .value= replacement.","status":"FAIL"}]}
