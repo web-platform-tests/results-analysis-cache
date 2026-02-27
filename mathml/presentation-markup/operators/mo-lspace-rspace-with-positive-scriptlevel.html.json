@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"default lspace/rspace in scriptlevel = 1 is just obtained by scaling down the one for scriptlevel = 0.","status":"FAIL"}]}
