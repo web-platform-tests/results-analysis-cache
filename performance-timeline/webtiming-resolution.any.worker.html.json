@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verifies the resolution of performance.now() is at least 5 microseconds.","status":"PASS"},{"name":"Verifies the resolution of entry.startTime is at least 5 microseconds.","status":"PASS"}]}
