@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Dialog should not light dismiss when clicking inside the dialog and dragging outside of it.","status":"PASS"}]}
