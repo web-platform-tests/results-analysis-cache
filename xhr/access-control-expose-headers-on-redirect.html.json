@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XHR should respect access-control-expose-headers header on redirect","status":"PASS"}]}
