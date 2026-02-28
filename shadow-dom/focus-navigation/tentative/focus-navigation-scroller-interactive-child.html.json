@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"While focusing a keyboard-focusable scroller, adding interactive content should not cancel focusability","status":"FAIL"}]}
