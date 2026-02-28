@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Preconnect should not fire load (or error) events","status":"PASS"},{"name":"Preconnect should not fire error (or load) events for non-existent origins","status":"PASS"},{"name":"Preconnect should not fire error (or load) events for non-http(s) scheme","status":"PASS"}]}
