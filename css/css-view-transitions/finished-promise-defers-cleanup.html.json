@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"View transition cleanup is deferred until after the frame where `finished` promise resolves","status":"PASS"}]}
