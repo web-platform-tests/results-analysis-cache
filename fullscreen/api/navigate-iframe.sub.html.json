@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"same_to_cross","status":"PASS"},{"name":"cross_to_same","status":"PASS"},{"name":"same_to_same","status":"FAIL"},{"name":"cross_to_cross","status":"PASS"},{"name":"allowed_cross_to_same","status":"FAIL"}]}
