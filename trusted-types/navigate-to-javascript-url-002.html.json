@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Setting window.location to a javascript: URL with a default policy should execute the JavaScript code modified by that policy.","status":"PASS"}]}
