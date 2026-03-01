@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Multiple registrations can be triggered in one response (single header)","status":"TIMEOUT"},{"name":"Multiple registrations can be triggered in one response (multiple headers)","status":"NOTRUN"}]}
