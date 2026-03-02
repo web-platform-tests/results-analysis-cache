@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XMLHttpRequest: open() call fires sync readystate event (sync)","status":"PASS"},{"name":"XMLHttpRequest: open() call fires sync readystate event (async)","status":"PASS"}]}
