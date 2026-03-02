@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_input","status":"PASS"},{"name":"test_textarea","status":"PASS"},{"name":"test_input_append","status":"PASS"},{"name":"test_textarea_append","status":"PASS"},{"name":"test_input_insert_when_focused","status":"PASS"},{"name":"test_textarea_insert_when_focused","status":"PASS"},{"name":"test_date","status":"FAIL"}]}
