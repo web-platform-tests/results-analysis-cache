@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Shared workers should not generate Resource Timing Entries","status":"FAIL"}]}
