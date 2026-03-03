@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Preconnect should not fire load (or error) events","status":"TIMEOUT"},{"name":"Preconnect should not fire error (or load) events for non-existent origins","status":"NOTRUN"},{"name":"Preconnect should not fire error (or load) events for non-http(s) scheme","status":"NOTRUN"}]}
