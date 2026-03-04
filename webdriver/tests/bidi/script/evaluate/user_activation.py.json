@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_userActivation[True]","status":"ERROR"},{"name":"test_userActivation[False]","status":"ERROR"},{"name":"test_userActivation_copy[True]","status":"ERROR"},{"name":"test_userActivation_copy[False]","status":"ERROR"}]}
