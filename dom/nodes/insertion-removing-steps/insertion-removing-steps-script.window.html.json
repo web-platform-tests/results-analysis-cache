@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Script node insertion is not atomic with regard to execution. Each script is synchronously executed during the HTML element insertion steps hook","status":"PASS"}]}
