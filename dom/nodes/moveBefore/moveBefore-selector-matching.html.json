@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"moveBefore() should invalidate target when descendant selector changes","status":"PASS"}]}
