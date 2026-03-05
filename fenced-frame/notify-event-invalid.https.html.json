@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that fenced frame notifyEvent() fails using the incorrect event type.","status":"FAIL"},{"name":"Test that fenced frame notifyEvent() fails using an untrusted event.","status":"FAIL"},{"name":"Test that fenced frame notifyEvent() only invokes 'fencedtreeclick'.","status":"FAIL"}]}
