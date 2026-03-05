@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"createParserOptions can inject a sanitizer config","status":"PASS"},{"name":"createParserOptions can inject a sanitizer","status":"PASS"},{"name":"createParserOptions can override a sanitizer config","status":"PASS"},{"name":"createParserOptions can remove a sanitizer","status":"PASS"}]}
