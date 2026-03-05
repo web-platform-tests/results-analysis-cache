@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":":is() inside :host()","status":"PASS"},{"name":":is() inside :host-context()","status":"PASS"},{"name":":is() inside ::slotted()","status":"PASS"}]}
