@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Dynamically enabling scroll-snap should trigger a smooth scroll if scroll-behavior is smooth.","status":"PASS"}]}
