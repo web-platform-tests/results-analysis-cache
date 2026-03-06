@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Child document navigates same-origin parent via document.location","status":"PASS"},{"name":"Child document navigates same-origin parent via form submission","status":"PASS"}]}
