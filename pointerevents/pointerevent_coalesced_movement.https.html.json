@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"pointermove getCoalescedEvents movementX/Y should add up to main event's movementX/Y","status":"FAIL"}]}

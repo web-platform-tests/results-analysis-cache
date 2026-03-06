@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XRFrame.session meets [SameObject] requirement - webgl","status":"PASS"},{"name":"XRFrame.session meets [SameObject] requirement - webgl2","status":"PASS"}]}
