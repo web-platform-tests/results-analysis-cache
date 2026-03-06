@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"var(--unknown, revert-rule) in custom property","status":"FAIL"},{"name":"var(--unknown, revert-rule) in shorthand","status":"PASS"},{"name":"var(--unknown, revert-rule) in shorthand observed via longhand","status":"PASS"},{"name":"var(--unknown, revert-rule) in longhand","status":"PASS"}]}
