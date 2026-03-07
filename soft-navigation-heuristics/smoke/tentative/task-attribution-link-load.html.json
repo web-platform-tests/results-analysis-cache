@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Soft Navigation Detection supports propagating through both preload and style link load events","status":"FAIL"}]}
