@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"can use ShadowRoot as options for attachShadow","status":"PASS"},{"name":"can use ShadowRoot in document fragment as options for attachShadow","status":"PASS"}]}
