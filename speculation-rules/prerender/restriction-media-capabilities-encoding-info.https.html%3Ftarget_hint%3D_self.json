@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"The access to the MediaCapabilities encodingInfo API should be granted\n    during prerendering","status":"TIMEOUT"}]}
