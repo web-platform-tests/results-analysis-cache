@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test Description: Test Description: When the user agent is to clone a port original port, with the clone being owned by owner, it must return a new MessagePort object","status":"PASS"},{"name":"Data sent through remote port is received by the new cloned port","status":"PASS"}]}

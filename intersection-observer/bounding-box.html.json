@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that the target's border bounding box is used to calculate intersection.","status":"PASS"},{"name":"First rAF.","status":"PASS"},{"name":"target.style.transform = 'translateY(195px)'","status":"PASS"},{"name":"target.style.transform = 'translateY(300px)'","status":"PASS"},{"name":"target.style.zoom = 2","status":"PASS"}]}
