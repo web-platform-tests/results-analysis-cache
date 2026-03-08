@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Nested cross-origin iframe should be blocked by frame-src 'self'.","status":"PASS"}]}
