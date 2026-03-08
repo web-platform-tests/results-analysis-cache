@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"ORB shouldn't block opaque range of image/png starting at zero: fetch(..., {mode: \"no-cors\"})","status":"PASS"},{"name":"ORB should block opaque range of image/png not starting at zero, that isn't subsequent: fetch(..., {mode: \"no-cors\"})","status":"FAIL"}]}
