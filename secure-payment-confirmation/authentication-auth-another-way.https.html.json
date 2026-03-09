@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Choose to auth another way without matching credential","status":"TIMEOUT"},{"name":"Choose to auth another way when credential matched","status":"NOTRUN"}]}
