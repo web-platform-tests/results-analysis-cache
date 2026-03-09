@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getComputedStyle() should return and absolutize the first @try rule style for target1","status":"PASS"},{"name":"getComputedStyle() should return and absolutize the second @try rule style for target2","status":"PASS"}]}
