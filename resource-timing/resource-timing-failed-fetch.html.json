@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Resource fetched by HTTP protocol should have resource timing entry emitted,   even when the fetch failed.","status":"FAIL"}]}
