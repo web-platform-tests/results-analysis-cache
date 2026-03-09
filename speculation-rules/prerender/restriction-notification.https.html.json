@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"it is allowed to access the notification API in the prerenderingchange\n    event","status":"TIMEOUT"},{"name":"Displaying Notification should be deferred until the prerendered page is\n activated","status":"NOTRUN"}]}
