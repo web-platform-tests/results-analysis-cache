@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Among un-scoped triggers with same name, last in tree-order is selected.","status":"FAIL"}]}
