@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"scrollIntoView on a sticky table cell uses its natural layout position","status":"PASS"}]}
