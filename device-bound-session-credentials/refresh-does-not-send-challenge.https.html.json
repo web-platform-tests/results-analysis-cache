@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Refresh does not send back Secure-Session-Challenge","status":"PASS"}]}
