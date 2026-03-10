@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test without 'allow-orientation-lock' sandboxing directive","status":"PASS"},{"name":"Test with 'allow-orientation-lock' sandboxing directive","status":"FAIL"}]}
