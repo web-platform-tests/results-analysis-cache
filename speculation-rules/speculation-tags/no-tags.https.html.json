@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Sec-Speculation-Tags: no tags (prefetch)","status":"PASS"},{"name":"Sec-Speculation-Tags: no tags (prerender)","status":"TIMEOUT"}]}
