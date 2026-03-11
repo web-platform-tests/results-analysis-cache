@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_remove_intercept[beforeRequestSent]","status":"FAIL"},{"name":"test_remove_intercept[responseStarted]","status":"FAIL"},{"name":"test_return_value","status":"FAIL"}]}
