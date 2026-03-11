@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"profiling should succeed in dedicated worker with document policy enabled","status":"FAIL"}]}
