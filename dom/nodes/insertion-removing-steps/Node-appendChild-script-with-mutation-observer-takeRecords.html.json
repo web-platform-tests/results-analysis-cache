@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"An inserted script should be able to observe its own mutation record with takeRecords","status":"FAIL"}]}
