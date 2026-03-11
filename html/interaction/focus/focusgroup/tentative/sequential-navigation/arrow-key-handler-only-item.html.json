@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Arrow keys do not work from native arrow key handler even when it's the only item","status":"PASS"},{"name":"Segment with only native arrow key handler navigates correctly based on focus state","status":"PASS"}]}
