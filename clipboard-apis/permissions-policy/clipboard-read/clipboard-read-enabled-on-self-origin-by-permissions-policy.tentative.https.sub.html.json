@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Permissions-Policy header clipboard-read=self allows the top-level document.","status":"TIMEOUT"},{"name":"Permissions-Policy header clipboard-read=self allows same-origin iframes.","status":"NOTRUN"},{"name":"Permissions-Policy header clipboard-read=self disallows cross-origin iframes.","status":"NOTRUN"}]}
