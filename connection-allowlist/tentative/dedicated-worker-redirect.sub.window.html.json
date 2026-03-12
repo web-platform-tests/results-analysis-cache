@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-origin dedicated worker main script fetch with redirect fails.","status":"FAIL"},{"name":"Same-origin subresource fetch from dedicated worker with same-origin redirect fails.","status":"PASS"},{"name":"Same-origin subresource fetch from dedicated worker with cross-origin redirect fails.","status":"PASS"}]}
