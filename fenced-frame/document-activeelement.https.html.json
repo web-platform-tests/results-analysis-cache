@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document.activeElement should be the fenced frame when it has focus","status":"FAIL"},{"name":"a fenced frame's document.activeElement should be its body when it doesn't have focus","status":"FAIL"}]}
