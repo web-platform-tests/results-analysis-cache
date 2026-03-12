@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Setting the same location.hash twice must not fire hashchange the second time","status":"PASS"}]}
