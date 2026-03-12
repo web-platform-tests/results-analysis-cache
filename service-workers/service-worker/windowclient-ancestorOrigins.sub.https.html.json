@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"iframe referrerpolicy=\"\", origin A","status":"TIMEOUT"},{"name":"iframe referrerpolicy=\"no-referrer\", origin A","status":"NOTRUN"},{"name":"iframe referrerpolicy=\"same-origin\", origin A","status":"NOTRUN"},{"name":"iframe referrerpolicy=\"same-origin\", origin B","status":"NOTRUN"}]}
