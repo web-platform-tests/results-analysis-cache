@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Can query named container in shadow","status":"FAIL"},{"name":"::part() can see inner named containers","status":"FAIL"},{"name":"::slotted() can see inner named containers","status":"FAIL"}]}
