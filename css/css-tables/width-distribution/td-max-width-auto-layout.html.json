@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Cell with max-width smaller than width is clamped","status":"PASS"},{"name":"Cell with max-width larger than width is not affected","status":"PASS"},{"name":"Cell with max-width equal to width is not affected","status":"PASS"},{"name":"Cell without max-width is not affected","status":"PASS"}]}
