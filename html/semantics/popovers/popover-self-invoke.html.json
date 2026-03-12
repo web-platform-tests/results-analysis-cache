@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"mouse on a popover button that is its own target should open it.","status":"TIMEOUT"},{"name":"touch on a popover button that is its own target should open it.","status":"NOTRUN"},{"name":"click on a popover button that is its own target should open it.","status":"NOTRUN"}]}
