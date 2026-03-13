@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Gyroscope: Permissions-Policy header gyroscope=() disallows the top-level document.","status":"PASS"},{"name":"Gyroscope: Permissions-Policy header gyroscope=() disallows same-origin iframes.","status":"FAIL"},{"name":"Gyroscope: Permissions-Policy header gyroscope=() disallows cross-origin iframes.","status":"FAIL"}]}
