@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"\"uncustomized\" :defined doesn't care about your registry'","status":"PASS"},{"name":"\"custom\" :defined doesn't care about your registry","status":"PASS"},{"name":"\"custom\" :defined should apply after initialize","status":"FAIL"}]}
