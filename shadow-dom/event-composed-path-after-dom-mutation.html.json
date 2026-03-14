@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Event.composedPath() should return the same result even if DOM is mutated (1/2)","status":"PASS"},{"name":"Event.composedPath() should return the same result even if DOM is mutated (2/2)","status":"PASS"}]}
