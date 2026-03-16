@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"removing a null event listener should succeed","status":"PASS"}]}
