@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Access to .marker returns an empty string","status":"PASS"},{"name":"Multiple names stay a single string","status":"PASS"},{"name":"Setting .marker updates the attribute.","status":"PASS"},{"name":"marker retains whitespace","status":"PASS"}]}
