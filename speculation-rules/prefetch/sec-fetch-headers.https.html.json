@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Sec-Fetch-Dest","status":"FAIL"},{"name":"Sec-Fetch-Mode","status":"FAIL"},{"name":"Sec-Fetch-Dest with redirects","status":"FAIL"},{"name":"Sec-Fetch-Mode with redirects","status":"FAIL"}]}
