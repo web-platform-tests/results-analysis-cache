@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Setting window.location to a javascript: URL without a default policy should report a CSP violation instead of executing the JavaScript code.","status":"PASS"}]}
