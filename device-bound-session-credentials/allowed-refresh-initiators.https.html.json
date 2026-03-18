@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"An established session refreshes when initated by the owning site","status":"TIMEOUT"},{"name":"An established session refreshes when initated by a host in allowed_refresh_initiators","status":"NOTRUN"},{"name":"An established session does not refresh when initated by a host not in allowed_refresh_initiators","status":"NOTRUN"}]}
