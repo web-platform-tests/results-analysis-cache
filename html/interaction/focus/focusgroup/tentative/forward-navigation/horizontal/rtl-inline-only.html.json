@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"ArrowLeft moves forward in RTL inline-only focusgroup.","status":"FAIL"},{"name":"ArrowRight moves backward in RTL inline-only focusgroup.","status":"FAIL"},{"name":"ArrowDown and ArrowUp do not move focus in RTL inline-only focusgroup.","status":"PASS"}]}
