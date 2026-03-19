@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IntersectionObserver observing an element inside a root table.","status":"PASS"},{"name":"First rAF.","status":"PASS"},{"name":"Moving the target to the right bottom corner of the table.","status":"PASS"}]}

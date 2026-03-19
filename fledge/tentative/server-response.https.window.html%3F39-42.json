@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Basic B&A auction - ad component URL not in ad","status":"FAIL"},{"name":"Basic B&A auction - ad component URL in ad","status":"FAIL"},{"name":"Basic B&A auction - loading winning component ads","status":"FAIL"},{"name":"Basic B&A auction --- beacon reporting","status":"FAIL"}]}
