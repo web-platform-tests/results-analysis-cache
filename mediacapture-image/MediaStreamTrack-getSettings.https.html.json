@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"exercises MediaStreamTrack.getSettings() with PTZ permission denied","status":"PASS"},{"name":"MediaStreamTrack-getSettings","status":"FAIL"},{"name":"exercises MediaStreamTrack.getSettings() with PTZ permission granted","status":"PASS"},{"name":"MediaStreamTrack-getSettings 1","status":"FAIL"}]}
