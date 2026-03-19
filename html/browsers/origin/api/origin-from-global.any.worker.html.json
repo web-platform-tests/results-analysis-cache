@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Origin.from(globalThis) is a tuple origin.","status":"PASS"}]}
