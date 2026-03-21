@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"pointerrawupdate event is not fired","status":"PASS"},{"name":"onpointerrawupdate is not exposed","status":"PASS"}]}
