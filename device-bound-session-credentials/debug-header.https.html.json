@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A session that fails to reach the refresh endpoint sets debug header","status":"PASS"},{"name":"Same-site redirects continue to send debug header","status":"PASS"},{"name":"Cross-site redirects do not send debug header","status":"PASS"},{"name":"Two failing sessions both set debug header","status":"PASS"}]}
