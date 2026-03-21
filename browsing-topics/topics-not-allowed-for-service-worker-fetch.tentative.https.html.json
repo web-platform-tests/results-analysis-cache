@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test that fetch(<url>, {browsingTopics: true}) from a service worker context will not include the topics header","status":"FAIL"}]}
