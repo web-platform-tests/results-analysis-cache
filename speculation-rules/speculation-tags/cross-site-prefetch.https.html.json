@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"cross-site prefetch should not have Sec-Speculation-Tags be sent","status":"FAIL"}]}
