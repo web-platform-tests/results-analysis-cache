@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Object instance","status":"PASS"},{"name":"Array instance","status":"PASS"},{"name":"Date instance","status":"PASS"},{"name":"RegExp instance","status":"PASS"}]}

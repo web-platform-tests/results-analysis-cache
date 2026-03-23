@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property container-type value 'anchored'","status":"FAIL"},{"name":"Property container-type value 'anchored size'","status":"FAIL"},{"name":"Property container-type value 'inline-size anchored'","status":"FAIL"}]}
