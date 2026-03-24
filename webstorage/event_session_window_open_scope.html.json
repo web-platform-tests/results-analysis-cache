@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"sessionStorage events from a new window opened via window.open() should not fire in the opener","status":"PASS"}]}
