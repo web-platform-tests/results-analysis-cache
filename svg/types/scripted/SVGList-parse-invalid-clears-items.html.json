@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SVGLengthList clears items when attribute value is invalid","status":"PASS"},{"name":"SVGNumberList clears items when attribute value is invalid","status":"PASS"},{"name":"SVGPointList clears items when attribute value is invalid","status":"FAIL"},{"name":"SVGTransformList clears items when attribute value is invalid","status":"PASS"}]}
