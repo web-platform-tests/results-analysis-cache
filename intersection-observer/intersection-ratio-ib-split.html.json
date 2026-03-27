@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IntersectionObserver on an IB split gets the right intersection ratio - INLINE","status":"PASS"},{"name":"IntersectionObserver on an IB split gets the right intersection ratio - BLOCK","status":"PASS"}]}
