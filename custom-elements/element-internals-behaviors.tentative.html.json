@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"attachInternals({ behaviors: [] }) accepts empty behaviors array","status":"PASS"},{"name":"behaviors returns empty array when no behaviors configured","status":"FAIL"}]}
