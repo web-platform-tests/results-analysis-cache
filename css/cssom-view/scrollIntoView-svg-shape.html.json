@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"scrollIntoView on an SVG shape element, geometry","status":"PASS"},{"name":"scrollIntoView on an SVG shape element, translated","status":"PASS"},{"name":"scrollIntoView on an SVG shape element, rotated","status":"PASS"}]}
