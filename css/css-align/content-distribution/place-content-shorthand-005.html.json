@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check place-content: inherit - align-content resolved value","status":"PASS"},{"name":"Check place-content: inherit - justify-content resolved value","status":"PASS"}]}
