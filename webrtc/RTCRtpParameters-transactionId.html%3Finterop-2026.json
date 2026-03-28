@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"sender.setParameters() with transaction ID unset should reject with TypeError","status":"PASS"},{"name":"setParameters() twice with the same parameters should reject with InvalidStateError","status":"PASS"}]}
