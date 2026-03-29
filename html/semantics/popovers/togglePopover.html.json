@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"togglePopover should toggle the popover and return true or false as specified.","status":"FAIL"},{"name":"togglePopover's return value should reflect what the end state is, not just the force parameter.","status":"FAIL"},{"name":"togglePopover should throw an exception when there is no popover attribute.","status":"FAIL"}]}
