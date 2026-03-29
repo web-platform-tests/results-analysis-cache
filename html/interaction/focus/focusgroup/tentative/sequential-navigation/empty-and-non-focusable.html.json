@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Empty focusgroup is skipped during Tab navigation","status":"PASS"},{"name":"Focusgroup with only non-focusable elements is skipped","status":"PASS"},{"name":"Focusgroup with only disabled elements is skipped","status":"PASS"},{"name":"Focusable empty focusgroup container receives focus","status":"PASS"}]}
