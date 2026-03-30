@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"PageHideSpeculations feature check","status":"PASS"},{"name":"PageHideEvent should expose speculations attribute with expected shape","status":"PASS"},{"name":"PageHideEvent constructor should work","status":"PASS"},{"name":"All speculation interfaces should exist","status":"PASS"}]}
