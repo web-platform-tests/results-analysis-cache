@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"TextDecoderStream: write in detached realm should succeed","status":"FAIL"},{"name":"TextEncoderStream: write in detached realm should succeed","status":"FAIL"},{"name":"TextEncoderStream: close in detached realm should succeed","status":"FAIL"},{"name":"TextDecoderStream: close in detached realm should succeed","status":"FAIL"}]}
