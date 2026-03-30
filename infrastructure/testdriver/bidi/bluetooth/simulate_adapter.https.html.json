@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"simulate bluetooth adapter 'absent'","status":"PASS"},{"name":"simulate bluetooth adapter 'powered-off'","status":"PASS"},{"name":"simulate bluetooth adapter 'powered-on'","status":"PASS"}]}
