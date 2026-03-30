@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"display:none via a CSS animation on a pseudo-element does not cancel the animation.","status":"PASS"}]}
