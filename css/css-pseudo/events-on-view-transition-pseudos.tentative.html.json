@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Clicking on view transition pseudo elements sets event.pseudoTarget correctly","status":"FAIL"}]}
