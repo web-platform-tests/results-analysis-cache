@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Pasting three times content with a newline at the end, the insertion caret keeps positioned at the end.","status":"PASS"}]}
