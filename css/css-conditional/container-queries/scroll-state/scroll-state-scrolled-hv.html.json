@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check that scroll-state(scrolled) state before scrolling","status":"FAIL"},{"name":"Check that scroll-state(scrolled) horizontal state is persisted across vertical scroll event","status":"FAIL"},{"name":"Check that scroll-state(scrolled) vertical state is persisted across horizontal scroll event","status":"FAIL"}]}
