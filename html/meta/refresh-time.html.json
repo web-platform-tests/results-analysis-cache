@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Ensure that refresh is observed","status":"PASS"},{"name":"Ensure that non-fractional part in refresh time does not get discarded","status":"TIMEOUT"},{"name":"Ensure that multiple periods in refresh time just get ignored","status":"NOTRUN"}]}
