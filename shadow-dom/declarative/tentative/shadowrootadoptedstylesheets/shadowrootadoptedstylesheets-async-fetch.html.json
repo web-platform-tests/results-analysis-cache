@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A placeholder sheet is added to adoptedStyleSheets before the fetch completes.","status":"PASS"},{"name":"The placeholder sheet does not apply styles before the fetch completes.","status":"PASS"}]}
