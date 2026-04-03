@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"<img> decodes JPEG XL","status":"PASS"},{"name":"<picture>/<source> selects and decodes JPEG XL source","status":"PASS"}]}
