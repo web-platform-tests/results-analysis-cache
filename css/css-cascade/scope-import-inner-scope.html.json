@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"@scope within scope-imported stylesheet matches","status":"FAIL"},{"name":"@scope within scope-imported does not ignore import scope","status":"PASS"}]}
