@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"dedicated-worker-correct-url-in-report","status":"PASS"},{"name":"dedicated-worker-correct-url-in-report 1","status":"PASS"},{"name":"URL in report should point to worker where violation occurs","status":"PASS"},{"name":"URL in report should point to worker where violation occurs' (with redirect)'","status":"PASS"}]}
