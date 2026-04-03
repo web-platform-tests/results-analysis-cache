@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Mutation observer for classic script element","status":"TIMEOUT"},{"name":"Mutation observer for module script element","status":"NOTRUN"},{"name":"Mutation observer for async script element","status":"NOTRUN"},{"name":"Mutation observer for defer script element","status":"NOTRUN"}]}
