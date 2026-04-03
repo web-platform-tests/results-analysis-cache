@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IDBDatabase.deleteObjectStore exception order: InvalidStateError vs. TransactionInactiveError","status":"PASS"},{"name":"IDBDatabase.deleteObjectStore exception order: TransactionInactiveError vs. NotFoundError","status":"PASS"}]}
