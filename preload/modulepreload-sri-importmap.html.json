@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Script should not be loaded if modulepreload's integrity is invalid","status":"TIMEOUT"}]}
