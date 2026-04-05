@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Dropping image on the root scrollbar of an iframe. No drop event should be sent.","status":"PASS"}]}
