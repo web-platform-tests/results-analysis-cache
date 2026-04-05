@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"name cannot be updated.","status":"FAIL"},{"name":"executionMode not updated when unknown type.","status":"FAIL"},{"name":"trustedBiddingSignalsKeys not updated when bad value.","status":"FAIL"}]}
