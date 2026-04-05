@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Setting keyPoints invalid and then valid should result in the animation running","status":"FAIL"}]}
