@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Light dismiss on dialog with touch input with pointer capture.","status":"FAIL"},{"name":"Light dismiss on dialog with mouse input with pointer capture.","status":"FAIL"}]}
