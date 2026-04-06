@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"drm support for empty HDCP version.","status":"FAIL"},{"name":"drm support for HDCP 1.0.","status":"FAIL"}]}
