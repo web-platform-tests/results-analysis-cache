@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Elements in a shadow tree should not be accessible from owner document's querySelector() method.","status":"PASS"},{"name":"Elements in a shadow tree should not be accessible from owner document's querySelectorAll() method.","status":"PASS"}]}
