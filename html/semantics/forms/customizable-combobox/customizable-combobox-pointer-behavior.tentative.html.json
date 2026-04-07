@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"click: activating an option in a combobox should set the text of the input element.","status":"FAIL"},{"name":"touch: activating an option in a combobox should set the text of the input element.","status":"FAIL"}]}
