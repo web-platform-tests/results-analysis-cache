@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"attachShadow() on declarative shadow root with manual slotAssignment","status":"FAIL"},{"name":"attachShadow() on declarative shadow root does not change slotAssignment","status":"FAIL"}]}
