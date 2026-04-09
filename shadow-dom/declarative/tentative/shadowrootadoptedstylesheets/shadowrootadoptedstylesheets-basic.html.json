@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"adoptedStyleSheets is populated from a <template> element's shadowrootadoptedstylesheets attribute.","status":"FAIL"},{"name":"Styles from the adoptedStyleSheets are applied to elements.","status":"FAIL"}]}
