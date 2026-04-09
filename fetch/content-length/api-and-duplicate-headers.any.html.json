@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"fetch() and duplicate Content-Length/Content-Type headers","status":"PASS"},{"name":"XMLHttpRequest and duplicate Content-Length/Content-Type headers","status":"PASS"}]}
