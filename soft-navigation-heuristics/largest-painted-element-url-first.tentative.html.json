@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that the largestInteractionContentfulPaint attribute of a soft navigation entry is correctly set when URL change happens before paint","status":"FAIL"}]}
