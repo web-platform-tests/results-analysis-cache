@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify write and read clipboard (multiple types)","status":"FAIL"},{"name":"navigator.clipboard.read() does not crash if clipboard data has null values","status":"FAIL"}]}
