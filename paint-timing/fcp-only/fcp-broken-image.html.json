@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Broken image should not trigger First Contentful Paint.","status":"PASS"}]}
