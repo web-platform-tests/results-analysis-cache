@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"InterestEvent is not dispatched unless the area has an href","status":"FAIL"},{"name":"InterestEvent dispatches on area hover","status":"FAIL"}]}
