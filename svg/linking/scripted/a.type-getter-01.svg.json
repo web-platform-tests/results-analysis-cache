@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SVGAElement.type getter","status":"PASS"},{"name":"Test anchor's type getter when type attribute missing","status":"FAIL"}]}
