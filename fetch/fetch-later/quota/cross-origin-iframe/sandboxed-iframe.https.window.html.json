@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"A sandboxed iframe (without allow-same-origin) should be treated as cross-origin and have its own minimal quota.","status":"FAIL"}]}
