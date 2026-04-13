@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initially selects #couter as --foo container, both match","status":"FAIL"},{"name":"Remove #couter --foo container-name, none match","status":"PASS"},{"name":"Make #cinner a --foo container, #inner starts matching","status":"FAIL"}]}
