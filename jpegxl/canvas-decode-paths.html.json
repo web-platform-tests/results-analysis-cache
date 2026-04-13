@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Canvas 2D drawImage path with JPEG XL image.","status":"FAIL"},{"name":"createImageBitmap() decodes JPEG XL blob.","status":"FAIL"}]}
