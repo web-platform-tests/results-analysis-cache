@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Selection.toString() excludes basic user-select: none content","status":"FAIL"},{"name":"Selection.toString() excludes nested user-select: none content","status":"FAIL"},{"name":"Selection.toString() includes selectable children in unselectable container","status":"FAIL"}]}
