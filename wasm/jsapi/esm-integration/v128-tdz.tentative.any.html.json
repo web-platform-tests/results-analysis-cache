@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"v128 global exports should cause TDZ errors","status":"FAIL"}]}
