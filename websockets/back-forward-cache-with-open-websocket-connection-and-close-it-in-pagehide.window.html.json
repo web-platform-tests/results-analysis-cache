@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Testing BFCache support for a page with an open WebSocket connection, but close it in pagehide.","status":"PRECONDITION_FAILED"}]}
