@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Basic B&A auction - left IG in the middle","status":"FAIL"},{"name":"Basic B&A auction - ad URL not in ad","status":"FAIL"},{"name":"Basic B&A auction - buyerReportingId not in ad","status":"FAIL"},{"name":"Basic B&A auction - buyerReportingId in ad","status":"FAIL"}]}
