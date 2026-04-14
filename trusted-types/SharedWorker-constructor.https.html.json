@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Create SharedWorker via ScriptTestUrl","status":"PASS"},{"name":"Block SharedWorker creation via string","status":"PASS"},{"name":"Create SharedWorker via string with default policy.","status":"PASS"}]}
