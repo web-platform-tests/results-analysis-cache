@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"register and unregister script tool","status":"FAIL"},{"name":"registerTool succeeds when inputSchema.toJSON() returns 'undefined'","status":"FAIL"}]}
