@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"String constants from wasm:js/string-constants should be supported in ESM integration","status":"FAIL"}]}
