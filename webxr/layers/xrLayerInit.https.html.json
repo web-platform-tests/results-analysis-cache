@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Ensure XrWebGLBinding's create layer methods throw the appropriate errors. - webgl","status":"FAIL"},{"name":"Ensure XrWebGLBinding's create layer methods throw the appropriate errors. - webgl2","status":"FAIL"}]}
