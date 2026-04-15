@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Button inside draggable element should be draggable from border","status":"FAIL"},{"name":"Button inside draggable element should be draggable from button text","status":"FAIL"}]}
