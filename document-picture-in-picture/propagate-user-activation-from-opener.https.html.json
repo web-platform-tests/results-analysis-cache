@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"user activation propagates from opener to PiP","status":"TIMEOUT"},{"name":"user activation propagates from cross-origin iframe in opener to PiP","status":"NOTRUN"},{"name":"user activation propagates from opener to iframe PiP","status":"NOTRUN"}]}
