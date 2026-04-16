@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Calling intersectsNode without an argument or with an invalid argument should throw a TypeError.","status":"PASS"}]}

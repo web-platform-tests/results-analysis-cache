@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Events must not fire when state is UNSENT after abort()","status":"PASS"},{"name":"Calling open/abort in readystatechange should not crash","status":"PASS"}]}
