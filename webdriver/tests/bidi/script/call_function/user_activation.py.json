@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_userActivation[True]","status":"PASS"},{"name":"test_userActivation[False]","status":"PASS"},{"name":"test_userActivation_copy[True]","status":"PASS"},{"name":"test_userActivation_copy[False]","status":"PASS"}]}
