@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"IntersectionObserverEntry.boundingClientRect should match target.boundingClientRect()","status":"TIMEOUT"}]}

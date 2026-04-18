@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"IntersectionObserver should detect and report edge-adjacent and zero-area intersections.","status":"PASS"},{"name":"First rAF.","status":"PASS"},{"name":"Set transform=translateY(200px) on target.","status":"TIMEOUT"}]}
