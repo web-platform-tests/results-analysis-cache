@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Response with Cache-Control: max-age=2592000, public and Pragma: no-cache should not be cached","status":"PASS"},{"name":"Response with Cache-Control: max-age=2592000, immutable and Pragma: no-cache should be cached","status":"PASS"}]}
