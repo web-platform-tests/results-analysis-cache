@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"shadow root children are serialized inside template","status":"FAIL"},{"name":"nested elements inside shadow root are serialized","status":"FAIL"}]}
