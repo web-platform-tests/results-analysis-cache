@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"active ::scroll-marker doesn't have focus on scroll if previous ::scroll-marker didn't have it","status":"FAIL"},{"name":"active ::scroll-marker saves focus on scroll if previous ::scroll-marker had it","status":"FAIL"}]}
