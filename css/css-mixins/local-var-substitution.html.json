@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Fallback directly in result","status":"PASS"},{"name":"Fallback via present, but invalid local","status":"PASS"},{"name":"Fallback is locally resolved (result)","status":"PASS"},{"name":"Fallback is locally resolved (local var)","status":"PASS"}]}
