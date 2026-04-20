@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"unhandledrejection: promise is created in iframe and being rejected elsewhere","status":"TIMEOUT"},{"name":"no unhandledrejection/rejectionhandled: promise is created in iframe and being rejected elsewhere","status":"PASS"},{"name":"delayed handling: promise is created in iframe and being rejected elsewhere","status":"TIMEOUT"}]}
