@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"WorkerNavigator exposed in service worker","status":"PASS"},{"name":"register() with TrustedScriptURL works in service worker","status":"PASS"},{"name":"register() fails with plain string in service worker","status":"PASS"},{"name":"register() fails with plain string in service worker with a default policy","status":"PASS"}]}
