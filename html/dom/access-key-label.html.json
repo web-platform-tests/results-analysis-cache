@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Returns non empty string when accesskey is valid","status":"PASS"},{"name":"Returns empty string when accesskey is invalid","status":"FAIL"}]}
