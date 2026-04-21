@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"elementsFromPoint resolves pseudos to owning element","status":"FAIL"}]}

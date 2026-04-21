@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"display:inherit on option in single select computes to contents","status":"FAIL"},{"name":"display:inherit on option in multiple select computes to contents","status":"FAIL"},{"name":"option in closed single select has zero bounding client rect","status":"PASS"}]}
