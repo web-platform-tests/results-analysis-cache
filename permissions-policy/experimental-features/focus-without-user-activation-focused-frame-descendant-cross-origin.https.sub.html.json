@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Cross-origin iframe with policy denied and focus can call element.focus() on its own elements","status":"PASS"},{"name":"Cross-origin iframe with policy denied cannot steal focus from parent or sibling","status":"FAIL"}]}
