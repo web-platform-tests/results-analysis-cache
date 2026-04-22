@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Space key shouldn't active the checkbox when its default is prevented","status":"PASS"},{"name":"Space key shouldn't active the radio when its default is prevented","status":"PASS"}]}
