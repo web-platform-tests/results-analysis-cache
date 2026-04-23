@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"The URL change is missing.","status":"FAIL"},{"name":"Creates an element but doesn't attach it to the DOM.","status":"FAIL"},{"name":"Doesn't paint because the element is hidden.","status":"FAIL"},{"name":"The DOM change is missing.","status":"TIMEOUT"},{"name":"Doesn't pass a URL to pushState().","status":"NOTRUN"}]}
