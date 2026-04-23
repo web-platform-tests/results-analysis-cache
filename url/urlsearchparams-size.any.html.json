@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"URLSearchParams's size and deletion","status":"PASS"},{"name":"URLSearchParams's size and addition","status":"PASS"},{"name":"URLSearchParams's size when obtained from a URL","status":"PASS"},{"name":"URLSearchParams's size when obtained from a URL and using .search","status":"PASS"}]}
