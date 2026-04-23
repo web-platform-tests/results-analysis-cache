@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"BR tag is not inserted after deleting the text node content since root editable element is inline","status":"FAIL"}]}
