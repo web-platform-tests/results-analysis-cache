@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that TextMetrics::getTextClusters() returns clusters that are positioned according to the target align and baseline passed as options.","status":"FAIL"}]}
