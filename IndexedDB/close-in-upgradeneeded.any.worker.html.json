@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"When db.close() is called in onupgradeneeded, the db is cleaned up on refresh","status":"FAIL"}]}
