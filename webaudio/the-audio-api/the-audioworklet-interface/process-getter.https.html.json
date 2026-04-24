@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"'process' getter on prototype","status":"PASS"},{"name":"'process' getter on instance","status":"PASS"}]}
