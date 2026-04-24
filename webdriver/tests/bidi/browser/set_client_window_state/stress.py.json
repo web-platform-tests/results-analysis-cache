@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_maximized_state_transitions","status":"PASS"},{"name":"test_minimized_transitions","status":"PASS"},{"name":"test_fullscreen_transitions","status":"PASS"}]}
