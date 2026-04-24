@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"HTML script is untrusted even if its source was set before TrustedTypes got enabled.","status":"PASS"}]}
