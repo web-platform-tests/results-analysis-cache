@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"elementFromPoint(...) on <svg:text> with fill=none but fill=black descendants","status":"FAIL"}]}
