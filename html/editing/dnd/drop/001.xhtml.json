@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"dropEffect is correctly set when it matches effectAllowed","status":"TIMEOUT"},{"name":"dropEffect is correctly set when it matches effectAllowed 1","status":"NOTRUN"},{"name":"dropEffect is correctly set when it matches effectAllowed 2","status":"NOTRUN"}]}
