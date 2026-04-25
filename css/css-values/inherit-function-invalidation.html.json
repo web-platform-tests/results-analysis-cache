@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"inherit() invalidates when values changes on parent element, inherited","status":"FAIL"},{"name":"inherit() invalidates when values changes on parent element, inherited, deeper","status":"FAIL"},{"name":"inherit() invalidates when values changes on parent element, non-inherited","status":"FAIL"}]}
