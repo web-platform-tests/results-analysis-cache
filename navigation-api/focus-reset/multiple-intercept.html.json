@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"(not provided) + after-transition","status":"FAIL"},{"name":"(not provided) + manual","status":"PASS"},{"name":"after-transition + manual","status":"PASS"},{"name":"after-transition + (not provided)","status":"FAIL"},{"name":"manual + after-transition","status":"FAIL"},{"name":"manual + (not provided)","status":"PASS"}]}
