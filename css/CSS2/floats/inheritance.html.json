@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property float has initial value none","status":"PASS"},{"name":"Property float does not inherit","status":"PASS"},{"name":"Property clear has initial value none","status":"PASS"},{"name":"Property clear does not inherit","status":"PASS"}]}
