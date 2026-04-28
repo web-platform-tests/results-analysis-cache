@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Focusing inside a modal dialog should not propagate :focus-within beyond the dialog.","status":"FAIL"},{"name":"Focusing inside a popover should not propagate :focus-within beyond the popover.","status":"FAIL"},{"name":"With nested top layer elements, :focus-within should stop at the innermost top layer boundary.","status":"FAIL"}]}
