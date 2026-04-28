@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Cross-realm [Default] toJSON() creates result object in its realm","status":"PASS"},{"name":"Cross-realm [Default] toJSON() converts its interface attributes to ECMAScript values of correct realm","status":"PASS"}]}
