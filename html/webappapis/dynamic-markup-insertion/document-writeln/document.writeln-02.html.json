@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Calling document.writeln with null and undefined","status":"PASS"},{"name":"document.writeln(null)","status":"PASS"},{"name":"document.writeln(undefined)","status":"PASS"}]}
