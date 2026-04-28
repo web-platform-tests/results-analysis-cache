@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Load an iframe that has Cross-Origin-Resource-Policy header","status":"FAIL"}]}
