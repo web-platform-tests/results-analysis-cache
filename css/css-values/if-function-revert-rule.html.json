@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The revert-rule works as a branch in if()","status":"FAIL"},{"name":"The revert-rule works as a branch in if(), earlier return","status":"FAIL"}]}
