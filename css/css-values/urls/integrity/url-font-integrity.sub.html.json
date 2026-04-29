@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"integrity() with correct hash allows font loading","status":"FAIL"}]}
