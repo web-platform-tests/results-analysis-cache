@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Disconnected descendants of a replaced document element should resolve lang from their actual ancestor","status":"PASS"}]}
