@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Blob.stream() returns [NewObject]","status":"PASS"},{"name":"Blob.text() returns [NewObject]","status":"PASS"},{"name":"Blob.arrayBuffer() returns [NewObject]","status":"PASS"},{"name":"Blob.bytes() returns [NewObject]","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Prompt should work with a valid regex constraint.","status":"PRECONDITION_FAILED"},{"name":"Prompt should work with a valid regex constraint and matching prefix.","status":"PRECONDITION_FAILED"},{"name":"Prompt should reject if the prefix deviates from the regex constraint.","status":"PRECONDITION_FAILED"}]}
