@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test that isConfigSupported() with orientation","status":"FAIL"},{"name":"Decode frames with orientation metadata","status":"TIMEOUT"}]}
