@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Custom submit button with form method=dialog closes dialog with behavior value","status":"PASS"},{"name":"Behavior formMethod=dialog overrides form method and closes dialog","status":"PASS"},{"name":"Disabled custom submit button does not close dialog","status":"PASS"}]}
