@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"User activation propagation across a same-origin navigation","status":"FAIL"}]}
