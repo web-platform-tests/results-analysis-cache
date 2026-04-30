@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Meta refresh is blocked by the allow-scripts sandbox flag at its creation time, not when refresh comes due","status":"FAIL"}]}
