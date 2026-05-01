@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Beforeunload must be gated behind sticky activation: nested browsing context","status":"PASS"}]}
