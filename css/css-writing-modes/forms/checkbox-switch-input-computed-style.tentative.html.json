@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"horizontal-input block size should match height and inline size should match width","status":"FAIL"},{"name":"vertical-lr-input block size should match width and inline size should match height","status":"FAIL"},{"name":"vertical-rl-input block size should match width and inline size should match height","status":"FAIL"}]}
