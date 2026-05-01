@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Single escaped dot in syncbase ID (begin=\"my\\.anim.begin\")","status":"FAIL"},{"name":"Multiple escaped dots in syncbase ID (begin=\"a\\.b\\.c.begin\")","status":"FAIL"}]}
