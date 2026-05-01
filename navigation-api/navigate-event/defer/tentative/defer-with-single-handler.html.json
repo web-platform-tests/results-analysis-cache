@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigateEvent.deferPageSwap: deferring method should complete before committing","status":"FAIL"}]}
