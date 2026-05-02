@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_type","status":"FAIL"},{"name":"test_dedicated_worker","status":"FAIL"},{"name":"test_shared_worker","status":"FAIL"},{"name":"test_service_worker","status":"FAIL"}]}
