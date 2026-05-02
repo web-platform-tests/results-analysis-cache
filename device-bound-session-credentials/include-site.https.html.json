@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"An established session refreshes across origins if the site is included","status":"PASS"},{"name":"An established session does not refresh across origins if the site is not included","status":"PASS"}]}
