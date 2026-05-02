@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"area.hreflang should not be supported","status":"PASS"},{"name":"area.type should not be supported","status":"PASS"},{"name":"time.datetime should not be supported","status":"PASS"},{"name":"a.media should not be supported","status":"PASS"},{"name":"area.media should not be supported","status":"PASS"}]}
