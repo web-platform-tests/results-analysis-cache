@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"#button1","status":"PASS"},{"name":"#button2","status":"PASS"},{"name":"#button3","status":"PASS"},{"name":"#button4","status":"PASS"},{"name":"#button5","status":"FAIL"},{"name":"#div","status":"PASS"},{"name":"#editable","status":"PASS"},{"name":"#button6","status":"PASS"}]}
