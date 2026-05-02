@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"valueAsDate setter with non-Date object (input type date)","status":"PASS"},{"name":"valueAsDate setter with non-Date object (input type time)","status":"PASS"},{"name":"valueAsDate setter with non-Date object (input type week)","status":"PASS"},{"name":"valueAsDate setter with non-Date object (input type month)","status":"PASS"}]}
