@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Type: String, identifier: length","status":"PASS"},{"name":"Type: Array, identifier: length","status":"PASS"},{"name":"Type: Blob, identifier: size","status":"FAIL"},{"name":"Type: Blob, identifier: type","status":"FAIL"},{"name":"Type: File, identifier: name","status":"FAIL"},{"name":"Type: File, identifier: lastModified","status":"FAIL"}]}
