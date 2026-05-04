@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Prompt should reject response schemas with circular references","status":"PRECONDITION_FAILED"}]}
