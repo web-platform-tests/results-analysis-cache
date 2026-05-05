@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Element.getHTML() round-trips shadowrootadoptedstylesheets across absent, empty, basic, and whitespace values.","status":"FAIL"},{"name":"ShadowRoot.getHTML() returns children-only markup (no wrapping template).","status":"PASS"}]}
