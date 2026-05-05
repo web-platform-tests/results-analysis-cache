@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test securitypolicyviolation event doesn't fire when both CSPs allow","status":"PASS"},{"name":"Test error event doesn't fire when both CSPs allow","status":"PASS"},{"name":"CSS Modules can be defined declaratively when both script-src and style-src CSP allow inline.","status":"PASS"}]}
