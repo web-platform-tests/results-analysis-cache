@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"AmbientLightSensor: Permissions-Policy allow='ambient-light-sensor' attribute allows same-origin iframe","status":"TIMEOUT"},{"name":"AmbientLightSensor: Permissions-Policy allow='ambient-light-sensor' attribute allows cross-origin iframe","status":"TIMEOUT"}]}
