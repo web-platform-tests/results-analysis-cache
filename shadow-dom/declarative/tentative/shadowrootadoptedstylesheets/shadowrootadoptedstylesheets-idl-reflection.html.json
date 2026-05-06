@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"shadowRootAdoptedStyleSheets reflects the shadowrootadoptedstylesheets content attribute.","status":"FAIL"},{"name":"Empty-string assignment and removeAttribute() are distinguishable on shadowRootAdoptedStyleSheets.","status":"FAIL"}]}
