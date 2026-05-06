@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"local to loopback: no permission required.","status":"PASS"},{"name":"local to local: no permission required.","status":"PASS"},{"name":"local to public: no permission required.","status":"PASS"}]}
