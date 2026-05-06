@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"invoking a dialog and removing during command event does not raise an error","status":"PASS"}]}
