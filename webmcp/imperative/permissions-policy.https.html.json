@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"registerTool() throws in iframe, after navigation to an origin not covered by permissions policy","status":"FAIL"}]}
