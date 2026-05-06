@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"\n  View transition promise reactions in incoming page should resolve before\n  the rendering continues (rAF, style/layout etc)\n","status":"TIMEOUT"}]}
