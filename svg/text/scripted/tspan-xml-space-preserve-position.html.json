@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"First tspan starts at its specified x/y","status":"FAIL"},{"name":"Second tspan starts at its specified x/y, not offset by inter-tspan whitespace","status":"FAIL"},{"name":"Second character of multi-char tspan follows naturally without position shift","status":"FAIL"},{"name":"Third tspan starts at its specified x/y","status":"FAIL"}]}
