@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"prompt() should reject system role messages after other messages","status":"PRECONDITION_FAILED"},{"name":"prompt() after initializing with user prompt should reject system role","status":"PRECONDITION_FAILED"}]}
