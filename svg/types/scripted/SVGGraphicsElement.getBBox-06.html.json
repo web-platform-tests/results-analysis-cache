@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Non-rendered symbol with rect returns zero bbox","status":"FAIL"},{"name":"display:none <g> with rect returns zero bbox","status":"FAIL"},{"name":"display:none <rect> returns zero bbox","status":"FAIL"}]}
