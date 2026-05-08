@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Detach a window between when a traverseTo() fires navigate and navigatesuccess","status":"TIMEOUT"}]}
