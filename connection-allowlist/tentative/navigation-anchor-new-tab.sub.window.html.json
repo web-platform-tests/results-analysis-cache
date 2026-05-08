@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Navigation via anchor with target=_blank to http://web-platform.test:8000 should succeed.","status":"PASS"},{"name":"Navigation via anchor with target=_blank to http://www.web-platform.test:8000 should fail.","status":"FAIL"},{"name":"Navigation via anchor with target=_blank to http://not-web-platform.test:8000 should fail.","status":"FAIL"}]}
