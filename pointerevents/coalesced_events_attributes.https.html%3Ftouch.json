@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Coalesced list in boundary events","status":"TIMEOUT"},{"name":"Coalesced list in pointer-capture events","status":"NOTRUN"},{"name":"Coalesced list in pointerdown/move/up events","status":"NOTRUN"},{"name":"Coalesced list in pointercancel event","status":"NOTRUN"}]}
