@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"An opaque origin document can register but not execute its own tools","status":"FAIL"}]}
