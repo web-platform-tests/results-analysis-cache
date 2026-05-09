@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"no reserved.once in reporting","status":"FAIL"},{"name":"average-code-fetch-time","status":"FAIL"},{"name":"percent-scripts-timeout","status":"FAIL"},{"name":"participating-ig-count","status":"FAIL"},{"name":"percent-igs-cumulative-timeout, and cumulative-buyer-time when hit","status":"FAIL"}]}
