@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"stylesheet-relative URL: stylesheet-relative-image","status":"PASS"},{"name":"stylesheet-relative URL: stylesheet-relative-variable-image","status":"PASS"},{"name":"stylesheet-relative URL: stylesheet-relative-document-variable-image","status":"PASS"}]}
