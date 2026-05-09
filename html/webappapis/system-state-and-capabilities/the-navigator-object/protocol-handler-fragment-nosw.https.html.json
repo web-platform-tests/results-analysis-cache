@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"registerProtocolHandler() and a handler with %s in the fragment (does not use a service worker)","status":"TIMEOUT"}]}
