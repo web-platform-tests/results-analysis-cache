@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"RelativeOrientationSensor: Permissions-Policy allow='accelerometer gyroscope' attribute allows same-origin relocation","status":"TIMEOUT"},{"name":"RelativeOrientationSensor: Permissions-Policy allow='accelerometer gyroscope' attribute disallows cross-origin relocation","status":"TIMEOUT"}]}
