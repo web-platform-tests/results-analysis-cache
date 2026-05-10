@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"securitypolicyviolation event fires when nonce satisfies style-src but not script-src","status":"PASS"},{"name":"error event fires when nonce satisfies style-src but not script-src","status":"PASS"},{"name":"A nonce matching only style-src does not satisfy script-src CSP for style modules.","status":"PASS"}]}
