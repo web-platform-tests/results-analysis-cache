@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Resizing <select multiple> should not autoscroll the listbox.","status":"FAIL"}]}
