@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Fullscreen enabled test: same-origin-default","status":"PASS"},{"name":"Fullscreen enabled test: same-origin-allow","status":"PASS"},{"name":"Fullscreen enabled test: cross-origin-default","status":"PASS"},{"name":"Fullscreen enabled test: cross-origin-allow","status":"PASS"}]}
