@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check that the resolved value for the initial color on the root element matches canvastext.","status":"PASS"},{"name":"Check that the resolved value of an explicit color:initial matches canvastext.","status":"PASS"}]}
