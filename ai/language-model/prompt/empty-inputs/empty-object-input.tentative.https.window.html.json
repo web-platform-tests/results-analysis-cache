@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"LanguageModel.prompt() allows empty object input","status":"FAIL"}]}
