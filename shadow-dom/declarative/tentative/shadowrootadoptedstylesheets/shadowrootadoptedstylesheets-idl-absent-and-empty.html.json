@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Declarative shadow roots with absent or empty shadowrootadoptedstylesheets adopt no stylesheets.","status":"PASS"},{"name":"shadowRootAdoptedStyleSheets reflects absent and authored-empty content attributes correctly.","status":"FAIL"}]}
