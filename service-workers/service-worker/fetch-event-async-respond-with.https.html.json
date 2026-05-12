@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"global setup","status":"PASS"},{"name":"respondWith in a task throws InvalidStateError","status":"PASS"},{"name":"respondWith in a microtask does not throw","status":"PASS"},{"name":"global cleanup","status":"PASS"}]}
