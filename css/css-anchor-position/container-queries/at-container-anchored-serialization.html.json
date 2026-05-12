@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Normalize spaces","status":"PASS"},{"name":"No value - invalid, serializes as <general-enclosed>","status":"PASS"},{"name":"Boolean context","status":"PASS"},{"name":"Logical with 'or'","status":"PASS"},{"name":"Not an anchored() function with space before '('","status":"PASS"}]}
