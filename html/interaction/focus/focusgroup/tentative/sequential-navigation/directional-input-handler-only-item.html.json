@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Directional input does not work from native directional input handler even when it's the only item","status":"PASS"},{"name":"Segment with only native directional input handler navigates correctly based on focus state","status":"PASS"}]}
