@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['break-before'] = \"none\" should not set the property value","status":"PASS"},{"name":"e.style['break-before'] = \"avoid region\" should not set the property value","status":"PASS"}]}
