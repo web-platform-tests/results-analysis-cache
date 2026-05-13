@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initially, no containers match","status":"PASS"},{"name":"First @container rule matches after container-name change","status":"FAIL"},{"name":"Second @container rule matches after container-type change","status":"FAIL"}]}
