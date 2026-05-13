@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"about: allowed in object","status":"PASS"},{"name":"blob: allowed in object","status":"PASS"},{"name":"data: allowed in object","status":"PASS"},{"name":"https: allowed in object","status":"PASS"},{"name":"http: allowed in object","status":"PASS"},{"name":"javascript: scheme not allowed in object","status":"PASS"}]}
