@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Removing pseudo element under mouse should not crash","status":"PASS"}]}
