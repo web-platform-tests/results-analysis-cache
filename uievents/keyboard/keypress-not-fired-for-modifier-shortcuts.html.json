@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"keypress must not be dispatched for Control + v","status":"FAIL"},{"name":"keypress must not be dispatched for Meta + v","status":"PASS"},{"name":"keypress must be dispatched for a plain key","status":"PASS"}]}
