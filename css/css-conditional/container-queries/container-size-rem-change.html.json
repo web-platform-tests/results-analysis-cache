@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initially, 1rem equals 16px, less than the container's width","status":"PASS"},{"name":"Changing the :root font-size makes 1rem equal 30px, greater than the container's width","status":"FAIL"}]}
