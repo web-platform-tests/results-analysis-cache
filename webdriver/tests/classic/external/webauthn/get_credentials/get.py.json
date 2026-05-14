@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_get_credentials_none","status":"ERROR"},{"name":"test_get_credentials_single","status":"ERROR"},{"name":"test_get_credentials_multiple","status":"ERROR"},{"name":"test_get_credentials_resident","status":"ERROR"}]}
