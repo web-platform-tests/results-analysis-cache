@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Creates a browser bound key on authentication.","status":"FAIL"},{"name":"If ES256 is supported creates a browser bound key on authentication.","status":"FAIL"},{"name":"If RS256 is supported creates a browser bound key on authentication.","status":"FAIL"}]}
