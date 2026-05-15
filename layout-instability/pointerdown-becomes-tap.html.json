@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Shift in pointerdown excluded when it becomes a tap.","status":"FAIL"}]}
