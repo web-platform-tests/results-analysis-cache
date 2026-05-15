@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Classifier.availability() returns a valid availability state","status":"FAIL"}]}
