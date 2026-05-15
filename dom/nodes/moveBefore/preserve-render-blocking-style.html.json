@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A moved script should keep its render-blocking state","status":"FAIL"}]}
