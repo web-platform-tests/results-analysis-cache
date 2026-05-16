@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"View transition finished promise is delayed by waitUntil","status":"PASS"},{"name":"View transition finished promise is delayed by multiple waitUntil calls","status":"PASS"},{"name":"View transition finished promise is delayed by a rejecting waitUntil promise","status":"PASS"}]}
