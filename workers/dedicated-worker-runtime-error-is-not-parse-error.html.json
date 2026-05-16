@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"eval() with syntax error dispatches ErrorEvent at Worker","status":"PASS"},{"name":"JSON.parse() error dispatches ErrorEvent at Worker","status":"PASS"},{"name":"Script parse error dispatches plain Event at Worker","status":"PASS"}]}
