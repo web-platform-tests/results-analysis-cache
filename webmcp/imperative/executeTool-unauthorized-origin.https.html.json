@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"executeTool() rejects when parent frame attempts unauthorized execution of cross-origin iframe tool","status":"FAIL"}]}

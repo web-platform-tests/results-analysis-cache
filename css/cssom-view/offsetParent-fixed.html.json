@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"If the containing block for a fixed positioned element is viewport, the offsetParent should be null.","status":"PASS"},{"name":"If the containing block for a fixed positioned element is the nearest ancestor box, the offsetParent should be the nearest ancestor box.","status":"FAIL"}]}
