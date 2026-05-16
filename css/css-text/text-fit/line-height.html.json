@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"line-height:normal should be scaled","status":"FAIL"},{"name":"line-height:<number> should be scaled","status":"FAIL"},{"name":"line-height:<percentage> should not be scaled","status":"PASS"},{"name":"line-height:<length> should not be scaled","status":"PASS"}]}
