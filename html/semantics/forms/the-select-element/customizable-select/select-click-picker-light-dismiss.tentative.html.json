@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Clicking directly on ::picker(select) should not trigger light dismiss.","status":"PASS"}]}
