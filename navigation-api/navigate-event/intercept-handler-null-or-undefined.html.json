@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"event.intercept() should throw if the handler is null","status":"PASS"},{"name":"event.intercept() should not throw if the handler is explicit undefined","status":"PASS"}]}
