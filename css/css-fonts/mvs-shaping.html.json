@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"ᠢ -> AI.isol(993)","status":"PASS"},{"name":"ᠠ -> AA.isol(929)","status":"PASS"},{"name":"ᠠᠨ -> AA.init(786)|A.fina(427)","status":"PASS"},{"name":"ᠠᠨ᠎ᠢ -> AA.init(786)|A.fina(427)|mvs.wide(260)|I.isol(548)","status":"PASS"},{"name":"ᠠᠨ᠎ᠠ -> AA.init(786)|N.fina.mvs(427)|mvs.narrow(55)|Aa.isol(415)","status":"PASS"}]}
