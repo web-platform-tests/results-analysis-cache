@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-site window should be able to set `SameSite=Lax` or `SameSite=Strict` cookies.","status":"PASS"},{"name":"Cross-site window shouldn't be able to set `SameSite=Lax` or `SameSite=Strict` cookies.","status":"PASS"}]}
