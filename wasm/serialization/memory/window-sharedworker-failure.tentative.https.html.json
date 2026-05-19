@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"precondition: window is cross-origin isolated","status":"FAIL"},{"name":"Shared WebAssembly.Memory from window to SharedWorker fires messageerror on the SharedWorker","status":"FAIL"},{"name":"Shared WebAssembly.Memory from SharedWorker to window fires messageerror on the window","status":"FAIL"}]}
