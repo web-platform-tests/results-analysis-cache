@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_add_credential","status":"ERROR"},{"name":"test_add_resident_credential","status":"ERROR"},{"name":"test_add_credential_with_large_blob","status":"ERROR"},{"name":"test_add_credential_with_sign_count","status":"ERROR"},{"name":"test_add_multiple_credentials","status":"ERROR"}]}
