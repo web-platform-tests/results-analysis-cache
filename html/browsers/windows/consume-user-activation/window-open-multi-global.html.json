@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.open() and consuming user activation with multiple globals in play","status":"FAIL"}]}
