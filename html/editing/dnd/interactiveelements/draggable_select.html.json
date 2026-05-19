@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Draggable select should not be draggable from border","status":"PASS"},{"name":"Draggable select should not be draggable from select body","status":"PASS"}]}
