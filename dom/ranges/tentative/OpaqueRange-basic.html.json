@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Tests createValueRange returns OpaqueRange that extends AbstractRange.","status":"PASS"},{"name":"OpaqueRange handles createValueRange correctly.","status":"PASS"},{"name":"OpaqueRange handles empty value correctly.","status":"PASS"}]}
