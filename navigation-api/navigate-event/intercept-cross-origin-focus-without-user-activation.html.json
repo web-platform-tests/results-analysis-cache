@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Navigation API intercept() focus reset shouldn't bypass focus-without-user-activation permissions policy","status":"PASS"},{"name":"Navigation API intercept() focus reset should work if navigation was user-initiated","status":"TIMEOUT"}]}
