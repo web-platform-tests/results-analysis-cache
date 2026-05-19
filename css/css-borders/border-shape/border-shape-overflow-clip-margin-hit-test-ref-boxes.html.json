@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"overflow-clip-margin with border-box reference","status":"PASS"},{"name":"overflow-clip-margin with padding-box reference (inside)","status":"PASS"},{"name":"overflow-clip-margin with padding-box reference (outside)","status":"PASS"}]}
