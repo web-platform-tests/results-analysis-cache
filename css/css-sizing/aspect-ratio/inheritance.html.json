@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property aspect-ratio has initial value auto","status":"PASS"},{"name":"Property aspect-ratio does not inherit","status":"PASS"}]}
