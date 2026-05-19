@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Setting restart='never' prevents animation with begin='click' from restarting","status":"TIMEOUT"}]}
