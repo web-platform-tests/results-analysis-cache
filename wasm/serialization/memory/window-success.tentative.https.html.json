@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"postMessaging a shared WebAssembly.Memory to a dedicated worker","status":"FAIL"},{"name":"postMessaging a shared WebAssembly.Memory to a same-origin iframe","status":"FAIL"},{"name":"Cloning a shared WebAssembly.Memory through a MessageChannel","status":"FAIL"}]}
