@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.open() inherits CSPs on initial about:blank.","status":"PASS"},{"name":"For transient doc, violation event occurs in auxiliary, not opener window.","status":"FAIL"},{"name":"window.open() inherits CSPs on transient about:blank.","status":"PASS"}]}
