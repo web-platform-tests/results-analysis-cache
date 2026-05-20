@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"aria-actions: host accname excludes labelled target","status":"FAIL"},{"name":"aria-actions: target keeps its own aria-label","status":"PASS"}]}
