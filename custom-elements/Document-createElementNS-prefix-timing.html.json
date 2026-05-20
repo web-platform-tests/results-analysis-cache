@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Autonomous custom element prefix is set after constructor returns","status":"PASS"},{"name":"Reentrant construction does not leak prefix between instances","status":"PASS"},{"name":"Nested createElementNS calls do not corrupt prefix state","status":"PASS"}]}
