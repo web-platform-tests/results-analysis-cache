@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Click forwarded from label to control preserves pointer metadata","status":"TIMEOUT"},{"name":"Click forwarded from label.click() is not trusted","status":"NOTRUN"}]}
