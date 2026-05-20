@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"[Keyboard Map] getLayoutMap() returns a new promise for sequential calls","status":"FAIL"}]}
