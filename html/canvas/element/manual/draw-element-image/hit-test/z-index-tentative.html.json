@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"elementFromPoint should hit the last element in dom order.","status":"FAIL"},{"name":"elementFromPoint should hit the highest z-index element.","status":"FAIL"}]}
