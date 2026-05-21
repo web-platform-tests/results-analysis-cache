@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"registerTool() throws SecurityError for invalid or non-HTTPS origins in exposedTo","status":"PASS"}]}
