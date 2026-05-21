@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Two way ICE exchange works","status":"FAIL"},{"name":"Candidates always arrive after setLocalDescription(offer) resolves","status":"FAIL"},{"name":"Candidates always arrive after setLocalDescription(answer) resolves","status":"FAIL"}]}
