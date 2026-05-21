@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that path() with different wind rules does not collide in the Matched Properties Cache","status":"FAIL"}]}
