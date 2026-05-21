@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"snap container selects innermost area as snap target","status":"PASS"},{"name":"snap container follows the innermost snap target after layout change (not the co-located outer target)","status":"TIMEOUT"}]}
