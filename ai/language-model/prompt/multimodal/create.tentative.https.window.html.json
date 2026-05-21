@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"LanguageModel.create() succeeds with supported multimodal type and language options","status":"FAIL"},{"name":"LanguageModel.create() succeeds with supported multimodal initialPrompts","status":"FAIL"},{"name":"LanguageModel.create() fails with unsupported multimodal initialPrompts","status":"PASS"}]}
