@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Setup service worker","status":"PASS"},{"name":"Play some audio","status":"PASS"},{"name":"Set same origin media metadata","status":"TIMEOUT"},{"name":"Set cross origin media metadata","status":"NOTRUN"}]}
