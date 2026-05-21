@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"LNA Public to local with permission","status":"PASS"},{"name":"LNA Public to local with permission denied","status":"PASS"},{"name":"LNA Public to local http mixed content bypass","status":"PASS"},{"name":"LNA Public to public http mixed content bypass failure","status":"PASS"}]}
