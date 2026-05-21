@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"latin text","status":"FAIL"},{"name":"latin text and tspan","status":"FAIL"},{"name":"mixed-rtl text and tspan","status":"FAIL"},{"name":"mixed-rtl text and tested tspan","status":"FAIL"}]}
