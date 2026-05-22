@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IntersectionObserver observing an SVG element while its stroke is changed","status":"PASS"},{"name":"First rAF.","status":"PASS"},{"name":"change stroke","status":"PASS"}]}
