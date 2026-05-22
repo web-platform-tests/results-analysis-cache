@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"same-origin-explicit","status":"PASS"},{"name":"same-origin-implicit","status":"PASS"},{"name":"cross-origin-explicit","status":"PASS"},{"name":"cross-origin-implicit","status":"PASS"}]}
