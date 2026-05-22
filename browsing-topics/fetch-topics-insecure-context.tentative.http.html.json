@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test fetch(<url>, {browsingTopics: true}) in insecure context","status":"FAIL"}]}
