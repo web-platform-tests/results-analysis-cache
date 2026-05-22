@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Hovering inside a modal dialog should not propagate :hover beyond the dialog.","status":"FAIL"},{"name":"Hovering inside a popover should not propagate :hover beyond the popover.","status":"TIMEOUT"},{"name":"With nested top layer elements, :hover should stop at the innermost top layer boundary.","status":"NOTRUN"}]}
