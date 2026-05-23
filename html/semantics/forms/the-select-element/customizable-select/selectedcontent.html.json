@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The <selectedcontent> element should reflect the HTML contents of the selected <option>.","status":"FAIL"},{"name":"When there are multiple <selectedcontent> elements, both of them should be kept up to date.","status":"PASS"},{"name":"<seletedcontent> behavior in disconnected <select>.","status":"FAIL"}]}
