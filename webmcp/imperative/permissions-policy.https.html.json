@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"registerTool() throws in iframe, after navigation to an origin not covered by permissions policy","status":"FAIL"},{"name":"getTools() throws SecurityError in iframe when permissions policy is disabled","status":"TIMEOUT"},{"name":"executeTool() throws SecurityError in iframe when permissions policy is disabled","status":"NOTRUN"}]}
