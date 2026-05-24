@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Custom element that is removed during sanitization.","status":"PASS"},{"name":"Custom element that is allowed.","status":"PASS"},{"name":"Scoped custom element registry still works.","status":"FAIL"}]}
