@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"@starting-style is valid","status":"FAIL"},{"name":"@starting-style div is not valid","status":"PASS"},{"name":"@starting-style () is not valid","status":"PASS"},{"name":"@starting-style ( {} is not valid","status":"PASS"},{"name":"@starting-style } is not valid","status":"PASS"}]}
