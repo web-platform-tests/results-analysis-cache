@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"`pointerrawupdate` events should be fired after the element is moved from the parent doc to a child doc","status":"FAIL"}]}
