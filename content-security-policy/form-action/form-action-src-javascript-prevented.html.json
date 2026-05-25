@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The form submission should not be blocked by when javascript prevents the load.","status":"PASS"}]}
