@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"mutating constructed CSSStyleSheet applied to root invalidates styles","status":"PASS"},{"name":"mutating constructed CSSStyleSheet applied to shadowdom invalidates styles","status":"PASS"},{"name":"mutating dependent constructed CSSStyleSheet applied to shadowdom invalidates styles","status":"FAIL"}]}
