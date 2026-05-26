@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"cursor hotspot with sign() depending on font relative units","status":"PASS"},{"name":"cursor hotspot depending on sibling-index()","status":"FAIL"},{"name":"cursor hotspot depending on simplified numeric calc()","status":"PASS"},{"name":"cursor hotspot depending on simplified numeric calc() with sign()","status":"PASS"}]}
