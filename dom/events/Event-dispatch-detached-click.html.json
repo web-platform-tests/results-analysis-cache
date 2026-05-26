@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Click event on an element not in the document","status":"PASS"},{"name":"Click event can be dispatched to an element that is not in the document.","status":"PASS"}]}
