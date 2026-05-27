@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"cannot find the class name","status":"FAIL"},{"name":"finds the class name","status":"FAIL"},{"name":"finds the same element with multiple class names","status":"FAIL"},{"name":"does not get confused by numeric IDs","status":"FAIL"}]}
