@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Paint is reported when observation starts after image paint if buffering is enabled.","status":"FAIL"}]}
