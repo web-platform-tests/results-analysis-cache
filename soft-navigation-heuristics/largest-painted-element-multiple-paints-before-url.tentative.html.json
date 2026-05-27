@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that the largestInteractionContentfulPaint attribute is correctly set with multiple paints before URL change","status":"FAIL"}]}
