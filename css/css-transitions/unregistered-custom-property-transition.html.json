@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"unset -> first value transition with allow-discrete","status":"PASS"},{"name":"first value -> unset transition with allow-discrete","status":"FAIL"},{"name":"retargeting a running transition with allow-discrete","status":"TIMEOUT"}]}
