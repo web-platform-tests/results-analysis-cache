@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Tests replacing window.scheduler with a different object","status":"PASS"}]}
