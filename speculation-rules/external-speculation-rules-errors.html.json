@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that an external speculation rules script fires an error event","status":"PASS"},{"name":"Test that an external speculation rules script fires an error event, regardless of attribute order","status":"PASS"},{"name":"Test that an external speculation rules script in markup fires an error event","status":"PASS"}]}
