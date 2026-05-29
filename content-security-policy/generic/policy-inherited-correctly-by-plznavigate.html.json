@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"iframe still inherits correct CSP","status":"PASS"},{"name":"Violation report status OK.","status":"PASS"}]}
