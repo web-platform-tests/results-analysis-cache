@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Download FetchEvent fires only for URLs within the SW registration scope.","status":"PASS"}]}
