@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XPath //span should find element in Declarative Shadow DOM when evaluated on the element itself","status":"PASS"},{"name":"XPath //span should find element in Imperative Shadow DOM when evaluated on the element itself","status":"PASS"}]}
