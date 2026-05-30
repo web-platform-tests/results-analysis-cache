@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Setting Element.textContent","status":"PASS"},{"name":"Setting Element.textContent to the same value","status":"PASS"},{"name":"Setting Element.textContent to a different value","status":"PASS"},{"name":"Setting Element.textContent to the same value when the old node is a CDATASection","status":"PASS"}]}
