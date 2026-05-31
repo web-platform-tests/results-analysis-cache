@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"MouseEvent's x and y must be equal to clientX and clientY.","status":"PASS"},{"name":"MouseEvent's pageX and pageY attributes should be the sum of the scroll offset and clientX/clientY","status":"PASS"},{"name":"MouseEvent's offsetX/offsetY attributes should be the same value as its pageX/pageY attributes.","status":"PASS"}]}
