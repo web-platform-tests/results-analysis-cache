@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Test securitypolicyviolation event doesn't fire when nonce satisfies both CSPs","status":"NOTRUN"},{"name":"Test error event doesn't fire when nonce satisfies both CSPs","status":"NOTRUN"}]}
