@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"global setup","status":"PASS"},{"name":"cross-origin request, no-cors mode","status":"PASS"},{"name":"cross-origin request, cors denied","status":"PASS"},{"name":"cross-origin request, cors approved","status":"PASS"},{"name":"cleanup global state","status":"PASS"}]}
