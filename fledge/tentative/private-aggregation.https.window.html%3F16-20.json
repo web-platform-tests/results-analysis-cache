@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"regular-igs-count","status":"FAIL"},{"name":"negative-igs-count","status":"FAIL"},{"name":"ig-storage-used","status":"FAIL"},{"name":"report.once in a component auction","status":"FAIL"}]}
