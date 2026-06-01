@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Fetch from host with trailing dot should be allowed by CSP.","status":"FAIL"}]}

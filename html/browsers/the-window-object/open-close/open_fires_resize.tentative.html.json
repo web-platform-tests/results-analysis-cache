@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Opening a popup with specified size fires a resize event","status":"TIMEOUT"},{"name":"Opening a popup fires a resize event","status":"NOTRUN"},{"name":"Opening a window fires a resize event","status":"NOTRUN"}]}
