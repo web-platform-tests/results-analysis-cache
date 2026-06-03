@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"A view transition in a removed iframe should return a skipped transition object and not return null","status":"TIMEOUT"},{"name":"A view transition with types in a removed iframe should preserve those types","status":"NOTRUN"}]}
