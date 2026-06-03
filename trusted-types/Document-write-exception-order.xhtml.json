@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"`document.write(string)` throws TypeError","status":"PASS"},{"name":"`document.write(TrustedHTML)` throws InvalidStateError","status":"PASS"},{"name":"`document.write(string)` w/ default policy throws InvalidStateError","status":"PASS"}]}
