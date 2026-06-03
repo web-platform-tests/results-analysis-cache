@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"canShare() rejects file:// URLs even with a file: base URL","status":"FAIL"},{"name":"share() rejects file:// URLs even with a file: base URL","status":"FAIL"},{"name":"share() rejects relative URLs that resolve to file:// scheme","status":"TIMEOUT"}]}
