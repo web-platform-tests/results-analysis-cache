@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Send and receive messages using a dedicated worker.","status":"PASS"},{"name":"Send and receive messages using a service worker.","status":"PASS"},{"name":"Send and receive messages using a shared worker.","status":"PASS"}]}
