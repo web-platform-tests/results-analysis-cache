@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that mutating or removing form attributes (toolname, tooldescription, tooltitle) fires toolchange and updates getTools() correctly","status":"FAIL"}]}
