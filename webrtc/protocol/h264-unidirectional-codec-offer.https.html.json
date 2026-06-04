@@ -1,0 +1,1 @@
+{"status":"CRASH","subtests":[{"name":"Offer to receive a recvonly H264 codec on a recvonly transceiver","status":"PRECONDITION_FAILED"},{"name":"Offering a recvonly codec on a sendrecv transceiver","status":"PRECONDITION_FAILED"},{"name":"Offer to send a sendonly H264 codec on a sendonly transceiver","status":"PRECONDITION_FAILED"}]}
