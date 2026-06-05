@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IdentityCredentialError.error attribute works","status":"PASS"},{"name":"Constructor ignores code field","status":"PASS"},{"name":"error attribute works in dialog dismiss workflow","status":"PASS"},{"name":"error attribute works in button click flow","status":"PASS"}]}
