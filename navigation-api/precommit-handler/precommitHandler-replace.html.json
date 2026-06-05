@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"precommitHandler for a replace navigation, reject before commit","status":"FAIL"},{"name":"precommitHandler for a replace navigation, reject after commit","status":"PASS"},{"name":"precommitHandler for a replace navigation, success","status":"PASS"}]}
