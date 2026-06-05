@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"DeviceMotion event fires once with null values when user permission is denied","status":"FAIL"}]}
