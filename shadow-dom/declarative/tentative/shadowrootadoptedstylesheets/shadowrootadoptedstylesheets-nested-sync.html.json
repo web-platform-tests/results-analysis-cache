@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Nested sync: shadow roots independently resolve specifiers and apply styles.","status":"FAIL"}]}
