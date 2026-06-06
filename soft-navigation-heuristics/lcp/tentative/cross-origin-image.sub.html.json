@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Cross-origin image is observable after soft navigation, with renderTime equal to 0.","status":"FAIL"}]}
