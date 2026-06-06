@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"src = /images/green.png","status":"PASS"},{"name":"src = /images/not-found","status":"PASS"},{"name":"srcset = /images/green.png","status":"PASS"},{"name":"srcset = /images/not-found","status":"PASS"}]}
