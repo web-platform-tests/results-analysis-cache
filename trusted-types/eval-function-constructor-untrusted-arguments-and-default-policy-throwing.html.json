@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"EvalError thrown if the callback of the default policy throws an error (eval).","status":"PASS"},{"name":"EvalError thrown if the callback of the default policy throws an error (new Function).","status":"PASS"}]}
