@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Clicking inside a modal dialog should not propagate :active beyond the dialog.","status":"FAIL"},{"name":"Clicking inside a popover should not propagate :active beyond the popover.","status":"FAIL"},{"name":"With nested top layer elements, :active should stop at the innermost top layer boundary.","status":"FAIL"}]}
