@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document.modelContext instanceof ModelContext","status":"PASS"},{"name":"document.modelContext SameObject","status":"PASS"}]}
