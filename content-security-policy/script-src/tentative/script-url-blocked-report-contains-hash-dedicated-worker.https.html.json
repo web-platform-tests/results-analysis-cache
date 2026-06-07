@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"script-specific violation report contains correct urlHash in dedicated worker","status":"FAIL"}]}
