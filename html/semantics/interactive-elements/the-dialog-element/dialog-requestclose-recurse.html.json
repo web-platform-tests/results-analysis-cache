@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Calling requestClose inside of cancel event handler doesn't trigger another cancel event","status":"FAIL"}]}
