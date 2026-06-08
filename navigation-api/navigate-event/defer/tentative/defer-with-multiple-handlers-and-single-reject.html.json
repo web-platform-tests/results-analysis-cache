@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"\n  navigateEvent.deferPageSwap: rejecting a single handler resumes navigation and ignores\n  other handlers\n","status":"FAIL"}]}
