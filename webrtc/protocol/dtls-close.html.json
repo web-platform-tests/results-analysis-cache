@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"close() causes the other end's DTLS and SCTP transport and datachannels to close","status":"PASS"}]}
