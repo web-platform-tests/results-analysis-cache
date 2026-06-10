@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CookieListItem - cookieStore.set with empty string path defaults to current URL","status":"PASS"},{"name":"CookieListItem - cookieStore.set with empty string path defaults to current URL with __host- prefix","status":"PASS"}]}
