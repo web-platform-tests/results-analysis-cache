@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Blob URL created in a cross-partition context can fetch itself in a same-partition context.","status":"PASS"}]}
