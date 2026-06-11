@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"drawElementImage should throw if called on a nested canvas","status":"PASS"}]}
