@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"anchor() functions are not allowed in registered custom properties accepting <length> or <length-percentage>","status":"FAIL"},{"name":"anchor-size() using fallback value for registered custom properties accepting <length> or <length-percentage>","status":"PASS"}]}
