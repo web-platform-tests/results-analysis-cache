@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A pip window cannot be fullscreened","status":"PASS"},{"name":"A pip window can fullscreen it's opener","status":"PASS"}]}
