@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Registration can't send back 403 with challenge","status":"PASS"},{"name":"Registration can send back challenge with session instructions","status":"PASS"}]}
