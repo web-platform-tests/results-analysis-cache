@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"status is not garbage collected when it goes out of scope","status":"FAIL"}]}
