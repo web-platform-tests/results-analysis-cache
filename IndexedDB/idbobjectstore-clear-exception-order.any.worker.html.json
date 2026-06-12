@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IDBObjectStore.clear exception order: InvalidStateError vs. TransactionInactiveError","status":"PASS"},{"name":"IDBObjectStore.clear exception order: TransactionInactiveError vs. ReadOnlyError","status":"PASS"}]}
