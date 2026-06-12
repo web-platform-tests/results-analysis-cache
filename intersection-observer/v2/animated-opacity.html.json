@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"IntersectionObserver generates notifications when an opacity animation changes occlusion state.","status":"PASS"}]}
