@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getType() rejects with DataError on stale ClipboardItem after clipboard.write()","status":"FAIL"}]}
