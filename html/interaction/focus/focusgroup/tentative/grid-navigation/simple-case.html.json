@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Navigating right should move the focus to the next column.","status":"FAIL"},{"name":"Navigating down should move the focus to the next row.","status":"FAIL"},{"name":"Navigating left should move to the previous column.","status":"FAIL"},{"name":"Navigating up should move the focus to the previous row.","status":"FAIL"}]}
