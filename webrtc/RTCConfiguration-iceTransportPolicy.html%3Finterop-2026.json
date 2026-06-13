@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"new RTCPeerConnection({ iceTransports: 'relay' }) should have no effect","status":"PASS"},{"name":"new RTCPeerConnection({ iceTransports: 'invalid' }) should have no effect","status":"PASS"},{"name":"new RTCPeerConnection({ iceTransports: null }) should have no effect","status":"PASS"}]}
