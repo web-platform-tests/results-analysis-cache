@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Usermedia element should not have the granted selector when the       permission is not granted.","status":"FAIL"}]}
