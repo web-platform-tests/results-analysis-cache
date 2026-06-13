@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test whether setHTML executes the fail handler.","status":"FAIL"},{"name":"Test whether setHTMLUnsafe executes the fail handler.","status":"FAIL"},{"name":"Test whether setHTML loads the image.","status":"FAIL"},{"name":"Test whether setHTMLUnsafe loads the image.","status":"PASS"}]}
