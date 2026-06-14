@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"scrollIntoView scrolls the viewport when overflow-x: clip is applied to the root element","status":"FAIL"},{"name":"scrollIntoView scrolls the viewport when overflow-y: clip is applied to the root element","status":"PASS"}]}
