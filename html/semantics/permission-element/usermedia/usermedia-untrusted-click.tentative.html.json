@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Untrusted click on usermedia element should fail with InvalidStateError","status":"TIMEOUT"}]}
