@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"HTTP Referer should use the pushed state (before onload)","status":"PASS"},{"name":"document.referrer should use the pushed state (before onload)","status":"PASS"},{"name":"HTTP Referer should use the replaced state (before onload)","status":"PASS"},{"name":"document.referrer should use the replaced state (before onload)","status":"PASS"}]}
