@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Mixed content checks apply to fetches in sandboxed documents","status":"FAIL"},{"name":"Mixed content checks apply to iframes in sandboxed documents","status":"PASS"},{"name":"Mixed content checks apply to popups in sandboxed documents","status":"PASS"}]}
