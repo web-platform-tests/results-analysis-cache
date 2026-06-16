@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_no_top_browsing_context","status":"PASS"},{"name":"test_no_browsing_context","status":"FAIL"},{"name":"test_get_multiple_cookies","status":"PASS"},{"name":"test_get_cookies_only_from_active_document","status":"FAIL"}]}
