@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"checkbox with missing aria-checked","status":"PASS"},{"name":"checkbox with aria-checked true","status":"PASS"},{"name":"checkbox with aria-checked false","status":"PASS"},{"name":"checkbox with aria-checked mixed","status":"PASS"}]}
