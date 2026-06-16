@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Terminating worker after permission query should not crash","status":"PASS"}]}
