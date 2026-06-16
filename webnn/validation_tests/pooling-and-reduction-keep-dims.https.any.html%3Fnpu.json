@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"assert_not_equals(navigator.ml, undefined, \"ml property is defined on navigator\")","status":"FAIL"},{"name":"Test global average pool operator's output shape for ResNetV2 50 model.","status":"FAIL"},{"name":"Test reduceMean operator's output shape for ResNetV2 50 model.","status":"FAIL"}]}
