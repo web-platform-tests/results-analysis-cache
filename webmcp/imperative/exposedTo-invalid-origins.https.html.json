@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"registerTool() throws SecurityError for invalid or non-potentially-trustworthy origins in exposedTo","status":"FAIL"},{"name":"registerTool() does not throw for invalid exposedTo, if aborted signal is passed in","status":"FAIL"}]}
