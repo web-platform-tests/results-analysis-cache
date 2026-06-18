@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_atspi[true]","status":"FAIL"},{"name":"test_atspi[menu]","status":"PASS"},{"name":"test_atspi[listbox]","status":"PASS"},{"name":"test_atspi[tree]","status":"PASS"},{"name":"test_atspi[grid]","status":"PASS"},{"name":"test_atspi[dialog]","status":"PASS"}]}
