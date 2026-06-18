@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Headers object no longer has a getAll() method","status":"PASS"},{"name":"'type' getter should not exist on Request objects","status":"PASS"},{"name":"Response object no longer has a trailer getter","status":"PASS"}]}
