@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"@counter-style 'negative: \"X\"' is valid","status":"PASS"},{"name":"@counter-style 'negative: \"X\" \"X\"' is valid","status":"PASS"},{"name":"@counter-style 'negative: \"X\" \"X\" \"X\"' is invalid","status":"PASS"}]}
