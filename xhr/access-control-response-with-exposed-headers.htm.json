@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test CORS response with 'Access-Control-Expose-Headers' header","status":"PASS"}]}
