@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"RTCDtlsTransport.getRemoteCertificates() returns the remote peer certificate","status":"PASS"}]}
