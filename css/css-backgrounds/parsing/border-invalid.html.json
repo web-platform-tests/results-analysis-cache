@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['border'] = \"auto\" should not set the property value","status":"PASS"},{"name":"e.style['border'] = \"thin double green 1px\" should not set the property value","status":"PASS"},{"name":"e.style['border'] = \"-2em\" should not set the property value","status":"PASS"}]}
