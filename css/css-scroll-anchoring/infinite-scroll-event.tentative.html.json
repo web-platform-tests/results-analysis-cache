@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Scroll adjustments don't keep happening with 0-length adjustments triggered by a single scroll operation","status":"PASS"}]}
