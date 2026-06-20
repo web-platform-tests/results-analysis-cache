@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Permissions policy allow=\"webnn\" allows same-origin navigation in an iframe.","status":"FAIL"},{"name":"Permissions policy allow=\"webnn\" disallows cross-origin navigation in an iframe.","status":"FAIL"}]}
