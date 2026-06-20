@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"callback's result is promisified if not async","status":"FAIL"},{"name":"lock is held until callback's returned promise resolves","status":"FAIL"},{"name":"lock is held until callback's returned promise rejects","status":"FAIL"},{"name":"held lock prevents the same client from acquiring it","status":"FAIL"}]}
