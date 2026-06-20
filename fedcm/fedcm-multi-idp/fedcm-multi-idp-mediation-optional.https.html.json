@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Mediation optional can succeed without a returning account.","status":"PASS"},{"name":"Mediation optional automatically succeeds when there is one returning account.","status":"PASS"},{"name":"Mediation optional can succeed when there is more than one returning account.","status":"PASS"}]}
