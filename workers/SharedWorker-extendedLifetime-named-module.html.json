@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Named SharedWorker should survive across navigations with extendedLifetime","status":"PASS"},{"name":"Module SharedWorker should survive across navigations with extendedLifetime","status":"PASS"}]}
