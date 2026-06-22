@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that getTools() returns the correct inputSchema for a declarative tool","status":"PASS"}]}
