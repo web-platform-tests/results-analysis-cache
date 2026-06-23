@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigateEvent.deferPageSwap: deferring is not allowed for cross-origin navigations","status":"PASS"}]}
