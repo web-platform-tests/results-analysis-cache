@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test animated GIF with zero first-frame delay decodes all frames","status":"PASS"},{"name":"Test animated GIF with zero first-frame delay reports correct metadata","status":"FAIL"}]}
