@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"a prerendering page cannot resize its window by executing resizeTo.","status":"PASS"},{"name":"a prerendering page cannot resize its window by executing resizeBy.","status":"PASS"}]}
