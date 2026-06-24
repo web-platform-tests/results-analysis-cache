@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Permissions policy \"clipboard-read\" can be enabled in same-origin iframe using allow=\"clipboard-read\" attribute","status":"FAIL"}]}
