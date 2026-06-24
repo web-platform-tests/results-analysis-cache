@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"COEP does not block bidder scripts.","status":"FAIL"},{"name":"COEP does not block seller scripts.","status":"FAIL"}]}
