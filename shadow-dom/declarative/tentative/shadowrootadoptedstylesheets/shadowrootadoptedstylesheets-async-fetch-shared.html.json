@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Shared CSS module specifier across shadow roots produces the same CSSStyleSheet.","status":"FAIL"}]}
