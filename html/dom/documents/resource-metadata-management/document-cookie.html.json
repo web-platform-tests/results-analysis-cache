@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document has no cookie","status":"FAIL"},{"name":"Empty value","status":"FAIL"},{"name":"A simple cookie","status":"FAIL"},{"name":"A null char","status":"FAIL"},{"name":"getting cookie for a cookie-averse document returns empty string, setting does nothing","status":"PASS"}]}
