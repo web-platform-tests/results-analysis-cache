@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"AudioParam: Each method returns the same object to allow chaining","status":"PASS"},{"name":"AudioParam: Chaining with invalid operations does not apply later effects","status":"PASS"},{"name":"AudioParam: Chaining of envelope methods schedules values as expected","status":"FAIL"}]}
