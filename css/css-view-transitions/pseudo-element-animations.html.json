@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"The specified CSS Animations work on view transition pseudos.","status":"PASS"},{"name":"The specified CSS Animations and script animations work on view transition pseudos","status":"TIMEOUT"},{"name":"The specified CSS Animations are removed if setting display:none.","status":"NOTRUN"}]}
