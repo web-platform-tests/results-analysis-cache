@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"devicePixelRatio is unaffected by viewport's initial-scale","status":"PASS"}]}
