@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Early Hints preconnect: no crossorigin","status":"PASS"},{"name":"Early Hints preconnect: crossorigin=anonymous","status":"PASS"},{"name":"Early Hints preconnect: crossorigin=use-credentials","status":"PASS"}]}
