@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Activation through touch actions which cause scrolling","status":"PASS"},{"name":"Activation through touch actions which doesn't cause scrolling","status":"PASS"}]}
