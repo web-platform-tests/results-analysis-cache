@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.fence in a URN iframe created with Protected Audience","status":"FAIL"},{"name":"window.fence in a URN iframe created with Shared Storage","status":"FAIL"}]}
