@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check the baseURL of an about:blank document same-origin with its parent","status":"FAIL"},{"name":"Check the baseURL of an about:blank document cross-origin with its parent","status":"FAIL"},{"name":"Check the baseURL of an about:blank document cross-site with its parent","status":"FAIL"}]}
