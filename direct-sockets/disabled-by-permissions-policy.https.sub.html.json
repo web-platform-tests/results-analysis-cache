@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"TCPSocket disabled by permissions-policy","status":"FAIL"},{"name":"UDPSocket disabled by permissions-policy","status":"FAIL"},{"name":"TCPServerSocket disabled by permissions-policy","status":"FAIL"}]}
