@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"EncryptionInfo protocol tag 'evil' instead of 'dcapi' is rejected.","status":"TIMEOUT"},{"name":"EncryptionInfo with empty protocol tag is rejected.","status":"NOTRUN"},{"name":"EncryptionInfo missing nonce field is rejected.","status":"NOTRUN"}]}
