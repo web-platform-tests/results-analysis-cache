@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Should be exactly to the right of the multicol container","status":"FAIL"},{"name":"Should equal to two multicol container widths","status":"FAIL"},{"name":"Fractional column gaps and widths","status":"FAIL"},{"name":"No space for columns, only gaps","status":"FAIL"}]}
