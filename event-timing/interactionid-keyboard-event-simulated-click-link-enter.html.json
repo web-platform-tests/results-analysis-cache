@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Click event triggered by space key in checkbox should have the same      interaction id as that of the associated keyboard events.","status":"TIMEOUT"}]}
