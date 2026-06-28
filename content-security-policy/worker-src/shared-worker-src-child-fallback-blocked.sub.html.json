@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Same-origin shared worker allowed by child-src 'self'.","status":"TIMEOUT"}]}
