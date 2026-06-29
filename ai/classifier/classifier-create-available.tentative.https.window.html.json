@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Classifier.create() returns a valid object","status":"PRECONDITION_FAILED"},{"name":"Classifier.create() notifies its monitor on downloadprogress","status":"PRECONDITION_FAILED"},{"name":"Progress events are not emitted after aborted","status":"PRECONDITION_FAILED"}]}
