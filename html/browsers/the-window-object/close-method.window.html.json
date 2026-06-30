@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.close() queues a task to discard, but window.closed knows immediately","status":"PASS"},{"name":"window.close() affects name targeting immediately","status":"PASS"}]}
