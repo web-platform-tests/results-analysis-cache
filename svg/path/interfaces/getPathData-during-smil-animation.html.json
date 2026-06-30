@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"path.getPathData() returns attribute base value during SMIL animation","status":"FAIL"}]}
