@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"setPathData() accepts plain object literals","status":"PASS"},{"name":"setPathData() accepts spread from a generator","status":"PASS"},{"name":"setPathData() accepts typed-array values","status":"PASS"},{"name":"setPathData() ignores extra properties on segment objects","status":"PASS"}]}
