@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Relative URL-like from same-origin importScripts()","status":"NOTRUN"},{"name":"Absolute URL-like from same-origin importScripts()","status":"NOTRUN"}]}
