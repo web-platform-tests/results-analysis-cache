@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"profiling should be blocked for network worker without document policy header","status":"PASS"}]}
