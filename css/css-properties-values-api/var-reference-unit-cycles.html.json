@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Registered property invalidated by a non-custom cycle uses its initial value","status":"PASS"},{"name":"Unregistered property invalidated by a non-custom cycle uses its fallback","status":"PASS"}]}
