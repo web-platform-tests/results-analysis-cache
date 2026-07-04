@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Expecting logs: [\"PASS same-origin script allowed in sandboxed iframe\", \"PASS cross-origin script blocked in sandboxed iframe\"]","status":"FAIL"}]}
