@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"hasAttribute should check for attribute presence, irrespective of namespace","status":"PASS"},{"name":"hasAttribute should work with all attribute casings","status":"PASS"}]}
