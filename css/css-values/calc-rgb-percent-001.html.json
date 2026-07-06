@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"testing rgb(calc(5% + 15%), calc(40% / 2), calc(5% * 4))","status":"PASS"}]}
