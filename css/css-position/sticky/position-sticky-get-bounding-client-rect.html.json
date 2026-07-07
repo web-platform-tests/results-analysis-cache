@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"sticky positioned element should be observable by getBoundingClientRect.","status":"PASS"},{"name":"getBoundingClientRect should be correct for sticky after script insertion","status":"PASS"},{"name":"getBoundingClientRect should be correct for sticky after script-caused layout","status":"PASS"}]}
