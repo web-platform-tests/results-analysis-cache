@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Permissions-Policy allow=\"gamepad\" allows same-origin by default.","status":"TIMEOUT"},{"name":"Permissions-Policy allow=\"gamepad\" allows cross-origin with feature allowed.","status":"FAIL"},{"name":"Permissions-Policy allow=\"gamepad\" allows cross-origin by default.","status":"TIMEOUT"}]}
