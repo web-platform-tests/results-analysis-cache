@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"clamp() accepts whitespace between a 'none' min argument and the following comma","status":"PASS"},{"name":"clamp() accepts whitespace after a trailing 'none' max argument","status":"PASS"},{"name":"clamp() accepts whitespace around 'none' for both bounds","status":"PASS"}]}

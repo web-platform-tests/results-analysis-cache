@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Listener of transitionend","status":"PASS"},{"name":"Legacy listener of transitionend","status":"TIMEOUT"},{"name":"Listener of animationend","status":"PASS"},{"name":"Legacy listener of animationend","status":"TIMEOUT"},{"name":"Listener of animationstart","status":"PASS"},{"name":"Legacy listener of animationstart","status":"TIMEOUT"}]}
