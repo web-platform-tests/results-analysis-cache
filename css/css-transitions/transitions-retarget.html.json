@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Retargeting a transition should cause the old transition to be cancelled","status":"FAIL"}]}
