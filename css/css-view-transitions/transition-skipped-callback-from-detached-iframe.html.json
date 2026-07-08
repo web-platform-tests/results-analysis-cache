@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Using a callback from a detached iframe should not crash","status":"PASS"}]}
