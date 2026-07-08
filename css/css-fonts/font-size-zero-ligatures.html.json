@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"font-size: 0 without ligature produces zero width","status":"PASS"},{"name":"font-size: 0 with fi ligature produces zero width","status":"PASS"},{"name":"font-size: 0 with multiple ligatures produces zero width","status":"PASS"},{"name":"Ligature text and non-ligature text at font-size: 0 produce identical container width","status":"PASS"}]}
