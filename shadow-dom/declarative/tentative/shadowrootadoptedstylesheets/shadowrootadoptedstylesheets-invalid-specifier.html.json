@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Unresolvable bare specifier produces no entry and applies no styles.","status":"PASS"},{"name":"Mixed valid/invalid specifiers: only valid ones produce entries and apply styles.","status":"FAIL"}]}
