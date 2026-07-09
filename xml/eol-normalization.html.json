@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CRLF should be normalized to LF in XML","status":"FAIL"},{"name":"CR should be normalized to LF in XML","status":"FAIL"},{"name":"Complex EOL sequences should be normalized correctly (\r\r\n\n -> \n\n\n)","status":"FAIL"}]}
