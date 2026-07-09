@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Cross-origin frame with allowed path loads","status":"PASS"},{"name":"Cross-origin frame with other path is blocked","status":"FAIL"},{"name":"Cross-origin frame with other path is blocked even after replacing the already loaded URL","status":"FAIL"}]}
