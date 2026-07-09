@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"span on HTMLTableColElement must enqueue an attributeChanged reaction when adding a new attribute","status":"PASS"},{"name":"span on HTMLTableColElement must enqueue an attributeChanged reaction when replacing an existing attribute","status":"PASS"}]}
