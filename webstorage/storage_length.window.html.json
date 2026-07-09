@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"localStorage.length (method access)","status":"PASS"},{"name":"localStorage.length (proprty access)","status":"PASS"},{"name":"sessionStorage.length (method access)","status":"PASS"},{"name":"sessionStorage.length (proprty access)","status":"PASS"}]}
