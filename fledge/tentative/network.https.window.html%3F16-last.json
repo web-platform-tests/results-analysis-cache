@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"trustedScoringSignalsURL Set-Cookie.","status":"FAIL"},{"name":"trustedScoringSignalsURL redirect.","status":"FAIL"}]}
