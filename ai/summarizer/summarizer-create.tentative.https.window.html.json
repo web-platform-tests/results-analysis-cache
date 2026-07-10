@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Summarizer.create() is defined","status":"PRECONDITION_FAILED"},{"name":"If monitor throws an error, Summarizer.create() rejects with that error","status":"FAIL"}]}
