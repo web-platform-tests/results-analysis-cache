@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"min-width:0 disables automatic minimum","status":"PASS"},{"name":"min-width:auto enables automatic minimum","status":"PASS"}]}
