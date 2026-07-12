@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"No-Vary-Search hint must be a string so the speculation rule will be ignored. There is no prefetch happening.","status":"TIMEOUT"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CustomEvent dispatching.","status":"PASS"},{"name":"First parameter to initCustomEvent should be mandatory.","status":"PASS"},{"name":"initCustomEvent's default parameter values.","status":"PASS"}]}
