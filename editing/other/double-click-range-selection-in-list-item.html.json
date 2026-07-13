@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Double click on one list item should not select more than one list item","status":"FAIL"},{"name":"Double click on one text item should select only one text item","status":"FAIL"}]}
