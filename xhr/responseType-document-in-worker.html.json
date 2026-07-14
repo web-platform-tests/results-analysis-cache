@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Setting XMLHttpRequest responseType to 'document' in a worker should have no effect.","status":"FAIL"}]}
