@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A device with name and no UUIDs nearby. Should be found if acceptAllDevices is true.","status":"FAIL"}]}
