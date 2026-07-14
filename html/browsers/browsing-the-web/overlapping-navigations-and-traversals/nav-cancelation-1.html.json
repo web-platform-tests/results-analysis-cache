@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"parent cancels a pending navigation in a same-origin child","status":"FAIL"}]}
