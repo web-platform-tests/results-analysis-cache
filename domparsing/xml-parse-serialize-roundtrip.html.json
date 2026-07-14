@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"DOMParser and XMLSerializer should round trip with CDATA sections: large CDATA","status":"FAIL"},{"name":"DOMParser and XMLSerializer should round trip with CDATA sections: multiple CDATAs","status":"FAIL"}]}
