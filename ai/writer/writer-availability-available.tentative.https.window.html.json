@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Writer.availability() is available with no options","status":"TIMEOUT"},{"name":"Writer.availability() returns available with supported options","status":"NOTRUN"},{"name":"Writer.availability() returns unavailable for unsupported languages and create() rejects","status":"NOTRUN"}]}
