@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Unchecking an exclusive menuitem should dismiss the menulist","status":"FAIL"},{"name":"Swapping exclusive checkedness should dismiss the menulist","status":"FAIL"}]}
