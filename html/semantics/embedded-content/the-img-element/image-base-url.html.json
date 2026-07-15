@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"An image should not be refetched upon insertion asynchronously after its Document's base URL changes","status":"PASS"}]}
