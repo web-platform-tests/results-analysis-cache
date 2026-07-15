@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Same-origin fenced frame with allow attribute enabling required features","status":"TIMEOUT"},{"name":"Cross-origin fenced frame with allow attribute enabling required features","status":"NOTRUN"},{"name":"Delivered policies can further restrict permissions of a non-opaque fenced frame","status":"NOTRUN"}]}
