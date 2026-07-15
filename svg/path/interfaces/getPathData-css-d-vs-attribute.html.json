@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"path.getPathData() returns attribute value, not CSS d value","status":"FAIL"},{"name":"path.getPathData() returns [] when only CSS d is set (no d attribute)","status":"FAIL"}]}
