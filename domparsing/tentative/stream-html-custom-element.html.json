@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"streamHTMLUnsafe should trigger CE reactions","status":"PASS"},{"name":"streamHTMLUnsafe should use scoped custom element registry","status":"PASS"},{"name":"streamAppendHTMLUnsafe should trigger CE reactions","status":"PASS"},{"name":"streamAppendHTMLUnsafe should use scoped custom element registry","status":"PASS"}]}
