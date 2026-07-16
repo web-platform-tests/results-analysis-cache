@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Navigate event should not fire for cross-document history traversal to a sandboxed document","status":"FAIL"}]}
