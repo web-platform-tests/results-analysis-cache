@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"read_only","status":"PASS"},{"name":"property_values","status":"PASS"},{"name":"inherited_property_values","status":"PASS"},{"name":"relative_property_values","status":"PASS"}]}
