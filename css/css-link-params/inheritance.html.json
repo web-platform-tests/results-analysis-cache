@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property link-parameters has initial value none","status":"FAIL"},{"name":"Property link-parameters does not inherit","status":"FAIL"}]}
