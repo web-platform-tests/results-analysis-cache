@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_atspi[role-link]","status":"PASS"},{"name":"test_atspi[aria-disabled]","status":"FAIL"},{"name":"test_atspi[aria-expanded]","status":"PASS"}]}
