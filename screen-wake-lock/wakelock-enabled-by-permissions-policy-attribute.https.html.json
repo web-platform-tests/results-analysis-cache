@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Permissions policy \"screen-wake-lock\" can be enabled in same-origin iframe using allow=\"screen-wake-lock\" attribute","status":"FAIL"},{"name":"Permissions policy \"screen-wake-lock\" can be enabled in cross-origin iframe using allow=\"screen-wake-lock\" attribute","status":"FAIL"}]}
