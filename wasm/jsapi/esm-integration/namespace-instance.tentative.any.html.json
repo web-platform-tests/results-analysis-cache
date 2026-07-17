@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"WebAssembly.namespaceInstance() should return the underlying instance with shared state","status":"FAIL"},{"name":"WebAssembly.namespaceInstance() should throw TypeError for non-WebAssembly namespaces","status":"PASS"},{"name":"WebAssembly.namespaceInstance() should work correctly with multiple modules","status":"FAIL"}]}
