@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test requires performance.now() to measure approximate timing of callbacks.","status":"PASS"},{"name":"Test that a timer scheduled during a microtask checkpoint does not inherit the timer nesting level of the task that just ran.","status":"FAIL"}]}
