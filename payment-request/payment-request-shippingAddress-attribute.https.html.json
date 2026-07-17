@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Must have a .shippingAddress IDL attribute.","status":"PASS"},{"name":".shippingAddress attribute must default to null.","status":"PASS"}]}
