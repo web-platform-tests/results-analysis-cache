@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['empty-cells'] = \"auto\" should not set the property value","status":"PASS"},{"name":"e.style['empty-cells'] = \"show hide\" should not set the property value","status":"PASS"}]}
