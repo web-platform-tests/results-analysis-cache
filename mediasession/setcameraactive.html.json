@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that setCameraActive() can be executed for boolean values","status":"FAIL"}]}
