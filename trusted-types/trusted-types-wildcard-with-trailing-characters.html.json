@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A trusted-types wildcard with trailing characters ('*X') is an invalid expression and must not enable the wildcard, so createPolicy() is blocked.","status":"PASS"}]}
