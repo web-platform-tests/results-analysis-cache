@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"linear distance model with refDistance == maxDistance must not produce NaN/Inf samples","status":"FAIL"},{"name":"exponential distance model with refDistance == 0 must not produce NaN/Inf samples","status":"FAIL"}]}
