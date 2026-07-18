@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"LoAF blockingDuration should be equivalent to long tasks: Non-rendering","status":"TIMEOUT"},{"name":"LoAF blockingDuration should be equivalent to long tasks: Rendering","status":"NOTRUN"}]}
