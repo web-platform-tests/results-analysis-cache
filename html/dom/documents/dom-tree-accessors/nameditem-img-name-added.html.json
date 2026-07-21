@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"An img with an id but no name becomes exposed by its id once a name attribute is added.","status":"PASS"}]}
