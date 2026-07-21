@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"animation-iteration-count: 1;","status":"PASS"},{"name":"animation-iteration-count: 2;","status":"PASS"},{"name":"animation-iteration-count: 2.1;","status":"PASS"},{"name":"animation-iteration-count: 3;","status":"PASS"},{"name":"animation-iteration-count: 4;","status":"PASS"},{"name":"animation-iteration-count: infinite;","status":"PASS"}]}
