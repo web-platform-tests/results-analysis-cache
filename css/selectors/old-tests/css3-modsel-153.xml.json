@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Empty CDATA section makes the element match :empty","status":"PASS"}]}
