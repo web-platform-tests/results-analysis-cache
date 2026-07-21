@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Script source set via TrustedHTML sink Element.outerHTML drops trustworthiness.","status":"PASS"}]}
