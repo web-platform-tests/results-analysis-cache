@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Window.scrollTo: interruption by auto scroll call","status":"NOTRUN"},{"name":"Window.scrollBy: interruption by auto scroll call","status":"NOTRUN"},{"name":"Window.scrollTo: interruption by smooth scroll call","status":"NOTRUN"},{"name":"Window.scrollBy: interruption by smooth scroll call","status":"NOTRUN"}]}
