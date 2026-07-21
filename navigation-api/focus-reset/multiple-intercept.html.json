@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"(not provided) + after-transition","status":"PASS"},{"name":"(not provided) + manual","status":"FAIL"},{"name":"after-transition + manual","status":"FAIL"},{"name":"after-transition + (not provided)","status":"PASS"},{"name":"manual + after-transition","status":"TIMEOUT"},{"name":"manual + (not provided)","status":"NOTRUN"}]}
