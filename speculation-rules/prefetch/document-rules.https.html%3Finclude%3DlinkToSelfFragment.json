@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test that a fragment link to the current document does not prefetch","status":"PASS"}]}
