@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"onpaint should fire when the drawn element scrolls.","status":"FAIL"}]}
