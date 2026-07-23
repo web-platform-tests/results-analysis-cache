@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Host children have sibling-index() and sibling-count() based on the DOM tree order","status":"FAIL"},{"name":"Shadow children have sibling-index() and sibling-count() based on the DOM tree order","status":"FAIL"},{"name":"Direct shadow root children have correct sibling-index() and sibling-count()","status":"FAIL"}]}
