@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Image with containertiming + containertiming-ignore inside outer containertiming reports under itself only.","status":"PASS"}]}
