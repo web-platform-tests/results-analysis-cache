@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"[consistent] Check that text-spacing-trim: trim-start scales larger than none because of trimmed start margin","status":"FAIL"},{"name":"[per-line-all] Check that text-spacing-trim: trim-start scales larger than none because of trimmed start margin","status":"FAIL"}]}
