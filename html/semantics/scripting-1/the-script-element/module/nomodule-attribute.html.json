@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that 'nomodule' has the desired effect on classic scripts, but no effect on module scripts.","status":"PASS"}]}
