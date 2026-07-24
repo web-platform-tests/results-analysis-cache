@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"All <link rel=compression-dictionary> are blocked via CSP rule connect-src 'nonce-abc', even when they have a matching cryptographic nonce.","status":"FAIL"}]}
