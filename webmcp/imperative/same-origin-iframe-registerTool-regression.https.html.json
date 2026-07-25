@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"registerTool() does not reject in connected same-origin iframe navigated away of about:blank","status":"TIMEOUT"}]}
