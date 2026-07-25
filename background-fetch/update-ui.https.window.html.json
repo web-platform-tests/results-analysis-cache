@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Background Fetch updateUI resolves","status":"FAIL"},{"name":"Background Fetch updateUI called twice fails","status":"FAIL"},{"name":"Background Fetch updateUI fails when event is not active","status":"FAIL"}]}
