@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"type attribute on SVG <style> elements should reflect correctly","status":"FAIL"},{"name":"Setting type via the IDL attribute updates the content attribute","status":"FAIL"},{"name":"Setting the content attribute updates the IDL attribute (type)","status":"FAIL"}]}
