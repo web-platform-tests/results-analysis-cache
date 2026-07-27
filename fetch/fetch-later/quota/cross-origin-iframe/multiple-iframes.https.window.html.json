@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"fetchLater() request quota are delegated to cross-origin iframes and not shared, even if they are same origin.","status":"TIMEOUT"}]}
