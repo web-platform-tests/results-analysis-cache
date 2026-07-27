@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"requestWindow resolves with the PiP window","status":"FAIL"},{"name":"Elements can be moved from opener to PiP document","status":"FAIL"},{"name":"PiP document is fully loaded","status":"FAIL"},{"name":"requestWindow timing","status":"FAIL"}]}
