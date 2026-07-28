@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"fragment navigations through navigate are ignored after too many calls","status":"FAIL"},{"name":"rate-limited navigations cancel pending lazy-load iframe navigations","status":"FAIL"}]}
