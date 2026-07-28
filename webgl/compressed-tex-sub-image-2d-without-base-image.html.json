@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"compressedTexSubImage2D without base image generates INVALID_OPERATION","status":"PASS"}]}
