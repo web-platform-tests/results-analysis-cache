@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Scope-imported rule applies within scope, above limit","status":"FAIL"},{"name":"Scope-imported rule does not apply below limit","status":"PASS"}]}
