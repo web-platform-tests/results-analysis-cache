@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that :modal matches modal <dialog>","status":"PASS"},{"name":"Test that :modal matches the fullscreen element","status":"FAIL"}]}
