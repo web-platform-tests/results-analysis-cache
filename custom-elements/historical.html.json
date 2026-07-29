@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document.registerElement should not exist","status":"PASS"},{"name":"ShadowRoot doesn't have importNode or createElement[NS]","status":"PASS"},{"name":"attachShadow() does not recognize a registry member","status":"PASS"}]}
