@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"<g> element has transform presentation style from being an SVGGraphicsElement","status":"FAIL"},{"name":"<symbol> element has transform presentation style from being an SVGGraphicsElement","status":"FAIL"}]}

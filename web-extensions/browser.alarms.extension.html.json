@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"testAlarmsCreateAndGet","status":"PASS"},{"name":"testAlarmsGetAll","status":"PASS"},{"name":"testAlarmsClear","status":"FAIL"},{"name":"testAlarmsClearAll","status":"FAIL"},{"name":"testAlarmsOnAlarm","status":"PASS"},{"name":"testAlarmsCreateNames","status":"FAIL"},{"name":"testAlarmsErrorCases","status":"FAIL"}]}
