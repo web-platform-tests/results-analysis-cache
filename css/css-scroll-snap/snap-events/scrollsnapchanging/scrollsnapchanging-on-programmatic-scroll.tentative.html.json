@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"scrollsnapchanging fires on programmatic scrolls that changes a scroller's snap targets.","status":"FAIL"},{"name":"Element.onscrollsnapchanging fires on programmatic scrolls that changes a scroller's snap targets.","status":"TIMEOUT"},{"name":"scrollsnapchanging should not fire since the snap target doesn't change.","status":"NOTRUN"}]}
