@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"updateRenderState handles appropriately XRRenderStateInit params - webgl","status":"PASS"},{"name":"updateRenderState handles appropriately XRRenderStateInit params - webgl2","status":"PASS"}]}
