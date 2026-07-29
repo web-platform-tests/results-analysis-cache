@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"RTCIceTransport should transition to \"gathering\" then \"complete\", after sLD","status":"FAIL"},{"name":"PC.close() should not cause the RTCIceTransport gathering state to transition to \"complete\"","status":"FAIL"},{"name":"RTCIceTransport should transition to \"gathering\", then \"complete\" after sLD (DataChannel case)","status":"PASS"}]}
