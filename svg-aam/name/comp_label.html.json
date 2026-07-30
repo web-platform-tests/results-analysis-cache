@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"[aria-labelledby] > circle","status":"FAIL"},{"name":"[aria-labelledby] > rect","status":"FAIL"},{"name":"[aria-labelledby] > polygon","status":"FAIL"},{"name":"[aria-labelledby] > g","status":"FAIL"}]}
