@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"304 without appropriate CORS header","status":"PASS"},{"name":"304 with appropriate CORS header","status":"PASS"}]}
