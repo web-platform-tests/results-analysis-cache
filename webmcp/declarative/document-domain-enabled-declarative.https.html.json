@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Declarative tool registration is blocked when document.domain is enabled","status":"PASS"}]}

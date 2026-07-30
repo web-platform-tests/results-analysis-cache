@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"first argument: absolute url","status":"PASS"},{"name":"first argument: empty url","status":"PASS"},{"name":"second argument: passing a non-empty name","status":"PASS"},{"name":"second argument: setting name after opening","status":"PASS"}]}
