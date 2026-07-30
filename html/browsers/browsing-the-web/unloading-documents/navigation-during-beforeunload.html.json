@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Navigating a sibling iframe during another iframe's beforeunload should not be blocked","status":"PASS"},{"name":"Navigating the same frame during its own beforeunload should be blocked","status":"PASS"},{"name":"Navigating the parent frame during a child's beforeunload should not be blocked","status":"PASS"}]}
