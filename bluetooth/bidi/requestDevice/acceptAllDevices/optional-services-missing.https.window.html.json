@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"requestDevice called with acceptAllDevices: true and with no optionalServices. Should not get access to any services.","status":"FAIL"}]}
