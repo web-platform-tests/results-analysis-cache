@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"AbortSignal.timeout() returns a non-aborted signal","status":"PASS"},{"name":"Signal returned by AbortSignal.timeout() times out","status":"PASS"},{"name":"AbortSignal timeouts fire in order","status":"PASS"}]}
