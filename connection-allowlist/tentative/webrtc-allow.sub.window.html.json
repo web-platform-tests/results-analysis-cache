@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test that webrtc=allow Connection-Allowlist param is respected.","status":"TIMEOUT"},{"name":"Fetches are unaffected by the `webrtc` property's value.","status":"NOTRUN"}]}
