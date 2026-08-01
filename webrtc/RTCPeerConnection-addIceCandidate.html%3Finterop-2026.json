@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"addIceCandidate after close should reject with InvalidStateError","status":"TIMEOUT"},{"name":"addIceCandidate should not recognize relayProtocol or url","status":"NOTRUN"}]}
