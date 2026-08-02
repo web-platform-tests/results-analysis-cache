@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Create requires sticky user activation when availability is \"downloadable\"","status":"PASS"},{"name":"Create succeeds with user activation when availability is \"downloadable\"","status":"PASS"}]}
