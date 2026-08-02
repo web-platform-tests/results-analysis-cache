@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"iframe's history.go(0) performs a location.reload()","status":"PASS"}]}
