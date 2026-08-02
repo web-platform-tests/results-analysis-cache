@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test that WebRTC Connection-Allowlist violation reports sanitize document URL fragments while keeping connection=\"webrtc\".","status":"TIMEOUT"}]}
