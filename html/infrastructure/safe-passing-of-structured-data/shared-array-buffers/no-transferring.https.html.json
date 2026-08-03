@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Trying to transfer a SharedArrayBuffer to this window throws","status":"FAIL"},{"name":"Trying to transfer a SharedArrayBuffer to a worker throws","status":"FAIL"},{"name":"Trying to transfer a SharedArrayBuffer through a MessagePort throws","status":"FAIL"}]}
