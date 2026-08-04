@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Report sent in report-only mode","status":"PASS"},{"name":"Report sent in enforcement mode.","status":"PASS"},{"name":"service-worker-reporting","status":"FAIL"}]}
