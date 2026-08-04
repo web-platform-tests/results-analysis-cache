@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test anchor's protocol getter","status":"FAIL"},{"name":"Test anchor's hostname getter","status":"FAIL"},{"name":"Test anchor's port getter","status":"FAIL"}]}
