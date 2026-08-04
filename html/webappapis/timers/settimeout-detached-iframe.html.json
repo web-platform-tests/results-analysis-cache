@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"setTimeout() on a detached iframe's window does not throw and its callback never runs","status":"PASS"}]}
