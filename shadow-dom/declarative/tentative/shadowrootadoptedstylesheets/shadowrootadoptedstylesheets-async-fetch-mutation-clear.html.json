@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Clearing adoptedStyleSheets before fetch prevents styles from being applied.","status":"FAIL"}]}
