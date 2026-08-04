@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.install() in sandboxed iframe (allow-scripts) should throw SecurityError.","status":"PASS"},{"name":"navigator.install() in sandboxed iframe (allow-scripts allow-same-origin) should throw SecurityError.","status":"FAIL"},{"name":"navigator.install() in a same-origin iframe should throw InvalidStateError.","status":"PASS"}]}
