@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"ICE servers are not present when WebRTC is blocked.","status":"TIMEOUT"},{"name":"Adding a candidate returns undefined when WebRTC is blocked.","status":"NOTRUN"},{"name":"restartIce() has no observable effect when WebRTC is blocked.","status":"NOTRUN"}]}
