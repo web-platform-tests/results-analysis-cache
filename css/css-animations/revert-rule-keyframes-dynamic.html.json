@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"revert-rule in keyframes, reverted-to value changing (standard property)","status":"FAIL"},{"name":"revert-rule in keyframes, reverted-to value changing (custom property)","status":"FAIL"}]}
