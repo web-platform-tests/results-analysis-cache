@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SVG script is untrusted even if meta tag for require-trusted-types-for is removed.","status":"PASS"}]}
