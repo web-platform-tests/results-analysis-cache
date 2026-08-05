@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Light dismiss should still happen if the clicked element is removed during pointerdown.","status":"FAIL"}]}
