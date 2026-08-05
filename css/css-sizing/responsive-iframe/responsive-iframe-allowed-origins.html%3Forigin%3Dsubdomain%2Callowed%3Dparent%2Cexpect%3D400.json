@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Allowed origins check: container=parent, origin=subdomain, allowed=parent","status":"FAIL"}]}
