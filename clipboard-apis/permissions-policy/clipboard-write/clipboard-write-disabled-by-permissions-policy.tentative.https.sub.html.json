@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Permissions-Policy header clipboard-write=() disallows the top-level document.","status":"FAIL"},{"name":"Permissions-Policy header clipboard-write=() disallows same-origin iframes.","status":"PASS"},{"name":"Permissions-Policy header clipboard-write=() disallows cross-origin iframes.","status":"PASS"}]}
