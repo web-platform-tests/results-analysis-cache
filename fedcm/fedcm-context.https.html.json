@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"FedCM call defaults to 'signin' context.","status":"PASS"},{"name":"FedCM with 'signup' context.","status":"PASS"},{"name":"FedCM with 'use' context.","status":"PASS"},{"name":"FedCM with 'continue' context.","status":"PASS"}]}
