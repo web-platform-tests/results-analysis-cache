@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Float with overflow-y:auto includes scrollbar in shrink-to-fit width","status":"PASS"},{"name":"Inline-block with overflow-y:auto includes scrollbar in shrink-to-fit width","status":"PASS"},{"name":"Abspos with overflow-y:auto includes scrollbar in shrink-to-fit width","status":"PASS"}]}
