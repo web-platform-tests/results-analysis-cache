@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"An img with an id gets exposed by its id, invalidating an already-cached named item collection, once a name attribute is added.","status":"FAIL"}]}
