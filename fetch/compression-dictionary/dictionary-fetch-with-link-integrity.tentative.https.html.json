@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initialize global state","status":"FAIL"},{"name":"HTMLLinkElement rel=compression-dictionary, integrity attribute is ignored.","status":"FAIL"}]}
