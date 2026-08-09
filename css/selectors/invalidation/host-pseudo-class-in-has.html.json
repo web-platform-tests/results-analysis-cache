@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Before adding 'a' to #host: Check #subject1 color","status":"PASS"},{"name":"Before adding 'a' to #host: Check #subject2 color","status":"PASS"},{"name":"After adding 'a' to #host: Check #subject1 color","status":"PASS"},{"name":"After adding 'a' to #host: Check #subject2 color","status":"PASS"}]}
