@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document.open() after replaceState should not crash when updating navigation entries","status":"PASS"}]}
