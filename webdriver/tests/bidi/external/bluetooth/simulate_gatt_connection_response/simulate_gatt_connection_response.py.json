@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_simulate_gatt_connection_response[0]","status":"ERROR"},{"name":"test_simulate_gatt_connection_response[1]","status":"FAIL"},{"name":"test_simulate_gatt_connection_response[2]","status":"FAIL"}]}
