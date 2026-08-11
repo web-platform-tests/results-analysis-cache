@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"dialog.show() nested in a hint dismisses unrelated auto popovers but keeps the ancestor hint","status":"PASS"},{"name":"dialog.showModal() nested in a hint dismisses unrelated auto popovers but keeps the ancestor hint","status":"PASS"}]}
