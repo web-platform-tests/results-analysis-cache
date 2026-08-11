@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The sanitize attribute does not sanitize contents of regular templates or templates with non-existent targets","status":"PASS"}]}
