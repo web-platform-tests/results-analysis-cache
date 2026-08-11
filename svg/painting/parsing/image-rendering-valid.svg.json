@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['image-rendering'] = \"auto\" should set the property value","status":"PASS"},{"name":"e.style['image-rendering'] = \"optimizequality\" should set the property value","status":"FAIL"},{"name":"e.style['image-rendering'] = \"optimizespeed\" should set the property value","status":"FAIL"}]}
