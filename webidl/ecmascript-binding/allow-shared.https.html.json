@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"APIs without [AllowShared] do not accept SharedArrayBuffer-backed views with pre-existing wrapper","status":"FAIL"}]}
