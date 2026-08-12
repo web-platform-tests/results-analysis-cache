@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The initiator Url for /images/red.png?initiator_url_eventhandler initiatorUrl from event handlers must be 'http://web-platform.test:8000/resource-timing/tentative/initiator-url/event-handler-overwritten.html'","status":"FAIL"}]}
