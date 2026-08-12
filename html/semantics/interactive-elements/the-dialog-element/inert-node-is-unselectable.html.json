@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that inert nodes cannot be selected. The test passes if the only text you can select is inside the dialog.","status":"FAIL"}]}
