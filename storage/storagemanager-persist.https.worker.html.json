@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.storage.persist should not exist in workers","status":"FAIL"}]}
