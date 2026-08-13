@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"WebAssembly.instantiate() is blocked","status":"FAIL"},{"name":"WebAssembly.compile() is blocked","status":"FAIL"},{"name":"new WebAssembly.Module() is blocked","status":"FAIL"}]}
