@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"console.countReset resets counts and logs a message for missing labels","status":"FAIL"}]}
