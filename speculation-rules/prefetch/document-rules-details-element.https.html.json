@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"selector_matches with link inside closed details should not crash","status":"PASS"},{"name":"Rapid toggling of details with selector_matches should not crash","status":"PASS"}]}
