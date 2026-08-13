@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"isContentEditable for contenteditable=inherit in design mode","status":"FAIL"},{"name":"isContentEditable for contenteditable=false in design mode","status":"PASS"},{"name":"isContentEditable for element in shadow DOM in design mode","status":"PASS"},{"name":"isContentEditable after turning design mode off","status":"PASS"}]}
