@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_uia[true]","status":"FAIL"},{"name":"test_uia[menu]","status":"PASS"},{"name":"test_uia[listbox]","status":"PASS"},{"name":"test_uia[tree]","status":"PASS"},{"name":"test_uia[grid]","status":"PASS"},{"name":"test_uia[dialog]","status":"PASS"}]}
