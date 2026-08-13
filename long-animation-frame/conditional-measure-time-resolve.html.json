@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"conditional measure with omitted marks","status":"FAIL"},{"name":"conditional measure does not resolve marks beyond current frame","status":"FAIL"},{"name":"conditional measure with empty string mark name","status":"FAIL"},{"name":"conditional measure resolves to most recent mark with same name","status":"FAIL"}]}
