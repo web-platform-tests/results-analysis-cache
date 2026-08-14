@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A CSS module fetched through a redirect loads and applies","status":"FAIL"},{"name":"Repeated import of a redirecting URL returns the same CSSStyleSheet","status":"FAIL"},{"name":"A redirecting URL and its target are distinct module map entries","status":"FAIL"}]}
