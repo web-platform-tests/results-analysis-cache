@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"executeTool rejects when tool is unregistered synchronously after its promise resolves","status":"FAIL"}]}
