@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Pending executeTool() Promise is rejected without aborting options.signal when the target cross-origin tool is unregistered","status":"PASS"},{"name":"Pending executeTool() Promise is rejected without aborting options.signal when target same-document tool is unregistered","status":"TIMEOUT"}]}
