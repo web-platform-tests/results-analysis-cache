@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Reflected attributes are exposed on HTMLElement","status":"PASS"},{"name":"containerTiming reflects the content attribute","status":"PASS"},{"name":"containerTimingIgnore reflects the content attribute (boolean)","status":"PASS"},{"name":"Reflection is HTMLElement-only","status":"FAIL"}]}
