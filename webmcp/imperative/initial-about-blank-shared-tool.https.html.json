@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"tools registered with the initial about:blank Document do not survive navigation","status":"FAIL"}]}
