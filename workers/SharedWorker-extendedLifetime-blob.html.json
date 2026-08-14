@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Blob URL SharedWorker should survive across navigations with extendedLifetime","status":"PASS"}]}
