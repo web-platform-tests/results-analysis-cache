@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Target is not visible as it's rotated perpendicularly to viewport","status":"FAIL"},{"name":"Scroll down a bit, target is still not visible","status":"PASS"}]}
