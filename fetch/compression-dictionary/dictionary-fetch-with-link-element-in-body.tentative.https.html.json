@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"<link rel=\"compression-dictionary\"> is allowed in a paragraph.","status":"PASS"},{"name":"A <link rel=\"compression-dictionary\"> in body is loaded.","status":"FAIL"}]}
