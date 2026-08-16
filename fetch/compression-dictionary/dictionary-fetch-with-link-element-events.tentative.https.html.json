@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Load event is dispatched on link with rel=compression-dictionary.","status":"FAIL"},{"name":"Error event is dispatched on link with rel=compression-dictionary returning a network error.","status":"FAIL"}]}
