@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"HTMLFormControlsCollection legacycaller should not be supported","status":"PASS"},{"name":"HTMLOptionsCollection legacycaller should not be supported","status":"PASS"},{"name":"HTMLAllCollection legacycaller with two arguments should not be supported","status":"PASS"}]}
