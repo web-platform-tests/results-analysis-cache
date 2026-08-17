@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"updateRenderState handles appropriately XRRenderStateInit params - webgl","status":"TIMEOUT"},{"name":"updateRenderState handles appropriately XRRenderStateInit params - webgl2","status":"NOTRUN"}]}
