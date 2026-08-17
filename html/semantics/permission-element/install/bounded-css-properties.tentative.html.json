@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Properties with values over bounds should be clamped down","status":"FAIL"},{"name":"Properties with values under bounds should be clamped up","status":"FAIL"},{"name":"Properties with values in bounds should not be modified","status":"PASS"}]}
