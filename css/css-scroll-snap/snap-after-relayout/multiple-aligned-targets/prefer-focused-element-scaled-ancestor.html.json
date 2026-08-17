@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"out-of-viewport focused element is not the selected snap target under a scaled ancestor.","status":"TIMEOUT"}]}
