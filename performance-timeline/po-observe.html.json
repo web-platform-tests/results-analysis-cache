@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"PerformanceObserverInit.buffered should retrieve previously buffered entries","status":"PASS"}]}
