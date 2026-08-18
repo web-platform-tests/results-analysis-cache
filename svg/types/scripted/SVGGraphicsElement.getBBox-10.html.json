@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"text with zoom","status":"PASS"},{"name":"image with zoom","status":"PASS"},{"name":"path with zoom","status":"PASS"},{"name":"foreignObject with zoom","status":"PASS"}]}
