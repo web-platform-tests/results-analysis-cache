@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"encodedBodySize and transferSize for dictionary-compressed (dcb) resource served from cache","status":"FAIL"},{"name":"encodedBodySize and transferSize for dictionary-compressed (dcz) resource served from cache","status":"FAIL"}]}
