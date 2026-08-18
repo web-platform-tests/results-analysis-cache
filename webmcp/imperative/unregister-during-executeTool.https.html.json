@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Pending executeTool() Promise resolves successfully when the target cross-origin tool is unregistered mid-execution","status":"FAIL"},{"name":"Pending executeTool() Promise resolves successfully when target same-document tool is unregistered mid-execution","status":"FAIL"}]}
