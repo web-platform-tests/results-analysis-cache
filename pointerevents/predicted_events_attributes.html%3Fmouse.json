@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Predicted list in boundary events","status":"PASS"},{"name":"Predicted list in pointer-capture events","status":"PASS"},{"name":"Predicted list in pointerdown/move/up events","status":"PASS"},{"name":"Predicted list in pointercancel event","status":"PASS"}]}
