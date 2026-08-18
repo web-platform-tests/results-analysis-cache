@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Template src referrerpolicy=no-referrer blocks Referer header","status":"FAIL"},{"name":"Template src referrerpolicy=origin sends only origin in Referer header","status":"FAIL"}]}
