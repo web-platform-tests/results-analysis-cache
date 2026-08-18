@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"no descriptors","status":"PASS"},{"name":"@location --loc {\n} should be a valid rule","status":"FAIL"},{"name":"@location  --loc{} should be a valid rule","status":"FAIL"},{"name":"escape identifiers","status":"PASS"},{"name":"@location --ahoi\\(hoi {} should be a valid rule","status":"FAIL"}]}
