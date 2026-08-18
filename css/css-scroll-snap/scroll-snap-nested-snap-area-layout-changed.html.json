@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"newly larger-than-snapport area is snapped to when straddled close to bottom.","status":"PASS"},{"name":"snapport remains within newly covering snap area when already in covering position.","status":"PASS"}]}
