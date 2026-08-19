@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test that await navigation.back().finished during onnavigate should reject","status":"TIMEOUT"}]}
