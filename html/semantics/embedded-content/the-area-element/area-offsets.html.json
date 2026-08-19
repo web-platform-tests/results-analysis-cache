@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"area is a hidden element and generates no box","status":"PASS"},{"name":"area has no offsets because it has no box","status":"PASS"},{"name":"area has an empty bounding client rect","status":"PASS"}]}
