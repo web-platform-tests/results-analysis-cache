@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Multiple concurrent <script type=module> loads of a failing module should all fail but only fetch once","status":"PASS"},{"name":"A joined <script type=module> load is notified with its own fetch result even if a sibling's error handler re-inserts a script for the same specifier","status":"PASS"}]}
