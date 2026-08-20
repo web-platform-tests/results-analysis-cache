@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"`window.top` is null when browsing context container element removed","status":"PASS"},{"name":"`window.top`null when any ancestor browsing context container removed","status":"PASS"}]}
