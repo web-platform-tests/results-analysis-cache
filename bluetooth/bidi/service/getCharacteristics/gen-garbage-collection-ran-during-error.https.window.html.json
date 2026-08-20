@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Garbage Collection ran during getCharacteristics call that fails. Should not crash","status":"TIMEOUT"}]}
