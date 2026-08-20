@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getBoxQuads() works in a same-origin iframe document","status":"FAIL"},{"name":"GeometryUtils converts same-origin iframe content to the outer document","status":"FAIL"}]}
