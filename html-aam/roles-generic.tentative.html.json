@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"el-li-within-generic-within-list-parent","status":"PASS"},{"name":"el-li-orphaned-in-dom-but-owned-by-list-element","status":"PASS"},{"name":"el-li-within-explicit-role-list-parent","status":"PASS"},{"name":"el-li-orphaned","status":"FAIL"},{"name":"el-li-orphaned-within-list-role-none","status":"FAIL"}]}
