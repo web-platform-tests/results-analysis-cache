@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"moveBefore() correctly updates the computed lang for moved nodes","status":"PASS"}]}
