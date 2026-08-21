@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Explicit width + aspect-ratio 2/1, top: 50%","status":"FAIL"},{"name":"Explicit width + aspect-ratio 2/1, bottom: 25%","status":"FAIL"},{"name":"Auto width block + aspect-ratio 2/1, top: 50%","status":"FAIL"},{"name":"No aspect-ratio, auto height, top: 50% does not resolve","status":"PASS"}]}
