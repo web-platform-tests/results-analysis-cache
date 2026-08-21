@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"requestWindow resolves with the PiP window","status":"TIMEOUT"},{"name":"Elements can be moved from opener to PiP document","status":"NOTRUN"},{"name":"PiP document is fully loaded","status":"NOTRUN"},{"name":"requestWindow timing","status":"NOTRUN"}]}
