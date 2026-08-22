@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Permissions policy allow=\"webnn\" allows same-origin navigation in an iframe.","status":"TIMEOUT"},{"name":"Permissions policy allow=\"webnn\" disallows cross-origin navigation in an iframe.","status":"TIMEOUT"}]}
