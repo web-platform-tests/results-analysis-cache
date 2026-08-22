@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"presentational roles conflict - ul[role=none] > li[aria-describedby]","status":"PASS"},{"name":"presentational roles conflict - table[role=none] td[aria-describedby]","status":"PASS"},{"name":"presentational roles conflict - table.with-style[role=none] td[aria-describedby]","status":"PASS"}]}
