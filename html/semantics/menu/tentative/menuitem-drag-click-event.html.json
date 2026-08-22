@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A drag from New to Open dispatches click to Open item.","status":"FAIL"},{"name":"A drag from File to Cut dispatches click to Cut item.","status":"FAIL"},{"name":"A drag gesture within a menulist from one item to another dispatches click event","status":"FAIL"}]}
