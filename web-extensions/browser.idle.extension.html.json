@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"testIdleQueryState","status":"FAIL"},{"name":"testIdleSetDetectionInterval","status":"FAIL"},{"name":"testIdleOnStateChanged","status":"FAIL"},{"name":"testIdleQueryStateErrorCases","status":"PASS"},{"name":"testIdleSetDetectionIntervalErrorCases","status":"PASS"}]}
