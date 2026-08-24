@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Missing type argument","status":"FAIL"},{"name":"the event is an instance of SnapEvent","status":"FAIL"},{"name":"default init dict","status":"FAIL"},{"name":"event constructor type is honored","status":"FAIL"}]}
