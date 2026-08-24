@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Payment Method Manifest fetch fails if Link header is missing","status":"PASS"}]}
