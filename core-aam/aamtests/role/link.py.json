@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_ia2[role-link]","status":"PASS"},{"name":"test_ia2[aria-disabled]","status":"PASS"},{"name":"test_ia2[aria-expanded]","status":"PASS"},{"name":"test_uia[role-link]","status":"PASS"},{"name":"test_uia[aria-disabled]","status":"PASS"},{"name":"test_uia[aria-expanded]","status":"PASS"}]}
