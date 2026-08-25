@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"isSameEntry works as expected with buckets","status":"FAIL"},{"name":"getDirectory promise rejects if bucket has been deleted","status":"FAIL"},{"name":"Bucket quota restricts the size of a file that can be created","status":"FAIL"}]}
