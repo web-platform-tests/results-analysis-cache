@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigation.activation.from must be cleared on cross-origin bfcache restoration when it was previously non-null","status":"PASS"}]}
