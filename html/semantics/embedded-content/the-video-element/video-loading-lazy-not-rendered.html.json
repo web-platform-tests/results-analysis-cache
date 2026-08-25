@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"In-viewport video with loading=lazy and no controls attribute, or display:none or hidden attribute should never load","status":"FAIL"}]}
