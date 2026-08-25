@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Foster parenting inside <template for> keeps content in the target (iframe)","status":"PASS"},{"name":"Foster parenting inside <template for> keeps content in the target (innerHTML)","status":"PASS"},{"name":"Foster parenting inside <template for> keeps content in the target (stream)","status":"PASS"}]}

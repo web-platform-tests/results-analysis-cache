@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"WebMCP registerTool throws on invalid schema","status":"PASS"},{"name":"WebMCP registerTool throws on invalid schema 1","status":"PASS"},{"name":"WebMCP registerTool throws on invalid schema 2","status":"PASS"},{"name":"registerTool rejects on invalid schema even if an aborted signal was provided","status":"PASS"}]}

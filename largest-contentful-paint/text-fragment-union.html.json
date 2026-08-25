@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Text fragment union: wrapped text LCP size reflects the union of all line boxes.","status":"PASS"}]}
