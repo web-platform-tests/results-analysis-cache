@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"modelContext.registerTool rejects with SecurityError when document.domain is enabled","status":"FAIL"},{"name":"modelContext.getTools rejects with SecurityError when document.domain is enabled","status":"FAIL"},{"name":"modelContext.executeTool rejects with SecurityError when document.domain is enabled","status":"FAIL"}]}
