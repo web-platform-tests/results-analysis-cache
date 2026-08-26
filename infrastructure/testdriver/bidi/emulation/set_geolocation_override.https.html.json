@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"emulate geolocation and clear override","status":"PASS"},{"name":"emulate geolocation position unavailable","status":"PASS"},{"name":"cannot set `coordinates` and `error` simultaneously","status":"PASS"}]}
