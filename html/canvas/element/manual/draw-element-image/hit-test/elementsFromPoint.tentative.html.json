@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Pointer-events: none and inert should be excluded from elementsFromPoint","status":"FAIL"},{"name":"CSS transform should be used for hit testing","status":"FAIL"},{"name":"Canvas transform should be used for hit testing","status":"FAIL"}]}
