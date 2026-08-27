@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Subpixel sticky room is preserved at the end of the cover range.","status":"PASS"},{"name":"Subpixel sticky room is preserved at the start of the cover range.","status":"PASS"}]}
