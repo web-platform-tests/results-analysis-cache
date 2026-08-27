@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Focus for web component input type elements should be bound by <form> inside shadow DOM","status":"PASS"}]}
