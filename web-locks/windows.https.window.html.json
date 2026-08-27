@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Closed window with worker holding lock","status":"TIMEOUT"},{"name":"Refreshed window with worker holding lock","status":"NOTRUN"}]}
