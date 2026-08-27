@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"text input: directional navigation TO element works","status":"FAIL"},{"name":"text input: directional navigation FROM element is blocked","status":"PASS"}]}
