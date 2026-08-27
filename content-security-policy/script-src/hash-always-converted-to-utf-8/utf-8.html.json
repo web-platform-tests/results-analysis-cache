@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Should convert the script contents to UTF-8 before hashing - latin micro sign","status":"PASS"},{"name":"Should convert the script contents to UTF-8 before hashing - greek small letter mu","status":"PASS"},{"name":"Should convert the script contents to UTF-8 before hashing - latin capital letter g with breve","status":"PASS"}]}
