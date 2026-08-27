@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Aborting Summarizer.create().","status":"PASS"},{"name":"Aborting Summarizer.summarize()","status":"TIMEOUT"},{"name":"Aborting Summarizer.summarizeStreaming()","status":"NOTRUN"},{"name":"Aborting Summarizer.summarizeStreaming() after finished reading","status":"NOTRUN"}]}
