@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"scrollsnapchange event fires after snap target changes via scrollTo","status":"FAIL"},{"name":"Element.onscrollsnapchange event fires after snap target changes viascrollTo","status":"TIMEOUT"},{"name":"scrollsnapchange is not fired if snap target doesn't change on programmatic scroll","status":"NOTRUN"}]}
