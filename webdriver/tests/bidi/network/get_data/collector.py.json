@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_single_collector","status":"FAIL"},{"name":"test_several_collectors","status":"PASS"}]}
