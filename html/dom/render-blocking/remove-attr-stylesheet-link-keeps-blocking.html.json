@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Rendering is blocked before render-blocking resources are loaded","status":"PASS"},{"name":"Render-blocking stylesheet is applied","status":"PASS"}]}
