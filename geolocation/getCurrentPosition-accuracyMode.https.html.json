@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"getCurrentPosition with accuracyMode: \"approximate\"","status":"NOTRUN"},{"name":"getCurrentPosition with accuracyMode: \"precise\"","status":"NOTRUN"}]}
