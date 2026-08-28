@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"isTypeSupported existence and behavior","status":"FAIL"},{"name":"Legacy attributes existence and validation","status":"FAIL"},{"name":"Invalid type causes fallback/invalid state in legacy mode","status":"FAIL"},{"name":"Standard events and stream attribute are not active in legacy mode","status":"FAIL"}]}
