@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Blob URL created from data URL dedicated worker should have 'null' origin","status":"PASS"},{"name":"Blob URL created from data URL shared worker should have 'null' origin","status":"PASS"}]}
