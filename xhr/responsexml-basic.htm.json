@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XMLHttpRequest: responseXML basic test","status":"PASS"},{"name":"responseXML on empty response documents","status":"PASS"}]}
