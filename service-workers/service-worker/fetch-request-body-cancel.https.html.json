@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Setup worker","status":"FAIL"},{"name":"Service worker cancelling event.request.body should cancel the page's upload stream","status":"TIMEOUT"}]}
