@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"single target","status":"FAIL"},{"name":"multiple targets, should only hit first","status":"FAIL"},{"name":"single target miss","status":"PASS"}]}
