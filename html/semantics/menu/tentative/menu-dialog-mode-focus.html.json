@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"In dialog mode, Tab navigates between interactive children and natively focusable menuitems instead of closing the menu.","status":"FAIL"},{"name":"Dialog mode fallback only applies to the specific menu containing the violation; valid nested menus retain standard keyboard routing.","status":"FAIL"}]}
