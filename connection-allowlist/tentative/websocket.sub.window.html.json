@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-origin WebSocket succeeds.","status":"FAIL"},{"name":"Cross-origin same-site WebSocket (www) is blocked.","status":"PASS"},{"name":"Cross-origin same-site WebSocket (www1) is blocked.","status":"PASS"},{"name":"Cross-site WebSocket is blocked.","status":"PASS"},{"name":"Cross-site WebSocket (www subdomain) is blocked.","status":"PASS"}]}
