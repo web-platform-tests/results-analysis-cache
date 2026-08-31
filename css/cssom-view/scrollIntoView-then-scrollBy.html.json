@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"scrollIntoView() followed by a deferred scrollBy() preserves the scroll correction","status":"FAIL"}]}

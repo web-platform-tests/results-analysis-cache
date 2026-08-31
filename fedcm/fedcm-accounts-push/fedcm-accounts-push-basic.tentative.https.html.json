@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Successfully obtaining token should resolve the promise.","status":"TIMEOUT"}]}
