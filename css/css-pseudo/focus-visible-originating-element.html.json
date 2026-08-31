@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CSS Test: ::before matches when originating element has :focus-visible selector","status":"FAIL"}]}
