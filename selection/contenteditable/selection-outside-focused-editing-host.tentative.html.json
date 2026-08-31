@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"selection-outside-focused-editing-host","status":"PASS"},{"name":"Collapsing selection outside the focused editing host shouldn't cause the blur","status":"PASS"},{"name":"Modifying selection should do nothing","status":"FAIL"}]}

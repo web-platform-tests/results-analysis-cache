@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"dialog.show(): focusing steps should not change focus on disconnected <dialog>","status":"FAIL"},{"name":"dialog.showModal() should throw on disconnected <dialog>","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"close event should be fired asynchronously when WebSocket is connecting","status":"FAIL"}]}
