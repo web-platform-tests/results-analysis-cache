@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"UTF-8 BOM should be stripped when decoding text module script","status":"PASS"},{"name":"UTF-16BE with BOM should be parsed as UTF-8","status":"PASS"},{"name":"UTF-16LE with BOM should be parsed as UTF-8","status":"PASS"}]}
