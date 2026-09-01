@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.devicePixelRatio reflects a BiDi devicePixelRatio override","status":"PASS"},{"name":"resolution media queries reflect a BiDi devicePixelRatio override","status":"PASS"}]}
