@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Cross-origin template src load succeeds when CORS Access-Control-Allow-Origin is present","status":"PASS"},{"name":"Cross-origin template src load fails when CORS Access-Control-Allow-Origin is missing","status":"PASS"}]}
