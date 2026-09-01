@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"FCP and LCP after soft navigation are the same when there is a single text element in the page.","status":"FAIL"}]}
