@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"touch-action was changed","status":"PASS"},{"name":"scroll should be received before the test finishes","status":"PASS"}]}
