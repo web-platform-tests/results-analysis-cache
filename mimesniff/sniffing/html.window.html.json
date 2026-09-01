@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"HTML is not sniffed for a \"feed\": atom","status":"PASS"},{"name":"HTML is not sniffed for a \"feed\": rss","status":"PASS"}]}
