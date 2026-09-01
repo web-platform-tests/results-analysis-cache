@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"menubar: Right navigates to the next item","status":"FAIL"},{"name":"menubar: Left navigates to the previous item","status":"PASS"},{"name":"menubar: Down blocked","status":"PASS"},{"name":"menubar: Up blocked","status":"PASS"},{"name":"menubar: Right wraps at end","status":"PASS"},{"name":"menubar: Left wraps at start","status":"PASS"}]}
