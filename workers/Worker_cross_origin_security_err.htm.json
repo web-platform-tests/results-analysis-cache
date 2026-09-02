@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Cross-origin classic workers should fail to fetch","status":"PASS"},{"name":"Cross-origin module workers should fail to fetch","status":"PASS"}]}
