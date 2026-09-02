@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"referrer-policy(no-referrer) sends no referrer for @import","status":"FAIL"}]}
