@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Delete in empty paragraph shouldn't delete parent body and html elements even if they become empty by Backspace","status":"PASS"},{"name":"Delete in empty paragraph shouldn't delete parent body and html elements even if they become empty by Delete","status":"PASS"}]}
