@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"LNA Service Worker Public to Loopback Background Fetch with permission","status":"PASS"},{"name":"LNA Service Worker Public to Loopback Background Fetch without permission","status":"TIMEOUT"}]}
