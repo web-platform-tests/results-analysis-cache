@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Opening two notifications with the same tag should close the first one","status":"TIMEOUT"},{"name":"Opening two notifications with the same tag should fire close event before show event","status":"NOTRUN"}]}
