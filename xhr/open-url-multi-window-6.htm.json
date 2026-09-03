@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XMLHttpRequest: open() in document that is not fully active (but may be active) should throw","status":"FAIL"}]}
