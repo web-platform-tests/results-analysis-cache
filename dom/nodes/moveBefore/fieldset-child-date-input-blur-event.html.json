@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Neither 'blur' nor 'focusout' is fired on a focused <input type=date> child of HTMLFieldSetElement during moveBefore()","status":"PASS"}]}
