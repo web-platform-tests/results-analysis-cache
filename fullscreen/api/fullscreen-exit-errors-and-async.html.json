@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"requestFullscreen and exitFullscreen return Promises synchronously; state updates happen in parallel","status":"PASS"},{"name":"exitFullscreen: rejects with TypeError when document is not fully active","status":"PASS"}]}
