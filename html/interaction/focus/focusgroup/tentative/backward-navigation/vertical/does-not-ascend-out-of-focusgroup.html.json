@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"When the focus is set on an element in a nested focusgroup that doesn't support the navigation direction, focus should remain on that element and not ascend to the parent focusgroup.","status":"PASS"}]}
