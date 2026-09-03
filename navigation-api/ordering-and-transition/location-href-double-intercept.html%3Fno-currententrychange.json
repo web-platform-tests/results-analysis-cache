@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"event and promise ordering when location.href is set repeatedly and handled by intercept()","status":"PASS"}]}
