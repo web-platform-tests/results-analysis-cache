@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"empty node is blue","status":"FAIL"},{"name":"manually assigning a text node is green, emptying assignment is blue","status":"FAIL"},{"name":"manually assigning a Element is green, emptying assignment is blue","status":"FAIL"}]}
