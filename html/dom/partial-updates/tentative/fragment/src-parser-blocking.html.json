@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"template src fetches and executes scripts asynchronously without blocking the parser","status":"FAIL"}]}
