@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"template position","status":"FAIL"},{"name":"attribute position","status":"PASS"},{"name":"both template and attribute position","status":"FAIL"}]}
