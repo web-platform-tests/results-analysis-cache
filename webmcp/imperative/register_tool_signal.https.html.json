@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"register tool promise rejects with AbortError when signal gets aborted","status":"PASS"},{"name":"register tool promise rejects with error when signal gets aborted","status":"PASS"},{"name":"register tool promise rejects when signal is already aborted","status":"PASS"},{"name":"aborting signal unregister tool","status":"PASS"}]}
