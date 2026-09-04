@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"@private can be inserted into a style rule","status":"FAIL"},{"name":"@private cannot be inserted at the stylesheet top level","status":"PASS"},{"name":"@private cannot be inserted into a top-level @media rule","status":"PASS"},{"name":"@private cannot be inserted into a top-level @supports rule","status":"PASS"}]}
