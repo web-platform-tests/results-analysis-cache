@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Resizing the viewport with a <picture> element shouldn't change img.complete","status":"PASS"}]}
