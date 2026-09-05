@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initially no queries match.","status":"PASS"},{"name":"Style query updates when ancestor zoom and custom property change together (child).","status":"PASS"},{"name":"Style query updates when ancestor zoom and custom property change together (grandchild).","status":"PASS"}]}
