@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"border-radius and corner-shape are NOT reset in computed style when border-shape is specified","status":"FAIL"}]}
