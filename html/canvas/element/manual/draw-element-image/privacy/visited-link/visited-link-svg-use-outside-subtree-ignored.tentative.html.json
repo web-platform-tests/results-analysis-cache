@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"drawElementImage does not leak visited colors in SVG use content from outside the subtree","status":"FAIL"}]}
