@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"rect offsetX/Y is relative to the root svg","status":"PASS"},{"name":"tspan offsetX/Y is relative to the root svg","status":"FAIL"}]}
