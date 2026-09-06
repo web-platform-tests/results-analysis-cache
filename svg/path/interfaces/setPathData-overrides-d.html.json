@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"setPathData() replaces the existing d attribute","status":"FAIL"},{"name":"setPathData() works on a detached path","status":"FAIL"},{"name":"setPathData() with an empty sequence","status":"FAIL"}]}
