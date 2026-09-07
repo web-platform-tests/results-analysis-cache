@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"table visibility:hidden doesn't change table height","status":"PASS"},{"name":"table visibility:hidden doesn't change table width","status":"PASS"},{"name":"hidden and visible cells should have same height","status":"PASS"},{"name":"hidden and visible cells should have same width","status":"PASS"}]}
