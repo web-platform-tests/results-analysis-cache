@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"onerror IDL attribute","status":"FAIL"},{"name":"onerror HTML attribute","status":"PASS"},{"name":"addEventListener error","status":"PASS"}]}
