@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"form element pointer outside a template","status":"PASS"},{"name":"form element pointer inside template contents","status":"PASS"},{"name":"form element pointer outside a template is not used inside its contents","status":"PASS"}]}
