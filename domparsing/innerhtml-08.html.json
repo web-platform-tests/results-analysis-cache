@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"innerHTML on html element with trailing comment","status":"PASS"},{"name":"innerHTML on html element with trailing comment (no explicit head)","status":"PASS"}]}
