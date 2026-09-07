@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"valid target ranges in Element don't throw exceptions","status":"FAIL"},{"name":"InputEvent constructor throws with invalid range in Element","status":"FAIL"},{"name":"valid target ranges in Text don't throw exceptions","status":"FAIL"},{"name":"InputEvent constructor throws with invalid range in Text","status":"FAIL"}]}
