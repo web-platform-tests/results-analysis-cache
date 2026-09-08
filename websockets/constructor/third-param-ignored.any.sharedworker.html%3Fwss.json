@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"a third parameter to the constructor should be ignored","status":"PASS"},{"name":"protocol string should work with ignored third parameter","status":"PASS"},{"name":"protocol sequence should work with ignored third parameter","status":"PASS"}]}
