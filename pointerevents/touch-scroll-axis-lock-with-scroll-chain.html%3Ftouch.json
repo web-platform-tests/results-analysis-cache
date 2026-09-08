@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Vertical-then-horizontal swipe locks to vertical: page scrolls, strip does not","status":"PASS"},{"name":"Horizontal-then-vertical swipe locks to horizontal: strip scrolls, page does not","status":"PASS"}]}
