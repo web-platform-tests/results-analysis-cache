@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Popup from an iframe within a sandboxed iframe does not send hints","status":"PASS"}]}
