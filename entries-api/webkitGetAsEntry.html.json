@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"webkitGetAsEntry() returns null for text items","status":"PASS"},{"name":"webkitGetAsEntry() returns FileSystemFileEntry with correct attributes","status":"PASS"},{"name":"FileSystemFileEntry.file() invokes callback with a File","status":"PASS"}]}
