@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Image with both containertiming and containertimingignore reports its own paint.","status":"FAIL"}]}
