@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"headers of the main script","status":"FAIL"},{"name":"headers of a script imported by a classic script","status":"FAIL"},{"name":"headers of a script imported by a module script","status":"FAIL"}]}
