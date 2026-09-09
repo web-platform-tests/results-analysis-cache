@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that body's rightmargin and bottommargin attributes are ignored in quirks mode","status":"PASS"}]}
