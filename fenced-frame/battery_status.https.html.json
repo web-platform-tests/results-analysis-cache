@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"battery status should not be read in the fenced frame.","status":"FAIL"}]}
