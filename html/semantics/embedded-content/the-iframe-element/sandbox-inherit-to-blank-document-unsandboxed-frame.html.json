@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Popup do not inherit sandbox, because of 'allow-popups-to-escape-sandbox'. The document isn't sandboxed.","status":"PASS"}]}
