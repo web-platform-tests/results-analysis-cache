@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.open into `_current` should create a new browsing context named `_current`","status":"PASS"},{"name":"`_current` and its case variants should be treated as normal, case-sensitive window names","status":"PASS"}]}
