@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_atspi[no-attributes]","status":"PASS"},{"name":"test_atspi[aria-pressed-undefined]","status":"PASS"},{"name":"test_atspi[aria-haspopup-undefined]","status":"PASS"},{"name":"test_atspi[aria-haspopup-false]","status":"FAIL"}]}
