@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check that TextMetrics::getSelectionRects() throws when using invalid indexes.","status":"FAIL"}]}
