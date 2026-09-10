@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Fetch cross-origin no-cors request does not include Available-Dictionary header","status":"PASS"},{"name":"Fetch same-origin no-cors request includes Available-Dictionary header","status":"FAIL"},{"name":"Opaque responses resulting from cross-origin redirects in no-cors mode do not register dictionary","status":"FAIL"}]}
