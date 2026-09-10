@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"cookieStore.set with maxAge set to a positive value","status":"PASS"},{"name":"cookieStore.set with maxAge set to a negative value","status":"FAIL"},{"name":"cookieStore.set with maxAge set to zero, cookie change event not dispatched","status":"FAIL"},{"name":"cookieStore.set fails with both maxAge and expires","status":"FAIL"}]}
