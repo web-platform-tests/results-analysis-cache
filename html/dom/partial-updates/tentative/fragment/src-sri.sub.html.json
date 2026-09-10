@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Template src load succeeds when Subresource Integrity hash matches","status":"PASS"},{"name":"Template src load fails when Subresource Integrity hash mismatches","status":"PASS"}]}
