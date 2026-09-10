@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Anchor click triggering download in fenced frames is blocked.","status":"FAIL"},{"name":"Navigation resulted download in fenced frames is blocked.","status":"FAIL"}]}
