@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"entries() and currentEntry should be set in a new javascript: URL iframe","status":"PASS"}]}
