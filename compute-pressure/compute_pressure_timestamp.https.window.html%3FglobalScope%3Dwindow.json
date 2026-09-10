@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Timestamp from update should be tied to the global object's time origin","status":"PASS"},{"name":"disconnect() should update [[LastRecordMap]]","status":"PASS"}]}
