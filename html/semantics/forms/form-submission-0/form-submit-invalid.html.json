@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Form can be submitted when it contains valid inputs","status":"PASS"},{"name":"Form can't be submitted when it contains invalid inputs","status":"PASS"},{"name":"Form can be submitted when it contains invalid inputs and has novalidate attribute","status":"PASS"}]}
