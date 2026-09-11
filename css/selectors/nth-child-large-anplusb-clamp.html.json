@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"b term (NumberToken path) is clamped to INT_MAX","status":"PASS"},{"name":"a term (DimensionToken path) is clamped to INT_MAX","status":"PASS"},{"name":"b term following an a coefficient is clamped to INT_MAX","status":"PASS"}]}
