@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"pointer lock exits when lock target is disconnected","status":"PASS"}]}
