@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Registration fails without a .well-known","status":"PASS"},{"name":"Registration succeeds with a .well-known","status":"PASS"}]}
