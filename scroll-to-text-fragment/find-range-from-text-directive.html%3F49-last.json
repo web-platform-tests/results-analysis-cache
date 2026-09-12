@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"`start` element contains search-invisible text (iframe).","status":"FAIL"},{"name":"`start` element contains search-invisible text (image).","status":"FAIL"},{"name":"|end| can match after an overlapping rejected candidate.","status":"FAIL"},{"name":"Inline node boundary is not a word boundary.","status":"PASS"}]}
