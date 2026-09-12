@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"relatedTarget on self blur","status":"PASS"},{"name":"relatedTarget for blur when focusing on another element","status":"PASS"}]}
