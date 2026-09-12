@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A retained named-access collection becomes empty when all matches are removed","status":"PASS"},{"name":"A retained named-access collection follows removal of the document element","status":"PASS"}]}
