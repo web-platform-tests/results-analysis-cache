@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SharedWorker served with COOP/COEP headers can use OPFS","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"location.ancestorOrigins returns empty list after iframe is removed and referenced Location's relevant document is null","status":"PASS"},{"name":"location.ancestorOrigins returns empty list when iframe navigated away and referenced Location's relevant document is null","status":"FAIL"}]}
