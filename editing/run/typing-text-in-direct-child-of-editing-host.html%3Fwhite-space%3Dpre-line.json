@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Typing \"a b\"","status":"PASS"},{"name":"Backspace when \"a b[]\"","status":"PASS"},{"name":"Backspace when \"a&nbsp;b[]\"","status":"PASS"},{"name":"Typing multiple white-spaces and type \"Y\"","status":"FAIL"}]}
