@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Customized built-in reparented during synchronous XML parser construction is moved, not double-appended","status":"PASS"},{"name":"Autonomous custom element reparented during synchronous XML parser construction is moved, not double-appended","status":"PASS"}]}
