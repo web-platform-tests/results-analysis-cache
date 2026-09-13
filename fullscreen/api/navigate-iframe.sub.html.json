@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"same_to_cross","status":"TIMEOUT"},{"name":"cross_to_same","status":"NOTRUN"},{"name":"same_to_same","status":"NOTRUN"},{"name":"cross_to_cross","status":"NOTRUN"},{"name":"allowed_cross_to_same","status":"NOTRUN"}]}

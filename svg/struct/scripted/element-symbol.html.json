@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Inheritance chain","status":"PASS"},{"name":"SVGElement inherited properties","status":"PASS"},{"name":"SVGFitToViewBox mixin properties","status":"PASS"},{"name":"SVGTests mixin properties","status":"FAIL"},{"name":"Viewport of children","status":"FAIL"},{"name":"Detached","status":"PASS"}]}
