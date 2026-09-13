@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Ensure scoped view transition elements apply internal size containment during the capture and DOM callback phases","status":"PASS"}]}
