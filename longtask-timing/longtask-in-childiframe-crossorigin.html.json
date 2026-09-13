@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Performance longtask entries in cross-origin child iframe are observable in parent.","status":"PASS"}]}
