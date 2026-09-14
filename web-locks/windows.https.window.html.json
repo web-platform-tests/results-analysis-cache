@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Closed window with worker holding lock","status":"PASS"},{"name":"Refreshed window with worker holding lock","status":"PASS"}]}
