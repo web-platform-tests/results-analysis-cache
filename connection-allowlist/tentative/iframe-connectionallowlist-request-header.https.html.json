@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A valid connectionallowlist value is delivered as the request header.","status":"PASS"},{"name":"A header-injecting connectionallowlist value delivers no header.","status":"PASS"}]}
