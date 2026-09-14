@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getComputedStyle should return the default style, not :hover style","status":"PASS"}]}
