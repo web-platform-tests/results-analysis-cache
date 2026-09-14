@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"@scope with :: in attribute value is not rejected as a pseudo-element","status":"FAIL"}]}

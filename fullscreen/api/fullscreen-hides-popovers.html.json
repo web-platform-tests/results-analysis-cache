@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"fullscreen-an-element: hides open auto popover when fullscreening a non-popover element","status":"FAIL"},{"name":"fullscreen-an-element: hides auto popovers but leaves manual popovers open","status":"FAIL"}]}
