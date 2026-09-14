@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test convertToBlob creates a png image using an appropriate encoding to not lose precision from a srgb-linear float16 canvas","status":"FAIL"},{"name":"Test convertToBlob creates a png image using an appropriate encoding to not lose precision from a display-p3-linear float16 canvas","status":"FAIL"}]}
