@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initialize global state","status":"PASS"},{"name":"HTMLLinkElement rel=compression-dictionary","status":"PASS"},{"name":"HTMLLinkElement rel=compression-dictionary crossorigin=anonymous","status":"PASS"},{"name":"HTMLLinkElement rel=compression-dictionary crossorigin=use-credentials","status":"PASS"}]}
