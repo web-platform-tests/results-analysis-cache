@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Static imports from inline modules in the HTML document","status":"PASS"},{"name":"Dynamic imports from inline modules in the HTML document","status":"PASS"},{"name":"Static imports from external modules","status":"PASS"},{"name":"Dynamic imports from external modules","status":"PASS"}]}
