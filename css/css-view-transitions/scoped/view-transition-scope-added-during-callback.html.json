@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Setting view-transition-scope to auto blocks propagation of name discovery.","status":"PASS"}]}
