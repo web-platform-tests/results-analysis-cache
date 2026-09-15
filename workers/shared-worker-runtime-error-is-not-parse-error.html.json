@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"eval() with syntax error fires at global scope but not at SharedWorker","status":"PASS"},{"name":"JSON.parse() error fires at global scope but not at SharedWorker","status":"PASS"},{"name":"Script parse error dispatches plain Event at SharedWorker","status":"PASS"}]}

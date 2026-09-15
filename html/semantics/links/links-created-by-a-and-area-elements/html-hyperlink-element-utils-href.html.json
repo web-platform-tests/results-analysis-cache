@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"setting href IDL attribute also resets protocol on URLs with non-relative flag set","status":"PASS"},{"name":"setting href content attribute also resets protocol on URLs with non-relative flag set","status":"PASS"}]}
