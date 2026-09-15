@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"querySelector throws SyntaxError for comment-like selector","status":"PASS"},{"name":"querySelectorAll throws SyntaxError for comment-like selector","status":"PASS"},{"name":"matches throws SyntaxError for comment-like selector","status":"PASS"}]}
