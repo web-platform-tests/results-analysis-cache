@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Send and receive messages using a same origin iframe.","status":"TIMEOUT"},{"name":"Send and receive messages using a sandboxed same origin iframe.","status":"NOTRUN"},{"name":"Send and receive messages using a blob iframe.","status":"NOTRUN"},{"name":"Send and receive messages using an iframe srcdoc.","status":"NOTRUN"}]}
