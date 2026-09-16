@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"DOMStringList: length attribute","status":"PASS"},{"name":"DOMStringList: item() method","status":"PASS"},{"name":"DOMStringList: indexed getter","status":"TIMEOUT"},{"name":"DOMStringList: contains() method","status":"NOTRUN"}]}
