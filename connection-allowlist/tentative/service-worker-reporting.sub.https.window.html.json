@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Report sent in report-only mode","status":"PASS"},{"name":"Report sent in enforcement mode.","status":"FAIL"},{"name":"service-worker-reporting","status":"TIMEOUT"}]}
