@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"acquire pointer lock and scroll when the cursor is not on locked element","status":"FAIL"},{"name":"wheel event is dispatched but scroll is prevented when locked element calls preventDefault","status":"PASS"}]}
