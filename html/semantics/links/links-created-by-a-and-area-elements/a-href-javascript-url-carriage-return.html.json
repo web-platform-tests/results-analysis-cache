@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"a.href with CR entity after scheme","status":"PASS"},{"name":"a.getAttribute('href') with CR entity after scheme","status":"PASS"},{"name":"a.href with CR entity within scheme","status":"PASS"},{"name":"a.getAttribute('href') with CR entity within scheme","status":"PASS"}]}
