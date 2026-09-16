@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"flood-color currentColor animation resolves to unvisited link color","status":"FAIL"},{"name":"lighting-color currentColor animation resolves to unvisited link color","status":"FAIL"},{"name":"stop-color currentColor animation resolves to unvisited link color","status":"FAIL"}]}
