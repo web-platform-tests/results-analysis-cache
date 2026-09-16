@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Body element has the initial value for pointerEvents","status":"PASS"},{"name":"Parent element returns the directly specified value for pointerEvents","status":"PASS"},{"name":"Child element inherits the pointerEvents value from its parent","status":"PASS"}]}
