@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Javascript importing JSON Module should load within the context of a service worker","status":"TIMEOUT"},{"name":"Trying to register a service worker with a top-level JSON Module should fail","status":"NOTRUN"},{"name":"JSON Module dynamic import should not load within the context of a service worker","status":"NOTRUN"}]}
