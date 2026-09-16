@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"div::selection does not inherit custom properties from the highlight parent","status":"PASS"},{"name":"--background-color has no computed value on div::selection","status":"PASS"}]}
