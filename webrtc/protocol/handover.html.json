@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Negotiation of handover initiated at caller works","status":"FAIL"},{"name":"Negotiation of handover initiated at callee works","status":"FAIL"}]}
