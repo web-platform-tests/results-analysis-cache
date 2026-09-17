@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getBoundingClientRect returns a zero rect for a range crossing a shadow boundary","status":"PASS"},{"name":"ranges entirely inside a shadow tree return client rects","status":"PASS"},{"name":"ranges in a detached tree return empty rects","status":"PASS"},{"name":"a collapsed range at a text node returns client rects","status":"FAIL"}]}
