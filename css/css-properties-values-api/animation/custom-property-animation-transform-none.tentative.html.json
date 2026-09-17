@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Animating a custom property of type \"<transform-list>|none\" from \"none\" to <transform-list> value","status":"FAIL"},{"name":"Animating a custom property of type \"<transform-function>|none\" from \"none\" to <transform-function> value","status":"FAIL"}]}
