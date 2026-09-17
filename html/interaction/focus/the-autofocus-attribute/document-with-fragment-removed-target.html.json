@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Autofocus should be skipped when the target element has been removed from the document.","status":"FAIL"}]}

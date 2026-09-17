@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"shadowRootAdoptedStyleSheets is exposed as a configurable, enumerable accessor on HTMLTemplateElement.prototype.","status":"FAIL"}]}
