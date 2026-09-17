@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Send and receive messages using a same origin window.","status":"PASS"},{"name":"Send and receive messages using a blob window.","status":"TIMEOUT"},{"name":"Send and receive messages using a sandboxed same origin window.","status":"NOTRUN"}]}
