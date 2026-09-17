@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Permissions grants are observable across same-origin iframes","status":"FAIL"},{"name":"Permissions grants are observable across same-site iframes","status":"FAIL"},{"name":"IFrame tests","status":"FAIL"}]}
