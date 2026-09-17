@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Popover with own focusgroup is excluded from ancestor arrow navigation","status":"FAIL"},{"name":"Inner focusgroup on a shown popover operates independently","status":"FAIL"},{"name":"Focusable top-layer element with own focusgroup is not an outer entry","status":"FAIL"}]}
