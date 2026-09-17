@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Signals are not stored in the cache API","status":"TIMEOUT"},{"name":"Signals are not stored in the cache API, even if they're already aborted","status":"NOTRUN"}]}
