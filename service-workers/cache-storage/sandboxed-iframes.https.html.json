@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Sandboxed iframe with allow-same-origin is allowed access","status":"TIMEOUT"},{"name":"Sandboxed iframe without allow-same-origin is denied access","status":"NOTRUN"}]}

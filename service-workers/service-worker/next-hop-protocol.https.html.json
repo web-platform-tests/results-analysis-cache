@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"nextHopProtocol reports H1 correctly when routed via a service worker.","status":"TIMEOUT"},{"name":"nextHopProtocol reports H2 correctly when routed via a service worker.","status":"NOTRUN"}]}
