@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"querySelector matches nodes inserted by innerHTML","status":"PASS"}]}
