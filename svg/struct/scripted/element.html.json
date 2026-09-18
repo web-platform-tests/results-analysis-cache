@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Inheritance","status":"PASS"},{"name":"style data attribute","status":"PASS"},{"name":"style IDL attribute","status":"PASS"},{"name":"event handler data attribute","status":"PASS"},{"name":"dataset attribute","status":"PASS"},{"name":"blur()/focus()/tabIndex operations/attribute","status":"PASS"}]}
