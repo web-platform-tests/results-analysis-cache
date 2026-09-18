@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Tool title is preserved when provided","status":"FAIL"},{"name":"Missing tool title in registration is exposed as empty string","status":"FAIL"},{"name":"Tool title with unpaired surrogate is fixed up by USVString","status":"FAIL"}]}
