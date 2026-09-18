@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"onstream IDL attribute","status":"FAIL"},{"name":"onstream HTML attribute","status":"FAIL"},{"name":"addEventListener stream","status":"PASS"}]}
