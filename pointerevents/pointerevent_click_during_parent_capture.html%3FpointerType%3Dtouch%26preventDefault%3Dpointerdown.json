@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test in the topmost document","status":"FAIL"},{"name":"Test in the iframe","status":"FAIL"}]}

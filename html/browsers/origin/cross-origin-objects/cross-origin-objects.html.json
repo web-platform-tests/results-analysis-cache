@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Basic sanity-checking (cross-origin)","status":"PASS"},{"name":"Basic sanity-checking (same-origin + document.domain)","status":"PASS"},{"name":"Basic sanity-checking (cross-site)","status":"PASS"}]}
