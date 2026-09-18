@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Replacing an attribute prefix preserves name lookup order with namespacedFirst=false","status":"FAIL"},{"name":"Replacing an attribute prefix preserves name lookup order with namespacedFirst=true","status":"FAIL"},{"name":"Replacing an attribute prefix preserves other attributes with the old qualified name","status":"FAIL"}]}
