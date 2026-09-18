@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Event Timing: check first-input for a PerformanceObserver observing only first-input.","status":"PASS"}]}
