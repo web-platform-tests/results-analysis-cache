@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"control: the SMIL clock samples under setCurrentTime","status":"FAIL"},{"name":"control: an unanimated inline path does not move with the clock","status":"FAIL"},{"name":"SMIL reaches the path attribute","status":"FAIL"},{"name":"the path attribute interpolates rather than switching","status":"FAIL"}]}
