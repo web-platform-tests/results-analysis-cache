@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"a third parameter to the constructor should be ignored","status":"TIMEOUT"},{"name":"protocol string should work with ignored third parameter","status":"NOTRUN"},{"name":"protocol sequence should work with ignored third parameter","status":"NOTRUN"}]}
