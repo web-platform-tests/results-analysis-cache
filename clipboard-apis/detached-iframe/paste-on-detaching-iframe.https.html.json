@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Detaching an iframe during its paste event must not crash","status":"PASS"}]}
