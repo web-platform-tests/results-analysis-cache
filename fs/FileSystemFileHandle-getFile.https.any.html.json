@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"getFile() provides a file that can be sliced","status":"FAIL"},{"name":"getFile() returns last modified time","status":"TIMEOUT"},{"name":"getFile() returns expected name","status":"NOTRUN"}]}
