@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Assigning to disconnected slot after connected slot should not crash and should trigger slotchange on previous slot","status":"FAIL"}]}
