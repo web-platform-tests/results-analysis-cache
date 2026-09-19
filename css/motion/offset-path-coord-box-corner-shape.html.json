@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"offset-path: border-box follows beveled corners","status":"PASS"},{"name":"offset-path: border-box follows square corners","status":"PASS"},{"name":"offset-path: border-box follows one beveled corner","status":"PASS"},{"name":"offset-path: border-box follows scooped corners","status":"PASS"}]}
