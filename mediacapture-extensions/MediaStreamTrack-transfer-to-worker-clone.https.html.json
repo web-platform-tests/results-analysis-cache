@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A clone made in the worker survives stopping the transferred track","status":"FAIL"},{"name":"A track transferred again to a nested worker survives stopping the intermediate track","status":"FAIL"}]}

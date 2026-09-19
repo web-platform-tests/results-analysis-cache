@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Cycle between revert-rule !important and revert-layer resolves to unset instead of lower layers","status":"FAIL"},{"name":"Multi-layer chain cycle with revert-rule !important resolves to unset instead of lower layers","status":"FAIL"}]}
