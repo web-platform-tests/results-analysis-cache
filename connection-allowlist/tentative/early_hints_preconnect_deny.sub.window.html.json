@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Early Hints preconnect to a not-allow-listed URL fails.","status":"FAIL"}]}
