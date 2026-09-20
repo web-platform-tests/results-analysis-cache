@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"[triangular] TypeError is expected if input's rank is less than 2","status":"FAIL"}]}
