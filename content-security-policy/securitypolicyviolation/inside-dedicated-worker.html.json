@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"No SecurityPolicyViolation event fired for successful load.","status":"FAIL"},{"name":"SecurityPolicyViolation event fired on global.","status":"TIMEOUT"},{"name":"SecurityPolicyViolation event fired on global with the correct blockedURI.","status":"TIMEOUT"}]}
