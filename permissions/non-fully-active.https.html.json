@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Trying to query() a non-fully active document rejects with a InvalidStateError","status":"PASS"},{"name":"Permission change events shouldn't fire on non-fully active document","status":"PASS"}]}
