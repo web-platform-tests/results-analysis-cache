@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"td.cellIndex should return -1 when the td is not inside a tr","status":"PASS"},{"name":"td.headers should return an empty DOMTokenList when the td is not inside a tr","status":"FAIL"},{"name":"tr.sectionRowIndex should return -1 when the tr is not inside a parent","status":"PASS"}]}
