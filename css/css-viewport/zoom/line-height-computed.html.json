@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"element with px line-height","status":"PASS"},{"name":"element with percentage line-height","status":"PASS"},{"name":"parent with px line-height","status":"PASS"},{"name":"parent with percentage line-height","status":"PASS"},{"name":"root with px line-height","status":"PASS"},{"name":"root with percentage line-height","status":"PASS"}]}
