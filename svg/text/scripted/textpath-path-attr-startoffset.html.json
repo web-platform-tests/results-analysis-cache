@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"control: startOffset moves the text along the inline path","status":"FAIL"},{"name":"a percentage startOffset resolves the same way on inline path data as on href","status":"FAIL"},{"name":"25% of the inline path equals the 90 user units it measures","status":"FAIL"}]}

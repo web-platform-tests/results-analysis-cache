@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"preventDefault() in a pointerdown listener on the link does not suppress the prefetch","status":"FAIL"},{"name":"preventDefault() and stopImmediatePropagation() in a capturing window listener do not suppress the prefetch","status":"FAIL"}]}
