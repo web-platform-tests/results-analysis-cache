@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Create Worker via ScriptTestUrl","status":"PASS"},{"name":"Block Worker creation via string","status":"PASS"},{"name":"Create Worker via string with default policy.","status":"PASS"}]}
