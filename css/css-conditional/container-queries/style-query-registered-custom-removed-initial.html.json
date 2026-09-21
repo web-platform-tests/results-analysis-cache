@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Query matching initial value of registered property","status":"PASS"},{"name":"Query no longer matching initial value after @property rule is removed","status":"PASS"}]}
