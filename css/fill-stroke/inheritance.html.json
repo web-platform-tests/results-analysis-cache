@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property text-decoration-fill has initial value match-text","status":"FAIL"},{"name":"Property text-decoration-fill does not inherit","status":"FAIL"},{"name":"Property text-decoration-stroke has initial value match-text","status":"FAIL"},{"name":"Property text-decoration-stroke does not inherit","status":"FAIL"}]}
