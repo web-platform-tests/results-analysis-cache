@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Garbage-collecting a stream along with its reader should not crash","status":"PASS"},{"name":"Garbage-collecting a stream with a pending read should not crash","status":"PASS"},{"name":"Garbage-collecting a stream with a pending BYOB read should not crash","status":"PASS"}]}
