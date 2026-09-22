@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"noscript child should be text node.","status":"PASS"},{"name":"noscript contents are escaped when serialized in a template","status":"FAIL"},{"name":"noscript child should be unreachable","status":"PASS"}]}

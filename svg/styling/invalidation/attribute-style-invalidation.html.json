@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Changing an SVG length through baseVal updates attribute selector matching","status":"FAIL"},{"name":"An attribute change updates attr() after a pending inline style change","status":"PASS"}]}
