@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Custom element constructor moves the intended parent into a template element's contents","status":"PASS"}]}
