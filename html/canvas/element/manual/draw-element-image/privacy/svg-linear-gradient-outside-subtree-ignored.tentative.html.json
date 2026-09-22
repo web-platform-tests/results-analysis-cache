@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"drawElementImage does not use SVG resources from outside the subtree","status":"FAIL"}]}
