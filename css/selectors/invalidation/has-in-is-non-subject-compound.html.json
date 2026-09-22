@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"initial: #subject is grey","status":"PASS"},{"name":"insert .test under #trigger: #subject becomes red","status":"FAIL"},{"name":"remove .test: #subject returns to grey","status":"PASS"}]}
