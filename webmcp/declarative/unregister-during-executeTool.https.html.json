@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Pending executeTool() Promise resolves successfully when target declarative tool is unregistered via DOM removal","status":"PASS"},{"name":"Pending executeTool() Promise resolves successfully when target declarative tool is unregistered via attribute removal","status":"PASS"}]}
