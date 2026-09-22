@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"iframe expecting name from 2 aria-labelledby refs","status":"PASS"},{"name":"iframe expecting name from 1 aria-labelledby ref","status":"PASS"},{"name":"iframe expecting name from aria-label","status":"PASS"},{"name":"iframe expecting name from title","status":"PASS"},{"name":"iframe expecting name to be empty","status":"PASS"}]}
