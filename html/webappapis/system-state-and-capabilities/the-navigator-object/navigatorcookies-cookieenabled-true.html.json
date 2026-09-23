@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.cookieEnabled is true when cookies are enabled","status":"PASS"}]}
