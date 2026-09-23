@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"DataTransferItemList.clear() is a no-op in the protected and read-only modes","status":"FAIL"}]}
