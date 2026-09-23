@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Spelling marker on a range resolves","status":"PASS"},{"name":"Grammar marker on a range resolves","status":"PASS"},{"name":"Marker in a text control resolves","status":"PASS"},{"name":"Reversed range rejects","status":"PASS"},{"name":"Range beyond the text rejects","status":"PASS"},{"name":"clear_text_markers resolves","status":"PASS"}]}
