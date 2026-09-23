@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"control: the three declared members are on the prototype","status":"FAIL"},{"name":"path is not reflected on SVGTextPathElement","status":"FAIL"},{"name":"path round-trips through getAttribute and setAttribute unchanged","status":"PASS"}]}

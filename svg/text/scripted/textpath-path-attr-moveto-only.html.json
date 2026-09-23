@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"control: with no path attribute the text is on the href geometry","status":"FAIL"},{"name":"control: an empty path value does fall back, so the fallback works here","status":"FAIL"},{"name":"a lone moveto does not fall back to href","status":"FAIL"}]}
