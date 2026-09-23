@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Multiple Summarizer.summarize() calls with identical inputs are resolved successfully","status":"FAIL"},{"name":"Multiple Summarizer.summarize() calls with divergent inputs are resolved successfully","status":"FAIL"}]}
