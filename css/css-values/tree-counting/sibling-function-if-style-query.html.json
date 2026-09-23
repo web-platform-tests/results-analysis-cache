@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"sibling-index() in an if() style() comparison","status":"FAIL"},{"name":"sibling-index() inside mod() in an if() style() comparison","status":"FAIL"},{"name":"sibling-index() compared against a registered custom property","status":"FAIL"},{"name":"sibling-count() in an if() style() comparison","status":"FAIL"}]}
