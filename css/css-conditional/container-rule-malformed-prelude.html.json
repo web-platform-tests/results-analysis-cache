@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"@container with invalid prelude is dropped without throwing","status":"PASS"}]}
