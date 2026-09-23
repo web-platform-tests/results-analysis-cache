@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":":scope child selector on element with colon-prefixed class","status":"PASS"},{"name":":scope selector on element with colon-prefixed ID","status":"PASS"}]}
