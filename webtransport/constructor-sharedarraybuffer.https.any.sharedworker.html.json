@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"WebTransport constructor should reject serverCertificateHashes value of type 'SharedArrayBuffer'","status":"PASS"},{"name":"WebTransport constructor should reject serverCertificateHashes value of type 'Uint8Array(SharedArrayBuffer)'","status":"PASS"}]}
