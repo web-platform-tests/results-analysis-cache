@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"executeTool() rejects with TypeError when the required 'origin' dictionary member is omitted","status":"FAIL"},{"name":"executeTool() rejects with TypeError for invalid JSON arguments","status":"FAIL"},{"name":"executeTool() rejects with UnknownError when a non-existent tool object is supplied","status":"FAIL"}]}
