@@ -1,0 +1,1 @@
+{"status":"CRASH","subtests":[{"name":"test_max_width","status":"FAIL"},{"name":"test_max_height","status":"ERROR"},{"name":"test_max_width_and_height","status":"ERROR"},{"name":"test_with_clip","status":"ERROR"},{"name":"test_does_not_upscale","status":"ERROR"}]}
