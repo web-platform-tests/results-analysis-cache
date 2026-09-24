@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Stopping the original track does not end a transferred clone","status":"FAIL"},{"name":"Destroying the capturing context ends a transferred track","status":"FAIL"}]}
