@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"UserMedia element is not focusable by script and does not autofocus in dialog without user activation","status":"FAIL"},{"name":"UserMedia element and dialog autofocus are allowed with user activation","status":"FAIL"}]}
