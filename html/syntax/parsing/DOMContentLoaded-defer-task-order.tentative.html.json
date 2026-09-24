@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"DOMContentLoaded fires before a task queued from a defer script","status":"PASS"}]}
