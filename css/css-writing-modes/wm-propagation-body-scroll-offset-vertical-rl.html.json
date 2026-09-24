@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check initial scroll position of viewport.","status":"PASS"},{"name":"Scroll to scrollLeft = -1000 should be possible.","status":"FAIL"},{"name":"Scroll to scrollLeft = 1000 should not be possible.","status":"FAIL"}]}
