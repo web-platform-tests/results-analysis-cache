@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Ancestor :hover invalidates a descendant slotted into a shadow tree","status":"PASS"}]}
