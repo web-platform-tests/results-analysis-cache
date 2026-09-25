@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getClientRects should return non-empty rectangles for nested text nodes","status":"PASS"}]}
