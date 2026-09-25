@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Revoking clipboard-read does not invalidate an already-resolved ClipboardItem representation","status":"FAIL"}]}
