@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"div:nth-child(2) should select #first when preceded by a style inside shadow root","status":"PASS"}]}
