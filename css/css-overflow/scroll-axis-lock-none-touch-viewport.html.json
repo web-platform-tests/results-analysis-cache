@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"scroll-axis-lock: none on scrollingElement allows free diagonal touch scroll of the viewport even with steep angle (no railing to X)","status":"TIMEOUT"},{"name":"scroll-axis-lock: none on scrollingElement allows free diagonal touch scroll of the viewport even with steep angle (no railing to Y)","status":"NOTRUN"}]}
