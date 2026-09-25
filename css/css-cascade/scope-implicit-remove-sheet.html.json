@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Implicit @scope rule initially matches","status":"PASS"},{"name":"@scope rule no longer matches after sheet removal","status":"PASS"}]}

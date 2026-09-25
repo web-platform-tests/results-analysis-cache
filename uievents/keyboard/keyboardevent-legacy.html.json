@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"KeyboardEvent constructor should initialize legacy keyCode and charCode","status":"PASS"}]}
