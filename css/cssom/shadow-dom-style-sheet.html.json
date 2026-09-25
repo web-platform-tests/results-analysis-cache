@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Style element in shadow root has a CSSStyleSheet","status":"PASS"},{"name":"insertRule() works on a style element's sheet inside a shadow root","status":"PASS"},{"name":"insertRule() and deleteRule() work on a pre-populated shadow root stylesheet","status":"PASS"}]}
