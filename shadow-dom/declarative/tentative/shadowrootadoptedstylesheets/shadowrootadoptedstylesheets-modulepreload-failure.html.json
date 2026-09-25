@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Failed modulepreload (404) results in empty sheet for shadowrootadoptedstylesheets.","status":"FAIL"},{"name":"Mixed valid/invalid modulepreloads: valid ones work, failed ones leave empty sheets.","status":"FAIL"}]}
