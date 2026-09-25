@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Basic properties","status":"FAIL"},{"name":"Setting baseStr","status":"FAIL"},{"name":"Setting baseStr of an element declared via HTML","status":"FAIL"}]}
