@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"background + another property","status":"PASS"},{"name":"background with var()","status":"PASS"},{"name":"border with var()","status":"PASS"},{"name":"background alone then add another property and value","status":"PASS"},{"name":"putting background last","status":"PASS"}]}
