@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Resetting the canvas state does not invalidate any existing gradients","status":"NOTRUN"}]}
