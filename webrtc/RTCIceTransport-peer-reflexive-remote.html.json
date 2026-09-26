@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getSelectedCandidatePair() hides the address of a peer-reflexive remote candidate","status":"FAIL"},{"name":"remote-candidate stats do not expose the address of a peer-reflexive candidate","status":"PASS"}]}
