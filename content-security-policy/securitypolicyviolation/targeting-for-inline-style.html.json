@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"targeting-for-inline-style","status":"PASS"},{"name":"assert_equals(e.blockedURI, \"inline\")","status":"PASS"},{"name":"assert_equals(e.lineNumber, 20)","status":"FAIL"},{"name":"assert_in_array(e.columnNumber, [1, 20])","status":"FAIL"},{"name":"assert_equals(e.target, document.getElementById(\"target\"))","status":"PASS"}]}
