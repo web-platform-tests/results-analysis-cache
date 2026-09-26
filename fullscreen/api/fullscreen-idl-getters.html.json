@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IDL getters return null/false when not fullscreen","status":"PASS"},{"name":"IDL getters reflect fullscreen state through enter and exit","status":"PASS"},{"name":"simple fullscreen document: top layer has exactly one fullscreen element while entered","status":"PASS"}]}
