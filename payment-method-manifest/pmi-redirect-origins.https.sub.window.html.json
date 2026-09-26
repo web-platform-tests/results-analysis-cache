@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-site cross-origin redirects on initial HEAD request are permitted","status":"FAIL"},{"name":"Cross-site redirects on initial HEAD request are prohibited and abort fetch","status":"FAIL"}]}
