@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"HTTP 204 No Content response on initial PMI HEAD request succeeds","status":"PASS"},{"name":"HTTP 404 response on initial PMI HEAD request aborts manifest fetching","status":"PASS"},{"name":"HTTP 500 response on initial PMI HEAD request aborts manifest fetching","status":"PASS"}]}
