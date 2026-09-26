@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Custom element constructor moves the intended parent into its own shadow root","status":"PASS"}]}
