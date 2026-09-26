@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Module script with syntax error should not report error when scripting is disabled","status":"PASS"}]}
