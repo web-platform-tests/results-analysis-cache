@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Targets in a document that its iframe has navigated away from","status":"FAIL"},{"name":"Targets in a nested iframe whose parent document is no longer fully active","status":"FAIL"},{"name":"Targets in a nested iframe whose parent iframe was removed","status":"FAIL"}]}
