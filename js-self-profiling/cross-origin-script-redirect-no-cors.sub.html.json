@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"no-cors cross-origin script redirected from same-origin is not observable","status":"TIMEOUT"}]}
