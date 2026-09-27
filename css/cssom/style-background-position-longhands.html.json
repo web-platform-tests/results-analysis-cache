@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"background-position sets background-position-x and background-position-y","status":"PASS"},{"name":"background-position-x and background-position-y set background-position","status":"PASS"},{"name":"background sets background-position-x and background-position-y","status":"PASS"}]}
