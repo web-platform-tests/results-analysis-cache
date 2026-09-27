@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"[title=''] matches element with empty title attribute","status":"PASS"},{"name":"Compound [title][title=''] matches element with empty title attribute","status":"PASS"}]}
