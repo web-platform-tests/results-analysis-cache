@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Summarizer.summarize() with speed preference and empty input returns empty text","status":"FAIL"},{"name":"Simple Summarizer.summarize() call with speed preference","status":"FAIL"},{"name":"Calling Summarizer.destroy() on speed preference session aborts calls to summarize and measureInputUsage","status":"FAIL"}]}
