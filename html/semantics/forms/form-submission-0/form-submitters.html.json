@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Form is submitted by submit buttons","status":"PASS"},{"name":"Form is not submitted by other button types","status":"PASS"},{"name":"Form is submitted by submit inputs","status":"PASS"},{"name":"Form is submitted by image inputs","status":"PASS"},{"name":"Form is not submitted by other input types","status":"PASS"}]}
