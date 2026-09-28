@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"nested blob: dedicated worker should inherit js-profiling policy transitively from creator document","status":"PASS"}]}
