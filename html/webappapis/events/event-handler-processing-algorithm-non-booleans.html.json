@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"returning undefined from a click inline event handler does nothing","status":"PASS"}]}
