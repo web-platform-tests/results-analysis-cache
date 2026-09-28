@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"When navigating the Refresh header needs to be followed","status":"PASS"},{"name":"When there's both a Refresh header and <meta> the Refresh header wins","status":"PASS"}]}
