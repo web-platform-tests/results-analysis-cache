@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"executeTool() aborts target signal when the invoker document (same-origin) navigates away","status":"PASS"},{"name":"executeTool() aborts target signal when the invoker document (cross-origin) navigates away","status":"PASS"}]}
