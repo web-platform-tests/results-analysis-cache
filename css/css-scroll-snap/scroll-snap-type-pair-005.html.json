@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Dispatches scrollsnapchange with the single dual-axis target under scroll-snap-type: pair","status":"PASS"}]}
