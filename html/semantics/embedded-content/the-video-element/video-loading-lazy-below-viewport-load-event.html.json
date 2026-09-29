@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"loading-before-src has not fetched anything when the load event fires","status":"FAIL"},{"name":"src-before-loading has not fetched anything when the load event fires","status":"FAIL"},{"name":"src-before-loading-scripted has not fetched anything when the load event fires","status":"FAIL"}]}
