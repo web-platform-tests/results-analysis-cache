@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getBoxQuads() updates a dirty embedding document","status":"FAIL"},{"name":"getBoxQuads() updates a dirty display-locked subtree","status":"FAIL"},{"name":"getBoxQuads() immediately after a transform style update","status":"FAIL"},{"name":"getBoxQuads() updates unrelated display-locked endpoints","status":"FAIL"}]}
