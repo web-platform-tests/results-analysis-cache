@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Range.getClientRects should correct indexing into trailing surrogates","status":"FAIL"}]}
