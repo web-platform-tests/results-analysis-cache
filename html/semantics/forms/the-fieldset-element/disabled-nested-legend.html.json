@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Inner fieldset's legend doesn't shield from an outer disabled fieldset","status":"FAIL"},{"name":"Descendants of the first legend aren't disabled","status":"PASS"},{"name":"fieldset.elements includes controls inside legend","status":"PASS"},{"name":"Changing the first legend updates the disabled state","status":"FAIL"}]}
