@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Testing location href of iframe with input src: null","status":"PASS"},{"name":"Testing location href of iframe with input src: about:blank","status":"PASS"},{"name":"Testing location href of iframe with input src: ","status":"PASS"},{"name":"Testing location href of iframe with input src: http://:80/invalid-url","status":"PASS"}]}
