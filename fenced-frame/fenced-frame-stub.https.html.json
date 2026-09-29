@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Fenced frame elements and config should behave as layout-preserving stubs","status":"PASS"},{"name":"window.fence and Fence should behave as stubs","status":"PASS"}]}
