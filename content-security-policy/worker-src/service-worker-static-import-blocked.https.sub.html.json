@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Cross-origin service worker static import blocked by worker-src 'self'.","status":"FAIL"},{"name":"Cross-origin service worker static import blocked by worker-src 'self' triggers CSP violation.","status":"FAIL"}]}
