@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A cached approximate position is not reused for a precise request","status":"FAIL"},{"name":"A cached precise position is not reused for an approximate request","status":"FAIL"}]}
