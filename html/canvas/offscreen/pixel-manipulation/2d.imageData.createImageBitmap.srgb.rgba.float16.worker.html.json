@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify round-trip of 16-bit float sRGB data ImageData through ImageBitmap","status":"FAIL"}]}
