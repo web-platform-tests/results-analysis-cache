@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Detaching iframe while running prompt() should not cause memory leak","status":"FAIL"}]}
