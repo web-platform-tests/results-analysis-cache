@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"toolactivated is not dispatched when filling out a declarative tool form detaches the tool document","status":"PASS"}]}
