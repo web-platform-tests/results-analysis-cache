@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"iframe is restored to JS-navigated URL when container traverses back","status":"TIMEOUT"},{"name":"iframe is not restored to JS-navigated URL when container is reloaded","status":"NOTRUN"}]}
