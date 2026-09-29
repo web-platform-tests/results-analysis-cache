@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"drawElementImage does not use cross-origin feImages on nested filtered SVG content inside masks","status":"FAIL"}]}
