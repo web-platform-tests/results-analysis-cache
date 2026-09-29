@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.credentials.get() from a top-level opaque origin rejects with SecurityError","status":"FAIL"}]}
