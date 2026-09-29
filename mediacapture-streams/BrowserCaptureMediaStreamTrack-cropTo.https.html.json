@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Tests that cropping MediaStreamTrack objects works as expected","status":"PASS"},{"name":"Tests that cropping cloned MediaStreamTrack objects works independently","status":"PASS"},{"name":"Tests that cloning cropped tracks preserves target and allows independent cropTo","status":"PASS"}]}
