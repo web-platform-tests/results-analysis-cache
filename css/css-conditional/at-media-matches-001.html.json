@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"\"@media all\" always matches","status":"FAIL"},{"name":"\"@media not all\" never matches","status":"FAIL"}]}
