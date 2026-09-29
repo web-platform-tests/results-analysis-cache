@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A select rendering as a dropdown box has a ::picker(select).","status":"FAIL"},{"name":"A select rendering as a list box because of size has no ::picker(select).","status":"PASS"},{"name":"A select rendering as a list box because of multiple has no ::picker(select).","status":"PASS"}]}
