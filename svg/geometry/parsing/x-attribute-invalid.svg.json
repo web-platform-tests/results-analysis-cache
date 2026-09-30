@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"x=\"auto\" should be an invalid attribute value (ignored)","status":"FAIL"},{"name":"x=\"none\" should be an invalid attribute value (ignored)","status":"FAIL"},{"name":"x=\"10px 20px\" should be an invalid attribute value (ignored)","status":"FAIL"},{"name":"x=\"garbage\" should be an invalid attribute value (ignored)","status":"FAIL"}]}

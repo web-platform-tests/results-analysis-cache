@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"can detect same-origin iframe events in parent","status":"TIMEOUT"},{"name":"can detect same-origin iframe events in subframe","status":"NOTRUN"}]}
