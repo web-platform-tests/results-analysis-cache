@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Non-HTTPS web app manifest URL in default_applications is not fetched","status":"FAIL"},{"name":"Non-HTTPS URL in default_applications fails entire manifest validation without fetching valid HTTPS web app manifest","status":"FAIL"}]}
