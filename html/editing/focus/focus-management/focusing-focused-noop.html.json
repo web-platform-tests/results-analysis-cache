@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"focusing a focused element does not dispatch focus events","status":"PASS"}]}
