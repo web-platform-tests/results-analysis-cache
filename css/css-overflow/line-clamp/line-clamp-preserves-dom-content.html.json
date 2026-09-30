@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"line-clamp preserves the complete textContent","status":"PASS"},{"name":"line-clamp preserves elements beyond the clamp boundary","status":"PASS"}]}
