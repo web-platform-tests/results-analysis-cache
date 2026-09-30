@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"matches with ancestor ID and descendant type selector","status":"PASS"},{"name":"matches returns false for non-matching ID selector","status":"PASS"},{"name":"matches with :not() pseudo-class","status":"PASS"},{"name":"matches with simple type selector","status":"PASS"}]}
