@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A caption in the table's writing mode is offset by its block-start margin","status":"PASS"},{"name":"A caption in an orthogonal writing mode is offset by its block-start margin","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"non-error event handler","status":"PASS"},{"name":"error event handler not on body","status":"PASS"},{"name":"error event handler on disconnected body","status":"PASS"},{"name":"error event handler on disconnected frameset","status":"PASS"},{"name":"error event handler on connected body, reflected to Window","status":"PASS"}]}
