@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"HighlightRegistry initializes as it should.","status":"PASS"},{"name":"HighlightRegistry has a maplike interface.","status":"PASS"},{"name":"HighlightRegistry.set() with an existing name preserves the insertion order (Map-like behavior)","status":"FAIL"}]}
