@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigate accepts a WebDriver window handle as the context","status":"PASS"},{"name":"navigate accepts a WindowProxy as the context","status":"PASS"}]}
