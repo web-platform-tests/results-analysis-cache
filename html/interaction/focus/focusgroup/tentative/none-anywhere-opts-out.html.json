@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"'none' after a behavior token opts out of focusgroup navigation","status":"PASS"},{"name":"'none' between other tokens opts out of focusgroup navigation","status":"PASS"},{"name":"'none' alone opts out of focusgroup navigation (baseline)","status":"PASS"}]}

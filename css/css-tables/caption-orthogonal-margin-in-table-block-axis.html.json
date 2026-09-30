@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A caption in the table's writing mode adds its horizontal margins to the table's block size","status":"FAIL"},{"name":"A caption in an orthogonal writing mode adds its horizontal margins to the table's block size","status":"FAIL"}]}
