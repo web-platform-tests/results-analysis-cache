@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Atomics.waitAsync timeout in a DedicatedWorkerGlobalScope","status":"TIMEOUT"},{"name":"Atomics.waitAsync notification in a DedicatedWorkerGlobalScope","status":"NOTRUN"}]}
