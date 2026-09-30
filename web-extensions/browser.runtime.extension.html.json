@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"browserRuntimeGetURLErrorCases","status":"NOTRUN"},{"name":"browserRuntimeGetURLNormalCases","status":"NOTRUN"},{"name":"browserRuntimeGetPlatformInfo","status":"PASS"},{"name":"browserRuntimeGetVersion","status":"PASS"},{"name":"testBrowserRuntimeOnEnabled","status":"PASS"}]}
