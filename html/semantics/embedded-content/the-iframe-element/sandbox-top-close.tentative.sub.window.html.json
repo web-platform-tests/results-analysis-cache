@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Sandboxed iframe without allow-top-navigation cannot close top window","status":"TIMEOUT"},{"name":"Sandboxed iframe with allow-top-navigation can close top window","status":"NOTRUN"},{"name":"Cross-origin sandboxed iframe without allow-top-navigation cannot close top window","status":"NOTRUN"}]}
