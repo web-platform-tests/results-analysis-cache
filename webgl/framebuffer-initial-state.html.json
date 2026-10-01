@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"the initial stencil writemask is all ones","status":"PASS"},{"name":"stencil writes reach a framebuffer's stencil attachment by default","status":"PASS"},{"name":"the stencil clear value survives a framebuffer's first clear","status":"PASS"},{"name":"the depth clear value survives a framebuffer's first clear","status":"PASS"}]}
