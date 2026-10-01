@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"menuitem without interestfor attribute does not support ::interest-button pseudo-element","status":"PASS"},{"name":"menuitem with explicit interestfor attribute supports ::interest-button pseudo-element","status":"FAIL"}]}
