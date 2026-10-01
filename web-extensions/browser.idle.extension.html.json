@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"testIdleQueryState","status":"NOTRUN"},{"name":"testIdleSetDetectionInterval","status":"PASS"},{"name":"testIdleOnStateChanged","status":"PASS"},{"name":"testIdleQueryStateErrorCases","status":"PASS"},{"name":"testIdleSetDetectionIntervalErrorCases","status":"PASS"}]}
