@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Single-axis scroll container with overflow-y: clip propagates vertical snap area to outer scroller (vertical-lr)","status":"FAIL"},{"name":"Single-axis scroll container with overflow-x: clip propagates horizontal snap area to outer scroller (vertical-lr)","status":"FAIL"}]}
