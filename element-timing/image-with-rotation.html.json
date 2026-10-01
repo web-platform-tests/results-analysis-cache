@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Image intersectionRect is affected by rotation, but not its intrinsic size.","status":"PASS"}]}
