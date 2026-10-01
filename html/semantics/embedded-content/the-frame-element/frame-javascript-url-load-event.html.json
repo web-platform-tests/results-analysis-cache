@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Inserting a frame with a javascript: URL src fires one load event","status":"TIMEOUT"},{"name":"Setting a frame's src to a javascript: URL after insertion does not fire a load event","status":"NOTRUN"}]}

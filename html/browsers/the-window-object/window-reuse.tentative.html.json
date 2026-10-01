@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Initially navigating window to non-about:blank page should reuse synchonously available window","status":"PASS"},{"name":"synchronously navigating window away from initial about:blank should not reuse window","status":"TIMEOUT"}]}

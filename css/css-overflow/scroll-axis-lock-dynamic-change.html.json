@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Dynamically setting to scroll-axis-lock between none and auto values works for touch scroll.","status":"FAIL"},{"name":"Dynamically setting to scroll-axis-lock between none and auto values works for wheel scroll.","status":"FAIL"}]}
