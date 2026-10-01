@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Synthetic bold does not widen a run of inked glyphs","status":"FAIL"},{"name":"Synthetic bold does not widen a run of U+0020 spaces","status":"FAIL"},{"name":"Synthetic bold does not widen a run of U+00A0 no-break spaces","status":"FAIL"}]}
