@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Single background-image should be parsed","status":"PASS"},{"name":"Multiple background-images should be parsed","status":"PASS"}]}
