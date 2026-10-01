@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Nested <template for> patches via the shared target (iframe)","status":"PASS"},{"name":"Nested <template for> patches via the shared target (innerHTML)","status":"PASS"},{"name":"Nested <template for> patches via the shared target (stream)","status":"FAIL"}]}
