@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A long synchronous XHR is a longtask","status":"FAIL"}]}
