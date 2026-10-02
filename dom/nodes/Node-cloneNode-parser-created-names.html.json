@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"cloneNode on elements with names containing colons","status":"PASS"},{"name":"cloneNode on elements with names containing angle brackets","status":"PASS"}]}

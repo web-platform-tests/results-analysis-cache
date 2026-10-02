@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"testBookmarksRootNodeId","status":"NOTRUN"},{"name":"testBookmarksCreateAndGet","status":"NOTRUN"},{"name":"testBookmarksUpdate","status":"PASS"},{"name":"testBookmarksSearch","status":"PASS"},{"name":"testBookmarksGetTree","status":"PASS"},{"name":"testBookmarksRemove","status":"PASS"},{"name":"testBookmarksErrorCases","status":"PASS"}]}
