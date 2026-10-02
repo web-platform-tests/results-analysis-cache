@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Inner nodes with 'inert' attribute become inert anyways","status":"PASS"},{"name":"If the fullscreen element has the 'inert' attribute, everything becomes inert","status":"PASS"},{"name":"If an ancestor of the fullscreen element has the 'inert' attribute, the fullscreen element escapes inertness","status":"PASS"}]}

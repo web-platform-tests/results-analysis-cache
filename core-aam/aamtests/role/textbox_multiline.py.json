@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_atspi_editable","status":"PASS"},{"name":"test_atspi_readonly","status":"FAIL"}]}
