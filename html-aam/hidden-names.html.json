@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Input with hidden label","status":"FAIL"},{"name":"Table with hidden caption","status":"FAIL"},{"name":"Table with two captions, the first hidden","status":"FAIL"},{"name":"Fieldset with hidden legend","status":"PASS"},{"name":"Fieldset with two legends, the first hidden","status":"FAIL"}]}
