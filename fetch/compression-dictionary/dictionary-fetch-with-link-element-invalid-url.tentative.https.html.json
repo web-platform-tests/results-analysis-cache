@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"link with rel=compression-dictionary and invalid href neither trigger any load/error event nor any fetch request.","status":"PASS"}]}
