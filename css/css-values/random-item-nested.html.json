@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"random-item() nested inside random-item()","status":"FAIL"},{"name":"random-item() resolved through var()","status":"FAIL"},{"name":"random-item() used as a var() fallback","status":"FAIL"},{"name":"random-item() expands in a shorthand property","status":"FAIL"}]}
