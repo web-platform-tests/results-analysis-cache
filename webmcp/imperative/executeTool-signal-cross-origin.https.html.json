@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"caller abort in parent document propagates to options.signal in cross-origin iframe tool","status":"PASS"},{"name":"caller abort in cross-origin iframe propagates to options.signal in parent document tool","status":"PASS"}]}
