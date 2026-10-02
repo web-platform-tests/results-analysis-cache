@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Denied requests should abort with NotAllowedError","status":"FAIL"}]}
