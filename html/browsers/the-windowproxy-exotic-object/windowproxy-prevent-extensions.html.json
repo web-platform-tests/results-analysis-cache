@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Object.preventExtensions throws a TypeError","status":"PASS"},{"name":"Reflect.preventExtensions returns false","status":"PASS"}]}

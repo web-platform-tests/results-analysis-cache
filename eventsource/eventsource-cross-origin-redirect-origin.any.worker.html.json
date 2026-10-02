@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"MessageEvent.origin is the origin of the final URL after a cross-origin redirect","status":"PASS"}]}
