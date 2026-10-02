@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"single-line var() fallback","status":"PASS"},{"name":"multi-line var() fallback","status":"FAIL"},{"name":"newline after comma in var() fallback","status":"PASS"},{"name":"newline before closing parentheses in var() fallback","status":"FAIL"},{"name":"newline before var() and around fallback","status":"FAIL"}]}
