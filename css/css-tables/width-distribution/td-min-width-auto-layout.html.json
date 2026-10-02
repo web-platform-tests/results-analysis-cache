@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Cell with min-width larger than width is expanded","status":"PASS"},{"name":"Cell with min-width smaller than width is not affected","status":"PASS"},{"name":"Cell with min-width equal to width is not affected","status":"PASS"},{"name":"Cell with min-width larger than max-width uses min-width","status":"PASS"}]}
