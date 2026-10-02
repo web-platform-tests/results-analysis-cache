@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A menuitem invoking a menulist in a menubar should not close the menulist on loss of interest if opened via command (submenu)","status":"FAIL"},{"name":"A menuitem with explicit command/interestfor in a menubar should not close the menulist on loss of interest if opened via command","status":"FAIL"}]}
