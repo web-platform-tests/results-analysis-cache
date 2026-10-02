@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Scroll container with overflow-y: hidden consumes both snap axes and does not propagate to outer scroller","status":"PASS"},{"name":"Scroll container with overflow-x: hidden consumes both snap axes and does not propagate to outer scroller","status":"PASS"}]}
