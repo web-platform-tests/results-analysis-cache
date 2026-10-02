@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XMLHttpRequest: abort() still works when error thrown internally","status":"PASS"}]}
