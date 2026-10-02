@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Querying \"fullscreen\" permission checks \"allowWithoutGesture\" option","status":"FAIL"},{"name":"Set and query \"fullscreen\" permission with \"allowWithoutGesture\" true","status":"FAIL"},{"name":"Querying \"fullscreen\" permission with \"allowWithoutGesture\" false is unsupported","status":"PASS"}]}
