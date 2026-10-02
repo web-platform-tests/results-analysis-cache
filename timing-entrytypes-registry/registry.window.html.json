@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"PerformanceObserver.supportedEntryTypes exists","status":"PASS"},{"name":"'navigation' entries should be observable","status":"PASS"},{"name":"'paint' entries should be observable","status":"PASS"},{"name":"'longtask' entries should be observable","status":"PASS"}]}

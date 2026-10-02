@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"color-mix() with currentcolor is recomputed when the parent's color changes","status":"PASS"}]}
