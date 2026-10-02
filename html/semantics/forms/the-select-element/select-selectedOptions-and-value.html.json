@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"`HTMLSelectElement.selectedOptions` is correctly updated when `HTMLSelectElement.value` changes","status":"PASS"}]}
