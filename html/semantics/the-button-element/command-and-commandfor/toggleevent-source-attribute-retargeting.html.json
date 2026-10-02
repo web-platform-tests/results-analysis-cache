@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"ToggleEvent.source should be retargeted during and after event dispatch.","status":"PASS"},{"name":"Toggle.source should be retargeted when manually dispatched with composed set to true.","status":"PASS"},{"name":"ToggleEvent.source should not be set to null after dispatch without ShadowDOM.","status":"PASS"}]}
