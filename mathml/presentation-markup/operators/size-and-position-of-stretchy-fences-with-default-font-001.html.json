@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Inner binary operator should not affect position and size of outer fences.","status":"PASS"},{"name":"Fences are stretched symmetrically with respect to the math axis","status":"PASS"}]}
