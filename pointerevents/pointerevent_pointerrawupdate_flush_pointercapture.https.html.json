@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Pointer capture state should be updated before `pointerrawupdate`","status":"FAIL"}]}
