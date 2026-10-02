@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Single-axis scroll container propagates snap area preserving DOM order for same-position snap areas","status":"PASS"}]}
