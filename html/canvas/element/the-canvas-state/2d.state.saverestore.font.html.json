@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"save()/restore() restores font, for a canvas of size (300, 150).","status":"PASS"},{"name":"save() does not modify font, for a canvas of size (300, 150).","status":"PASS"},{"name":"save()/restore() restores font, for a canvas of size (0, 0).","status":"PASS"},{"name":"save() does not modify font, for a canvas of size (0, 0).","status":"PASS"}]}
