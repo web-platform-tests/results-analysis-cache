@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Event Timing: Orphan pointerup should not be measured as an interaction.","status":"PASS"}]}
