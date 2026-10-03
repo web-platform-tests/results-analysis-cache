@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Removing middle placeholder before fetch excludes it from final adoptedStyleSheets.","status":"FAIL"}]}
