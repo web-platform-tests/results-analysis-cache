@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"When converting 'navigationStart' to a timestamp, the global object has to be a Window object.","status":"PASS"},{"name":"When converting 'navigationStart' to a timestamp and a mark named 'navigationStart' exists, the global object has to be a Window object.","status":"FAIL"}]}
