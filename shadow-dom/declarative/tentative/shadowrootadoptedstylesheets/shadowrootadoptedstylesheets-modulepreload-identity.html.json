@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Modulepreload, import(), and shadowrootadoptedstylesheets all share the same CSSStyleSheet.","status":"FAIL"}]}
