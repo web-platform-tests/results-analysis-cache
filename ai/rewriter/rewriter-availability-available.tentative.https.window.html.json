@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Rewriter.availability() is available with no options","status":"TIMEOUT"},{"name":"Rewriter.availability() returns available with supported options","status":"NOTRUN"},{"name":"Rewriter.availability() returns unavailable for unsupported languages and create() rejects","status":"NOTRUN"}]}
