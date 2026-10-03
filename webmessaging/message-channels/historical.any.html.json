@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"MessagePort should not have an onclose event handler IDL attribute","status":"FAIL"},{"name":"No close event should be fired when an entangled port is closed","status":"FAIL"},{"name":"No close event should be fired on a port when it is closed","status":"PASS"}]}

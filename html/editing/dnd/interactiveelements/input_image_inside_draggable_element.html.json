@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Wait for image load","status":"PASS"},{"name":"Input image button inside draggable element should be draggable from border","status":"FAIL"},{"name":"Input image button inside draggable element should be draggable from image","status":"TIMEOUT"}]}

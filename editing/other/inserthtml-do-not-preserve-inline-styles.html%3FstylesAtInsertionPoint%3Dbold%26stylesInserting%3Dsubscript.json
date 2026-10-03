@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"insertHTML with \"<sub>abc</sub>\" into <b>[]def</b>","status":"FAIL"},{"name":"insertHTML with \"<sub>def</sub>\" into <b>abc[]</b>","status":"FAIL"},{"name":"insertHTML with \"<sub>b</sub>\" into <b>a[]c</b>","status":"FAIL"}]}

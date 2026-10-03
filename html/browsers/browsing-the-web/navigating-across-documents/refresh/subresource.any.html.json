@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Refresh does not affect Fetch API.","status":"PASS"},{"name":"Refresh does not affect XMLHttpRequest.","status":"FAIL"},{"name":"Refresh does not affect Image.","status":"PASS"}]}
