@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"URLPattern rejects an empty regexp group '()' with a TypeError","status":"PASS"},{"name":"URLPattern accepts a non-empty regexp group '(a)'","status":"PASS"}]}
