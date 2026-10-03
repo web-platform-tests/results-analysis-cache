@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"passing test with lone surrogate U+d800 in name","status":"PASS"},{"name":"failing test with lone surrogate U+d800 in name","status":"FAIL"},{"name":"passing test with lone surrogate in assert","status":"PASS"},{"name":"failing test with lone surrogate in assert","status":"FAIL"}]}
