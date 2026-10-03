@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initial state: invalid type leaves the sheet unprocessed","status":"PASS"},{"name":"Changing the type from invalid to valid creates the stylesheet","status":"FAIL"},{"name":"Changing the type from valid to invalid removes the stylesheet","status":"PASS"},{"name":"Removing the type attribute restores the default CSS handling","status":"FAIL"}]}
