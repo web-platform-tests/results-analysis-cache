@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"@layer with numeric name (123) is dropped","status":"PASS"},{"name":"@layer with numeric segment (foo.123) is dropped","status":"PASS"},{"name":"@layer with lone dash (-) name is dropped","status":"PASS"},{"name":"@layer with valid ident name is accepted","status":"PASS"}]}
