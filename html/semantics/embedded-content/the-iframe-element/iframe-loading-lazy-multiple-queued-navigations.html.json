@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Multiple queued lazy load navigations do not crash the page","status":"PASS"}]}
