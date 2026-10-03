@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"localStorage retains comparable quota after sessionStorage exhaustion","status":"PASS"}]}
