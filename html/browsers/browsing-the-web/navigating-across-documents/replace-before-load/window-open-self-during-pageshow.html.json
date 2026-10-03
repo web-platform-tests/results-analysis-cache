@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"No replace during pageshow, triggered by window.open(_self) on an iframe","status":"TIMEOUT"}]}

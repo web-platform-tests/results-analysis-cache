@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify resource timing entry creation for successful XHR","status":"FAIL"},{"name":"Verify resource timing entry creation for XHR failing with CORS","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initialize global state","status":"FAIL"},{"name":"Update service worker with new script that's missing importScripts()","status":"FAIL"}]}
