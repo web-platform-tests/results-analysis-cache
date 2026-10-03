@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Traversing history should restore scroll position after dispatching popstate and before dispatching hashchange","status":"PASS"}]}
