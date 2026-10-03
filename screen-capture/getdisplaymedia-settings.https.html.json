@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"getDisplayMedia() deviceId setting and capability","status":"TIMEOUT"},{"name":"getDisplayMedia() and facingMode","status":"NOTRUN"}]}
