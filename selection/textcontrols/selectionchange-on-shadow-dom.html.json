@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"selectionchange event fired on a shadow dom bubble to the document","status":"PASS"}]}
