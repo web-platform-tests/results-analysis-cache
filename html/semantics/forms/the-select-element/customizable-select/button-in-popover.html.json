@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Buttons in the popover should be rendered and should not close the popover when clicked.","status":"FAIL"},{"name":"Non-interactive content in the popover should not close the popover when clicked.","status":"FAIL"}]}
