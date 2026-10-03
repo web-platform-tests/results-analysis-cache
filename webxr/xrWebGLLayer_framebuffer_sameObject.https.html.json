@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XRWebGLLayer.framebuffer meets [SameObject] requirement - webgl","status":"FAIL"},{"name":"XRWebGLLayer.framebuffer meets [SameObject] requirement - webgl2","status":"FAIL"}]}
