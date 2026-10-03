@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"@import inside @media rule is dropped","status":"PASS"},{"name":"@import inside @supports rule is dropped","status":"PASS"},{"name":"@namespace inside @media rule is dropped","status":"PASS"},{"name":"@import inside @media is dropped but subsequent rules survive","status":"PASS"}]}
