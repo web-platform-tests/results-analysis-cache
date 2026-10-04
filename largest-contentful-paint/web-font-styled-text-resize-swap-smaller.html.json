@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"LCP should be not updated if the web font styled text resizes to be smaller during the swap period","status":"PASS"}]}
