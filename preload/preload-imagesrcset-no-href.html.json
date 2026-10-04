@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Dynamically added preload with imagesrcset (w descriptors) and no href","status":"PASS"},{"name":"Dynamically added preload with imagesrcset (x descriptors) and no href","status":"PASS"},{"name":"Inline preload link with imagesrcset and no href fires load event","status":"PASS"}]}
