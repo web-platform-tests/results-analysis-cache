@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"executeTool without toolautosubmit focuses submit button and waits for manual submit","status":"TIMEOUT"},{"name":"form.reset() cancels pending executeTool execution and clears :tool-form-active","status":"NOTRUN"},{"name":"Unrelated form submission and removal cancels pending tool execution","status":"NOTRUN"}]}

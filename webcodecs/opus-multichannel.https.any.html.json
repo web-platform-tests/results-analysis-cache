@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Encoding 16ch Opus produces a valid OpusHead decoderConfig description.","status":"FAIL"},{"name":"Encoding then decoding 16ch Opus produces frames with 16 channels.","status":"FAIL"},{"name":"Configuring AudioDecoder with 16ch Opus without description must fail.","status":"FAIL"}]}
