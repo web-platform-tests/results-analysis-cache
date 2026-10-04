@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Aborting Rewriter.create()","status":"PASS"},{"name":"Aborting Rewriter.rewrite()","status":"TIMEOUT"},{"name":"Aborting Rewriter.rewriteStreaming()","status":"NOTRUN"},{"name":"Aborting Rewriter.rewriteStreaming() after finished reading","status":"NOTRUN"}]}
