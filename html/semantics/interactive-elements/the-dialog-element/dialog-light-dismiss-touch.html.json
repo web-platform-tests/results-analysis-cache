@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Dialog light dismiss should work with touch and not trigger a click event.","status":"FAIL"}]}
