@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Create new session in OnSessionEnded event - webgl","status":"PASS"},{"name":"Create new session in OnSessionEnded event - webgl2","status":"PASS"},{"name":"Create mew session in end promise - webgl","status":"PASS"},{"name":"Create mew session in end promise - webgl2","status":"PASS"}]}
