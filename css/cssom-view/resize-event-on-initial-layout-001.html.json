@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"resize events are not fired on the initial layout","status":"FAIL"}]}
