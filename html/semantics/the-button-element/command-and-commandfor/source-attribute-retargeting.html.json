@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CommandEvent.source should be retargeted during and after event dispatch.","status":"FAIL"},{"name":"CommandEvent.source should be retargeted when manually dispatched with composed set to true.","status":"FAIL"},{"name":"CommandEvent.source should not be set to null after dispatch without ShadowDOM.","status":"FAIL"}]}
