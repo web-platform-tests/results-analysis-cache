@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check that the border-image shorthand resets border-image-slice to its initial value.","status":"PASS"}]}
