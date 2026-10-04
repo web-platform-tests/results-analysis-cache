@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Summarizer.availability() is available with no options","status":"TIMEOUT"},{"name":"Summarizer.availability() returns available with supported options","status":"NOTRUN"},{"name":"Summarizer.availability() returns unavailable for unsupported languages and create() rejects","status":"NOTRUN"}]}
