@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":":fullscreen pseudo-class invalidation with requestFullscreen + exitFullscreen","status":"PASS"},{"name":":fullscreen pseudo-class invalidation with requestFullscreen + remove","status":"PASS"}]}
