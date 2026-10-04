@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"lostpointercapture is dispatched on the document when shadow dom capturing element is removed","status":"TIMEOUT"}]}
