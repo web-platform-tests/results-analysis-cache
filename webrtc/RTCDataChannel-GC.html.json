@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Control: detected remote PC being closed using a data channel","status":"FAIL"},{"name":"Having a 'close' event handler registered should prevent a datachannel from being GCed","status":"FAIL"}]}

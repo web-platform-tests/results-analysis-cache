@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_get_current_position","status":"ERROR"},{"name":"test_watch_position","status":"FAIL"},{"name":"test_persists_on_reload","status":"ERROR"},{"name":"test_persists_on_navigation","status":"ERROR"}]}
