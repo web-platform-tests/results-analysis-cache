@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"opacity should not clamp number keyframe values","status":"FAIL"},{"name":"opacity should not clamp percentage keyframe values","status":"FAIL"}]}
