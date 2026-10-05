@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"play-forwards plays a finished animation if reversing direction, and does not restart it once finished","status":"PASS"},{"name":"play-backwards plays a finished animation if reversing direction, and does not restart it once finished","status":"FAIL"}]}
