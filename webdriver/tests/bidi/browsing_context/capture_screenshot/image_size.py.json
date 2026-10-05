@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_max_width","status":"PASS"},{"name":"test_max_height","status":"PASS"},{"name":"test_max_width_and_height","status":"PASS"},{"name":"test_with_clip","status":"PASS"},{"name":"test_does_not_upscale","status":"PASS"}]}
