@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Clicking a ::scroll-button() sets pseudoTarget to its CSSPseudoElement","status":"FAIL"}]}
