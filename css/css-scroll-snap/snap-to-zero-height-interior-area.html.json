@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"scrollTop = 600 snaps to the zero-height area at 600","status":"FAIL"},{"name":"scrollTop = 550 snaps to the zero-height area at 600","status":"FAIL"},{"name":"scrollTop = 650 snaps to the zero-height area at 600","status":"FAIL"}]}
