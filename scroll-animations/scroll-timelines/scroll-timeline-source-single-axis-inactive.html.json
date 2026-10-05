@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"JS-created ScrollTimeline for a non-scrollable axis is inactive","status":"PASS"},{"name":"CSS anonymous ScrollTimeline falls back when no ancestor matches the axis","status":"FAIL"},{"name":"ScrollTimeline becomes inactive when the reference element has display:none","status":"PASS"}]}
