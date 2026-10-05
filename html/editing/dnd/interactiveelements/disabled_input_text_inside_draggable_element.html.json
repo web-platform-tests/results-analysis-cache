@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Disabled text input with inside draggable element should not be draggable from border","status":"FAIL"},{"name":"Disabled text input with inside draggable element should not be draggable while attempting to select text","status":"FAIL"}]}
