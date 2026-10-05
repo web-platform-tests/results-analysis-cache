@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test currentcolor inheritance in drop-shadow()","status":"PASS"},{"name":"Test currentcolor inheritance in drop-shadow() after color mutation","status":"PASS"}]}
