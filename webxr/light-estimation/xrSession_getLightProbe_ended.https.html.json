@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"getLightProbe rejects on an ended session - webgl","status":"TIMEOUT"},{"name":"getLightProbe rejects on an ended session - webgl2","status":"NOTRUN"}]}
