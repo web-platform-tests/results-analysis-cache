@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A usermedia element in an iframe without permissions policy delegation should be blocked","status":"FAIL"}]}
