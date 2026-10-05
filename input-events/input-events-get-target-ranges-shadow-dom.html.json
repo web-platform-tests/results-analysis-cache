@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"InputEvent.getTargetRanges() should not leak nodes from a shadow root during typing.","status":"PASS"},{"name":"InputEvent.getTargetRanges() should not leak nodes across nested shadow roots.","status":"PASS"},{"name":"Synthetic InputEvent with targetRanges should not leak nodes from a shadow root.","status":"PASS"}]}
