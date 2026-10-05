@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"canShare with single file","status":"PASS"},{"name":"canShare with empty file list","status":"PASS"},{"name":"canShare with single file list","status":"PASS"},{"name":"canShare with file list","status":"PASS"},{"name":"canShare with repeated file","status":"PASS"},{"name":"canShare with file list and url","status":"PASS"}]}
