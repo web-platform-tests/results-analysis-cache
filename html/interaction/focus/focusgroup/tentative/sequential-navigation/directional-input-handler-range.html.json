@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"range input: directional navigation TO element works","status":"PASS"},{"name":"range input: directional navigation FROM element is blocked","status":"PASS"}]}

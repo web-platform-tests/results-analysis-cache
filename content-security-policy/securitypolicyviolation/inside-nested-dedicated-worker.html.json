@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CSP violation in nested worker fires securitypolicyviolation event on outer worker.","status":"PASS"}]}

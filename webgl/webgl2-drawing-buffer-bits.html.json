@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Requested alpha, depth and stencil buffers have their minimum sizes","status":"PASS"},{"name":"Buffers that were not requested report zero bits","status":"PASS"}]}
