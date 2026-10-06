@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"common setup","status":"PASS"},{"name":"requestStorageAccess() from about:blank Document before it gets replaced with a srcdoc resource does not crash the host process","status":"TIMEOUT"}]}
