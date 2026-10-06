@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"start() with null buffer fires ended event immediately and ignores subsequent buffer assignment","status":"FAIL"}]}
