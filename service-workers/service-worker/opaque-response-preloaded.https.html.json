@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Opaque responses should not be reused for XHRs, loading case","status":"PASS"},{"name":"Opaque responses should not be reused for XHRs, done case","status":"PASS"}]}
