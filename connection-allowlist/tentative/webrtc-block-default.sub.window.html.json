@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that default Connection-Allowlist WebRTC blocking is respected.","status":"FAIL"},{"name":"Fetches are unaffected by the `webrtc` property's value.","status":"PASS"}]}
