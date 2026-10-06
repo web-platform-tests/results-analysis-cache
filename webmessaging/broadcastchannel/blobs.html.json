@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Blobs work on BroadcastChannel","status":"FAIL"},{"name":"Blobs work with workers on BroadcastChannel","status":"FAIL"}]}
