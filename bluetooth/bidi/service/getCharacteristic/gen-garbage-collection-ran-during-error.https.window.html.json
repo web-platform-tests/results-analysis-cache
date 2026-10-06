@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Garbage Collection ran during getCharacteristic call that fails. Should not crash","status":"FAIL"}]}
