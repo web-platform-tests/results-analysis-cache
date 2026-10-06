@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property mask-composite value 'add'","status":"PASS"},{"name":"Property mask-composite value 'subtract'","status":"PASS"},{"name":"Property mask-composite value 'intersect'","status":"PASS"},{"name":"Property mask-composite value 'exclude'","status":"PASS"}]}
