@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Sanity check","status":"PASS"},{"name":"Initial value of display","status":"PASS"},{"name":"Inherit value of display","status":"PASS"},{"name":"Unset value of display","status":"PASS"},{"name":"Revert value of display","status":"PASS"},{"name":"Revert-layer value of display","status":"PASS"}]}
