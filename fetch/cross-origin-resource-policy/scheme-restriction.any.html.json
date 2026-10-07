@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Cross-Origin-Resource-Policy: same-site blocks retrieving HTTPS from HTTP","status":"FAIL"}]}
