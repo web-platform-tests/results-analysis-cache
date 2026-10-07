@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"conditional user timing from a long busy wait","status":"PASS"},{"name":"conditional user timing from a requestAnimationFrame","status":"PASS"},{"name":"conditional user timing from a task and a requestAnimationFrame","status":"PASS"},{"name":"conditional user timing from a task, a requestAnimationFrame, and layout change","status":"PASS"}]}
