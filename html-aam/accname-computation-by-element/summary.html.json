@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"summary expecting name from 2 aria-labelledby refs","status":"PASS"},{"name":"summary expecting name from 1 aria-labelledby ref","status":"PASS"},{"name":"summary expecting name from aria-label","status":"PASS"},{"name":"summary expecting name from subtree","status":"PASS"},{"name":"summary expecting name from title","status":"PASS"}]}
