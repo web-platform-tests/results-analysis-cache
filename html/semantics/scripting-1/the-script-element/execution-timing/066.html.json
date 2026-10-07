@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":" scheduler: cloneNode with external script, removing .src and adding content","status":"PASS"}]}
