@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"scroll-target-group: auto updates :target-current when there is an iframe sibling in the scroller","status":"FAIL"}]}

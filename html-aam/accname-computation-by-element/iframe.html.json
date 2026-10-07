@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"iframe expecting name from 2 aria-labelledby refs","status":"FAIL"},{"name":"iframe expecting name from 1 aria-labelledby ref","status":"FAIL"},{"name":"iframe expecting name from aria-label","status":"FAIL"},{"name":"iframe expecting name from title","status":"FAIL"},{"name":"iframe expecting name to be empty","status":"FAIL"}]}
