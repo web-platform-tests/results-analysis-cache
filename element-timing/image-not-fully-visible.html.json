@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The intersectionRect of an img element overflowing is computed correctly","status":"FAIL"}]}
