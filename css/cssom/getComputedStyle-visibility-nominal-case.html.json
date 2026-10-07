@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Sanity check: getComputedStyle returns apparent visibility","status":"PASS"},{"name":"Real check: getComputedStyle returns hidden visibility","status":"PASS"}]}
