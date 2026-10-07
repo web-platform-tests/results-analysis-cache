@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Destroying iframe during async adoptedStyleSheets fetch does not crash.","status":"FAIL"}]}
