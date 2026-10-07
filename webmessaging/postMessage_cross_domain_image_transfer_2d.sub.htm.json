@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"sending 2D canvas ImageBitmap to http://web-platform.test:8000","status":"PASS"},{"name":"sending 2D canvas ImageBitmap to http://www1.web-platform.test:8000","status":"PASS"},{"name":"sending 2D canvas ImageBitmap to http://not-web-platform.test:8000","status":"PASS"}]}
