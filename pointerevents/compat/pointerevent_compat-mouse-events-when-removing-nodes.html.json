@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Compat mouse events with no node removal","status":"PASS"},{"name":"Compat mouse events with node removal on pointermove","status":"PASS"},{"name":"Compat mouse events with node removal on pointerdown","status":"PASS"},{"name":"Compat mouse events with node removal on pointerup","status":"PASS"}]}
