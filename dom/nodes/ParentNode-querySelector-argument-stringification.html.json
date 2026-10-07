@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"querySelector stringifies Array argument via toString()","status":"PASS"},{"name":"querySelectorAll stringifies Array argument via toString()","status":"PASS"},{"name":"querySelector stringifies object with custom toString()","status":"PASS"}]}
