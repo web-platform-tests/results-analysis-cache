@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Two way ICE exchange works","status":"PASS"},{"name":"Selected candidate pair exposes local host fields and hides remote prflx fields","status":"PASS"},{"name":"Candidates always arrive after setLocalDescription(offer) resolves","status":"PASS"},{"name":"Candidates always arrive after setLocalDescription(answer) resolves","status":"PASS"}]}
