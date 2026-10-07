@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"An encoding declaration in a meta charset attribute has a higher precedence than a following encoding declaration in a meta charset attribute.","status":"PASS"}]}
