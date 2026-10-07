@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"invalidation of @mixin from same stylesheet","status":"FAIL"},{"name":"invalidation of @mixin from different stylesheet","status":"FAIL"},{"name":"invalidation on adding @apply rule","status":"FAIL"}]}
