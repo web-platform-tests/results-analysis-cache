@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"\"*:*\" with a path allows the path on the document's own origin","status":"PASS"},{"name":"\"*:*\" with a path allows the path on a different port","status":"PASS"},{"name":"\"*:*\" with a path allows the path on a different host","status":"PASS"},{"name":"\"*:*\" with a path does not allow other paths","status":"PASS"}]}

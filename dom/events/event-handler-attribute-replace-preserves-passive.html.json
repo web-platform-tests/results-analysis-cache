@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Replacing a wheel event handler attribute on body via setAttribute preserves its passive flag","status":"PASS"},{"name":"Replacing a wheel event handler attribute on document element via setAttribute preserves its passive flag","status":"PASS"}]}
