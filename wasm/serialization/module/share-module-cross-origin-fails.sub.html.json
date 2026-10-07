@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"postMessaging a wasm module to a cross-origin iframe fails","status":"PASS"}]}
