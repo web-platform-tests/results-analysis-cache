@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Saves and loads back File objects from IndexedDB","status":"FAIL"},{"name":"Sliced file can be stored and retrieved from IndexedDB","status":"FAIL"},{"name":"Composed slices of a file can be stored and retrieved from IndexedDB","status":"FAIL"}]}
