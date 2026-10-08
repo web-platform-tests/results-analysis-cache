@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"securitypolicyviolation event fires when nonce satisfies script-src but not style-src","status":"NOTRUN"},{"name":"error event fires when nonce satisfies script-src but not style-src","status":"NOTRUN"},{"name":"A nonce matching only script-src does not satisfy style-src CSP for style modules.","status":"PASS"}]}
