@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"An easing on a keyframe with no value for the target property is not applied","status":"FAIL"},{"name":"Control: the same easing on a keyframe that does specify the property is applied","status":"FAIL"}]}
