@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"heading is null when stationary (speed is 0)","status":"FAIL"},{"name":"heading has a value when moving (speed > 0)","status":"NOTRUN"}]}
