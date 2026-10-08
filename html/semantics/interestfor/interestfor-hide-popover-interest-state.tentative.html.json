@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Changing the popover attribute during hidePopover() clears interest","status":"PASS"},{"name":"Disabling the invoker before hidePopover() clears interest","status":"PASS"},{"name":"Canceling loseinterest during hidePopover() maintains interest","status":"PASS"}]}
