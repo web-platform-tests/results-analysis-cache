@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"assert_implements_style_container_queries()","status":"FAIL"},{"name":"rem in container style queries responds to root font size change","status":"FAIL"},{"name":"rlh in container style queries responds to root line height change","status":"FAIL"},{"name":"vi, vb in container style queries respond to root writing mode change","status":"FAIL"}]}

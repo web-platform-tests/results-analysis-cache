@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Clicking a submit button sets the submitter","status":"FAIL"},{"name":"Requesting submit with a submitter sets the submitter","status":"FAIL"},{"name":"Requesting submit without a submitter does not set the submitter","status":"FAIL"}]}
