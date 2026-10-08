@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":":enabeld should match to enabled controls","status":"PASS"},{"name":":disabled should match to enabled controls","status":"PASS"},{"name":":not(:enabeld) should match to disabled controls and non-controls","status":"PASS"},{"name":":not(:disabled) should match to enabled controls and non-controls","status":"PASS"}]}
