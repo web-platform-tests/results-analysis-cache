@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A 1px wide opaque shape image excludes its single column","status":"FAIL"},{"name":"An opaque run starting in the last column is part of the shape","status":"FAIL"},{"name":"An opaque run starting in the last logical column is part of the shape in vertical writing mode","status":"FAIL"}]}
