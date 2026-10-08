@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"deleteRow() on HTMLTableSectionElement on thead must enqueue disconnectedCallback when removing a custom element","status":"PASS"},{"name":"deleteRow() on HTMLTableSectionElement on tfoot must enqueue disconnectedCallback when removing a custom element","status":"PASS"}]}
