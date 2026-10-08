@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Single-axis snap areas (start none / none start) are skipped under scroll-snap-type: pair","status":"FAIL"}]}

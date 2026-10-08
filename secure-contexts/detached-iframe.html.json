@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Removing an iframe does not make its window a secure context","status":"PASS"}]}

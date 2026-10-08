@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Template with empty sanitize attribute applies default safe sanitization and discards script tags","status":"FAIL"}]}
