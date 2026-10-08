@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Template src load succeeds when nonce matches CSP policy","status":"PASS"},{"name":"Template src load fails when nonce mismatches CSP policy","status":"PASS"}]}
