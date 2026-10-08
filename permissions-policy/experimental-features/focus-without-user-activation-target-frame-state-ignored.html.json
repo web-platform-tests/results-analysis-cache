@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Target iframe activation does not authorize a focus call from a restricted initiator","status":"FAIL"},{"name":"Restricted initiator with transient user activation can focus another iframe","status":"FAIL"}]}
