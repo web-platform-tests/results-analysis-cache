@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that extending Selection collapses it if crossing a shadow DOM boundary","status":"PASS"}]}
