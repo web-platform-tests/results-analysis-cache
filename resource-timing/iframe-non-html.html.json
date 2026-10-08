@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Iframes should report resource timing for image iframes","status":"PASS"},{"name":"Iframes should report resource timing for xhtml iframes","status":"PASS"},{"name":"Iframes should report resource timing for xml iframes","status":"PASS"},{"name":"Iframes should report resource timing for text iframes","status":"PASS"}]}
