@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"table.onsort should not be supported","status":"PASS"},{"name":"table.sortable should not be supported","status":"PASS"},{"name":"table.stopSorting should not be supported","status":"PASS"},{"name":"th.sorted should not be supported","status":"PASS"},{"name":"th.sort should not be supported","status":"PASS"}]}
