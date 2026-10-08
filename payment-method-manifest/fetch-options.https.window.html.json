@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"PMI HEAD request omits credentials (cookies and authorization)","status":"FAIL"},{"name":"Manifest GET request omits credentials (cookies and authorization)","status":"FAIL"},{"name":"Manifest GET request sets Referer header to match PMI URL","status":"FAIL"}]}
