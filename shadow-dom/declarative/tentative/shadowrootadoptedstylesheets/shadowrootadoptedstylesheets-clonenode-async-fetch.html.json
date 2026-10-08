@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"cloneNode handles both placeholder and resolved async-fetched adoptedStyleSheets.","status":"FAIL"}]}
