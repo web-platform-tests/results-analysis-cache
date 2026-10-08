@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Redirects in IdentityProvider.resolve with method: POST work correctly.","status":"FAIL"}]}
