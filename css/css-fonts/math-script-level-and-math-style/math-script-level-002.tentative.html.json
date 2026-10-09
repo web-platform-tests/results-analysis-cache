@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"auto","status":"PASS"},{"name":"auto ; starting from level 7","status":"PASS"},{"name":"add(<integer>)","status":"PASS"},{"name":"add(<integer>) ; starting from level 3","status":"PASS"},{"name":"<integer>","status":"PASS"},{"name":"<integer> ; starting from level 50","status":"PASS"}]}
