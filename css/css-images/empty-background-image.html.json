@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Empty url shouldn't try to load a subresource.","status":"PASS"}]}
