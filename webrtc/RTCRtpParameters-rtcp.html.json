@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"setParameters() with modified rtcp.cname should reject with InvalidModificationError","status":"PASS"},{"name":"setParameters() with modified rtcp.reducedSize should reject with InvalidModificationError","status":"PASS"}]}
