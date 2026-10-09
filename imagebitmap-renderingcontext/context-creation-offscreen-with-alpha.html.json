@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that an ImageBitmapRenderingContext with alpha disabled makes the canvas opaque","status":"FAIL"},{"name":"Test that an ImageBitmapRenderingContext with alpha enabled preserves the alpha","status":"FAIL"},{"name":"Test that the 'alpha' context creation attribute is true by default","status":"FAIL"}]}

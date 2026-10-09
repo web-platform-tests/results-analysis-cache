@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IDBCursor.delete exception order: TransactionInactiveError vs. ReadOnlyError","status":"FAIL"},{"name":"IDBCursor.delete exception order: ReadOnlyError vs. InvalidStateError #1","status":"FAIL"},{"name":"IDBCursor.delete exception order: ReadOnlyError vs. InvalidStateError #2","status":"FAIL"}]}

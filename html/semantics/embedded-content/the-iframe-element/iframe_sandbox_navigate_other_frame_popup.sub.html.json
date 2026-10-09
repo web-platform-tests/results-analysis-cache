@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Sandboxed iframe can not navigate other frame's popup","status":"FAIL"}]}
