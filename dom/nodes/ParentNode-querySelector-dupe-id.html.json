@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Sanity: returns a non-null value","status":"PASS"},{"name":"Returns a non-null value for connected cloned node with duplicated ID","status":"PASS"}]}

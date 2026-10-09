@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Slottables should be assigned to slots even after the shadow host has been removed from the document","status":"PASS"}]}
