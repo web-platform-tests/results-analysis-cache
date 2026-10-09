@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"cross-document navigation then fragment navigation","status":"PASS"},{"name":"cross-document navigation then pushState()","status":"PASS"}]}
