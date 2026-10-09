@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A highlight pseudo-element inherits from the parent's new style, not its previous one","status":"FAIL"}]}
