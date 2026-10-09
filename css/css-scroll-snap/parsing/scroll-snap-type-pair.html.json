@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['scroll-snap-type'] = \"pair\" should set the property value","status":"PASS"},{"name":"e.style['scroll-snap-type'] = \"pair mandatory\" should set the property value","status":"PASS"},{"name":"e.style['scroll-snap-type'] = \"pair proximity\" should set the property value","status":"PASS"}]}

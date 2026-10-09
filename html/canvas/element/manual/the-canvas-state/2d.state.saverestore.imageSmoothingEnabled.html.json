@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that restore() undoes any modifications to imageSmoothingEnabled.","status":"PASS"},{"name":"Test that save() doesn't modify the values of imageSmoothingEnabled.","status":"PASS"},{"name":"Test that restoring actually changes smoothing and not just the attribute value.","status":"PASS"}]}
