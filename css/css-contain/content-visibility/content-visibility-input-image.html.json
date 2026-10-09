@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"<input type=image> should return nonzero values for width and height in a c-v:hidden subtree.","status":"PASS"}]}
