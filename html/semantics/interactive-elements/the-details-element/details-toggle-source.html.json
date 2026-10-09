@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"ToggleEvent.source on <details> elements: details.open.","status":"PASS"},{"name":"ToggleEvent.source on <details> elements: click summary.","status":"PASS"},{"name":"ToggleEvent.source on <details> elements: click details.","status":"FAIL"}]}
