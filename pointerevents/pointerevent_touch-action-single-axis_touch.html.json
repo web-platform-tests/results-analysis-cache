@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"A y-scroller re-enables touch panning only along y","status":"TIMEOUT"},{"name":"An x-scroller re-enables touch panning only along x","status":"NOTRUN"}]}

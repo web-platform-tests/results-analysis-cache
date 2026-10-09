@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Concurrent transition keeps running after transition skipped","status":"FAIL"},{"name":"Concurrent transition keeps running after transition finished","status":"FAIL"},{"name":"Concurrent transition keeps running after transition canceled","status":"FAIL"}]}
