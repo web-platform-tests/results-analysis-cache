@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"data: dedicated worker should inherit js-profiling policy from creator document","status":"FAIL"}]}
