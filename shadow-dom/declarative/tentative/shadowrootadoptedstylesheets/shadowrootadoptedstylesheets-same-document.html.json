@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"adoptedStyleSheets is populated from a <template> element's shadowrootadoptedstylesheets attribute via Document.parseHTMLUnsafe.","status":"PASS"}]}
