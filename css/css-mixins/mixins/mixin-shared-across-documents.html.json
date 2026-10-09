@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A shared stylesheet's @apply resolves to each document's own mixin","status":"FAIL"}]}
