@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"font face attribute serif is correct","status":"PASS"},{"name":"font face attribute sans-serif is correct","status":"PASS"},{"name":"font face attribute cursive is correct","status":"PASS"},{"name":"font face attribute fantasy is correct","status":"PASS"},{"name":"font face attribute monospace is correct","status":"PASS"}]}
