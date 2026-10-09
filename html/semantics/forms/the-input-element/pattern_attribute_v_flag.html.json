@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"<input pattern> supports set difference syntax","status":"PASS"},{"name":"<input pattern> supports string literal syntax","status":"PASS"},{"name":"<input pattern> enables the RegExp v flag","status":"PASS"}]}
