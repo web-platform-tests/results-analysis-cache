@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"exitPointerLock() is a no-op when pointer is not locked","status":"PASS"},{"name":"pointerlockchange event does not bubble and is not cancelable","status":"PASS"}]}
