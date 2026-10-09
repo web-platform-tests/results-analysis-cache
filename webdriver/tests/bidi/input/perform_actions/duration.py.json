@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_mouse_move_dispatches_multiple_events","status":"PASS"},{"name":"test_touch_move_dispatches_multiple_events","status":"PASS"},{"name":"test_wheel_scroll_dispatches_multiple_events","status":"PASS"}]}
