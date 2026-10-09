@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XRInputSources properly communicate their handedness - webgl","status":"FAIL"},{"name":"XRInputSources properly communicate their handedness - webgl2","status":"FAIL"}]}
