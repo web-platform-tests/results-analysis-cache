@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Update should be triggered after a navigation (no fetch event worker).","status":"PASS"},{"name":"Update should be triggered after a navigation (fetch event worker).","status":"PASS"},{"name":"Update should be triggered after a navigation (network error).","status":"PASS"}]}
