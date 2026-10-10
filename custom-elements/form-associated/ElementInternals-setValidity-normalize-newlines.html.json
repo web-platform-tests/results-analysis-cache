@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"setValidity() should normalize newlines with the customError flag set","status":"FAIL"},{"name":"setValidity() should normalize newlines with another validity flag set","status":"FAIL"}]}
