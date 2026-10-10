@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"requestDevice with empty namePrefix. Should reject with TypeError.","status":"FAIL"}]}
