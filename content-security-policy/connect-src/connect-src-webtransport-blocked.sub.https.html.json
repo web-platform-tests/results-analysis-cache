@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CSP connect-src self vs WebTransport. Expecting connect-src","status":"PASS"},{"name":"CSP connect-src self vs serverCertificateHashes. Expecting connect-src","status":"PASS"}]}
