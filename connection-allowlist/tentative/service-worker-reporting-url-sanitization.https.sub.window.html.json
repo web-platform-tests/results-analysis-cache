@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Service Worker intercepted fetch reports sanitize target connection URLs.","status":"FAIL"}]}
