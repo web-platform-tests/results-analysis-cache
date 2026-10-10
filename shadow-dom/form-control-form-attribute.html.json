@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Form control's form attribute should point to the form element.","status":"PASS"},{"name":"Shadow form control's form attribute should work also in shadow DOM.","status":"FAIL"},{"name":"Form element as form control's ancestor should work also in shadow DOM.","status":"PASS"}]}
