@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['scroll-snap-stop'] = \"before\" should set the property value","status":"FAIL"}]}
