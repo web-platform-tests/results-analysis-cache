@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"rAF scheduled at animation event is called during the same rendering update","status":"FAIL"}]}
