@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"registerTool() rejects `InvalidStateError` in detached frame","status":"PASS"}]}

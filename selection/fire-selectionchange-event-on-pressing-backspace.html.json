@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Selectionchange event is fired after removing the character","status":"PASS"},{"name":"Selectionchange event is fired after removing the range","status":"FAIL"}]}
