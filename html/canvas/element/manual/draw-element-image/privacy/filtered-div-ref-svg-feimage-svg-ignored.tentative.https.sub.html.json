@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"drawElementImage does not use cross-origin feimage using SVG-as-Image via CSS","status":"FAIL"}]}
