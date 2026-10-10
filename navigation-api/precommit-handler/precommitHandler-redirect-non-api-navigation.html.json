@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"precommitHandler redirect() on non-API navigation does not serialize state","status":"PASS"},{"name":"precommitHandler redirect() with state on non-API navigation (link click)","status":"FAIL"}]}
