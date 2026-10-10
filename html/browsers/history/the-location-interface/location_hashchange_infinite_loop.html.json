@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Setting window.location.hash to same value while handling hashchange event shouldn't cause an infinite loop.","status":"PASS"}]}
