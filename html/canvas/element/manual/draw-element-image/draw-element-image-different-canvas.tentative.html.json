@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Prevent drawing ElementImage into a different canvas on main thread","status":"FAIL"},{"name":"Prevent drawing ElementImage into a different canvas in a worker thread","status":"FAIL"}]}
