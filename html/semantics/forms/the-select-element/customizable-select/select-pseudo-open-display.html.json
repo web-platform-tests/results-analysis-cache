@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A select keeps matching :open when its display changes while its picker is open.","status":"FAIL"},{"name":"A :open rule that changes the display of a select keeps applying while its picker is open.","status":"PASS"}]}
