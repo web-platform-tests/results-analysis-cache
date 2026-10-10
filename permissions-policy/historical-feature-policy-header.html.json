@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Feature-Policy header should not block features (use Permissions-Policy instead)","status":"FAIL"}]}
