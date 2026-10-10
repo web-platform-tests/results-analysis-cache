@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"createLinearGradient() and createRadialGradient() returns objects implementing CanvasGradient","status":"PASS"}]}
