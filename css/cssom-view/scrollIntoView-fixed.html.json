@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"[Box A] scrollIntoView from unscrollable position:fixed","status":"PASS"},{"name":"[Box B] scrollIntoView from unscrollable position:fixed in iframe","status":"PASS"},{"name":"[Box C] scrollIntoView from scrollable position:fixed","status":"PASS"},{"name":"[Box D] scrollIntoView from scrollable position:fixed in iframe","status":"FAIL"}]}
