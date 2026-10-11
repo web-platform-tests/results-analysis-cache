@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Deferred loading=lazy video resumes when the loading attribute is eager","status":"PASS"},{"name":"Deferred loading=lazy video resumes when the loading attribute is removed","status":"TIMEOUT"},{"name":"Deferred loading=lazy video resumes when the loading attribute is invalid","status":"TIMEOUT"}]}
