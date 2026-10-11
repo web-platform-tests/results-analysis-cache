@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Exit Picture-in-Picture resolves when there is a Picture-in-Picture video","status":"PASS"},{"name":"Exit Picture-in-Picture rejects when there is no Picture-in-Picture video","status":"PASS"}]}
