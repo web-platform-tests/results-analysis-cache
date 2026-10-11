@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A scoped view transition doesn't discard the scope's last remembered size","status":"PASS"}]}
