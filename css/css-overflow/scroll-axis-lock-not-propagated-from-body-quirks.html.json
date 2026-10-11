@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"scroll-axis-lock: none on body does not propagate to viewport (touch scroll)","status":"TIMEOUT"},{"name":"scroll-axis-lock: none on body does not propagate to viewport (wheel scroll)","status":"NOTRUN"}]}
