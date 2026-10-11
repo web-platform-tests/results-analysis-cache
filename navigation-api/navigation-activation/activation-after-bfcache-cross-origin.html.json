@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigation.activation must be updated when restored from bfcache","status":"PRECONDITION_FAILED"}]}
