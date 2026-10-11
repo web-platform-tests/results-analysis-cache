@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Target is initially visible","status":"FAIL"},{"name":"Scroll such that target is just out of view, target is not visible","status":"PASS"}]}
