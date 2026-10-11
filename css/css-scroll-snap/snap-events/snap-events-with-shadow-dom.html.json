@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"snapTarget for scrollsnapchange is the host element when a snap area is inside a closed shadow root","status":"TIMEOUT"},{"name":"snapTarget for scrollsnapchanging is the host element when a snap area is inside a closed shadow root","status":"NOTRUN"}]}
