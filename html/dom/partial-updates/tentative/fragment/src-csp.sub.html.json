@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Cross-origin template src load is blocked by script-src 'self' CSP","status":"PASS"}]}
