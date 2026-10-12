@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Prompt should work with an email regex constraint.","status":"PRECONDITION_FAILED"}]}
