@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"secureConnectionStart is reported for iframes loaded over https in http context","status":"PASS"},{"name":"secureConnectionStart is reported for object documents loaded over https in http context","status":"PASS"}]}
