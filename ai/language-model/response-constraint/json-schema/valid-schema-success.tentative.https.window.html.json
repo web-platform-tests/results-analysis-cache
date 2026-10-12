@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Prompt should work when a valid response json schema is provided.","status":"FAIL"}]}
