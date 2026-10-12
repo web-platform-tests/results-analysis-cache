@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"text selection drag should still work when mousedown a display change","status":"PASS"},{"name":"text click after selecting some characters should collapse selection to start","status":"PASS"},{"name":"text click after selecting some characters should collapse selection to middle of the value","status":"PASS"}]}
