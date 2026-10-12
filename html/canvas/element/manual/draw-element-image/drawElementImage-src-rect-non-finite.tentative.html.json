@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"drawElementImage handles non-finite source rect parameters","status":"FAIL"}]}
