@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_get_status_no_session","status":"PASS"},{"name":"test_status_with_session_running_on_endpoint_node","status":"FAIL"}]}
