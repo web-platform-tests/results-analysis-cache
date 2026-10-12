@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"check initiatorUrl for resources fetched in message handler in worker thread","status":"TIMEOUT"}]}
