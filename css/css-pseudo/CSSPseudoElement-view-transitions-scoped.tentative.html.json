@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CSSPseudoElement hierarchy works for scoped view transitions","status":"FAIL"},{"name":"CSSPseudoElement proxies are identity-consistent across multiple view transitions on the same element","status":"FAIL"}]}
