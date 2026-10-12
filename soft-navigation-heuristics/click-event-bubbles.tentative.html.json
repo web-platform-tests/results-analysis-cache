@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Ensure event bubbling works well with soft navigations.","status":"PASS"}]}
