@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Synchronous reparenting correctly delegates dialog role updates to the new root","status":"FAIL"}]}
