@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Testing BFCache support for page with open WebTransport connection and \"Cache-Control: no-store\" header.","status":"PRECONDITION_FAILED"}]}
