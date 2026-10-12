@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"allows setSinkId in top-level document","status":"PASS"},{"name":"allows setSinkId in same-origin iframe","status":"PASS"},{"name":"disallows setSinkId in cross-origin iframe without allow","status":"PASS"},{"name":"allows setSinkId in cross-origin iframe with allow","status":"PASS"}]}
