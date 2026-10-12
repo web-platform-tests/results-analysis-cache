@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"toolcancel is not dispatched when a tool abort handler from another realm detaches the tool document","status":"FAIL"},{"name":"toolcancel is not dispatched when a tool abort handler detaches its own document","status":"FAIL"}]}
