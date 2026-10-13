@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"HTML element matches legacy attribute value case-insensitively.","status":"PASS"},{"name":"SVG element matches legacy attribute value case-sensitively (no match).","status":"PASS"},{"name":"Empty-namespace element matches legacy attribute value case-sensitively.","status":"PASS"}]}
