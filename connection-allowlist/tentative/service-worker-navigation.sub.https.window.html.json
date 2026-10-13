@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"clients.navigate() is blocked by Service Worker's empty Connection-Allowlist","status":"FAIL"},{"name":"clients.navigate() is blocked by Document's Connection-Allowlist","status":"FAIL"}]}
