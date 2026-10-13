@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"When `preventDefault` is called on a WheelEvent, scrolling should be prevented.","status":"PASS"}]}
