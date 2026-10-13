@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Parent frame ignores paint-timing events fired from child image rendering.","status":"PASS"}]}
