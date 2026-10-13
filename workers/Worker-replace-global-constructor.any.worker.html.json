@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test replacing global constructors in a worker context.","status":"PASS"}]}
