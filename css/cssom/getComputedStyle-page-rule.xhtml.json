@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getComputedStyle should not throw when a @page rule is present","status":"PASS"}]}
