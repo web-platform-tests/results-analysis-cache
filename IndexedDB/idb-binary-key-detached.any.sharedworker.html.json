@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Detached ArrayBuffers must throw DataError when used as a key","status":"PASS"},{"name":"Detached TypedArrays must throw DataError when used as a key","status":"PASS"}]}
