@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"start of scroll container","status":"PASS"},{"name":"right before the in-flow position of the sticky box","status":"PASS"},{"name":"right after the in-flow position the sticky box","status":"FAIL"},{"name":"end of scroll container","status":"PASS"}]}
