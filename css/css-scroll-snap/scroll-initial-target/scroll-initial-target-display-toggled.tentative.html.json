@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"display:block scroll-initial-target becomes display: none","status":"FAIL"},{"name":"display:none scroll-initial-target becomes display: block","status":"FAIL"}]}
