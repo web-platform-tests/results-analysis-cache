@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Bytes received before any read are given to later reads","status":"FAIL"},{"name":"A BYOB read smaller than the received bytes keeps the rest for later reads","status":"FAIL"},{"name":"A read waits for bytes that have not been received yet","status":"FAIL"}]}
