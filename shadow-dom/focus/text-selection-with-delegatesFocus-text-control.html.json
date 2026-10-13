@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"shadow root has selectable text when focus is delegated. Selection goes to text control if it is the delegated focusable area.","status":"FAIL"}]}
