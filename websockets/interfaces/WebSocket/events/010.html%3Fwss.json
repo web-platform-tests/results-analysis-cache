@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"WebSockets: setting event handlers to undefined","status":"PASS"},{"name":"WebSockets: setting event handlers to undefined 1","status":"PASS"},{"name":"WebSockets: setting event handlers to undefined 2","status":"PASS"},{"name":"WebSockets: setting event handlers to undefined 3","status":"PASS"}]}
