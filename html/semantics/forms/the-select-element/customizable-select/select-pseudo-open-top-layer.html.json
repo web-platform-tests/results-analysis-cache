@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Showing an unrelated auto popover closes the picker.","status":"PASS"},{"name":"Showing an unrelated manual popover leaves the picker open.","status":"PASS"},{"name":"Showing an unrelated dialog closes the picker.","status":"PASS"},{"name":"Showing an unrelated modal dialog closes the picker.","status":"PASS"}]}
