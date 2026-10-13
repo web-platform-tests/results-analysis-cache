@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Transparent text with shadow decoration should not be excluded from LCP.","status":"PASS"}]}
