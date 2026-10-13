@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Permissions-Policy header geolocation=(self) allows the top-level document.","status":"NOTRUN"},{"name":"Permissions-Policy header geolocation=(self) allows same-origin iframes.","status":"NOTRUN"},{"name":"Permissions-Policy header geolocation=(self) disallows cross-origin iframes.","status":"NOTRUN"}]}
