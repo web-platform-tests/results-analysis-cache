@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"@container anchored() without applied fallback at initial scroll position","status":"PASS"},{"name":"@container anchored() applies fallback after scrolling down","status":"PASS"}]}
