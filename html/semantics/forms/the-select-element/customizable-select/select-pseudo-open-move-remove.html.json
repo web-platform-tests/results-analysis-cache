@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A select moved with moveBefore() while its picker is open keeps matching :open.","status":"FAIL"},{"name":"Removing a select while its picker is open closes the picker.","status":"FAIL"}]}
