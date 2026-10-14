@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Preload in markup with href and imagesrcset (w descriptors) does not fetch href","status":"PASS"},{"name":"Preload in markup with href and imagesrcset (x descriptors) does not fetch href","status":"PASS"}]}
