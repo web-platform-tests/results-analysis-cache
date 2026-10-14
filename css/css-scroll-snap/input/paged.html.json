@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Doesn't skip past small snappable content","status":"FAIL"},{"name":"Doesn't skip past large snappable content","status":"TIMEOUT"},{"name":"Scrolls multiple smaller items into view","status":"NOTRUN"},{"name":"Scrolls past items currently in view","status":"NOTRUN"},{"name":"Scrolls more than a page if necessary","status":"NOTRUN"}]}

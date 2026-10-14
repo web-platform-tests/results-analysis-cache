@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"install element has button role","status":"FAIL"},{"name":"usermedia element has button role","status":"FAIL"},{"name":"geolocation element has button role","status":"FAIL"}]}
