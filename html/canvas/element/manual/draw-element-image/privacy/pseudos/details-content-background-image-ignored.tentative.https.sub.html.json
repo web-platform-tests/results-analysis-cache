@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"drawElementImage does not paint corss-origin background in ::details-content","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"intensity_target sets the peak luminance that a PQ image tone maps from.","status":"FAIL"}]}
