@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"EditContext: Whitespace in text is not treated as collapsed for computing deletion ranges.","status":"FAIL"}]}
