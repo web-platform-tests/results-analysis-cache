@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Importing a WebAssembly module should be guarded by script-src CSP.","status":"PASS"}]}
