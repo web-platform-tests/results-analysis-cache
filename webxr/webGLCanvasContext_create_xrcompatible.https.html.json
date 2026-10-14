@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Creating a webgl context with no device","status":"PASS"},{"name":"Creating a webgl2 context with no device","status":"PASS"},{"name":"An XR-compatible webgl context can be created","status":"PASS"},{"name":"An XR-compatible webgl2 context can be created","status":"PASS"}]}

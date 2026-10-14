@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"HTML parsing doesn't apply in <annotation-xml> without encoding attribute","status":"PASS"},{"name":"HTML parsing does apply in <annotation-xml encoding=\"application/xhtml+xml\">","status":"PASS"}]}
