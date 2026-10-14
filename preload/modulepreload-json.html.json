@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"link rel=modulepreload with as=json should preload JSON module","status":"PASS"}]}
