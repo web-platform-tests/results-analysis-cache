@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Without a value attribute, the value is the empty string after text to file to text","status":"PASS"},{"name":"With a value attribute, the value is the attribute's value after text to file to text","status":"PASS"},{"name":"The dirty value flag is false after text to file to text","status":"PASS"}]}
