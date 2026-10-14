@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Fetch succeeds when both Dedicated Worker and Service Worker allow it.","status":"PASS"},{"name":"Fetch is blocked by Dedicated Worker's CA and does not reach Service Worker.","status":"PASS"},{"name":"Fetch is intercepted by Service Worker but blocked by Service Worker's CA.","status":"TIMEOUT"}]}
