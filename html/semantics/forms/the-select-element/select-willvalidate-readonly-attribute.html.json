@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Select element with \"readonly\" attribute shouldn't be barred from constraint validation","status":"FAIL"}]}
