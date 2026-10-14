@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Selection should've already been initialized in the text control when `focus` event is dispatched","status":"PASS"},{"name":"at the window","status":"PASS"},{"name":"at the editing host","status":"PASS"}]}
