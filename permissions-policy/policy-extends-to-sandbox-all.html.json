@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Permissions Policy with wildcard '*' extends to sandboxed frame with opaque origin","status":"TIMEOUT"}]}
