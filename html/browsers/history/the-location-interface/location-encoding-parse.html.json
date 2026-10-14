@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"location.replace() should use document encoding (windows-1252)","status":"PASS"},{"name":"location.assign() should use document encoding (windows-1252)","status":"PASS"},{"name":"location.href setter should use document encoding (windows-1252)","status":"PASS"}]}
