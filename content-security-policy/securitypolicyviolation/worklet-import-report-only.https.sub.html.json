@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A CSP violation under report-only policy for a worklet's top-level module script dispatches one securitypolicyviolation event","status":"FAIL"}]}
