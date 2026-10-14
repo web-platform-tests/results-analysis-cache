@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"request pointer lock with different unadjustedMovement on the same locked element should still fire pointerlockchange event","status":"FAIL"},{"name":"request pointer lock with different unadjustedMovement on the different element should still fire pointerlockchange event","status":"FAIL"}]}
