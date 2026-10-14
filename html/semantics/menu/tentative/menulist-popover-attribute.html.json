@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"menulist is a popover by default.","status":"PASS"},{"name":"Clicks outside a menulist without a popover attribute reach the target","status":"PASS"}]}
