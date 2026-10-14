@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Script value change during a mouse click keeps the caret at the end after focus","status":"PASS"}]}

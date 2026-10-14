@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify that if the third-party context creates a blob URL using the StorageAccessHandle and sends it to the dedicated worker, the dedicated worker fetch succeeds.","status":"FAIL"}]}
