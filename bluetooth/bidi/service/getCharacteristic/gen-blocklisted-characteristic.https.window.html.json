@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Serial Number String characteristic is blocklisted. Should reject with SecurityError.","status":"FAIL"}]}
