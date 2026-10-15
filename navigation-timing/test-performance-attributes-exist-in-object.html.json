@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.performance is defined","status":"PASS"},{"name":"window.performance.timing is defined","status":"PASS"},{"name":"window.performance.navigation is defined","status":"PASS"}]}
