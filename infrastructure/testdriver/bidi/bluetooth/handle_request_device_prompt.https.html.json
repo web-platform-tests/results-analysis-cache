@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"accept upon request_device_prompt_updated event","status":"FAIL"},{"name":"cancel upon request_device_prompt_updated event","status":"FAIL"}]}
