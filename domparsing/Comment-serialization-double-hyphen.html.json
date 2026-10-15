@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Serializing a comment containing '--' via innerHTML","status":"PASS"},{"name":"Serializing a comment containing '-->' via innerHTML","status":"PASS"},{"name":"Serializing a comment containing only '--' via innerHTML","status":"PASS"}]}
