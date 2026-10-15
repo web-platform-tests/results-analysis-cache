@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"DOMParser().parseFromString should not affect creator document's referrer policy","status":"PASS"},{"name":"Parsing <meta name='referrer'> inside <template> should not affect creator document's referrer policy","status":"PASS"},{"name":"Document.parseHTMLUnsafe() should not affect creator document's referrer policy","status":"PASS"}]}

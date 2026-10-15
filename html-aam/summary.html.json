@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"orphan summary has generic role","status":"PASS"},{"name":"descendant summary of details, that is not the first descendant summary, has generic role","status":"FAIL"},{"name":"descendant summary of details with intervening element, has generic role","status":"PASS"}]}
