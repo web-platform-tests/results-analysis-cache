@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"getTools() correctly filters returned tools by fromOrigins origins while preserving same-origin tools","status":"TIMEOUT"},{"name":"getTools() rejects with SecurityError if an insecure origin is supplied in fromOrigins","status":"NOTRUN"}]}
