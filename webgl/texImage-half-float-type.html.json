@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"WebGL 2 texImage2D accepts HALF_FLOAT","status":"PASS"},{"name":"WebGL 2 texImage3D accepts HALF_FLOAT","status":"PASS"},{"name":"WebGL 2 texImage2D rejects HALF_FLOAT_OES","status":"PASS"},{"name":"WebGL 1 texImage2D rejects HALF_FLOAT","status":"PASS"}]}
