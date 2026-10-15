@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"inverted range search.","status":"PASS"},{"name":"no suffix forces |end| to be end bounded.","status":"PASS"},{"name":"suffix means |end| need not be end bounded.","status":"PASS"},{"name":"|end| must be start bounded.","status":"PASS"}]}
