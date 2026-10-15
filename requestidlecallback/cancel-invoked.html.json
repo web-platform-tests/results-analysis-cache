@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"cancelIdleCallback does nothing if there is no callback with the given handle","status":"FAIL"},{"name":"A cancelled callback is never invoked","status":"FAIL"},{"name":"Cancelling the currently executing idle callback should be allowed","status":"FAIL"}]}
