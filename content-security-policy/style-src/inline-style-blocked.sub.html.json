@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Triggers securitypolicyviolation.","status":"PASS"},{"name":"Inline style element is blocked by CSP.","status":"PASS"}]}
