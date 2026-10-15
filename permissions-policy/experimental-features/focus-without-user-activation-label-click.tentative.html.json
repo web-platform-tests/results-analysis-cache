@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"click on a label checks the caller's focus permission","status":"PASS"},{"name":"dispatchEvent on a label checks the caller's focus permission","status":"PASS"}]}
