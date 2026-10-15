@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getPathSegmentAtLength() must not use the animated value during SMIL animation","status":"FAIL"}]}
