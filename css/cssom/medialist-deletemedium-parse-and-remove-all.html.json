@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"deleteMedium matches a query that differs only in whitespace","status":"PASS"},{"name":"deleteMedium removes every matching query, not only the first","status":"PASS"}]}
