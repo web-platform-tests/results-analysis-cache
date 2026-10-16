@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigate event should fire when traversing to a bfcache hit","status":"FAIL"}]}

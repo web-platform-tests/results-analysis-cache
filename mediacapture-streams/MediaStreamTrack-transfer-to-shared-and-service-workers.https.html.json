@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A plain object can be posted to a shared worker","status":"PASS"},{"name":"MediaStreamTrack cannot be transferred to a shared worker","status":"FAIL"},{"name":"A plain object can be posted to a service worker","status":"FAIL"},{"name":"MediaStreamTrack cannot be transferred to a service worker","status":"FAIL"}]}
