@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Axis consistency of intrinsic contributions","status":"PASS"},{"name":"Intrinsic contribution for width","status":"PASS"},{"name":"Intrinsic contribution for height","status":"PASS"},{"name":"Final size for width","status":"PASS"},{"name":"Final size for height","status":"PASS"}]}
