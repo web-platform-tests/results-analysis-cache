@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Using window.pushManager when there is a service worker with scope /","status":"NOTRUN"},{"name":"Using window.pushManager when there is a service worker with scope NOT equal to /","status":"NOTRUN"}]}

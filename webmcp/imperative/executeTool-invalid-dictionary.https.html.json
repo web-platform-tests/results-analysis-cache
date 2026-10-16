@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"executeTool() rejects with TypeError when passed an object that is not a Tool","status":"FAIL"},{"name":"executeTool() rejects with TypeError for invalid JSON arguments","status":"PASS"}]}
