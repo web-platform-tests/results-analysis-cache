@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Members of a named uniform block are active but have no location","status":"PASS"},{"name":"A uniform outside the block keeps its own location","status":"PASS"}]}
