@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getElementImageDefaultSize width and height should support fractional values","status":"PASS"},{"name":"getElementImageDefaultSize width and height should support fractional values in canvas pixel grid coordinate space","status":"PASS"}]}
