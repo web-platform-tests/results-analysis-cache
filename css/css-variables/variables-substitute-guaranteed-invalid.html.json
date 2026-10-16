@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Custom properties in a cycle become guaranteed-invalid","status":"PASS"},{"name":"A custom property referencing a cycle becomes guaranteed-invalid","status":"PASS"},{"name":"A custom property referencing a non-existent variable becomes guaranteed-invalid","status":"PASS"}]}
