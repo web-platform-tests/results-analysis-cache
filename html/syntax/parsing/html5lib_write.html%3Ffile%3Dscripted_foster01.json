@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"<table><tr><script>var t=document.querySelector('table');document.documentElement.remove();document.appendChild(t)</script><b>","status":"FAIL"},{"name":"<table><tr><script>var t=document.querySelector('table');document.documentElement.remove();document.appendChild(t)</script>FOSTERTEXT","status":"FAIL"}]}
