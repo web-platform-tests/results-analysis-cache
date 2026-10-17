@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"iframe: a javascript: URL src that removes its container does not fire a load event","status":"PASS"},{"name":"frame: a javascript: URL src that removes its container does not fire a load event","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Canvas tainted by a pass-through service worker laundering a cross-origin image redirect (same-origin -> cross-origin -> same-origin)","status":"FAIL"}]}
