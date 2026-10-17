@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_atspi[explicit]","status":"FAIL"},{"name":"test_atspi[implicit]","status":"FAIL"}]}
