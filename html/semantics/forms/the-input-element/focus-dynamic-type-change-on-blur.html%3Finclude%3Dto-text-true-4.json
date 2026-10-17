@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Document is loaded and focused before blur tests","status":"PASS"},{"name":"datetime-local -> text true","status":"FAIL"},{"name":"number -> text true","status":"FAIL"},{"name":"search -> text true","status":"FAIL"},{"name":"week -> text true","status":"FAIL"}]}
