@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getComputedStyle gets invalidated for slotted content of a display: none shadow host","status":"PASS"},{"name":"getComputedStyle gets invalidated in nested shadow trees of a display: none shadow host","status":"PASS"}]}
