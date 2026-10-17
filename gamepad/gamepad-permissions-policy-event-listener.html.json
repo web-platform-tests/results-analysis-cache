@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Adding gamepad event listeners in an iframe with gamepad denied should not crash.","status":"PASS"}]}
