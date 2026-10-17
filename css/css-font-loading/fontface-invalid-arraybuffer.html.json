@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Constructing a FontFace from an ArrayBuffer should reject with a SyntaxError","status":"PASS"}]}
