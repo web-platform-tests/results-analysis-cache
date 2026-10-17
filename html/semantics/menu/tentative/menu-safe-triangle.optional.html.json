@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"moving mouse out of safe triangle lets menu close","status":"FAIL"},{"name":"moving mouse within safe triangle keeps menu open","status":"FAIL"}]}
