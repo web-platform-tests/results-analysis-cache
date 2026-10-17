@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A generic event with only passive listeners remains cancelable","status":"PASS"}]}
