@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A window created by WebDriver is not script-closable once its session history size is greater than 1","status":"PASS"},{"name":"A window created by window.open() stays script-closable once its session history size is greater than 1","status":"PASS"}]}
