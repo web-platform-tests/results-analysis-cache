@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"LNA Public to loopback websocket with permission","status":"PASS"},{"name":"LNA Public to loopback websocket without permission","status":"PASS"},{"name":"LNA local to loopback websocket with permission","status":"PASS"},{"name":"LNA local to loopback websocket without permission","status":"PASS"}]}
