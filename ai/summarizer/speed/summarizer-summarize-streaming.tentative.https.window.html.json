@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Simple Summarizer.summarizeStreaming() call with speed preference","status":"FAIL"},{"name":"Summarizer.summarizeStreaming() with speed preference fails after destroyed","status":"FAIL"},{"name":"Summarizer.summarizeStreaming() with speed preference returns a ReadableStream without any chunk on an empty input","status":"FAIL"}]}
