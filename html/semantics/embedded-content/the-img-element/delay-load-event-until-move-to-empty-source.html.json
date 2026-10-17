@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Image element delays window's load event until the image changes to empty source","status":"PASS"}]}
