@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Throwing inside an unhandledrejection handler invokes the error handler.","status":"PASS"}]}

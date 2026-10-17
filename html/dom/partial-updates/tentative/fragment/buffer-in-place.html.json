@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"In-place template with buffer attribute buffers children and inserts them atomically at finalization","status":"FAIL"}]}
