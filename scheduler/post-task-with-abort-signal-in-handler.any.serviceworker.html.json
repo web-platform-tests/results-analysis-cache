@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Posting a task with a signal and abort the signal when running the sync callback","status":"FAIL"},{"name":"Posting a task with a signal and abort the signal when running the async callback","status":"FAIL"}]}
