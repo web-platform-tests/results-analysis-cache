@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.event is restored after a throwing window.onerror handler","status":"PASS"}]}
