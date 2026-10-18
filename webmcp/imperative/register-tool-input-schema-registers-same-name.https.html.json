@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A tool registered during inputSchema serialization makes the outer registration a duplicate","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"<form> submission with GET method and submitter passed into requestSubmit","status":"PASS"},{"name":"<form> submission with GET method and submitter is clicked","status":"PASS"}]}
