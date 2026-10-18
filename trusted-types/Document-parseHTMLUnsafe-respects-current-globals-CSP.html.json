@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The helper frame's Document.parseHTMLUnsafe() does not enforce Trusted Types when called from this document.","status":"PASS"},{"name":"This document's Document.parseHTMLUnsafe() enforces Trusted Types when called from the helper frame.","status":"PASS"}]}
