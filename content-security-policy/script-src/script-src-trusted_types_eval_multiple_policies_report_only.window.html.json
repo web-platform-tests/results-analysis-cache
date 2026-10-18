@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"`eval` is allowed but reported by a report-only policy without `trusted-types-eval`.","status":"TIMEOUT"},{"name":"`new Function` is allowed but reported by a report-only policy without `trusted-types-eval`.","status":"NOTRUN"}]}
