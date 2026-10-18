@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"An intercepted navigation that is ongoing during prerender activation should finish after activation","status":"PASS"}]}
