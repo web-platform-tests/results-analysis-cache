@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.install() is not defined in an insecure context.","status":"PASS"},{"name":"navigator.install() is not defined in an HTTPS iframe with an insecure ancestor.","status":"PASS"}]}
