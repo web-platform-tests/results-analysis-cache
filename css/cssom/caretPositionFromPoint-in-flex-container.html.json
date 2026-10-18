@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"caretPositionFromPoint just inside a tall flex child resolves to that child","status":"FAIL"},{"name":"caretPositionFromPoint well inside a tall flex child resolves to that child","status":"FAIL"},{"name":"caretPositionFromPoint inside the short flex child resolves correctly","status":"FAIL"}]}

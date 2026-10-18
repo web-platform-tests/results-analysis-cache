@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"No parent node","status":"FAIL"},{"name":"DocumentFragment parent node","status":"FAIL"},{"name":"ShadowRoot parent node whose shadow host has translate=yes","status":"FAIL"},{"name":"ShadowRoot parent node whose shadow host has translate=no","status":"FAIL"},{"name":"Document parent node","status":"FAIL"}]}
