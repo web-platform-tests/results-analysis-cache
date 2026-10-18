@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"active is set","status":"PASS"},{"name":"The ServiceWorker objects returned from active attribute getter that represent the same service worker are the same objects","status":"PASS"}]}
