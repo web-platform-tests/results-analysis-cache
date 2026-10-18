@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"background: inherit set via cssText","status":"PASS"},{"name":"background: inherit then background-color override via cssText","status":"PASS"}]}
