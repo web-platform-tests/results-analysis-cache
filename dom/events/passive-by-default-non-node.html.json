@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"wheel listeners on EventTarget are not passive by default","status":"PASS"},{"name":"wheel listeners on Performance are not passive by default","status":"PASS"}]}
