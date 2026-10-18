@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getComputedStyle should return !important stylesheet value over inline style","status":"PASS"},{"name":"getComputedStyle should return !important stylesheet value rather than the subsequent stylesheet value","status":"PASS"}]}
