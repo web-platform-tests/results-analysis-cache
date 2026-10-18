@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Origin.from(window.location) throws.","status":"PASS"},{"name":"Origin.from(Location) throws for cross-origin frames.","status":"PASS"}]}
