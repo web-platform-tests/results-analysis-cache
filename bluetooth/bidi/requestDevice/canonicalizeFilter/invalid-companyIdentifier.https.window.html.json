@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"companyIdentifier must be in the [0, 65535] range","status":"FAIL"}]}
