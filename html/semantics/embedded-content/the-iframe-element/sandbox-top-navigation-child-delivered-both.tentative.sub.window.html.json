@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A frame with both top navigation delivered sandbox flags uses the less     restrictive one","status":"PASS"}]}
