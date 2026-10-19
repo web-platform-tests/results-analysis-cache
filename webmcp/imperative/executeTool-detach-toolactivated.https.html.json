@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"toolactivated is not dispatched when a tool execute callback from another realm detaches the tool document","status":"PASS"},{"name":"toolactivated is not dispatched when a tool execute callback detaches its own document","status":"PASS"}]}

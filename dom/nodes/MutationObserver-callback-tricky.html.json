@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Calling observe in callback should not lead to more calls","status":"PASS"},{"name":"Disconnect and re-observe in callback should not lead to more calls","status":"PASS"}]}
