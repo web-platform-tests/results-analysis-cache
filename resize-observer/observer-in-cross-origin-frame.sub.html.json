@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Cross-origin observer responds to explicitly set physical size","status":"FAIL"},{"name":"When size is viewport-dependant, cross-origin observer responds to viewport size changes","status":"PASS"}]}
