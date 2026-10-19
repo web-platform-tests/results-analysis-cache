@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Moving an optgroup between selects moves its options with it","status":"PASS"},{"name":"An optgroup moved out of a select can be inserted into another select","status":"PASS"},{"name":"An optgroup moved out of a select renders like one inserted outside a select","status":"PASS"}]}
