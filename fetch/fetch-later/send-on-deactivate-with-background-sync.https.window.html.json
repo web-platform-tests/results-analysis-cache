@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"fetchLater() does send on page entering BFCache even if BackgroundSync is on.","status":"PASS"},{"name":"fetchLater() with activateAfter=0 sends on page entering BFCache if BackgroundSync is on.","status":"PASS"},{"name":"fetchLater() with activateAfter=1m does send on page entering BFCache even if BackgroundSync is on.","status":"PASS"}]}
