@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"pointerover shouldn't trigger for the purple rectangle while the black rectangle has capture","status":"PASS"},{"name":"relatedTarget should not be null even when the capture is set.","status":"PASS"}]}
