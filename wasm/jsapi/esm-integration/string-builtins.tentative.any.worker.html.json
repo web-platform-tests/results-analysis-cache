@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"String builtins should be supported in imports in ESM integration","status":"FAIL"}]}
