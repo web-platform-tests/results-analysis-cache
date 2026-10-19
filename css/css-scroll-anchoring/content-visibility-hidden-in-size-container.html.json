@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Scroll anchoring when inserting a content-visibility: hidden element inside a size container","status":"FAIL"},{"name":"Scroll anchoring when locking an existing element with content-visibility: hidden inside a size container","status":"FAIL"}]}
