@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"referrer policy does not change when second <meta name=\"referrer\"> is removed","status":"PASS"}]}

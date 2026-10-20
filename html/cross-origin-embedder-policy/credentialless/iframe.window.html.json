@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Setup","status":"PASS"},{"name":"same-origin","status":"PASS"},{"name":"cross-origin","status":"PASS"}]}
