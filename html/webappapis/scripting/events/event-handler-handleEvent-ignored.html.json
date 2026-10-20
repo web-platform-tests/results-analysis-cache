@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"plain object \"mouseenter\" handler","status":"FAIL"},{"name":"non-callable \"message\" handler that is instance of Function","status":"FAIL"}]}
