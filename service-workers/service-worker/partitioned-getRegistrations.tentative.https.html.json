@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"ServiceWorker's getRegistrations() is partitioned","status":"FAIL"}]}

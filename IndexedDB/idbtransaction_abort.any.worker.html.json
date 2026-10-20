@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Abort event should fire during transaction","status":"FAIL"},{"name":"Abort during auto-committing should throw InvalidStateError.","status":"PASS"},{"name":"Abort on completed transaction should throw InvalidStateError.","status":"PASS"}]}
