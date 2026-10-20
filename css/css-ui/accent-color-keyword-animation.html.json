@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"AccentColor mirrors accent-color while animating","status":"FAIL"},{"name":"Animated AccentColor updates when accent-color changes","status":"FAIL"},{"name":"Animated AccentColorText updates when accent-color changes","status":"FAIL"}]}
