@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that FaceDetectionOptions are correctly propagated","status":"FAIL"},{"name":"Test that BarcodeDetectorOptions are correctly propagated","status":"FAIL"}]}
