@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that promise is rejected if the manifest has no login URL","status":"PASS"}]}
