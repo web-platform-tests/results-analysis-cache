@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check that TextMetrics::getSelectionRects() works correctly with textBaseline.","status":"FAIL"}]}
