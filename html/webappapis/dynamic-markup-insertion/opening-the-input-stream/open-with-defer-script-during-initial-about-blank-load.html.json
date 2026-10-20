@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document.open() with a deferred script during the initial about:blank load event must not crash or refire load","status":"PASS"}]}
