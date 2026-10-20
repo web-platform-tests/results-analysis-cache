@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"This page is not a secure context","status":"PASS"},{"name":"pushManager is not exposed","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"xhr.response must be null during LOADING state for responseType json","status":"PASS"}]}
