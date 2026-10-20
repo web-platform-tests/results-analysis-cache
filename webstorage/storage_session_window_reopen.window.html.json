@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"ensure that re-opening a named window doesn't copy sessionStorage","status":"FAIL"}]}
