@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"User action pseudo-classes on dialog (modal)","status":"FAIL"},{"name":"User action pseudo-classes on dialog (non-modal)","status":"FAIL"},{"name":"User action pseudo-classes on popover (popover)","status":"FAIL"},{"name":"User action pseudo-classes on customizable-select (open)","status":"PRECONDITION_FAILED"}]}

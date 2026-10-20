@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Clicking on disabled command button should just close popover like normal","status":"FAIL"},{"name":"Clicking on disabled popovertarget button should just close popover like normal","status":"NOTRUN"},{"name":"Clicking on disabled popovertarget input button should just close popover like normal","status":"NOTRUN"}]}
