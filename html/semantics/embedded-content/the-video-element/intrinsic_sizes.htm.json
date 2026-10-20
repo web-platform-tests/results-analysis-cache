@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"default object size is 300x150","status":"PASS"},{"name":"default height is still 150","status":"PASS"},{"name":"default width is still 300","status":"PASS"},{"name":"default object size after src is removed","status":"PASS"},{"name":"default object size after poster is removed","status":"PASS"}]}
