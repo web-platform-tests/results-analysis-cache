@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Invalid pseudo-element selector :selection should be ignored","status":"PASS"}]}
