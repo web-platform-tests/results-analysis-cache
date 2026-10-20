@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Opening a new window should consume user activation","status":"FAIL"},{"name":"Opening an existing window should not consume user activation","status":"FAIL"}]}
