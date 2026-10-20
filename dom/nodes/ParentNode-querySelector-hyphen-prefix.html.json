@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"ID selector with hyphen-prefix followed by letters","status":"PASS"},{"name":"Class selector with hyphen-prefix followed by letters","status":"PASS"},{"name":"ID selector with hyphen-prefix followed by numbers","status":"PASS"},{"name":"Class selector with hyphen-prefix followed by numbers","status":"PASS"}]}
