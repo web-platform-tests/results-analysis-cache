@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"crbug/338965374, fontKerning still works after setting font for a second time.","status":"PASS"}]}
