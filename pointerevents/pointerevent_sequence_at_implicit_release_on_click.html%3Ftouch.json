@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"touch Boundary events are emitted after lostpointercapture","status":"NOTRUN"},{"name":"No extra events are emitted","status":"NOTRUN"}]}

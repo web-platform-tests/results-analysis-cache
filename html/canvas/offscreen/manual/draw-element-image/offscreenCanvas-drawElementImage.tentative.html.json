@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"OffscreenCanvas.drawElementImage should draw an ElementImage","status":"FAIL"},{"name":"Passing an Element to OffscreenCanvas methods on the main thread throws InvalidStateError","status":"FAIL"}]}
