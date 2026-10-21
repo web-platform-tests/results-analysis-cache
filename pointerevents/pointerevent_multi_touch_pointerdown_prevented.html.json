@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Two touches which start one after the other and move together","status":"PASS"},{"name":"Two touches which start at the same time and move together","status":"PASS"}]}
