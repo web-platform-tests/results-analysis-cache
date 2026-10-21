@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"initial about:blank is loaded sync when container traverses back","status":"TIMEOUT"},{"name":"non-initial about:blank is loaded sync when container traverses back","status":"NOTRUN"},{"name":"xorigin non-initial about:blank is loaded sync when container traverses back","status":"NOTRUN"}]}

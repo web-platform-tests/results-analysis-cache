@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"remove()ing an out-of-bounds index does nothing","status":"PASS"},{"name":"remove()ing an item will put the associated DataTransferItem object in the disabled mode","status":"PASS"}]}

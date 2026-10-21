@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The revert-rule keyword can revert to a nested rule","status":"PASS"},{"name":"The revert-rule keyword can revert to a CSSNestedDeclarationsRule","status":"PASS"},{"name":"The revert-rule keyword can revert from a CSSNestedDeclarationsRule","status":"PASS"},{"name":"The revert-rule keyword can revert to scoped declarations","status":"FAIL"}]}

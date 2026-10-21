@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Caption percent margins are resolved against table's height for vertical-lr tables","status":"FAIL"},{"name":"Caption with auto top/bottom margins is centered vertically for vertical-lr tables","status":"FAIL"}]}
