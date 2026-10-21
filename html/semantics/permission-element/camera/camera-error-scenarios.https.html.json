@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Denying camera permission prompt triggers oncancel event and sets NotAllowedError","status":"FAIL"},{"name":"Untrusted click on camera element fails with InvalidStateError","status":"FAIL"}]}
