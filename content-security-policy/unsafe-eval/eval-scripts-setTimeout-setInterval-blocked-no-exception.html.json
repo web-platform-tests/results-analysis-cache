@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"setTimeout() with a blocked string handler returns 0 and doesn't report an exception","status":"PASS"},{"name":"setInterval() with a blocked string handler returns 0 and doesn't report an exception","status":"PASS"}]}
