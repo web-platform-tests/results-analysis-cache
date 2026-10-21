@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"nextNode() returns null when currentNode is a detached element with no descendants and whatToShow does not match it","status":"PASS"},{"name":"nextNode() returns null after exhausting a detached subtree","status":"PASS"},{"name":"nextNode() terminates when iterating over template.content not under the walker's root","status":"PASS"}]}

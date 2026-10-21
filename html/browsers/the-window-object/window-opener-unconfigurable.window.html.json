@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Corner case: self.opener is set while it's not configurable","status":"PASS"}]}
