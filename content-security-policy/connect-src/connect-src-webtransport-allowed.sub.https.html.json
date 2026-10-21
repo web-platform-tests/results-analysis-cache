@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CSP connect-src url vs WebTransport. Expecting undefined","status":"FAIL"},{"name":"CSP connect-src url vs WebTransport. Expecting connect-src","status":"FAIL"},{"name":"CSP connect-src url vs serverCertificateHashes. Expecting connect-src","status":"FAIL"}]}
