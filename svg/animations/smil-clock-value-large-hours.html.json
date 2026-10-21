@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"dur='1193047:00:00' is parsed as 4294969200 seconds","status":"FAIL"},{"name":"Animation with dur='1193047:00:00' is still running at t=2000s","status":"FAIL"}]}
