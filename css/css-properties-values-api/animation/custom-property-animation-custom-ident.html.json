@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Animating a custom property of type <custom-ident> is discrete","status":"PASS"},{"name":"Animating a custom property of type <custom-ident>+ is discrete","status":"PASS"},{"name":"Animating a custom property of type <custom-ident># is discrete","status":"PASS"}]}
