@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that prefetch activation beacon is sent upon direct prerender activation.","status":"PASS"},{"name":"Test that prefetch activation beacon is sent upon prefetch-to-prerender upgraded activation.","status":"PASS"}]}
