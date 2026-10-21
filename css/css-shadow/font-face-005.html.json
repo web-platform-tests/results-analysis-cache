@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"@font-face should not leak out of shadow tree.","status":"FAIL"}]}
