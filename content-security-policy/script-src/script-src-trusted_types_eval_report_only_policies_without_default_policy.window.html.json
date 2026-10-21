@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Direct `eval` is allowed but reported by both checks.","status":"PASS"},{"name":"Indirect `eval` is allowed but reported by both checks.","status":"PASS"},{"name":"`new Function` is allowed but reported by both checks.","status":"PASS"},{"name":"`setTimeout` is allowed but reported by both checks.","status":"PASS"}]}
