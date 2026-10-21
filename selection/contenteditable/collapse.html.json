@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Selection.collapse() must succeed across siblings","status":"PASS"},{"name":"Selection.collapse() must succeed for the ancestor","status":"FAIL"},{"name":"Selection.collapse() must succeed for the descendant","status":"FAIL"}]}

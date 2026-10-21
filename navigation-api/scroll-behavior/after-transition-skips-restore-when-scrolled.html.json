@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"scroll: after-transition should not restore scroll if the document was scrolled during the navigation","status":"FAIL"}]}
