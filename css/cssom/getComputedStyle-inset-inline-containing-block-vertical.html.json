@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Resolved right measures the inline containing block's physical width","status":"PASS"},{"name":"Resolved bottom measures the inline containing block's physical height","status":"FAIL"}]}
