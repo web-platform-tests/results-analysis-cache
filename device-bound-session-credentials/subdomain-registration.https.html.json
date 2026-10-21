@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Registration fails without a .well-known","status":"TIMEOUT"},{"name":"Registration succeeds with a .well-known","status":"NOTRUN"}]}
