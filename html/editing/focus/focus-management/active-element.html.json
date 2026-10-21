@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"activeElement initially starts as the document body","status":"PASS"},{"name":"activeElement gets set to a focused element and reset to the body when the focused element disappears","status":"PASS"},{"name":"re-adding the formerly active element to the document does not make it active again","status":"PASS"}]}
