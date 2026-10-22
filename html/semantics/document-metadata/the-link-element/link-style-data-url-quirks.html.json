@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"data: URL stylesheet with text/css loads in quirks mode","status":"PASS"},{"name":"data: URL stylesheet with text/plain is blocked in quirks mode","status":"PASS"},{"name":"data: URL stylesheet with text/plain is blocked in standards mode","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The load event triggers","status":"PASS"},{"name":"The iframe is allowed to load.","status":"PASS"},{"name":"The securitypolicyviolation is triggered.","status":"PASS"},{"name":"Violation report status OK.","status":"PASS"}]}
