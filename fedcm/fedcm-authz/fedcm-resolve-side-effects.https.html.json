@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"If a getter in the token in IdentityProvider.resolve removes the frame, the user agent should not crash","status":"PASS"}]}

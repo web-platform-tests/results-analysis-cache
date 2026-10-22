@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"bluetooth-reporting","status":"FAIL"},{"name":"getAvailability in bluetooth reporting mode","status":"PASS"},{"name":"getDevices in bluetooth reporting mode","status":"PASS"},{"name":"requestDevice in bluetooth reporting mode","status":"PASS"},{"name":"requestLEScan in bluetooth reporting mode","status":"PASS"}]}
