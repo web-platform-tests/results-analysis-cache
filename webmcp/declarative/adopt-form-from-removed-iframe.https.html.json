@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"A form adopted from a removed iframe registers its tool in its new document","status":"FAIL"},{"name":"Mutating a form adopted from a removed iframe registers its tool in its new document","status":"PASS"},{"name":"Removing a form adopted from a removed iframe leaves no tool behind","status":"TIMEOUT"}]}
