@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Wrapper: same-origin embed","status":"FAIL"},{"name":"Wrapper: Navigate to same-origin embed","status":"FAIL"},{"name":"Wrapper: same-site embed","status":"FAIL"},{"name":"Wrapper: Navigate to same-site embed","status":"FAIL"},{"name":"Wrapper: cross-site embed","status":"FAIL"},{"name":"Wrapper: Navigate to cross-site embed","status":"FAIL"}]}
