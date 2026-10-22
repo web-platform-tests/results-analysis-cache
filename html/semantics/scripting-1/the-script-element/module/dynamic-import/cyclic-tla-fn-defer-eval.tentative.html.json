@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"import.defer() with cyclic TLA dependency resolves when export is a function","status":"PASS"}]}
