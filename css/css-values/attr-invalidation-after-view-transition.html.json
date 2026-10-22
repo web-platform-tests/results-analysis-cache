@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"attr() invalidates on attribute change across repeated view transitions","status":"FAIL"}]}
