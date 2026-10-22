@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"A script with invalid JSON should fire error events on the element and window","status":"TIMEOUT"}]}
