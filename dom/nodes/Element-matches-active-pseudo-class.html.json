@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Regular div should not match :active by default","status":"PASS"},{"name":"Button should not match :active by default","status":"PASS"},{"name":"Link should not match :active by default","status":"PASS"},{"name":"No elements should match :active by default via querySelectorAll","status":"PASS"}]}
