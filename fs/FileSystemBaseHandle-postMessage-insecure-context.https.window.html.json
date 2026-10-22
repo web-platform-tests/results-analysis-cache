@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A plain object can be posted to a non-secure context of the same origin","status":"PASS"},{"name":"FileSystemFileHandle cannot be posted to a non-secure context of the same origin","status":"FAIL"},{"name":"FileSystemDirectoryHandle cannot be posted to a non-secure context of the same origin","status":"FAIL"}]}
