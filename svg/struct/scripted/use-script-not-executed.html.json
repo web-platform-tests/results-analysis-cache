@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Not-yet-started svg-script cloned by a use element doesn't run","status":"PASS"},{"name":"Not-yet-started html-script cloned by a use element doesn't run","status":"PASS"},{"name":"Scripts cloned by a use element while being parsed don't bypass 'strict-dynamic'","status":"PASS"}]}
