@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify write and read clipboard given text: Clipboard write ([text/plain ClipboardItem]) -> read ([text/plain ClipboardItem]) test","status":"FAIL"},{"name":"Verify write and read clipboard given text: non-Latin1 text encoding test データ","status":"FAIL"}]}

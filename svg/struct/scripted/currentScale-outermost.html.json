@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"currentScale round-trips on an HTML-body-child outermost svg element","status":"PASS"},{"name":"currentScale round-trips on an outermost svg element inside a foreignObject","status":"PASS"},{"name":"currentScale is inert on a non-outermost (nested) svg element","status":"FAIL"}]}
