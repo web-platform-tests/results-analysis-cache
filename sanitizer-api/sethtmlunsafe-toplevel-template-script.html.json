@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Top-level template and script testcases from sub.dat","status":"FAIL"},{"name":"Top-level <script> parsed through setHTMLUnsafe() without runScripts does not execute","status":"PASS"},{"name":"Top-level <script> parsed through setHTMLUnsafe() with runScripts: true executes","status":"FAIL"}]}
