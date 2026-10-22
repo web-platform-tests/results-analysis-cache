@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"A session that fails to reach the refresh endpoint sets debug header","status":"TIMEOUT"},{"name":"Same-site redirects continue to send debug header","status":"NOTRUN"},{"name":"Cross-site redirects do not send debug header","status":"NOTRUN"},{"name":"Two failing sessions both set debug header","status":"NOTRUN"}]}
