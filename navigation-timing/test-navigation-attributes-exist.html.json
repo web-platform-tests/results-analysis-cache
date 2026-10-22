@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.performance is defined","status":"PASS"},{"name":"window.performance.navigation is defined","status":"PASS"},{"name":"window.performance.navigation.type is defined.","status":"PASS"},{"name":"window.performance.navigation.redirectCount is defined.","status":"PASS"}]}
