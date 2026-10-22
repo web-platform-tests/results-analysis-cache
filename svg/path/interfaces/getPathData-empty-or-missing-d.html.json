@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"path.getPathData() with missing d attribute returns []","status":"FAIL"},{"name":"path.getPathData() with empty d attribute returns []","status":"FAIL"}]}
