@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Icon fetch should cause a corresponding fetch event in the service worker","status":"NOTRUN"}]}
