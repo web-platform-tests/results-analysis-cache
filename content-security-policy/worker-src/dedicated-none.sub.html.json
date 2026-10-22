@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-origin dedicated worker blocked by host-source expression.","status":"FAIL"},{"name":"blob: dedicated worker blocked by 'blob:'.","status":"FAIL"}]}

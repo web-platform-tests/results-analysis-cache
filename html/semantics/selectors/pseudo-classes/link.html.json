@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Only <a>s and <area>s that have a href attribute match ':link'","status":"FAIL"}]}
