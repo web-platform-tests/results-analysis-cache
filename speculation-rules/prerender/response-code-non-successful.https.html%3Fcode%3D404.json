@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Responses with code 404 should be discarded","status":"PASS"}]}
