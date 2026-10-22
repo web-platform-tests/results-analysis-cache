@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"wt-protocol is stripped from responseHeaders","status":"PASS"},{"name":"responseHeaders is immutable","status":"PASS"}]}
