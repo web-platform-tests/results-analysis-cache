@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A script with a charset param in its type should not run","status":"PASS"},{"name":"A script with an x-test param in its type should not run","status":"PASS"},{"name":"A script with a charset param in its type should not run, even with language=javascript","status":"PASS"}]}
