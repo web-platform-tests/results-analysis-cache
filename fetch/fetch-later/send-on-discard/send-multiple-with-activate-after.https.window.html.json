@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A discarded document sends all its fetchLater requests, no matter how much their activateAfter timeout remain.","status":"PASS"}]}
