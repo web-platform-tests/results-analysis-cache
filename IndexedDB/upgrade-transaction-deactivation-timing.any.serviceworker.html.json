@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Upgrade transactions are active in upgradeneeded callback","status":"PASS"},{"name":"Upgrade transactions are active in upgradeneeded callback and microtasks","status":"PASS"},{"name":"Upgrade transactions are deactivated before next task","status":"PASS"}]}
