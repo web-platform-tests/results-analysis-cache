@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test HTMLInstallElement existence and instanceof","status":"FAIL"},{"name":"Test HTMLInstallElement manifest and validation properties","status":"FAIL"},{"name":"Test HTMLInstallElement permission properties","status":"FAIL"}]}
