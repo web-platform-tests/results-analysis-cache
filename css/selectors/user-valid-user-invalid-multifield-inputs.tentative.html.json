@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"<input type=date> keyboard behavior for :user-valid/:user-invalid.","status":"FAIL"},{"name":"<input type=time> keyboard behavior for :user-valid/:user-invalid.","status":"FAIL"},{"name":"<input type=datetime-local> keyboard behavior for :user-valid/:user-invalid.","status":"FAIL"}]}
