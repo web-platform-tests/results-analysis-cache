@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"scroll: after-transition should ignore history.scrollRestoration even if it changes in the middle of the navigation","status":"PASS"}]}
