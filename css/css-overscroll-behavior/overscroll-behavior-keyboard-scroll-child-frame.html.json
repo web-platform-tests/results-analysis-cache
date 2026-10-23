@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"scrolling is not propagated from iframe to the main frame","status":"FAIL"}]}
