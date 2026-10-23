@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"moveBefore() of the focused element doesn't fire focusreset","status":"FAIL"},{"name":"moveBefore() of an ancestor of the focused element doesn't fire focusreset","status":"FAIL"},{"name":"Removing the focused element after moveBefore() fires focusreset","status":"FAIL"}]}
