@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Modifying property value invalidates style, even after selectorText mutation","status":"PASS"}]}
