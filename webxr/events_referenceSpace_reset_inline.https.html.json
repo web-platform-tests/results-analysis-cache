@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"XRSession resetpose from a device properly fires off the right events for non-immersive sessions - webgl","status":"TIMEOUT"},{"name":"XRSession resetpose from a device properly fires off the right events for non-immersive sessions - webgl2","status":"NOTRUN"}]}
