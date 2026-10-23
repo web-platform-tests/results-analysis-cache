@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"NavigateEvent.sourceElement should be null for cross-origin same-document initiators","status":"PASS"}]}
