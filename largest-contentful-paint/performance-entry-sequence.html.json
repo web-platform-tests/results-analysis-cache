@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Exactly one LargestContentfulPaint entry is emitted per frame when a new candidate is rendered","status":"TIMEOUT"}]}
