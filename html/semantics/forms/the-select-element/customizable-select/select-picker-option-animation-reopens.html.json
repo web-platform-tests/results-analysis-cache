@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CSS animations on option elements restart when the base-select picker reopens.","status":"FAIL"}]}
