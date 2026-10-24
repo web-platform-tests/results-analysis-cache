@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"moveBefore() correctly updates name map when moving into shadow root","status":"PASS"},{"name":"moveBefore() correctly updates window map","status":"PASS"},{"name":"moveBefore() correctly updates name map ordering in document","status":"PASS"}]}
