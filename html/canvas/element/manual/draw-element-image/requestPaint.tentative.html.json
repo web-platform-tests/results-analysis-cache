@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"requestPaint should cause onpaint to fire without changes","status":"FAIL"},{"name":"requestPaint should cause onpaint to fire without changes, with two canvases","status":"FAIL"},{"name":"requestPaint can be called in onpaint","status":"FAIL"}]}
