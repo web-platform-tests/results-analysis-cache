@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Image load should not trigger load event for non-initial javascript URL load","status":"PASS"},{"name":"Load event for initial javascript URL load should be fired after script execution","status":"PASS"}]}
