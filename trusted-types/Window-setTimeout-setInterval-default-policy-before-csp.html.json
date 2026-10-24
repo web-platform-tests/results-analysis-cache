@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"setTimeout() runs the default policy and then blocks the rewritten string handler","status":"PASS"},{"name":"setInterval() runs the default policy and then blocks the rewritten string handler","status":"PASS"}]}

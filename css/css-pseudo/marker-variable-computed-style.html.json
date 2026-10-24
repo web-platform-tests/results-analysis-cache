@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getComputedStyle() for opacity defined by variable in ::marker","status":"PASS"},{"name":"getComputedStyle() for color defined by variable in ::marker","status":"PASS"}]}
