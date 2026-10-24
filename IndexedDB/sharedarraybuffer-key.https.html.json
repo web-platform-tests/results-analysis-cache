@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A SharedArrayBuffer can be used as an IndexedDB key","status":"FAIL"},{"name":"A SharedArrayBuffer-backed view can be used as an IndexedDB key","status":"FAIL"},{"name":"A SharedArrayBuffer in an array can be used as an IndexedDB key","status":"FAIL"}]}
