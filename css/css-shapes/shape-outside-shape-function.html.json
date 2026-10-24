@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"shape-outside: path() with a triangle","status":"FAIL"},{"name":"shape-outside: shape() with a triangle","status":"FAIL"},{"name":"shape-outside: path() with a mirrored triangle","status":"FAIL"},{"name":"shape-outside: shape() with a square","status":"PASS"},{"name":"shape-outside: shape() with a quadratic curve","status":"FAIL"}]}
