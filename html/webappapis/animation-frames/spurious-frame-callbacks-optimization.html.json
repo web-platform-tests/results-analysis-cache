@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Optimization of requestAnimationFrame callbacks that don't modify the DOM shouldn't break animations","status":"PASS"}]}

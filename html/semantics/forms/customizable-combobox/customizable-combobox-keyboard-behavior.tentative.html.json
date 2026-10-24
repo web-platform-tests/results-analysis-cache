@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Keyboard behavior for customizable combobox.","status":"FAIL"},{"name":"Options should be scrolled into view when arrowed to.","status":"FAIL"},{"name":"Disabled options should not match :active-option.","status":"FAIL"},{"name":"No active option and removal of active option.","status":"FAIL"}]}
