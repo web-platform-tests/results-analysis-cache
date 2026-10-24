@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Permissions-Policy allow=\"screen-wake-lock\" allows same-origin relocation","status":"TIMEOUT"},{"name":"Permissions-Policy allow=\"screen-wake-lock\" disallows cross-origin relocation","status":"TIMEOUT"}]}
