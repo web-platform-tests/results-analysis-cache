@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"rollback of a remote offer should remove a transceiver","status":"PASS"},{"name":"rollback of a remote offer should remove touched transceiver","status":"PASS"}]}
