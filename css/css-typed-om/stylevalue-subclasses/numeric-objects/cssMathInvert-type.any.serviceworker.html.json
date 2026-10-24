@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Inverting a type with empty map returns the empty map","status":"PASS"},{"name":"Inverting a type negates all its exponents","status":"PASS"},{"name":"Inverting an inverted type returns the original type","status":"PASS"}]}
