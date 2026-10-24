@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Presentation protocol support: org-iso-mdoc","status":"FAIL"},{"name":"Presentation protocol support: openid4vp-v1-signed","status":"FAIL"},{"name":"Presentation protocol support: openid4vp-v1-multisigned","status":"FAIL"},{"name":"Presentation protocol support: openid4vp-v1-unsigned","status":"FAIL"}]}
