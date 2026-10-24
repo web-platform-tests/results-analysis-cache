@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"String constants from wasm:js/string-constants should be supported in source phase imports","status":"FAIL"},{"name":"Source phase import should properly expose string constants exports","status":"FAIL"},{"name":"Source phase import should handle string constants import reflection correctly","status":"FAIL"}]}
