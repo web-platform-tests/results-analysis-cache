@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"setRemoteDescription with a ice-ufrag containing a non-ice-char fails","status":"PASS"},{"name":"setRemoteDescription with a ice-pwd containing a non-ice-char fails","status":"PASS"}]}
