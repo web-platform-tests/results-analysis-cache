@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Script execution happens after all batched DOM insertions complete through post-connection steps","status":"PASS"}]}
