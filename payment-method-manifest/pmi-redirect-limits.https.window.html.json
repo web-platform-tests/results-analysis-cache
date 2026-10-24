@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Up to 3 redirects for the Link header HEAD request are allowed","status":"PASS"},{"name":"More than 3 redirects for the Link header HEAD request is not allowed","status":"PASS"}]}
