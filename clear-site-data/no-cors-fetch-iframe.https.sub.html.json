@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Clearing site data via no-cors cross-site request should work on partitioned data.","status":"PASS"}]}
