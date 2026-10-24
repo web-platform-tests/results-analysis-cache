@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"In light mode as indicated by <meta> color-scheme, explicit color: initial matches CanvasText","status":"PASS"},{"name":"In dark mode as indicated by <meta> color-scheme, explicit color: initial matches CanvasText","status":"PASS"}]}
