@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"a NaN distance must throw an exception","status":"PASS"},{"name":"an infinite distance must throw an exception","status":"PASS"},{"name":"a negative infinite distance must throw an exception","status":"PASS"},{"name":"a path with no d returns null","status":"FAIL"},{"name":"a path with an empty d returns null","status":"FAIL"}]}

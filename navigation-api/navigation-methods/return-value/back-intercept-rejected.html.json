@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"back() promise rejection with rejected intercept()","status":"FAIL"}]}
