@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"::column font-size applied","status":"FAIL"},{"name":"::column scroll-snap-align","status":"FAIL"},{"name":"::column scroll-snap-stop","status":"FAIL"},{"name":"::column scroll-snap-margin","status":"FAIL"}]}
