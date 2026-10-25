@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify CORS XHR of fetch() in a Service Worker","status":"PASS"}]}
