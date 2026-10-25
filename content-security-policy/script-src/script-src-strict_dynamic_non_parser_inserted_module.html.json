@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Module script injected via `appendChild` is allowed with `strict-dynamic`.","status":"PASS"},{"name":"Module script injected via `appendChild` is allowed with `strict-dynamic`, even if it carries an incorrect nonce.","status":"PASS"}]}
