@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initially, container does not match. Target is red.","status":"PASS"},{"name":"Changing viewBox to '10 10 10 10' in container makes target color green","status":"FAIL"},{"name":"Changing viewbox to ' ' in container does not affect target","status":"FAIL"}]}
