@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['baseline-source'] = \"auto\" should set the property value","status":"FAIL"},{"name":"e.style['baseline-source'] = \"first\" should set the property value","status":"FAIL"},{"name":"e.style['baseline-source'] = \"last\" should set the property value","status":"FAIL"}]}
