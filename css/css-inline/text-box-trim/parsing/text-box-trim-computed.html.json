@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Property text-box-trim value 'none'","status":"PASS"},{"name":"Property text-box-trim value 'trim-start'","status":"PASS"},{"name":"Property text-box-trim value 'trim-end'","status":"PASS"},{"name":"Property text-box-trim value 'trim-both'","status":"PASS"}]}

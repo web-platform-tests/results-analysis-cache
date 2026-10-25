@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Moving a node to new document should move the registered event listeners together","status":"PASS"}]}
