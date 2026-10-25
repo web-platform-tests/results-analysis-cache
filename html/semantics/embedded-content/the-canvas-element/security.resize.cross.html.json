@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Resizing the canvas dimensions resets the origin-clean flag","status":"PASS"}]}

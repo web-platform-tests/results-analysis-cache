@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"headers of the main script","status":"TIMEOUT"},{"name":"headers of a script imported by a classic script","status":"NOTRUN"},{"name":"headers of a script imported by a module script","status":"NOTRUN"}]}
