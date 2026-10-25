@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A template with an empty for attribute is ignored and attached to the DOM","status":"PASS"}]}
