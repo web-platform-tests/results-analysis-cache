@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Cloned invalid inputs / textareas with interactive changes get their validity state copied correctly","status":"PASS"}]}
