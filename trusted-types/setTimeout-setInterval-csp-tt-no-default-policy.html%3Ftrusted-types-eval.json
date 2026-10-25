@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"setTimeout of string throws.","status":"PASS"},{"name":"setInterval of string throws.","status":"PASS"},{"name":"setTimeout of TrustedScript runs.","status":"PASS"},{"name":"setInterval of TrustedScript runs.","status":"PASS"}]}
