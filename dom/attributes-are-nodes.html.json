@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Attrs are subclasses of Nodes","status":"FAIL"},{"name":"appendChild with an attribute as the child should fail","status":"FAIL"},{"name":"replaceChild with an attribute as the child should fail","status":"FAIL"},{"name":"insertBefore with an attribute as the child should fail","status":"FAIL"}]}
