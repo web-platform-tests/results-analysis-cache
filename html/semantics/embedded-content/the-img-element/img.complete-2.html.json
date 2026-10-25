@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"complete is false immediately after setting src to file-does-not-exist.png","status":"PASS"},{"name":"complete is false immediately after setting src to http://malformed:url","status":"PASS"}]}
