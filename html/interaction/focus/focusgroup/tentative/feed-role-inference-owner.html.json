@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Generic feed focusgroup owner gets an implied feed role","status":"FAIL"},{"name":"Explicit owner role is preserved over implied feed role","status":"PASS"},{"name":"Native owner semantics are preserved over implied feed role","status":"FAIL"}]}
