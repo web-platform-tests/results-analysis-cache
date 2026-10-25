@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Moving an element with a transition across shadow boundaries preserves the transition","status":"PASS"}]}

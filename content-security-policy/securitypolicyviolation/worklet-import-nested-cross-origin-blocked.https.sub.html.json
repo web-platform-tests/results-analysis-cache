@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CSP violation on a nested import within a PaintWorklet module graph fetch dispatches a securitypolicyviolation event on the Document","status":"FAIL"}]}
