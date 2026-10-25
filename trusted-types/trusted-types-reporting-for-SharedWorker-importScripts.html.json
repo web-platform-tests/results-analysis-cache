@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"No violation reported for importScripts with TrustedScriptURL.","status":"PASS"},{"name":"Violation report for importScripts with plain string.","status":"PASS"}]}
