@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['stop-opacity'] = \"1.\" should not set the property value","status":"PASS"},{"name":"e.style['stop-opacity'] = \"2 3\" should not set the property value","status":"PASS"}]}
