@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.open() with noopener targeting an existing named iframe does not set its opener","status":"PASS"}]}
