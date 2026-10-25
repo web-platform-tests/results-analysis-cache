@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The document's base URL differs from the document URL","status":"PASS"},{"name":"Static imports from inline modules in a document with a base URL override","status":"PASS"}]}
