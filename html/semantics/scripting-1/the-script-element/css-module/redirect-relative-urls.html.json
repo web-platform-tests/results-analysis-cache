@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A relative URL in a statically imported CSS module resolves against the URL the request was redirected to","status":"PASS"},{"name":"A relative URL in a dynamically imported CSS module resolves against the URL the request was redirected to","status":"PASS"}]}
