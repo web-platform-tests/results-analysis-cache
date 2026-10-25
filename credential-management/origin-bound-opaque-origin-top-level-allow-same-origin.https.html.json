@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"get() from a top-level sandboxed page with allow-same-origin is not rejected as opaque","status":"PASS"},{"name":"create() from a top-level sandboxed page with allow-same-origin is not rejected as opaque","status":"PASS"},{"name":"store() from a top-level sandboxed page with allow-same-origin is not rejected as opaque","status":"PASS"}]}
