@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"updateRenderState handles appropriately XRRenderStateInit params - webgl","status":"FAIL"},{"name":"updateRenderState handles appropriately XRRenderStateInit params - webgl2","status":"FAIL"}]}
