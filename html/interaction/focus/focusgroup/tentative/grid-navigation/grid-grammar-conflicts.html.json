@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A row wrap/flow conflict produces a hard inline edge (non-wrapping)","status":"PASS"},{"name":"A row conflict preserves independent column wrapping","status":"FAIL"},{"name":"Nowrap with flow produces hard edges (non-wrapping) on both axes","status":"PASS"},{"name":"Legacy hyphenated grid modifier spellings are ignored","status":"PASS"}]}
