@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Support for responseType = moz-blob","status":"PASS"},{"name":"Support for responseType = moz-chunked-text","status":"PASS"},{"name":"Support for responseType = moz-chunked-arraybuffer","status":"PASS"}]}
