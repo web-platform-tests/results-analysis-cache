@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Horizontal-only scroll container blocks inline axis but allows block axis navigation","status":"FAIL"},{"name":"Vertical-only scroll container blocks block axis but allows inline axis navigation","status":"FAIL"},{"name":"Both-axis scroll container blocks all directional navigation","status":"FAIL"}]}
