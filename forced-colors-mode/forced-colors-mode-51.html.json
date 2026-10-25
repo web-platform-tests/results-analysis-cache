@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Color-scheme computes to 'light dark' in forced colors mode, unless forced-color-adjust is none.","status":"FAIL"}]}
