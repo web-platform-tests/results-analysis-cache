@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"setting document.domain must give sync access","status":"PASS"},{"name":"child1: originAgentCluster must equal false","status":"FAIL"},{"name":"child2: originAgentCluster must equal false","status":"FAIL"}]}
