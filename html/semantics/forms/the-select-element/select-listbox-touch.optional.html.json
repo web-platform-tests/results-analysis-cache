@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Using touch inputs should not deselect other options in a listbox <select multiple>.","status":"FAIL"}]}
