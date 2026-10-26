@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document.forms","status":"PASS"},{"name":"document.forms.item with string arg","status":"PASS"},{"name":"document.forms with empty string","status":"PASS"},{"name":"document.forms iteration","status":"PASS"},{"name":"document.forms getOwnPropertyNames","status":"PASS"},{"name":"Document.forms should be a live collection","status":"PASS"}]}
