@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"select: directional navigation TO element works","status":"FAIL"},{"name":"select: directional navigation FROM element is blocked","status":"PASS"}]}
