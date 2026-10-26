@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Waiting for load...","status":"PASS"},{"name":"Disabling style to text, it's applied to the parent block","status":"PASS"},{"name":"Disabling style to text, it's applied to the editing host","status":"FAIL"},{"name":"Disabling style to text, it's applied to the body","status":"PASS"}]}
