@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Descendant combinator","status":"PASS"},{"name":"Descendant combinator with *","status":"PASS"},{"name":"Child combinator","status":"PASS"}]}
