@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"javascript: URL side effects with percent encoding: false","status":"PASS"},{"name":"javascript: URL side effects with percent encoding: true","status":"PASS"},{"name":"A javascript: URL with invalid code reports a SyntaxError","status":"PASS"}]}
