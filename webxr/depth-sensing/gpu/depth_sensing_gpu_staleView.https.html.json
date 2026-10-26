@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Ensures getDepthInformation() throws when not run with stale XRView, `gpu-optimized` - webgl","status":"FAIL"},{"name":"Ensures getDepthInformation() throws when not run with stale XRView, `gpu-optimized` - webgl2","status":"FAIL"}]}
