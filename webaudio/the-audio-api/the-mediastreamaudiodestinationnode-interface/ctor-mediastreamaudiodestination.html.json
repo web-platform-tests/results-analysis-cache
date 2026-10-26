@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"AudioContext can be created without throwing","status":"PASS"},{"name":"MediaStreamAudioDestinationNode: invalid constructor cases","status":"PASS"},{"name":"MediaStreamAudioDestinationNode: default constructor behavior","status":"PASS"},{"name":"MediaStreamAudioDestinationNode applies channelCount from options","status":"PASS"}]}
