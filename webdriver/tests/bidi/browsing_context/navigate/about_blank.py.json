@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_navigate_from_single_page","status":"ERROR"},{"name":"test_navigate_from_frameset","status":"ERROR"},{"name":"test_navigate_in_iframe","status":"ERROR"}]}
