@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"pseudoTarget on UIEvent.prototype","status":"PASS"},{"name":"MouseEvent inherits pseudoTarget","status":"PASS"}]}
