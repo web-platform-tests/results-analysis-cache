@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"defineProperty getter CONNECTING","status":"PASS"},{"name":"defineProperty getter OPEN","status":"PASS"},{"name":"defineProperty getter CLOSING","status":"PASS"},{"name":"defineProperty getter CLOSED","status":"PASS"}]}
