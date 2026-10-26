@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigation.traverseTo() after a same-document navigation.back() is canceled by preventDefault","status":"PASS"}]}
