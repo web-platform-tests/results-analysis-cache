@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Request pointer lock without user gesture should fail","status":"FAIL"}]}
