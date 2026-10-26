@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"EventSource: id field set to %00%00","status":"PASS"},{"name":"EventSource: id field set to x%00","status":"PASS"},{"name":"EventSource: id field set to %00x","status":"PASS"},{"name":"EventSource: id field set to x%00x","status":"PASS"},{"name":"EventSource: id field set to %20%00","status":"PASS"}]}
