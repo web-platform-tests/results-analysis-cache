@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"setTimeout() string handler runs after a policy blocking eval is added","status":"PASS"},{"name":"setInterval() string handler keeps running after a policy blocking eval is added","status":"PASS"}]}
