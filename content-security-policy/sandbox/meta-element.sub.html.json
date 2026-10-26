@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Document shouldn't be sandboxed by <meta>","status":"PASS"},{"name":"Worker shouldn't be sandboxed by inheriting <meta>","status":"PASS"},{"name":"Worker shouldn't be sandboxed when created <iframe> inheriting parent's CSP with sandbox <meta>","status":"FAIL"}]}
