@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"#spanner matching container with column-width 300px, getting column-span:all","status":"PASS"},{"name":"Reducing #multicol width means #spanner no longer gets column-span:all","status":"FAIL"},{"name":"Back to matching 300px and column-span:all","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"anchor.click() on a fragment href during onload does a push navigation and is synchronous","status":"TIMEOUT"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Summarizer.create() returns a valid object with speed preference","status":"FAIL"},{"name":"Summarizer.create() with speed preference notifies its monitor on downloadprogress","status":"FAIL"},{"name":"Summarizer.create() with speed preference configures supported attributes","status":"FAIL"}]}
