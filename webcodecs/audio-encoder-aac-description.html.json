@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The description of a 48000Hz mono AAC encoder is an AudioSpecificConfig","status":"PASS"},{"name":"The description of a 44100Hz stereo AAC encoder is an AudioSpecificConfig","status":"PASS"},{"name":"The decoderConfig of an AAC encoder can be used to configure an AudioDecoder","status":"PASS"}]}
