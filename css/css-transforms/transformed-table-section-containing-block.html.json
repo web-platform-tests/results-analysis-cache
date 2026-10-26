@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A transformed table section is the containing block for an absolutely positioned descendant","status":"PASS"},{"name":"A table section that gains a transform becomes the containing block for an absolutely positioned descendant","status":"PASS"}]}
