@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"<frame> with referrerpolicy='no-referrer' does not mask initial about:blank ancestorOrigins","status":"PASS"},{"name":"<object> with referrerpolicy='no-referrer' ancestorOrigins must strictly equal [window.origin]","status":"PASS"},{"name":"<embed> does not expose contentWindow on initial about:blank","status":"PASS"}]}
