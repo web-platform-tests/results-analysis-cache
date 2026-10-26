@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Elements are parents of their attributes","status":"PASS"},{"name":"Attributes are not children of their parents","status":"PASS"}]}
