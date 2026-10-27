@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Multiple LanguageDetector.detect() calls with identical inputs are resolved successfully","status":"FAIL"},{"name":"Multiple LanguageDetector.detect() calls with divergent inputs are resolved successfully","status":"FAIL"}]}
