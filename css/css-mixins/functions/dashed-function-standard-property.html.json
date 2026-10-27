@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"<dashed-function> in longhand","status":"FAIL"},{"name":"<dashed-function> with typed result in longhand","status":"FAIL"},{"name":"<dashed-function> with in inherited longhand","status":"FAIL"},{"name":"<dashed-function> with typed result in shorthand","status":"FAIL"}]}
