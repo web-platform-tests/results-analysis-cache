@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-origin range request must be intercepted by the service worker","status":"FAIL"},{"name":"Cross-origin CORS range request must be intercepted by the service worker","status":"FAIL"}]}
