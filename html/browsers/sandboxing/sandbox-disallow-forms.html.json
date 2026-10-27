@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A document sandboxed with allow-forms can submit a form","status":"PASS"},{"name":"A document sandboxed without allow-forms cannot submit a form","status":"PASS"},{"name":"A document sandboxed without allow-forms cannot perform a form submission built in a data document","status":"PASS"}]}
