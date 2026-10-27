@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"currentcolor in a color-mix() resolves against the inheriting element's own color","status":"FAIL"},{"name":"The inherited color at the start of the chain is currentcolor, so it resolves per element","status":"PASS"}]}
