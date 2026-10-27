@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_console_log_cached_messages[console_api_log]","status":"PASS"},{"name":"test_console_log_cached_messages[javascript_error]","status":"PASS"},{"name":"test_console_log_cached_message_after_refresh[console_api_log]","status":"PASS"},{"name":"test_console_log_cached_message_after_refresh[javascript_error]","status":"PASS"}]}
