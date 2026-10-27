@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Following a hyperlink to a fragment scrolls synchronously","status":"FAIL"},{"name":"Hyperlink to a fragment with target equals window name is synchronous","status":"FAIL"}]}
