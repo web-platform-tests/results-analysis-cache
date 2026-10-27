@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"First paint is not reported for an iframe inside an invisible ancestor.","status":"PASS"}]}

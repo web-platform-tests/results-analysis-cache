@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"AccentColorText is black for a light accent-color","status":"FAIL"},{"name":"AccentColorText is white for a dark accent-color","status":"PASS"},{"name":"AccentColorText contrasts against the element's own accent-color","status":"FAIL"}]}
