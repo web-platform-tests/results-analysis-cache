@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getUserMedia() in a discarded browsing context","status":"PASS"},{"name":"enumerateDevices() in a discarded browsing context","status":"PASS"}]}
