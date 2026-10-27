@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Attribution rectangles should be in CSS pixels.","status":"FAIL"},{"name":"Fractional pixel values should be handled correctly.","status":"FAIL"}]}
