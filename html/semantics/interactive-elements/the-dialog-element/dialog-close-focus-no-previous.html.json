@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Closing a dialog with no previously focused element should not leave focus inside it.","status":"FAIL"}]}
