@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"role is list (empty)","status":"PASS"},{"name":"role is list (no listitem)","status":"FAIL"},{"name":"role is menu (empty)","status":"FAIL"},{"name":"role is menu (no menuitem)","status":"FAIL"}]}
