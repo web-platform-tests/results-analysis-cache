@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"window.stop() cancels the navigate event's intercept() and signals event.signal","status":"FAIL"}]}

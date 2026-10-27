@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Hiding a manual popover shown after an auto popover does not close the auto popover","status":"FAIL"},{"name":"Hiding a manual popover shown before an auto popover does not close the auto popover","status":"NOTRUN"}]}

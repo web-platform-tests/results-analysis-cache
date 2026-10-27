@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"InterestEvent doesn't propagate across shadow boundary when retargeted source == currentTarget","status":"FAIL"},{"name":"cross shadow InterestEvent retargets interestee to host element","status":"FAIL"},{"name":"InterestEvent can target the source's own shadow host","status":"FAIL"}]}
