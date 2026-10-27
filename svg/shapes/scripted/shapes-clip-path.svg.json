@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Clipped shapes can be hit when rendered: circle","status":"PASS"},{"name":"Clipped shapes can be hit when rendered: ellipse","status":"PASS"},{"name":"Clipped shapes can be hit when rendered: rect","status":"PASS"}]}
