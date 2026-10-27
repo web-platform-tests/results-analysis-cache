@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CORS preflight cache reuses explicit header entries","status":"PASS"},{"name":"CORS preflight cache does not reuse wildcard header entries for Authorization","status":"FAIL"},{"name":"CORS preflight cache entries are cleared when request has network error","status":"PASS"}]}
