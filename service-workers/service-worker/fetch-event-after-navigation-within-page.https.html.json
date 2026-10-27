@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Service Worker should respond to fetch event after the hash changes","status":"PASS"},{"name":"Service Worker should respond to fetch event after the pushState","status":"PASS"}]}
