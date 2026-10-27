@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Wait for the DOM to be built.","status":"PASS"},{"name":"about:blank can always be embedded by a 'require-corp' document","status":"PASS"},{"name":"A(B(C)) A=require-corp, B=about:blank, C=no-require-corp => C can't load","status":"PASS"}]}
