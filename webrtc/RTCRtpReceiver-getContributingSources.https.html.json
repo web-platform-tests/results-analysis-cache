@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"[audio] getContributingSources() returns an empty list in loopback call","status":"PASS"},{"name":"[video] getContributingSources() returns an empty list in loopback call","status":"PASS"}]}
