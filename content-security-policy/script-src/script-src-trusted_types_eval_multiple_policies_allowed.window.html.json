@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Direct `eval` is allowed when every policy allows it.","status":"PASS"},{"name":"Indirect `eval` is allowed when every policy allows it.","status":"PASS"},{"name":"`new Function` is allowed when every policy allows it.","status":"PASS"},{"name":"`setTimeout` is allowed when every policy allows it.","status":"PASS"}]}
