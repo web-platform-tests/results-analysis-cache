@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"download_end for a link with the download attribute","status":"FAIL"},{"name":"download_end for a navigation to a Content-Disposition: attachment response","status":"FAIL"}]}
