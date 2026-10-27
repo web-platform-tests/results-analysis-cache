@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Opaque RP origin should trigger a NetworkError.","status":"PASS"}]}
