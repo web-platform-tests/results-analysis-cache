@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Template with sanitize attribute should not strip itself when nested","status":"FAIL"}]}
