@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Range.getBoundingClientRect() should return the first position of the next line when the collapsed range is a newline character","status":"FAIL"}]}
