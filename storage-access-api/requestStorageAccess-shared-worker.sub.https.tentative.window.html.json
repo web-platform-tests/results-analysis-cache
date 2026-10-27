@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SharedWorkers don't inherit storage access for fetch","status":"PASS"},{"name":"SharedWorkers don't observe parent's storage access","status":"PASS"},{"name":"SharedWorker WebSocket doesn't inherit storage access","status":"FAIL"}]}
