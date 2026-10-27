@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"HTML partial updates - a script inside a template inside a patch should not execute","status":"PASS"}]}
