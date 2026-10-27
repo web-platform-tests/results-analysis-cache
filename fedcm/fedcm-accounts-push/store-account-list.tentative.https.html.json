@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"login.setStatus with valid account list succeeds.","status":"PASS"},{"name":"login.setStatus with empty account list succeeds.","status":"PASS"},{"name":"login.setStatus with no account list succeeds.","status":"PASS"},{"name":"login.setStatus with an invalid account throws a TypeError.","status":"FAIL"}]}
