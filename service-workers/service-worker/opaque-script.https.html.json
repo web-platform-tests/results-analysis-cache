@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify small same-origin cache_storage scripts are not opaque.","status":"PASS"},{"name":"Verify large same-origin cache_storage scripts are not opaque.","status":"PASS"},{"name":"Verify small cross-origin cache_storage scripts are opaque.","status":"FAIL"},{"name":"Verify large cross-origin cache_storage scripts are opaque.","status":"FAIL"}]}
