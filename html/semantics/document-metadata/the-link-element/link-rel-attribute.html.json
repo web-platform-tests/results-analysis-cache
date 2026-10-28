@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Removing stylesheet from link rel attribute should remove the stylesheet for light DOM","status":"PASS"},{"name":"Removing stylesheet from link rel attribute should remove the stylesheet for shadow DOM","status":"PASS"}]}
