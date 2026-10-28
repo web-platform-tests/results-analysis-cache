@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"hidePopover() does not hide a popover moved and re-shown by its own beforetoggle","status":"FAIL"},{"name":"hidePopover() does not hide a popover moved and re-shown by its child's beforetoggle","status":"FAIL"},{"name":"A popover moved and re-shown in another document closes on Escape there","status":"FAIL"}]}
