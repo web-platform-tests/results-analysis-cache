@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_driver.click() runs event listeners with no script on the stack","status":"PASS"}]}
