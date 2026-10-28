@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"scroll: after-transition on a reload without a fragment scrolls to the beginning of the document","status":"PASS"}]}
