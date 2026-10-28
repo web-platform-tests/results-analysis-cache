@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Makes sure the resources with an unsupported type attribute should not be loaded","status":"PASS"}]}
