@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"\"text-autospace\" and \"consistent\" work fine","status":"FAIL"},{"name":"\"text-autospace\" and \"per-line-all\" work fine","status":"FAIL"}]}
