@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"View transitions work for cross-document navigation to a prerender with COOP","status":"PASS"}]}
