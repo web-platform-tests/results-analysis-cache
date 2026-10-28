@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"mousedown, mouseup, click events go to the lock target","status":"FAIL"}]}
