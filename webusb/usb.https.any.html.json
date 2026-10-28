@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getDevices returns devices that are connected","status":"FAIL"},{"name":"getDevices returns the same objects for each USB device","status":"FAIL"},{"name":"onconnect event is trigged by adding a device","status":"FAIL"},{"name":"ondisconnect event is triggered by removing a device","status":"FAIL"}]}
