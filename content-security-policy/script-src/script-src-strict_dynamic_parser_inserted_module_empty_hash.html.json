@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Parser-inserted external module script in markup does not match the empty-string hash with `strict-dynamic`.","status":"PASS"}]}
