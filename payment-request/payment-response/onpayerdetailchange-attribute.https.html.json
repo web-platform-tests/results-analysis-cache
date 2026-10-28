@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"PaymentResponse inherits from EventTarget","status":"PASS"},{"name":"PaymentResponse has an onpayerdetailchange in the prototype chain","status":"PASS"}]}
