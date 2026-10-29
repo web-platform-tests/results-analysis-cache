@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"margin:auto on abspos resolves correctly after dynamic inset change","status":"PASS"},{"name":"margin:0 auto on abspos resolves correctly after dynamic inset change","status":"PASS"}]}
