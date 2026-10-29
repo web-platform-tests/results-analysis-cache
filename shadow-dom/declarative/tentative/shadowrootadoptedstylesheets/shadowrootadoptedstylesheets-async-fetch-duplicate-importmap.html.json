@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Duplicate bare specifiers via import map are deduplicated and applied.","status":"FAIL"}]}

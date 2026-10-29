@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"selectorText of pseudo-elements without arguments","status":"FAIL"},{"name":"selectorText of a sub-pseudo-element only includes its own pseudo-element","status":"FAIL"},{"name":"selectorText is serialized in lowercase","status":"FAIL"},{"name":"selectorText of a pseudo-element of a disconnected element","status":"FAIL"}]}

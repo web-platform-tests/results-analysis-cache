@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"postMessaging a wasm module to a cross-site iframe fails","status":"PASS"},{"name":"postMessaging a wasm module to a same-host iframe with a different scheme fails","status":"PASS"},{"name":"postMessaging a wasm module to a sandboxed iframe fails","status":"PASS"}]}
