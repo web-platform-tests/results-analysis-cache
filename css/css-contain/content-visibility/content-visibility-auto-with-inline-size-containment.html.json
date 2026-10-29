@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"contain-intrinsic-size is honored for skipped content that is also an inline-size query container (container-type: inline-size)","status":"FAIL"},{"name":"contain-intrinsic-size is honored for skipped content that also has contain: inline-size","status":"FAIL"}]}
