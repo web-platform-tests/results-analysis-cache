@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Modulepreload should load with as=\"worker\" from same-origin url","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getSpeculations() returns plain objects with all members present","status":"PASS"},{"name":"getSpeculations() result can be serialized with JSON.stringify()","status":"PASS"},{"name":"getSpeculations() result can be structured-cloned","status":"PASS"},{"name":"getSpeculations() returns a fresh copy on each call","status":"PASS"}]}
