@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigator.audioSession exposes an AudioSession instance","status":"FAIL"},{"name":"AudioSession.type defaults to 'auto'","status":"FAIL"},{"name":"AudioSession.state defaults to 'inactive'","status":"FAIL"},{"name":"navigator.audioSession is [SameObject]","status":"FAIL"}]}
