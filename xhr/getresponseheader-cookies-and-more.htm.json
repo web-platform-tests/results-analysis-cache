@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XMLHttpRequest: getResponseHeader() custom/non-existent headers and cookies","status":"PASS"}]}

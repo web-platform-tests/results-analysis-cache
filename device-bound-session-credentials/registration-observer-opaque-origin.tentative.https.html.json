@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The constructor throws a SecurityError in a sandboxed iframe","status":"PASS"},{"name":"The constructor does not work in a data: document","status":"PASS"}]}
