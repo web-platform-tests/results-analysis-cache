@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"registered color resolves through a var() fallback","status":"PASS"},{"name":"registered color resolves through a var() fallback when a prioritary property forces early resolution","status":"PASS"}]}
