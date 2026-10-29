@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A highlight pseudo-element in a shadow tree inherits from the shadow host's","status":"FAIL"},{"name":"A highlight pseudo-element of slotted content inherits through the slot","status":"FAIL"}]}
