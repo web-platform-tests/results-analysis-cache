@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Cross-origin iframe fullscreen with keyboardLock:browser — hold Escape exits","status":"TIMEOUT"},{"name":"Nested fullscreen: top-level keyboardLock:none then cross-origin iframe keyboardLock:browser — hold Escape exits iframe fullscreen","status":"NOTRUN"}]}
