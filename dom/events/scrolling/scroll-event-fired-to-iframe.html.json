@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"scrollX and scrollY should fire scroll event.","status":"PASS"},{"name":"scrollX and scrollY being set with the same value.","status":"PASS"},{"name":"scrollX and scrollY being set with invalid scroll Scroll.","status":"PASS"},{"name":"scrollX and scrollY when scrolling above maximum Scroll.","status":"PASS"}]}
