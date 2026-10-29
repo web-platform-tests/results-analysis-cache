@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check that syntax error in .foo rule does not consume .green rule","status":"PASS"}]}
