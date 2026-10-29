@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getElementsByClassName collection should update live when removing item(0)","status":"PASS"},{"name":"document.body.getElementsByClassName collection should update live when removing item(0)","status":"PASS"}]}
