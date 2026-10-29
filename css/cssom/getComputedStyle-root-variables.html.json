@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getComputedStyle should return CSS variables defined on :root","status":"PASS"}]}

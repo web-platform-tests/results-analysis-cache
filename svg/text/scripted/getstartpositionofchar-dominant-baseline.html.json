@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"textPath: get*PositionOfChar().y should not depend on dominant-baseline","status":"PASS"},{"name":"tspan: get*PositionOfChar().y should not depend on dominant-baseline","status":"PASS"}]}
