@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Setter with policy denied cannot focus element in parent with policy allowed","status":"PASS"},{"name":"Setter with policy allowed can focus child element with policy denied via contentDocument","status":"PASS"}]}

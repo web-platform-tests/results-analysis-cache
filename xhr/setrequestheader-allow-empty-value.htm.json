@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XMLHttpRequest: setRequestHeader() - empty header ()","status":"PASS"},{"name":"XMLHttpRequest: setRequestHeader() - empty header (null)","status":"PASS"},{"name":"XMLHttpRequest: setRequestHeader() - empty header (undefined)","status":"PASS"}]}
