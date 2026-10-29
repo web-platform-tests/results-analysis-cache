@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"text on HTMLOptionElement must enqueue disconnectedCallback when removing a custom element","status":"PASS"},{"name":"selected on HTMLOptionElement must enqueue connectedCallback when cloning a custom element into selectedcontent","status":"FAIL"}]}
