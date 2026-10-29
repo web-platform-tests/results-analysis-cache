@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Fulfillment handler on fulfilled promise","status":"PASS"},{"name":"Rejection handler on rejected promise","status":"PASS"},{"name":"Fulfillment handler on pending-then-fulfilled promise","status":"PASS"},{"name":"Rejection handler on pending-then-rejected promise","status":"PASS"},{"name":"Thenable resolution","status":"PASS"}]}
