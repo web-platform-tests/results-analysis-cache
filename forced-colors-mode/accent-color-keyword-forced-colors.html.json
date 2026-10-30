@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"AccentColor keeps the system accent color in forced colors mode","status":"FAIL"},{"name":"AccentColorText keeps the system value in forced colors mode","status":"FAIL"},{"name":"AccentColor mirrors accent-color when forced-color-adjust is none","status":"PASS"}]}
