@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"selectionchange event fired on the document in case TextControl element is in Shadow Tree","status":"FAIL"}]}

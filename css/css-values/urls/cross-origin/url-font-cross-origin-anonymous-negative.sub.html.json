@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"cross-origin(anonymous) blocks cross-origin font loading without CORS headers","status":"FAIL"}]}
