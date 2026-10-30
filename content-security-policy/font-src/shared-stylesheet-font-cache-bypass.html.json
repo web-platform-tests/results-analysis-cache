@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"font-src \"none\" is enforced even when the stylesheet is already in the MemoryCache","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same Origin Worker","status":"PASS"},{"name":"Same Origin SharedWorker","status":"PASS"},{"name":"Data Url Worker","status":"PASS"},{"name":"Data Url SharedWorker","status":"PASS"},{"name":"Blob Url Worker","status":"PASS"},{"name":"Blob Url SharedWorker","status":"PASS"}]}
