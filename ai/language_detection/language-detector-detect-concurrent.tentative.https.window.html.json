@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Multiple LanguageDetector.detect() calls with identical inputs are resolved successfully","status":"TIMEOUT"},{"name":"Multiple LanguageDetector.detect() calls with divergent inputs are resolved successfully","status":"NOTRUN"}]}
