@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Page loaded","status":"PASS"},{"name":"Aborting a smooth scroll with a keyboard event that causes another scroll","status":"FAIL"},{"name":"Aborting a smooth scroll with a keyboard event that does not cause another scroll","status":"FAIL"}]}
