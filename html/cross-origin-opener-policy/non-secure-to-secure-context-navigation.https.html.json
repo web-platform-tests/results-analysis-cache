@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"COOP causes a browsing context group switch when navigating from a non-secure context to a secure one","status":"PASS"}]}
