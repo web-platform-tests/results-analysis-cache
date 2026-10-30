@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_uia[no-attributes]","status":"PASS"},{"name":"test_uia[aria-pressed-undefined]","status":"PASS"},{"name":"test_uia[aria-haspopup-undefined]","status":"PASS"},{"name":"test_uia[aria-haspopup-false]","status":"PASS"}]}
