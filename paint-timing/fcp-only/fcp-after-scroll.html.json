@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"First contentful paint is reported even though a scroll event was dispatched before it.","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Verify CSP control of fetch() in a Service Worker","status":"FAIL"}]}

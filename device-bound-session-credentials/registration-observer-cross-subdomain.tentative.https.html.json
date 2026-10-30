@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A site-scoped session registered on a subdomain is observed by the site root","status":"FAIL"}]}
