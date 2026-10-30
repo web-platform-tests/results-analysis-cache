@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Margins collapse through an empty self-collapsing container","status":"PASS"},{"name":"Margins do not collapse through a block whose table is nested in an inline box","status":"PASS"},{"name":"Margins do not collapse through a block whose table is a direct child","status":"PASS"}]}

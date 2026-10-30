@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Both originating button and ::interest-button have display: table-cell","status":"FAIL"},{"name":"Both originating button and ::interest-button have display: table-row","status":"FAIL"}]}
