@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"External scripts from createContextualFragment() have async=true and execute as async once connected","status":"FAIL"}]}
