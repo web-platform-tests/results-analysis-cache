@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Clicking an option in a list box sets its dirtiness","status":"PASS"},{"name":"Clicking the selected option in a list box sets its dirtiness","status":"FAIL"},{"name":"Clicking an option in a select with multiple sets its dirtiness","status":"PASS"},{"name":"Typing to select an option in a dropdown box sets its dirtiness","status":"PASS"}]}
