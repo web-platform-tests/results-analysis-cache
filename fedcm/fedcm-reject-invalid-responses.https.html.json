@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Reject when provider list is empty","status":"FAIL"},{"name":"Reject when configURL is missing","status":"FAIL"},{"name":"Reject when configURL is invalid","status":"FAIL"},{"name":"Reject when clientId is empty","status":"FAIL"},{"name":"Reject when clientId is missing","status":"FAIL"}]}
