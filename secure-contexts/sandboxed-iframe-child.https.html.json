@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A cross-site iframe in a sandboxed cross-site iframe is a secure context","status":"PASS"}]}
