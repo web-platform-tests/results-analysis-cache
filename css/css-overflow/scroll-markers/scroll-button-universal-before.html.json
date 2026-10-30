@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"::before should not pick up style from ::scroll-button(*) rule","status":"PASS"}]}
