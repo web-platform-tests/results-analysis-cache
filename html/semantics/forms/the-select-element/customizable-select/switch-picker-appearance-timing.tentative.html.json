@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A picker whose select stops having base appearance closes when the rendering is updated, not when style is computed.","status":"FAIL"},{"name":"A picker that stops having base appearance closes when the rendering is updated, not when style is computed.","status":"PASS"}]}
