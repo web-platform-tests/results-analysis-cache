@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IntersectionObserver reports a (non-intersecting) entry even if not in the containing block chain","status":"PASS"}]}
