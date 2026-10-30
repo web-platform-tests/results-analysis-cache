@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"clicking a reset button should trigger a reset (with command attribute)","status":"PASS"},{"name":"clicking a button should trigger a reset (with commandfor attribute)","status":"PASS"},{"name":"clicking a button should trigger a reset (with command and commandfor attribute)","status":"PASS"}]}
