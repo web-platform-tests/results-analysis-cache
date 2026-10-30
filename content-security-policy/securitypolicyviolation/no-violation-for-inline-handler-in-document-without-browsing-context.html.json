@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"DOMParser.parseFromString()","status":"PASS"},{"name":"DOMParser.parseFromString() with body onload","status":"PASS"},{"name":"template.innerHTML","status":"PASS"},{"name":"setAttribute() in template contents","status":"PASS"},{"name":"setAttribute() in a document created by createHTMLDocument()","status":"PASS"}]}

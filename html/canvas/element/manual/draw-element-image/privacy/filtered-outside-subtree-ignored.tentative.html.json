@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"drawElementImage does not use SVG filters outside the canvas subtree","status":"FAIL"}]}
