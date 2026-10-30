@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Inheritance chain","status":"PASS"},{"name":"SVGElement inherited properties","status":"FAIL"},{"name":"SVGTests mixin properties","status":"FAIL"},{"name":"Detached","status":"FAIL"}]}
