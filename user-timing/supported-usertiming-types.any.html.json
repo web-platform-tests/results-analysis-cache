@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"supportedEntryTypes contains 'mark' and 'measure'.","status":"PASS"},{"name":"'mark' entries should be observable.","status":"PASS"},{"name":"'measure' entries should be observable.","status":"PASS"}]}
