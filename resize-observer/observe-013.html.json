@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"no observation is fired after the change of writing mode when box's specified size comes from logical size properties.","status":"FAIL"}]}

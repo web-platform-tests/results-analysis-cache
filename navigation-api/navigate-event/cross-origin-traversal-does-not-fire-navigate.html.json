@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"A cross-origin traversal does not fire the navigate event","status":"TIMEOUT"}]}
