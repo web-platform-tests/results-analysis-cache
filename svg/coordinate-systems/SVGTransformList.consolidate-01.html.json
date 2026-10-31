@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SVGTransformList.prototype.consolidate, throws if read-only","status":"PASS"},{"name":"SVGTransformList.prototype.consolidate, returns null for empty transform list","status":"PASS"},{"name":"SVGTransformList.prototype.consolidate, consolidates","status":"PASS"}]}
