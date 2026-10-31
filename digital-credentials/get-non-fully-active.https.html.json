@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"non-fully active document behavior for navigator.credentials.get()","status":"FAIL"},{"name":"Promise rejects with DOMException when the document becomes non-fully active","status":"FAIL"},{"name":"Aborted Digital Credentials get() requests do not leave a subsequent request stuck in an invalid state","status":"TIMEOUT"}]}

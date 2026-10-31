@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"scrollParent skips intermediate closed shadow tree nodes","status":"FAIL"},{"name":"scrollParent skips intermediate open shadow tree nodes","status":"FAIL"},{"name":"scrollParent from inside closed shadow tree","status":"PASS"},{"name":"scrollParent from inside open shadow tree","status":"PASS"}]}
