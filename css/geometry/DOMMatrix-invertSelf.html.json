@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"new DOMMatrix([0,0,0,0,0,0]).invertSelf()","status":"PASS"},{"name":"new DOMMatrix([1,1,1,1,1,1]).invertSelf()","status":"PASS"},{"name":"new DOMMatrix([0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]).invertSelf()","status":"PASS"},{"name":"new DOMMatrix([1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1]).invertSelf()","status":"PASS"}]}
