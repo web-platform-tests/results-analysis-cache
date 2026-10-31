@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"TextDetector.create() resolves with a working TextDetector instance when ready","status":"PASS"},{"name":"TextDetector.create() rejects with NotSupportedError when backend initialization fails","status":"PASS"}]}
