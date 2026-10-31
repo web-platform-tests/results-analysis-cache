@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XHR should not fire abort or error events when cancelled by navigation","status":"PASS"}]}
