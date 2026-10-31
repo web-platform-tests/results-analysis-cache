@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"UA slot assignment on <details> (manual slotting in Chromium) does not clobber author slot.assign()","status":"FAIL"}]}
