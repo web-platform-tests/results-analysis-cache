@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Setting name is reflected by the name getter","status":"PASS"},{"name":"Setting name is reflected in cssText","status":"PASS"},{"name":"Setting name repeatedly is reflected by the name getter","status":"PASS"},{"name":"Setting an invalid name leaves the name unchanged","status":"PASS"}]}
