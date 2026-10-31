@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"DeviceBoundSessionRegistrationObserver cleanly halts execution upon AbortSignal cancellation","status":"FAIL"},{"name":"DeviceBoundSessionRegistrationObserver with an already aborted signal never calls back","status":"FAIL"},{"name":"DeviceBoundSessionRegistrationObserver stops calling back once aborted after observe()","status":"FAIL"}]}
