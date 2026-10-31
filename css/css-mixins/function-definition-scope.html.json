@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Parameter default resolves a dashed-function in the definition scope","status":"FAIL"},{"name":"result resolves a dashed-function in the definition scope","status":"FAIL"},{"name":"A local resolves a dashed-function in the definition scope","status":"FAIL"}]}
