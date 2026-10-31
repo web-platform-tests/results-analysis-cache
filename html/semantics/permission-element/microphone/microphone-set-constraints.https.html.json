@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"HTMLMicrophoneElement initializes audio track and never video track","status":"FAIL"},{"name":"HTMLMicrophoneElement applies constraints set in a capture-phase click listener","status":"FAIL"},{"name":"HTMLMicrophoneElement setConstraints sanitization strips complex ranges without crashing","status":"FAIL"}]}
