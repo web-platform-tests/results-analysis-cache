@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"type argument is mandatory","status":"FAIL"},{"name":"Invalid surfaceX/surfaceY options cause a RangeError to be thrown","status":"FAIL"},{"name":"Valid surfaceX/surfaceY options are used as initial values","status":"FAIL"},{"name":"surfaceX/surfaceY default to -1","status":"FAIL"}]}
