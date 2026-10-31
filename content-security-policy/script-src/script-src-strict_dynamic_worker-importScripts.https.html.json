@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"`importScripts(...)` is allowed by 'strict-dynamic'","status":"PASS"}]}
