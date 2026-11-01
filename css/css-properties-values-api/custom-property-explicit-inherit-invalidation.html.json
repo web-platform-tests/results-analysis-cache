@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"inherit keyword on a non-inherited custom property tracks the parent","status":"PASS"},{"name":"inherit() on a non-inherited custom property tracks the parent","status":"FAIL"}]}
