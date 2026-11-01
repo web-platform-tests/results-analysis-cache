@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XRProjectionLayer reports a non-zero texture size before the first XR animation frame, scaled by scaleFactor - webgl","status":"PASS"},{"name":"XRProjectionLayer reports a non-zero texture size before the first XR animation frame, scaled by scaleFactor - webgl2","status":"PASS"}]}
