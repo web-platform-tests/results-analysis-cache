@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"drawElementImage does not draw nested tainted html-in-canvas canvases","status":"FAIL"}]}
