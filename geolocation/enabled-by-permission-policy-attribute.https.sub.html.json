@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Permissions policy \"geolocation\" can be enabled in same-origin iframe using allow=\"geolocation\" attribute","status":"NOTRUN"},{"name":"Permissions policy \"geolocation\" can be enabled in cross-origin iframe using allow=\"geolocation\" attribute","status":"NOTRUN"}]}
