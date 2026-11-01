@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Tests that events are never fired synchronously from a call to window.addEventListener().","status":"TIMEOUT"}]}

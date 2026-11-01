@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"negative rx presentation attribute computes to auto","status":"FAIL"},{"name":"negative ry presentation attribute computes to auto","status":"FAIL"},{"name":"negative r presentation attribute computes to 0px","status":"FAIL"},{"name":"negative cx presentation attribute is accepted","status":"PASS"}]}
