@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getDisplayMedia() deviceId setting and capability","status":"FAIL"},{"name":"getDisplayMedia() and facingMode","status":"FAIL"}]}

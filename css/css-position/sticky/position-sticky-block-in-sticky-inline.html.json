@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"a sticky block in an inline does not duplicate its sticky inline ancestor's offset","status":"FAIL"}]}

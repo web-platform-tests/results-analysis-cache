@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test getSupportedConstraints().faceFraming","status":"FAIL"},{"name":"Test getCapabilities().faceFraming","status":"FAIL"},{"name":"Test getSettings().faceFraming","status":"FAIL"},{"name":"Test applyConstraints() with faceFraming","status":"FAIL"}]}
