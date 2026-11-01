@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"drawElementImage ignores cross-origin filters on transformed text in SVG patterns","status":"FAIL"}]}
