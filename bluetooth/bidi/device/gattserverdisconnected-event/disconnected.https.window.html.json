@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A device disconnecting while connected should fire the gattserverdisconnected event.","status":"FAIL"}]}
