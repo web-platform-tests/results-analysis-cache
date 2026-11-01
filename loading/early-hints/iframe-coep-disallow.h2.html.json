@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Early hints for an iframe that violates Cross-Origin-Embedder-Policy should be ignored.","status":"PASS"}]}
