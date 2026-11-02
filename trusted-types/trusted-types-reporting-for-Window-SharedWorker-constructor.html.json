@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"No violation reported for SharedWorker constructor with TrustedScriptURL.","status":"PASS"},{"name":"Violation report for SharedWorker constructor with plain string.","status":"PASS"}]}
