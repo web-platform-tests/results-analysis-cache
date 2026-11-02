@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Trusted Type violation report: evaluating a string violates both script-src and trusted-types.","status":"PASS"},{"name":"Trusted Type violation report: evaluating a Trusted Script violates script-src.","status":"PASS"},{"name":"Trusted Type violation report: script-src restrictions apply after the default policy runs.","status":"PASS"}]}
