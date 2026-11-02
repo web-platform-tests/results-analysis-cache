@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"webgl: clear","status":"PASS"},{"name":"webgl: drawArrays","status":"PASS"},{"name":"webgl: readPixels","status":"PASS"},{"name":"webgl2: clear","status":"PASS"},{"name":"webgl2: drawArrays","status":"PASS"},{"name":"webgl2: readPixels","status":"PASS"}]}
