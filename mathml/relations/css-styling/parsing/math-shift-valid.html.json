@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"e.style['math-shift'] = \"normal\" should set the property value","status":"FAIL"},{"name":"e.style['math-shift'] = \"compact\" should set the property value","status":"FAIL"}]}
