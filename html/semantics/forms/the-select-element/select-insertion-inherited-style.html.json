@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Custom property changed on the root element","status":"FAIL"},{"name":"Inherited property changed on the parent","status":"FAIL"},{"name":"Custom property changed on the root element, read after a rendering update","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Extension: file","status":"FAIL"},{"name":"Extension: file.js","status":"FAIL"},{"name":"Extension: file.json","status":"FAIL"},{"name":"Extension: file.txt","status":"FAIL"}]}
