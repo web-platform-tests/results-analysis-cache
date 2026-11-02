@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"path.getPathData() with malformed d returns segments up to the error","status":"FAIL"},{"name":"path.getPathData() with closepath-only d returns []","status":"FAIL"}]}

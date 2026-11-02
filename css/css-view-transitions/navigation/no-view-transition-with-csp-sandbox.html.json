@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Cross-document view transition is blocked when new document has CSP sandbox without allow-same-origin","status":"PASS"}]}
