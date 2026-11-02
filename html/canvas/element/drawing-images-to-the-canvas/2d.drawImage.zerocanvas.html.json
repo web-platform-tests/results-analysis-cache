@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"drawImage with zero-sized canvas as the source shoud throw exception","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"<navigation-location-test>","status":"PASS"},{"name":"@navigation (at: url-pattern(\"/foo/\")) {\n} should be a valid rule","status":"FAIL"},{"name":"@Navigation  ( At:url-Pattern( '/foo/' )){ \n} should be a valid rule","status":"FAIL"}]}

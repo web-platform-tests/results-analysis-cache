@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"js-profiling-mode=lazy should allow profiling","status":"FAIL"},{"name":"js-profiling-mode=lazy should support concurrent profilers","status":"FAIL"}]}
