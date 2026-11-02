@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Lone high surrogate in XML innerHTML throws a SyntaxError","status":"FAIL"},{"name":"Valid surrogate pair in XML innerHTML is preserved","status":"PASS"}]}

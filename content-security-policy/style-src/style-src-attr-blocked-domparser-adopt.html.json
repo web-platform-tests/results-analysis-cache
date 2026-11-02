@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"A security policy violation is reported for the adopted style attribute","status":"NOTRUN"},{"name":"The style attribute is not applied once the element is adopted into the document","status":"FAIL"}]}
