@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"The access key of an option picks it in a dropdown box","status":"TIMEOUT"},{"name":"The access key of an option picks it in a list box","status":"NOTRUN"},{"name":"The access key of an option toggles it in a select with multiple","status":"NOTRUN"}]}
