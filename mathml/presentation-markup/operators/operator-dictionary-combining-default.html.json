@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Default spacing for = + unsupported combining char U+0303","status":"FAIL"},{"name":"Default spacing for = + U+0338 + U+20D2 (too many characters)","status":"FAIL"}]}
