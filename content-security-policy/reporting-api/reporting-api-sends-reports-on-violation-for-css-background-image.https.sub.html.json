@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A blocked image fetched by CSS is reported without a source location.","status":"FAIL"}]}
