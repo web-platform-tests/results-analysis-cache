@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A composed SubmitEvent can target the submitter's own shadow host","status":"PASS"}]}

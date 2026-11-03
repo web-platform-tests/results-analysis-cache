@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_request_and_response_same_collector","status":"ERROR"},{"name":"test_request_and_response_different_collectors","status":"ERROR"}]}
