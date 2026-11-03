@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Function constructor of stringified object and TrustedScript fails.","status":"PASS"}]}
