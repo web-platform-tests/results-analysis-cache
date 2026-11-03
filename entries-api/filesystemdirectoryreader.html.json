@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"readEntries() enumerates the root directory","status":"PASS"},{"name":"readEntries() returns an empty sequence once done","status":"PASS"},{"name":"readEntries() fails with InvalidStateError when a read is in progress","status":"PASS"},{"name":"createReader() returns a new reader each time","status":"PASS"}]}
