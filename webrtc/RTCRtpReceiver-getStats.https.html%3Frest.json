@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"receiver.getStats() should work on a stopped transceiver but not have inbound-rtp objects","status":"TIMEOUT"}]}
