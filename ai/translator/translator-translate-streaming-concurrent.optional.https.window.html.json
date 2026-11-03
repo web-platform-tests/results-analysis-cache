@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Multiple Translator.translateStreaming() calls with identical inputs are resolved successfully","status":"PRECONDITION_FAILED"},{"name":"Multiple Translator.translateStreaming() calls with divergent inputs are resolved successfully","status":"PRECONDITION_FAILED"}]}
