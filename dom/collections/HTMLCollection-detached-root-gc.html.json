@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getElementsByTagName()","status":"FAIL"},{"name":"getElementsByTagNameNS()","status":"FAIL"},{"name":"getElementsByClassName()","status":"FAIL"},{"name":"getElementsByTagName() rooted at a descendant","status":"FAIL"},{"name":"children","status":"FAIL"}]}
