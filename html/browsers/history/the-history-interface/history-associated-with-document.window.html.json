@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Navigating from the initial about:blank must replace window.history","status":"FAIL"},{"name":"Discarding the browsing context must not change window.history","status":"PASS"},{"name":"document.open() must not replace window.history","status":"PASS"}]}
