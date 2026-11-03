@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"An opaque origin document can register but not execute its own declarative tools","status":"PASS"},{"name":"executeTool() rejects synchronously for opaque origins","status":"PASS"}]}
