@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Referrerpolicy attribute on <object> is ignored and falls back to document policy","status":"TIMEOUT"},{"name":"Referrerpolicy attribute on <embed> is ignored and falls back to document policy","status":"NOTRUN"},{"name":"Referrerpolicy attribute on <frame> is ignored and falls back to document policy","status":"NOTRUN"}]}

@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"A blob: document created by a document with a policy inherits it","status":"FAIL"},{"name":"A blob: document created by a sandboxed document with a policy inherits it","status":"TIMEOUT"}]}

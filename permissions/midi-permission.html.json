@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"querying the \"midi\" permission requires two WebIDL conversions","status":"FAIL"}]}

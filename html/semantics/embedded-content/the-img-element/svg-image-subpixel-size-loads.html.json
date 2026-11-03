@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"An SVG image smaller than a pixel loads","status":"PASS"},{"name":"An SVG image with a width and height of 0 loads","status":"FAIL"}]}
