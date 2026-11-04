@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Targeted template with buffer attribute buffers children and replaces target content atomically at finalization","status":"FAIL"}]}
