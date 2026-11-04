@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The window is cross-origin isolated","status":"FAIL"},{"name":"postMessaging a wasm module to a same-origin iframe succeeds","status":"FAIL"},{"name":"postMessaging a wasm module to a same-site cross-origin iframe fails","status":"FAIL"}]}

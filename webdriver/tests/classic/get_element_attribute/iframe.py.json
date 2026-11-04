@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_element_attribute_in_frame[value-v-same_origin]","status":"FAIL"},{"name":"test_element_attribute_in_frame[value-v-cross_origin]","status":"FAIL"},{"name":"test_element_attribute_in_frame[disabled-true-same_origin]","status":"PASS"},{"name":"test_element_attribute_in_frame[disabled-true-cross_origin]","status":"PASS"}]}

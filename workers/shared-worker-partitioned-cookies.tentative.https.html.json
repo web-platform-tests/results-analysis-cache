@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SharedWorker: Partitioned Cookies","status":"TIMEOUT"},{"name":"SharedWorker: Partitioned Cookies 3P Window","status":"TIMEOUT"},{"name":"Service Worker: Partitioned Cookies 3P Iframe","status":"FAIL"}]}

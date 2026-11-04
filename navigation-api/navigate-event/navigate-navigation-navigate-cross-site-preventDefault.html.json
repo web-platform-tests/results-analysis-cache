@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"preventDefault() cancels a cross-site navigation.navigate()","status":"TIMEOUT"}]}
