@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A credentialless iframe observes nothing and keeps running","status":"PASS"},{"name":"An iframe from this origin under a cross-site iframe observes nothing and keeps running","status":"PASS"}]}
