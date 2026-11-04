@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"WebAssembly.instantiate() is allowed","status":"PASS"},{"name":"WebAssembly.compile() is allowed","status":"PASS"},{"name":"new WebAssembly.Module() is allowed","status":"PASS"},{"name":"WebAssembly.compileStreaming() is allowed","status":"TIMEOUT"},{"name":"WebAssembly.instantiateStreaming() is allowed","status":"NOTRUN"}]}

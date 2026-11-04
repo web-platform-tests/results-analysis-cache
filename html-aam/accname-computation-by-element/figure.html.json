@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"figure expecting name from 2 aria-labelledby refs","status":"FAIL"},{"name":"figure expecting name from 1 aria-labelledby ref","status":"FAIL"},{"name":"figure expecting name from aria-label","status":"FAIL"},{"name":"figure expecting name from title","status":"FAIL"},{"name":"figure expecting name to be empty","status":"FAIL"}]}

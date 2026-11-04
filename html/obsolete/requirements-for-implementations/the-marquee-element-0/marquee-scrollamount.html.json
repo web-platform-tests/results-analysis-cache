@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The scrollamount is a string","status":"FAIL"},{"name":"The scrollamount is a negative","status":"FAIL"},{"name":"The scrollamount is a normal value","status":"FAIL"}]}

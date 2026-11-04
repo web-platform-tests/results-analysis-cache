@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"isPointInStroke() honours the transformation matrix on a canvas with no bitmap","status":"FAIL"}]}
