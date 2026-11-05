@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Deselecting the selected option of a base appearance select with a closed picker selects its first option","status":"FAIL"},{"name":"Removing the selected attribute of the selected option of a base appearance select with a closed picker selects its first option","status":"FAIL"}]}

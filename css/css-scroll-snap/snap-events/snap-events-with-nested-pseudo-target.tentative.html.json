@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"snapTarget for scrollsnapchange is the originating element when a snap area belongs to a nested pseudo-element","status":"FAIL"},{"name":"snapTarget for scrollsnapchanging is the originating element when a snap area belongs to a nested pseudo-element","status":"FAIL"}]}
