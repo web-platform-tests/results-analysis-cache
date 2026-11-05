@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"MathML anchor with ping attribute should send ping on click","status":"PASS"},{"name":"MathML anchor with multiple ping URLs should send multiple pings","status":"PASS"},{"name":"MathML anchor ping attribute should be settable via ping IDL attribute","status":"PASS"}]}
