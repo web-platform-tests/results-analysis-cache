@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"all initial values","status":"FAIL"},{"name":"mask-size with every earlier component omitted","status":"FAIL"},{"name":"mask-size with a mask-image","status":"FAIL"},{"name":"the serialized shorthand parses back to itself","status":"PASS"}]}

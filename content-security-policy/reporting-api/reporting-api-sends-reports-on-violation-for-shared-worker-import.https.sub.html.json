@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A blocked static import in a module SharedWorker is reported on the creator document.","status":"FAIL"},{"name":"Violation report status OK.","status":"PASS"}]}
