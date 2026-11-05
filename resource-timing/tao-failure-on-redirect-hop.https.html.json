@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Timing info is exposed when the redirect and the final response pass the TAO check.","status":"PASS"},{"name":"Timing info is hidden when the redirect fails the TAO check and the final response passes it.","status":"FAIL"}]}

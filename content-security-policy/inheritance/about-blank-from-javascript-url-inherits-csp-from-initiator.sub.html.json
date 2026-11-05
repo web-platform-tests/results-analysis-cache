@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"about:blank inherits initiator's CSP; cross-origin policy container does not leak.","status":"PASS"}]}
