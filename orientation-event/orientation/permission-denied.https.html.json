@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"deviceorientation: fires once with null values when user permission is denied","status":"FAIL"},{"name":"deviceorientationabsolute: fires once with null values when user permission is denied","status":"NOTRUN"}]}

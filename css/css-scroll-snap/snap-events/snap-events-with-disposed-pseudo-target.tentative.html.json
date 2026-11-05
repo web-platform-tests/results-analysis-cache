@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Snap events don't expose or crash on a snap target pseudo-element that was disposed since the last layout","status":"FAIL"}]}
