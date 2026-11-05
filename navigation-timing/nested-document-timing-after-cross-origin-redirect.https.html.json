@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Timing info is exposed when the final document sends Timing-Allow-Origin.","status":"FAIL"}]}
