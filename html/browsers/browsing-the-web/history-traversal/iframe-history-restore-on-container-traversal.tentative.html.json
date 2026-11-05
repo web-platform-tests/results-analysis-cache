@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"iframe is restored to JS-navigated URL when container traverses back","status":"FAIL"},{"name":"iframe is not restored to JS-navigated URL when container is reloaded","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Layout change under a stationary pointer (a new element appears) fires boundary events and no pointermove event","status":"TIMEOUT"},{"name":"Layout change under a stationary pointer (the element disappears) fires boundary events and no pointermove event","status":"NOTRUN"}]}

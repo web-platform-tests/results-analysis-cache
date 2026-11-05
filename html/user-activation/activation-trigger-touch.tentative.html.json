@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Activation through touch actions which cause scrolling","status":"TIMEOUT"},{"name":"Activation through touch actions which doesn't cause scrolling","status":"NOTRUN"}]}
