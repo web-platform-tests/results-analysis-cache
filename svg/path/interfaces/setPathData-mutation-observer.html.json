@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"setPathData() fires a MutationObserver record for the d attribute","status":"FAIL"},{"name":"setPathData([]) fires a MutationObserver record","status":"FAIL"}]}
