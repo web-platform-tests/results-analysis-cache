@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SemanticEmbedder.availability() returns a valid value with no options","status":"PASS"},{"name":"SemanticEmbedder.availability() returns a valid value with empty options","status":"PASS"}]}

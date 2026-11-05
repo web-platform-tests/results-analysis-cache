@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_always_captures_top_browsing_context","status":"PASS"},{"name":"test_source_origin[same_origin]","status":"PASS"},{"name":"test_source_origin[cross_origin]","status":"PASS"}]}
