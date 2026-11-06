@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_origin[same_origin]","status":"PASS"},{"name":"test_origin[cross_origin]","status":"PASS"},{"name":"test_reload_resets_iframe_location[same_origin]","status":"PASS"},{"name":"test_reload_resets_iframe_location[cross_origin]","status":"PASS"}]}

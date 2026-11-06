@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Text directive allowed in text/html with a charset parameter","status":"PASS"},{"name":"Text directive allowed in text/html served with mixed-case MIME type","status":"TIMEOUT"}]}
