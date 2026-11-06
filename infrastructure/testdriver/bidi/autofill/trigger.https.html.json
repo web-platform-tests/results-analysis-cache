@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"autofill an address","status":"PASS"},{"name":"autofill a credit card","status":"PASS"},{"name":"autofill a credit card in a same-origin iframe","status":"PASS"}]}
