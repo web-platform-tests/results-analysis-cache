@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Setting window.location to a javascript: URL with a default policy that throws should report a CSP violation without rethrowing the exception.","status":"FAIL"}]}

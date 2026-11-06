@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Toggling display between inline and contents on a tspan in SVG text should not crash","status":"FAIL"}]}

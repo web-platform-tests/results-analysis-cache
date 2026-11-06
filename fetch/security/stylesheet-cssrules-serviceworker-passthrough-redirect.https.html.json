@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Cross-origin stylesheet cssRules blocked when laundered through a pass-through service worker (same-origin -> cross-origin -> same-origin)","status":"FAIL"}]}

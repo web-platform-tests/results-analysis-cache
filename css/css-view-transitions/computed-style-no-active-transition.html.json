@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check default values of VT pseudo properties outside of an active view transition","status":"FAIL"},{"name":"Values of VT pseudo properties with author stylesheet outside of an active view transition","status":"FAIL"},{"name":"Value of inherited VT pseudo properties","status":"FAIL"}]}

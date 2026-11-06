@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Paints after inserting the container root again are reported from scratch.","status":"FAIL"},{"name":"Text painted after inserting the container root again is reported from scratch.","status":"FAIL"}]}

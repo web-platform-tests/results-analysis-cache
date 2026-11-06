@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"PC should enter connected (or completed) state when candidates are sent","status":"FAIL"},{"name":"PC should generate offer with a=ice-options:trickle","status":"FAIL"},{"name":"PC should enter disconnected state when a failing candidate is sent","status":"FAIL"}]}
