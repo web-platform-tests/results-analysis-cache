@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check that ShapedText::actualBoundingBox() throws when using invalid indexes.","status":"PASS"}]}
