@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Removing the element from the default policy during the pre-navigation check of its javascript: URL src should not fire a load event at it.","status":"FAIL"}]}

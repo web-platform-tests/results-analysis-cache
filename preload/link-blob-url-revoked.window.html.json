@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"rel=preload of a blob URL","status":"TIMEOUT"},{"name":"rel=preload of a blob URL revoked after insertion","status":"NOTRUN"},{"name":"rel=prefetch of a blob URL","status":"NOTRUN"},{"name":"rel=prefetch of a blob URL revoked after insertion","status":"NOTRUN"}]}
