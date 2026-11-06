@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Testing BFCache support for page with open WebSocket connection, where the WebSocket connection is closed on BFCache.","status":"PRECONDITION_FAILED"}]}
