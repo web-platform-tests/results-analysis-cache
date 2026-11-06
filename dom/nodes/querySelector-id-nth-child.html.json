@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"querySelector matching #id + constant nth-child()","status":"PASS"},{"name":"querySelectorAll matching #id + constant nth-child()","status":"PASS"}]}

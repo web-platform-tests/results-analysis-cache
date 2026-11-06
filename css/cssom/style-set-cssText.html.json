@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"initial value of cssRule.style.cssText","status":"PASS"},{"name":"sets empty string for invalid cssText","status":"PASS"},{"name":"sets only the valid properties for partially valid cssText","status":"PASS"}]}
