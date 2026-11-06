@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Document parsing does not execute an SVG <script> whose ancestor was disconnected before its end tag","status":"PASS"}]}

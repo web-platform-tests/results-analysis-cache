@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A taint-only destination change must rebuild an active registered-property transition","status":"FAIL"}]}
