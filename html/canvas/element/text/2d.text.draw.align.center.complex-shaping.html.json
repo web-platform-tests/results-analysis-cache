@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"fillText with textAlign=center centers complex-shaped text on the requested x","status":"PASS"},{"name":"fillText with textAlign=right right-aligns complex-shaped text on the requested x","status":"PASS"}]}

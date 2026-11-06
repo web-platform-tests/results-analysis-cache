@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_window_with_frame[same_origin]","status":"PASS"},{"name":"test_window_with_frame[cross_origin]","status":"PASS"},{"name":"test_window_after_navigating_away_from_frame[same_origin]","status":"PASS"},{"name":"test_window_after_navigating_away_from_frame[cross_origin]","status":"PASS"}]}

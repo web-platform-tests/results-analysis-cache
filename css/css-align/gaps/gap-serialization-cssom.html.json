@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"gap serializes as the empty string when one longhand is a CSS-wide keyword and the other is not","status":"FAIL"},{"name":"gap serializes to \"initial\" when both longhands are initial","status":"PASS"},{"name":"gap serializes normal/length longhands as a valid shorthand","status":"PASS"}]}

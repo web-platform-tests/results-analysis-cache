@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test various invalid input cases for setAppBadge()","status":"FAIL"},{"name":"Sequential badge operations work correctly","status":"PASS"}]}
