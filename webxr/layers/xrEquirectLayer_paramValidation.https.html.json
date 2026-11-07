@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Ensure XREquirectLayer init and setter parameters are validated - webgl","status":"FAIL"},{"name":"Ensure XREquirectLayer init and setter parameters are validated - webgl2","status":"FAIL"}]}
