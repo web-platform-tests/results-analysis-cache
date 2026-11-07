@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"<isindex>","status":"PASS"},{"name":"<isindex name=\"A\" action=\"B\" prompt=\"C\" foo=\"D\">","status":"PASS"},{"name":"<form><isindex>","status":"PASS"},{"name":"<!doctype html><isindex>x</isindex>x","status":"PASS"}]}
