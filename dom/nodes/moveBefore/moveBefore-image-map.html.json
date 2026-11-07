@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"An image stops using a map that is moved into a shadow root","status":"PASS"},{"name":"An image moved into a shadow root uses a map in the shadow root","status":"PASS"},{"name":"An area whose image was moved into a shadow root is no longer focusable","status":"PASS"}]}

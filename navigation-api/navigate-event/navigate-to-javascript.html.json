@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigate event does not fire for javascript: URL navigations","status":"PASS"}]}
