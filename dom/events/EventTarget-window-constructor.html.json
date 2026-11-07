@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Modifying window.constructor does not affect event dispatch","status":"PASS"}]}
