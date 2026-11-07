@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Removing a rejected declarative form does not unregister the imperative tool sharing its name","status":"FAIL"},{"name":"Renaming a rejected declarative form does not unregister the imperative tool sharing its old name","status":"NOTRUN"}]}

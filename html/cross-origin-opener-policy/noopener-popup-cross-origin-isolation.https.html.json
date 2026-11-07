@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-origin popup without COOP and COEP","status":"PASS"},{"name":"Same-site popup without COOP and COEP","status":"PASS"},{"name":"Cross-site popup without COOP and COEP","status":"PASS"},{"name":"Same-origin popup with COOP and COEP","status":"PASS"}]}

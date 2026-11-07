@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"securitypolicyviolation event fires under script-src for declarative style module","status":"NOTRUN"},{"name":"error event fires on style module blocked by script-src CSP","status":"NOTRUN"},{"name":"script-src CSP can block Declarative CSS Modules.","status":"PASS"}]}
