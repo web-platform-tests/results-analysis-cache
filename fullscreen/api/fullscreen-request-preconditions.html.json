@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"requestFullscreen: rejects when the document is not allowed to use the fullscreen permission feature","status":"PASS"},{"name":"requestFullscreen: succeeds when the element is a popover in hidden state","status":"PASS"},{"name":"requestFullscreen: rejects when the element is a popover in showing state","status":"FAIL"}]}

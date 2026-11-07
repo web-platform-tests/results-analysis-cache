@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Keyboard scrolling scrolls the scroller when clicked target is removed","status":"TIMEOUT"},{"name":"Keyboard scrolling scrolls the scroller when clicked children are removed","status":"NOTRUN"},{"name":"Keyboard scrolling scrolls the next nearest scroller if the clicked scroller is removed","status":"NOTRUN"}]}
