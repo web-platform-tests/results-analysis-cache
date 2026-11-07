@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SemanticEmbedder.embed() can be aborted","status":"FAIL"},{"name":"Aborting after embed() resolved has no effect","status":"FAIL"}]}

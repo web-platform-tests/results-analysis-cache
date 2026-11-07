@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Removing a named child in updateCallback does not reject ready","status":"PASS"},{"name":"Removing a named child in async updateCallback across rAF does not reject ready","status":"FAIL"}]}
