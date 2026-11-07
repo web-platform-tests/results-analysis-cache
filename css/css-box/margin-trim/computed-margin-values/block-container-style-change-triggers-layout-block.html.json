@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Margins are untrimmed with margin-trim: none","status":"PASS"},{"name":"Adding margin-trim: block trims the adjoining margins","status":"FAIL"},{"name":"Narrowing margin-trim to block-end restores the block-start margin","status":"FAIL"},{"name":"Removing margin-trim restores all margins","status":"PASS"}]}

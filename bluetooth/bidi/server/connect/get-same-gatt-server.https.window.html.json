@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Multiple connects should return the same gatt object.","status":"FAIL"}]}
