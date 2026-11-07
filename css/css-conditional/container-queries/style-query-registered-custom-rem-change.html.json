@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initially, 1rem * 10 evaluates to 160px","status":"PASS"},{"name":"Changing the :root font-size to 10px makes 1rem * 10 evaluate to 100px","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initial scroll position (0, 0)","status":"FAIL"},{"name":"Scroll down to (0, 100) shrinks top and grows bottom once stopped","status":"FAIL"},{"name":"Scroll up to (0, 50) grows top back and shrinks bottom once stopped","status":"FAIL"},{"name":"Scroll back to (0, 0) restores initial sizes once stopped","status":"FAIL"}]}

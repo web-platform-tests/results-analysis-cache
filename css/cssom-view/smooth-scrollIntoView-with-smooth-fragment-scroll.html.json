@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Smooth scroll to hash fragment (on pageload) alongside smooth scrollIntoView runs to completion.","status":"TIMEOUT"},{"name":"Smooth scroll to hash fragment (on click) alongside smooth scrollIntoView runs to completion.","status":"NOTRUN"}]}

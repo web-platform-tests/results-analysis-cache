@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"event.intercept() can intercept navigation.back()","status":"FAIL"}]}
