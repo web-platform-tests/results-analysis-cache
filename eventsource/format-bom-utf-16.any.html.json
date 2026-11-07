@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"EventSource: UTF-16LE byte order mark is not used","status":"PASS"},{"name":"EventSource: UTF-16BE byte order mark is not used","status":"PASS"}]}
