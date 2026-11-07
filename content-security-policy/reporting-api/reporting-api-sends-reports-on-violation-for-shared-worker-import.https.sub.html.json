@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"A blocked static import in a module SharedWorker is reported on the creator document.","status":"TIMEOUT"},{"name":"Violation report status OK.","status":"PASS"}]}

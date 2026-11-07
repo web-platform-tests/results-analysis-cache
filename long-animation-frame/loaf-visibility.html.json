@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Invisible windows do not report long animation frames","status":"FAIL"},{"name":"Long animation frames aborted when window becomes hidden are not reported","status":"NOTRUN"}]}
