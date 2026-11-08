@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"An invalid WebAssembly module script does not fail when scripting is disabled","status":"PASS"}]}
