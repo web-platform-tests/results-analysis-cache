@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"setTimeout, string argument","status":"PASS"},{"name":"setTimeout, function argument","status":"PASS"},{"name":"setInterval, string argument","status":"PASS"},{"name":"setInterval, function argument","status":"PASS"}]}

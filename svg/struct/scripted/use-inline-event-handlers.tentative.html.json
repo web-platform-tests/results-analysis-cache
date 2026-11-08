@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Inline onload handler of svg-image in a use element shadow tree doesn't run","status":"PASS"},{"name":"Inline onload handler of html-img in a use element shadow tree doesn't run","status":"PASS"}]}
