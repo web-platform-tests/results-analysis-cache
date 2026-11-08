@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Copying an element with opacity in the inline style should drop opacity","status":"PASS"},{"name":"Copying an element with important opacity in the inline style should drop opacity","status":"PASS"},{"name":"Copying an element with opacity as the only property in the inline style should drop opacity","status":"PASS"}]}
