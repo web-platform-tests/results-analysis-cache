@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Check that ShapedText::selectionRects() works correctly with textBaseline.","status":"PASS"}]}
