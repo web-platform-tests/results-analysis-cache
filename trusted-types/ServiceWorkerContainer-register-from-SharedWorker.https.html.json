@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"WorkerNavigator exposed in shared worker","status":"PASS"},{"name":"register() with TrustedScriptURL works in shared worker","status":"PASS"},{"name":"register() fails with plain string in shared worker","status":"PASS"},{"name":"register() fails with plain string in shared worker with a default policy","status":"PASS"}]}
