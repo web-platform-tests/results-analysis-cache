@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"clicking on an <a> element that navigates same-document targeting a cross-origin window","status":"TIMEOUT"}]}
