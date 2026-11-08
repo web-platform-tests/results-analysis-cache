@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Anchoring adjustment works correctly when the anchor itself has changing negative overflow","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":".box 1: start","status":"PASS"},{"name":".box 2: center","status":"FAIL"},{"name":".box 3: end","status":"FAIL"},{"name":".box 4: space-around","status":"FAIL"}]}
