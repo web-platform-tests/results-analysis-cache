@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"DOMParser-parsed inline styles remain blocked by the calling page's CSP; only the console warning is suppressed","status":"PASS"}]}

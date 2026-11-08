@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IntersectionObserver observing an SVG <rect> element with changing 'transform'","status":"PASS"},{"name":"First rAF.","status":"FAIL"},{"name":"translated down by 150 units (out of SVG viewport)","status":"FAIL"},{"name":"translated down by 50 units","status":"FAIL"}]}

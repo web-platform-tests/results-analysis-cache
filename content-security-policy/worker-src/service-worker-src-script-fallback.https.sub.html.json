@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"Same-origin service worker allowed by script-src 'self'.","status":"FAIL"}]}

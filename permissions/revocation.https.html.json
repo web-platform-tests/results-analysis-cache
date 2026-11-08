@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Transition \"granted\" -> \"prompt\" fires a \"change\" event","status":"TIMEOUT"},{"name":"Transition \"granted\" -> \"denied\" fires a \"change\" event","status":"NOTRUN"}]}
