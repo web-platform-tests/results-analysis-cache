@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"innerText should be the same for the pre-line and pre examples","status":"PASS"},{"name":"innerText has collapsed whitespace but preserved newlines with pre-line","status":"FAIL"}]}
