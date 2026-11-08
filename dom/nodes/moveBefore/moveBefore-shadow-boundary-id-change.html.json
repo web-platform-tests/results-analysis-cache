@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Changing the id of an element moved into a shadow root only updates the shadow root's id map","status":"PASS"},{"name":"Changing the id of an element moved out of a shadow root updates the document's id and name maps","status":"PASS"}]}
