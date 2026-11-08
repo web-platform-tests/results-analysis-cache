@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_window_open[]","status":"FAIL"},{"name":"test_window_open[about:blank]","status":"FAIL"},{"name":"test_window_open[inline]","status":"FAIL"},{"name":"test_event_order[]","status":"FAIL"},{"name":"test_event_order[about:blank]","status":"FAIL"},{"name":"test_event_order[inline]","status":"FAIL"}]}
