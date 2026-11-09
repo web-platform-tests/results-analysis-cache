@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"#button","status":"FAIL"},{"name":"#input","status":"FAIL"},{"name":"#date","status":"FAIL"},{"name":"#select","status":"FAIL"},{"name":"#textarea","status":"FAIL"},{"name":"#fieldset-button disabled via #fieldset","status":"FAIL"},{"name":"Other focus fixup triggers still apply to disabled elements","status":"FAIL"}]}
