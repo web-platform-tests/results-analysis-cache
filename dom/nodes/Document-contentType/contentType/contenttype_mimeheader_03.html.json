@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"document.contentType is lowercase when the Content-Type header is in uppercase","status":"FAIL"}]}
