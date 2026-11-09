@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"wheel relatedTarget should be retargeted to shadow host when entering shadow DOM","status":"FAIL"}]}
