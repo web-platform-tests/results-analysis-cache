@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that ShapedText::glyphClusters() and ShapedText::glyphRuns() return GlyphRun objects positioned according to the context textAlign and textBaseline at shapeText() time, and expose per-run TextMetrics.","status":"FAIL"}]}

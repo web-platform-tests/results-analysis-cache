@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Empty option bag should be accepted","status":"FAIL"},{"name":"Option bag with protocols array should be accepted","status":"FAIL"}]}
