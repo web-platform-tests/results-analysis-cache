@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Canvas drawElementImage() and getElementImageDefaultSize() should throw when drawn child is not laid out.","status":"FAIL"}]}
