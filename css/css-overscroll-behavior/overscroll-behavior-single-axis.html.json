@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"overscroll-behavior-y:contain on an x-only scroller does not block vertical chaining","status":"PASS"},{"name":"overscroll-behavior-x:contain on a y-only scroller does not block horizontal chaining","status":"PASS"},{"name":"overscroll-behavior-y:contain on a y-scroller still blocks vertical chaining (control)","status":"PASS"}]}
