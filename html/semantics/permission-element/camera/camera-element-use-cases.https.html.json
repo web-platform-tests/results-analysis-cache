@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A camera element with video constraints requests camera permission and yields single video capture stream on user click","status":"FAIL"}]}

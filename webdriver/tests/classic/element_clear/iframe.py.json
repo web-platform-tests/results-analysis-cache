@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_clear_element_in_frame[same_origin]","status":"PASS"},{"name":"test_clear_element_in_frame[cross_origin]","status":"PASS"}]}
