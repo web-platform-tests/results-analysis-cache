@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"test_content_attribute_property_in_frame[same_origin]","status":"PASS"},{"name":"test_content_attribute_property_in_frame[cross_origin]","status":"PASS"},{"name":"test_idl_attribute_property_in_frame[same_origin]","status":"PASS"},{"name":"test_idl_attribute_property_in_frame[cross_origin]","status":"PASS"}]}
