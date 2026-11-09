@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"rootElement and lastPaintedElement are null once each is removed from the document.","status":"FAIL"}]}
