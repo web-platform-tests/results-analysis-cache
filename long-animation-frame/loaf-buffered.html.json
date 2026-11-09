@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"PerformanceObserver with buffered flag can see previous long-animation-frame entries.","status":"PASS"},{"name":"Performance timeline buffer for long-animation-frame is capped at 200 entries.","status":"PASS"}]}

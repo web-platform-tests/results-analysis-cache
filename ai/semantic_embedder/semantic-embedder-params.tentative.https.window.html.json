@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SemanticEmbedder.params() lists the served embedding spaces","status":"PRECONDITION_FAILED"},{"name":"availability() accepts every space listed by params()","status":"PASS"}]}
