@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A cross-origin frame without allow=\"cross-origin-isolated\" is not cross-origin isolated and cannot serialize a SharedArrayBuffer","status":"FAIL"},{"name":"A cross-origin frame with allow=\"cross-origin-isolated\" is cross-origin isolated and can serialize a SharedArrayBuffer","status":"FAIL"}]}

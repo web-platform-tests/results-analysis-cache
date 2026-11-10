@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Parser-inserted classic script blocked by `strict-dynamic` fires an error event.","status":"PASS"},{"name":"Parser-inserted module script blocked by `strict-dynamic` fires an error event.","status":"PASS"}]}

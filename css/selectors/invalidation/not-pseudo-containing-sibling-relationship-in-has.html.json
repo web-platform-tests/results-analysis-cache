@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initially red","status":"FAIL"},{"name":":nth-child() enclosed by :not() matching after insertion","status":"PASS"},{"name":":nth-last-child() enclosed by :not() matching after insertion","status":"PASS"}]}

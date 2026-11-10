@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigation.traverseTo() in an iframe can be retried after the parent canceled the traversal","status":"FAIL"},{"name":"navigation.traverseTo() in several iframes with same-document preventDefault in the parent","status":"FAIL"}]}

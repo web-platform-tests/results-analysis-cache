@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"In-viewport iframes load eagerly","status":"PASS"},{"name":"Below-viewport iframes load lazily","status":"FAIL"},{"name":"In-viewport iframe nested in a cross-site frame loads eagerly","status":"PASS"},{"name":"Below-viewport iframe nested in a cross-site frame loads lazily","status":"FAIL"}]}
