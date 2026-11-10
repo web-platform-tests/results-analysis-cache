@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getComputedStyle() for ::view-transition-group(*) is not confused with the escaped name \\*","status":"FAIL"}]}
