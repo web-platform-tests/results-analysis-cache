@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"about:blank gets the initiator's origin again after traversal","status":"PASS"},{"name":"about:blank gets the initiator's origin again after reload","status":"PASS"},{"name":"about:blank in a popup that escaped the sandbox gets the initiator's origin, not its opener's opaque one","status":"PASS"}]}
