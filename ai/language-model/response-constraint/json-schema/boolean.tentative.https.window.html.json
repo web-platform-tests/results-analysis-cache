@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Prompt should work with a boolean json schema constraint.","status":"FAIL"}]}

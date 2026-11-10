@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"distance 0 returns the leading MoveTo","status":"PASS"},{"name":"an exact segment boundary returns the prior segment","status":"PASS"},{"name":"distance 0 on a MoveTo-only path returns the MoveTo","status":"PASS"}]}
