@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Text directive allowed in text/html with a charset parameter","status":"FAIL"},{"name":"Text directive allowed in text/html served with mixed-case MIME type","status":"PASS"}]}
