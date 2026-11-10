@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SVG anchor with ping attribute should send ping on click","status":"FAIL"},{"name":"SVG anchor with multiple ping URLs should send multiple pings","status":"FAIL"},{"name":"SVG anchor ping attribute should be settable via ping IDL attribute","status":"FAIL"}]}
