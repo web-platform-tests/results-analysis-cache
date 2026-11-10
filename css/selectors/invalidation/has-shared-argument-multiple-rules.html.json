@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Class change invalidates all rules sharing the :has() argument","status":"PASS"},{"name":"Insertion and removal invalidate all rules sharing the :has() argument","status":"PASS"}]}
