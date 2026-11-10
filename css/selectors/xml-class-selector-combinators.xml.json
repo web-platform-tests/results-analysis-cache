@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Class selector matches an ancestor in an XML namespace","status":"PASS"},{"name":"Class selector matches a parent in an XML namespace","status":"PASS"},{"name":"Class selector matches a previous sibling in an XML namespace","status":"PASS"},{"name":"Changing class on an ancestor in an XML namespace updates style","status":"PASS"}]}
