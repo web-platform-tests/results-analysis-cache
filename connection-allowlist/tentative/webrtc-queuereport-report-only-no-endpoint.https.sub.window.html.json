@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test that a WebRTC violation report reaches a ReportingObserver in report-only mode when no reporting endpoint is declared.","status":"TIMEOUT"}]}

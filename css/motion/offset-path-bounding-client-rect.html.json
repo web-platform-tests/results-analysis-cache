@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Bounding client rect for #blue","status":"FAIL"},{"name":"Bounding client rect for #purple","status":"FAIL"}]}

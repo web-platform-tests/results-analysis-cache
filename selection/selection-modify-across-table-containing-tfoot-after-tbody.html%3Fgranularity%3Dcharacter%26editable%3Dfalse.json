@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"modify(\"move\", \"forward\", \"character\") should be reachable outside the table","status":"PASS"},{"name":"modify(\"move\", \"backward\", \"character\") should be reachable outside the table","status":"PASS"}]}

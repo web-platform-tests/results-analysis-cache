@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"WebSocket inherits storage access","status":"FAIL"},{"name":"WebSocket omits unpartitioned cookies without storage access","status":"PASS"}]}
