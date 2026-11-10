@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Resize event fired exactly once against window.visualViewport if scrollbars affect layout.","status":"TIMEOUT"}]}
