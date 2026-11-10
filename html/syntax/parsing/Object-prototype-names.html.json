@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Creating HTML elements with property names from Object.prototype should not be problematic","status":"PASS"},{"name":"Creating XML elements with property names from Object.prototype should not be problematic","status":"PASS"}]}
