@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Table reaches specified height with fixed-height rows","status":"PASS"},{"name":"Extra height distributed proportionally to row content heights, not inflated by spacing","status":"PASS"}]}

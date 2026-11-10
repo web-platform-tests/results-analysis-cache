@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"blockedURL is the request URL, not the URL a cross-origin redirect led to","status":"PASS"}]}
