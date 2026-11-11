@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"LNA Public to local with permission","status":"TIMEOUT"},{"name":"LNA Public to local with permission denied","status":"NOTRUN"},{"name":"LNA Public to local http mixed content bypass","status":"NOTRUN"},{"name":"LNA Public to public http mixed content bypass failure","status":"NOTRUN"}]}
