@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A soft navigation that uses a same-document initiated popstate event is recognized by SoftNavigationHeuristics","status":"PASS"}]}
