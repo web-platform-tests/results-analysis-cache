@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"getComputedStyle() returns an empty declaration for ::part(foo)","status":"PASS"},{"name":"getComputedStyle() returns an empty declaration for ::slotted(foo)","status":"PASS"}]}

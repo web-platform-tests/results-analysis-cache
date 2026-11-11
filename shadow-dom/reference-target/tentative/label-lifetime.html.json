@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":".labels across shadow roots keeps working across GC","status":"FAIL"},{"name":".labels keeps working after an intermediate shadow host is removed and collected","status":"FAIL"},{"name":".labels keeps working after its whole tree is removed from the document and only the list is referenced","status":"FAIL"}]}

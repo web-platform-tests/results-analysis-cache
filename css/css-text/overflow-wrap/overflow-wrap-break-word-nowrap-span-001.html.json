@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":".test 1: breaks between the inline boxes","status":"FAIL"},{"name":".test 2: breaks after each overflowing inline box","status":"FAIL"},{"name":".test 3: the boundaries are not soft wrap opportunities for min-content","status":"PASS"}]}
