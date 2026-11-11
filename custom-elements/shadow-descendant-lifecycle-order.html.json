@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Upgrade, connection, removal, and adoption visit closed and nested shadow trees before light children","status":"PASS"},{"name":"A failed upgrade does not skip shadow descendants or following siblings","status":"PASS"}]}
