@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Changing a media query updates @property initial-value, syntax, and inherits descriptors","status":"PASS"}]}
