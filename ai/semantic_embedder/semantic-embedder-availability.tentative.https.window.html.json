@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SemanticEmbedder.availability() returns a valid value with an embeddingSpace","status":"PASS"},{"name":"SemanticEmbedder.availability() requires an embeddingSpace","status":"PASS"},{"name":"SemanticEmbedder.availability() is \"unavailable\" for an unknown embeddingSpace","status":"PASS"}]}
