@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"JavaScript loads a CSS module first: the other consumer reuses the module map.","status":"PASS"},{"name":"link loads a CSS module first: the other consumer reuses the module map.","status":"PASS"},{"name":"A script-added import map resolves a module link and shares its module with JavaScript.","status":"PASS"}]}

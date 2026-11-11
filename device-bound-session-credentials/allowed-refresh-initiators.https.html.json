@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"An established session refreshes when initated by the owning site","status":"PASS"},{"name":"An established session refreshes when initated by a host in allowed_refresh_initiators","status":"PASS"},{"name":"An established session does not refresh when initated by a host not in allowed_refresh_initiators","status":"PASS"}]}

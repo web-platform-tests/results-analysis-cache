@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A parent containertiming root does not get paints from a nested containertiming root with containertimingignore.","status":"PASS"}]}
