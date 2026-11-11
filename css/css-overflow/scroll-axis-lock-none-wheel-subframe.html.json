@@ -1,0 +1,1 @@
+{"status":"ERROR","subtests":[{"name":"scroll-axis-lock: none on iframe.contentDocument.scrollingElement allows free diagonal wheel scroll even with steep angle (no railing to X)","status":"NOTRUN"},{"name":"scroll-axis-lock: none on iframe.contentDocument.scrollingElement allows free diagonal wheel scroll even with steep angle (no railing to Y)","status":"NOTRUN"}]}
