@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CanvasPaintEvent constructor and [SameObject] changedElements","status":"FAIL"},{"name":"onpaint event should have a list of changed elements","status":"FAIL"}]}
