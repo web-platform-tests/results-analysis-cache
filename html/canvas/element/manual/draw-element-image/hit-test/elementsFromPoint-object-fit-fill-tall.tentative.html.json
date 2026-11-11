@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Canvas descendants' transforms are correct when object-fit: fill is active.","status":"FAIL"}]}
