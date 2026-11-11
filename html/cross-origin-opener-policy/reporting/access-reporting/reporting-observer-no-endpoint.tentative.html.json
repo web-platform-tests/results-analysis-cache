@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"ReportingObserver is notified without a reporting endpoint","status":"TIMEOUT"},{"name":"Openee COOP-Report-Only with enforced COOP opener and reporting endpoint","status":"NOTRUN"}]}

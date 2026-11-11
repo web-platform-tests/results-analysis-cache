@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Control should be :active on mousedown when clicking the label twice in succession.","status":"FAIL"}]}

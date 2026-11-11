@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"arcTo scales the curve, not just the control points","status":"FAIL"}]}
