@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"history.state of an about:blank document stays with the initiator's origin after traversal","status":"TIMEOUT"},{"name":"Navigation API state of an about:blank document stays with the initiator's origin after traversal","status":"NOTRUN"}]}

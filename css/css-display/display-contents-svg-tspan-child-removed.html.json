@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Removing a display:contents tspan from SVG text should not crash","status":"FAIL"}]}

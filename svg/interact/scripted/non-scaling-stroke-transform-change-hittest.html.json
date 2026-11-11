@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"elementFromPoint(...) on non-scaling strokes after a transform change, initial scale(4)","status":"FAIL"},{"name":"elementFromPoint(...) on non-scaling strokes after a transform change, after changing to scale(2)","status":"FAIL"}]}

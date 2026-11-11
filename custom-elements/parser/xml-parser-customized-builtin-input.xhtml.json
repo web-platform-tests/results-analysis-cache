@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Customized built-in input created synchronously by the XML parser gets its attributes","status":"PASS"},{"name":"Customized built-in input is fully constructed when its constructor runs during XML parsing","status":"PASS"}]}
