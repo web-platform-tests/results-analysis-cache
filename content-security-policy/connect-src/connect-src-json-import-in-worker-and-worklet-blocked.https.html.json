@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"DedicatedWorker: a JSON module import is reported on the creator.","status":"TIMEOUT"},{"name":"SharedWorker: a JSON module import is reported on the creator.","status":"NOTRUN"},{"name":"AudioWorklet: a JSON module import is reported on the creator.","status":"NOTRUN"}]}
