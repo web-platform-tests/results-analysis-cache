@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"dropEffect should match effectAllowed on drop for copy","status":"PASS"},{"name":"dropEffect should match effectAllowed on drop for move","status":"PASS"},{"name":"dropEffect should match effectAllowed on drop for link","status":"PASS"}]}
