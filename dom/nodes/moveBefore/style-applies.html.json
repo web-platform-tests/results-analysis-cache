@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Moving a style inside the document should not affect whether it's applied","status":"PASS"}]}
