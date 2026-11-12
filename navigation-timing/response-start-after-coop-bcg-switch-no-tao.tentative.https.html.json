@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Redirect data is hidden and the navigation start time is not leaked after a cross-origin COOP browsing context group switch without a TAO opt-in","status":"FAIL"}]}

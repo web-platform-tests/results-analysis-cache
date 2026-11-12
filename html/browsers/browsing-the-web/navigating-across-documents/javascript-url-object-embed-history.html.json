@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A javascript: URL navigation in the document an <object> loaded for its element replaces its session history entry","status":"FAIL"},{"name":"A javascript: URL navigation in the document an <embed> loaded for its element replaces its session history entry","status":"FAIL"}]}
