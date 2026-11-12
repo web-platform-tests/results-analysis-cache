@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Detaching a streaming ManagedMediaSource sets streaming to false and fires endstreaming before sourceclose","status":"PASS"},{"name":"Detaching a ManagedMediaSource that is not streaming does not fire endstreaming","status":"PASS"}]}

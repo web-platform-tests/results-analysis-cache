@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"user activation propagates from PiP to opener","status":"FAIL"},{"name":"user activation propagates from iframe in PiP to opener","status":"FAIL"},{"name":"user activation does not propagate from PiP to iframe in opener","status":"FAIL"},{"name":"Consuming activation in PiP also consumes activation in iframes in opener","status":"FAIL"}]}

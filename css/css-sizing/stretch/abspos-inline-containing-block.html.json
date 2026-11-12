@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"'width: stretch' fills the padding box of the inline box","status":"PASS"},{"name":"'height: stretch' fills the padding box of the inline box","status":"FAIL"}]}
