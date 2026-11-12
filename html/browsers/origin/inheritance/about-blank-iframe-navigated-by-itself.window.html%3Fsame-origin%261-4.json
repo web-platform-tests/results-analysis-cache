@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"about:blank gets the initiator's origin","status":"PASS"},{"name":"about:blank doesn't share its origin with the parent, so document.domain only affects the parent","status":"FAIL"},{"name":"about:blank gets the initiator's CSP","status":"PASS"},{"name":"about:blank gets the initiator's base URL","status":"PASS"}]}

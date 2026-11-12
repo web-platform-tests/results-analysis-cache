@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigation.activation after navigation from the initial about:blank to a javascript: URL","status":"PASS"},{"name":"navigation.activation after navigation to a javascript: URL","status":"FAIL"}]}
