@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Setting src to the empty string on a connected classic script fires an error event","status":"PASS"},{"name":"Setting src to the empty string on a connected module script fires an error event","status":"PASS"}]}

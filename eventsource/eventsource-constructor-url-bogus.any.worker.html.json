@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"EventSource: constructor (invalid URL)","status":"PASS"},{"name":"EventSource: constructor (invalid port)","status":"PASS"}]}
