@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"no referrerpolicy: the same-origin request sends the full URL","status":"TIMEOUT"},{"name":"referrerpolicy=no-referrer sends no Referer header","status":"NOTRUN"},{"name":"referrerpolicy=origin sends the origin only","status":"NOTRUN"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Readonly input text inside draggable element should not be draggable","status":"PASS"},{"name":"Readonly input text inside draggable element should not be draggable while attempting to select text","status":"PASS"}]}

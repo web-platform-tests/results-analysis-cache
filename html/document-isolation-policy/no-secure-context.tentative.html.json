@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"DIP requires a secure context","status":"PASS"},{"name":"A document with DIP that is not a secure context is not cross-origin isolated and does not expose SharedArrayBuffer","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"scroll: after-transition on a traverse to an entry with a fragment restores the scroll position","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Test with target that has an ID","status":"TIMEOUT"},{"name":"Test with simple target (no id)","status":"NOTRUN"},{"name":"Test with image target with id and src","status":"NOTRUN"},{"name":"Test with image target with src only","status":"NOTRUN"},{"name":"Test with disconnected target","status":"NOTRUN"}]}
