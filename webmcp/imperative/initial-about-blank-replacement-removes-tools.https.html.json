@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Tools registered by the initial about:blank document are removed when about:blank replaces it","status":"PASS"}]}
