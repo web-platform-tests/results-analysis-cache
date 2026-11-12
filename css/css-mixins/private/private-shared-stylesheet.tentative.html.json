@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Shared stylesheets and detached rules preserve authored private names","status":"FAIL"},{"name":"Private values remain isolated after a shared stylesheet is mutated","status":"FAIL"},{"name":"A copied stylesheet cannot capture private values from the original sheet","status":"FAIL"}]}

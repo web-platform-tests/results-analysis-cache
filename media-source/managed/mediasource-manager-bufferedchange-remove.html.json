@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"remove() of part of the buffered data fires bufferedchange reporting the removed range","status":"PASS"},{"name":"remove() of all buffered data fires bufferedchange reporting all ranges as removed","status":"PASS"},{"name":"remove() of an unbuffered range does not fire bufferedchange","status":"PASS"}]}
