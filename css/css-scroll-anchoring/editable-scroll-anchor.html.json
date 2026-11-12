@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Scroll anchoring is suppressed during editing in a textarea","status":"PASS"},{"name":"Scroll anchoring is suppressed during editing in a contenteditable element","status":"FAIL"}]}
