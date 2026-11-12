@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Selection ending after a table row in a contenteditable does not copy the next row.","status":"PASS"},{"name":"Test for copying a table in a contenteditable with the selection ending at the end of a row","status":"PASS"}]}

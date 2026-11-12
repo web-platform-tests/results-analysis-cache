@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test ShapedText::positionToAdvance() and its symmetry with advanceToPosition() and glyphClusters().","status":"FAIL"}]}
