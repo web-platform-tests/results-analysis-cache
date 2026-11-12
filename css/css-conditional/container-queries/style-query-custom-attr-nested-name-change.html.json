@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initially, container does not match attr(var(--name)). Target is red.","status":"PASS"},{"name":"Changing the attribute named by var(--name) to 'correct' in container makes target color green","status":"FAIL"}]}
