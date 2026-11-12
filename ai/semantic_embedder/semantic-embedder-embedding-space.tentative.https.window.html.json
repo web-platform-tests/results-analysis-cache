@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SemanticEmbedder.create() requires an embeddingSpace","status":"FAIL"},{"name":"SemanticEmbedder.create() rejects an unknown embeddingSpace","status":"FAIL"},{"name":"SemanticEmbedder.embeddingSpace echoes the space passed to create()","status":"FAIL"},{"name":"Each ContentEmbedding names the space its values are in","status":"FAIL"}]}
