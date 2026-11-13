@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Removing an option from the stack of open elements updates selectedcontent.","status":"FAIL"}]}

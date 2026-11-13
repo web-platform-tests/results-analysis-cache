@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"no referrerpolicy: the same-origin request sends the full URL","status":"PASS"},{"name":"referrerpolicy=no-referrer sends no Referer header","status":"FAIL"},{"name":"referrerpolicy=origin sends the origin only","status":"FAIL"}]}
