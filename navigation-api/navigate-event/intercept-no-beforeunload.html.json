@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"navigate() whose navigate event is intercepted does not fire beforeunload","status":"PASS"}]}
