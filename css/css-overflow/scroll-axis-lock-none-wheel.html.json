@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"scroll-axis-lock: none allows free diagonal wheel scroll even with steep angle (no railing to X)","status":"FAIL"},{"name":"scroll-axis-lock: none allows free diagonal wheel scroll even with steep angle (no railing to Y)","status":"FAIL"}]}
