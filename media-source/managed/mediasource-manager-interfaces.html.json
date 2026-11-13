@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"ManagedMediaSource construction","status":"PASS"},{"name":"ManagedMediaSource streaming attribute is initially false","status":"PASS"},{"name":"ManagedMediaSource event handlers are initially null","status":"PASS"},{"name":"ManagedMediaSource.addSourceBuffer() returns a ManagedSourceBuffer","status":"PASS"}]}

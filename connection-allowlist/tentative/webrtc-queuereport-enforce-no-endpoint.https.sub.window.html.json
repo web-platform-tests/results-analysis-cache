@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Test that a WebRTC violation report reaches a ReportingObserver in enforce mode when no reporting endpoint is declared.","status":"FAIL"}]}
