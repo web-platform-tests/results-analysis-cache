@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"oninstallresult is exposed through GlobalEventHandlers","status":"FAIL"},{"name":"HTMLInstallElement keeps its oninstallresult handler","status":"FAIL"},{"name":"An ancestor handler distinguishes install elements by event.target","status":"FAIL"},{"name":"Document and Window handlers receive bubbling installresult events","status":"FAIL"}]}

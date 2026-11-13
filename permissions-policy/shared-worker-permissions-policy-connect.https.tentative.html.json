@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"SharedWorker can be created with allow option.","status":"PASS"},{"name":"Connecting with matching allow policy succeeds.","status":"PASS"},{"name":"Connecting with mismatched allow policy fires error event.","status":"FAIL"},{"name":"Connecting with stricter allow policy fires error event.","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Empty-prelude @scope in a module sheet is rooted at the shadow host.","status":"TIMEOUT"},{"name":"Duplicate module links retain an implicit scope until the last reference is removed.","status":"NOTRUN"}]}
