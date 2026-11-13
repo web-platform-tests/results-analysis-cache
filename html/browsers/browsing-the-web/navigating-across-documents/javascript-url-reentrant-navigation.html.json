@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Navigation started in readystatechange during javascript: URL document abort is ignored","status":"PASS"},{"name":"Navigation to about:blank during initial javascript: URL src evaluation prevents string replacement","status":"PASS"}]}

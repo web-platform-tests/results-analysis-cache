@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"entries() keeps forward entries after a cross-document location.replace()","status":"PASS"},{"name":"entries() keeps forward entries after a cross-document navigation.navigate() with history: 'replace'","status":"PASS"}]}

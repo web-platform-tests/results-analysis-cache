@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Module sheets are ownerless; classic sheets are link-owned.","status":"TIMEOUT"},{"name":"@import is ignored (dropped, not fetched) in CSS module sheets.","status":"NOTRUN"}]}
