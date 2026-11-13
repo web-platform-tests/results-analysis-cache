@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"document.parsed, document.contentLoaded, and document.loaded when document.open() happens inside DOMContentLoaded","status":"FAIL"}]}

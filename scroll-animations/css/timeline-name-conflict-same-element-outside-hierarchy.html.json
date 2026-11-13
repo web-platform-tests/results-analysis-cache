@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"scroll-timeline wins when declared along with view-timeline","status":"PASS"},{"name":"scroll-timeline wins when declared after view-timeline","status":"PASS"}]}

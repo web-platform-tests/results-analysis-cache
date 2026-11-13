@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A script with invalid JSON should report an error on the window but not fire an error event on the element","status":"PASS"}]}
