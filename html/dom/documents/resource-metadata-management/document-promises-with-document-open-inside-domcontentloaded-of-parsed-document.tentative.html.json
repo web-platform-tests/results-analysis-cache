@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"document.open() inside DOMContentLoaded resets the promises without affecting the fulfilled ones","status":"TIMEOUT"},{"name":"The original document.loaded promise never fulfills","status":"NOTRUN"}]}
