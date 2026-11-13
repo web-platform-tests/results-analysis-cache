@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"clicking a popover nested inside a button should not re-invoke the popover","status":"FAIL"},{"name":"corner case: invoker that is also a popover","status":"FAIL"},{"name":"invoker inside popover still works, even with weird nesting","status":"FAIL"},{"name":"invoker inside popover still works, even inside of a shadowroot","status":"FAIL"}]}

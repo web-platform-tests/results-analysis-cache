@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Synthetic bold does not give width to a zero-advance (empty) font","status":"FAIL"}]}

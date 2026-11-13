@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Same-named @private variables in different source blocks are distinct","status":"FAIL"},{"name":"An @private variable is not exposed as an author custom property","status":"PASS"}]}

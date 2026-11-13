@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"no crossorigin: a cross-origin script without CORS headers loads","status":"TIMEOUT"},{"name":"crossorigin=anonymous: a cross-origin script with Access-Control-Allow-Origin loads","status":"NOTRUN"},{"name":"crossorigin=anonymous: a cross-origin script without CORS headers fails","status":"NOTRUN"}]}

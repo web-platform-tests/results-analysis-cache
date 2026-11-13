@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"CSSCounterStyleRule.cssText doesn't serialize with newlines","status":"FAIL"}]}

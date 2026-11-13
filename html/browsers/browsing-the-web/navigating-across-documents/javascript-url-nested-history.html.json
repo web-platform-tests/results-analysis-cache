@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Traversing back to an entry created by a javascript: URL navigation doesn't restore the replaced document's nested history","status":"TIMEOUT"}]}

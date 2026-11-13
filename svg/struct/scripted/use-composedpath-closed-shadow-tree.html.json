@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"composedPath() in a listener on the use element","status":"FAIL"},{"name":"composedPath() in a listener on an ancestor of the use element","status":"FAIL"}]}

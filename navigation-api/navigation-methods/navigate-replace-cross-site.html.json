@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"navigate() with history: 'replace' from a same-origin iframe to another site","status":"TIMEOUT"},{"name":"navigate() with history: 'replace' from a cross-site iframe to this site","status":"NOTRUN"},{"name":"navigate() with history: 'replace' from a cross-site popup to this site","status":"NOTRUN"}]}
