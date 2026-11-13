@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IntersectionObserverV2 with fragmented box-shadow occluders.","status":"PASS"},{"name":"First rAF.","status":"FAIL"},{"name":"Remove box-shadow from occluders.","status":"FAIL"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XRGPUBinding.getSubImage() throws InvalidStateError for a destroyed layer","status":"FAIL"},{"name":"XRGPUBinding.getViewSubImage() throws InvalidStateError for a destroyed layer","status":"FAIL"},{"name":"A session keeps rendering with a new WebGPU projection layer after the old one is destroyed","status":"FAIL"}]}
