@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"no crossorigin: a cross-origin script without CORS headers loads","status":"PASS"},{"name":"crossorigin=anonymous: a cross-origin script with Access-Control-Allow-Origin loads","status":"PASS"},{"name":"crossorigin=anonymous: a cross-origin script without CORS headers fails","status":"FAIL"}]}
