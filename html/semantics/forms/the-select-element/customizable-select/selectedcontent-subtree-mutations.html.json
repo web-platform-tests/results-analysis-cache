@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"selectedcontent stays up to date after an ancestor of the select is removed.","status":"PASS"},{"name":"selectedcontent stays up to date after an ancestor of the select is moved.","status":"PASS"},{"name":"selectedcontent moved into a select that becomes multiple before the microtask runs is not updated.","status":"PASS"}]}

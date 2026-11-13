@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A security policy violation is reported for the moved style attribute","status":"PASS"},{"name":"The style attribute is not applied once the element is moved out of the template","status":"PASS"}]}

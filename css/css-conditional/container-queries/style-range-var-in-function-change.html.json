@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Initially the query does not match","status":"PASS"},{"name":"Query matches after changing the custom property to an even number","status":"FAIL"},{"name":"Query stops matching after changing the custom property to an odd number","status":"PASS"}]}

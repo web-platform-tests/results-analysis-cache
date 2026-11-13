@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"IntersectionObserver observing an element inside a root table.","status":"PASS"},{"name":"First rAF.","status":"PASS"},{"name":"Scroll the iframe container to show the target element.","status":"PASS"}]}
