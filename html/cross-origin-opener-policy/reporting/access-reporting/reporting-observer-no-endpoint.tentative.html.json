@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"ReportingObserver is notified without a reporting endpoint","status":"FAIL"},{"name":"Openee COOP-Report-Only with enforced COOP opener and reporting endpoint","status":"FAIL"}]}
