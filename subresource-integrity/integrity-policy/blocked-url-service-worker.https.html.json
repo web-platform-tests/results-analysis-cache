@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"blockedURL is the request URL, not the URL of the opaque response the service worker provided","status":"PASS"}]}

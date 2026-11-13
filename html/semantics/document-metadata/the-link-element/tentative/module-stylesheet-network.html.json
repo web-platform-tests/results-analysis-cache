@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A network CSS module connects after fetching and shares its identity.","status":"FAIL"},{"name":"A failed network fetch fires error and connects no sheet.","status":"PASS"},{"name":"A redirected CSS module loads and resolves relative URLs from its response.","status":"FAIL"}]}
