@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"XMLHttpRequest: send() - non-empty data argument and GET/HEAD - async, no upload events should fire (GET)","status":"PASS"},{"name":"XMLHttpRequest: send() - non-empty data argument and GET/HEAD - async, no upload events should fire (HEAD)","status":"PASS"}]}
