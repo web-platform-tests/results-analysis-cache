@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A reconnected device reports the default ATT_MTU again, because the MTU is negotiated per connection.","status":"PASS"}]}
