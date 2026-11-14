@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"entries() after traversing back to an entry created by a javascript: URL navigation","status":"FAIL"}]}

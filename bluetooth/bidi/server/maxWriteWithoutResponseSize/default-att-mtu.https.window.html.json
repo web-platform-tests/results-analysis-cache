@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"maxWriteWithoutResponseSize reflects the default ATT_MTU while no larger MTU has been negotiated.","status":"PASS"}]}

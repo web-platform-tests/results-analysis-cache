@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"containerTiming and containerTimingIgnore are only exposed on HTMLElement.","status":"PASS"},{"name":"containertiming on SVG and MathML elements does not report paints.","status":"PASS"}]}

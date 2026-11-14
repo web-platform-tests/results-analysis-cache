@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"modulepreload as=style, a module stylesheet link, and JavaScript import() share one CSSStyleSheet.","status":"PASS"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Distinct specifiers resolving to a data URL share sheet identity.","status":"PASS"},{"name":"Distinct specifiers resolving to a static CSS file share sheet identity.","status":"PASS"}]}
