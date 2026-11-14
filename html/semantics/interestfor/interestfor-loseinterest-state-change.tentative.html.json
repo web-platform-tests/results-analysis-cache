@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"If a loseinterest handler changes the active interest target, the target popover is not hidden","status":"FAIL"}]}

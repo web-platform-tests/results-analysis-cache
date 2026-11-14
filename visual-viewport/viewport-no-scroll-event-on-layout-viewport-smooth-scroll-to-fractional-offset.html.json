@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Smooth scrolling the layout viewport to fractional offsets does not fire a scroll event on visualViewport","status":"PASS"}]}
