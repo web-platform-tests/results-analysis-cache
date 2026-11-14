@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"animateMotion from/to values with trailing garbage are invalid","status":"FAIL"}]}

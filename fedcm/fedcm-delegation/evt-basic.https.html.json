@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Positive: Successfully authenticate EVT happy path and obtain a valid verification token.","status":"TIMEOUT"},{"name":"Negative: Token field remains empty when issuance endpoint returns an error.","status":"NOTRUN"}]}

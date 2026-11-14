@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"A pointer event over the fitted SVG document targets it, with client coordinates relative to it","status":"TIMEOUT"},{"name":"A pointer event where the fitted SVG document does not cover the content box targets the object","status":"NOTRUN"}]}

@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"WebAssembly.compileStreaming() is blocked","status":"FAIL"},{"name":"WebAssembly.instantiateStreaming() is blocked","status":"FAIL"}]}
