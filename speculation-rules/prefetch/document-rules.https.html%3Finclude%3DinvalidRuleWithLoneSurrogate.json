@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"a lone surrogate in an invalid rule does not invalidate the ruleset","status":"FAIL"}]}

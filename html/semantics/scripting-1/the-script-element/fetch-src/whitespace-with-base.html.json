@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Script src with only ASCII whitespace resolves to the base URL","status":"FAIL"}]}

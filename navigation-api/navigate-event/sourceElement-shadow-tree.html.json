@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"sourceElement for an <svg:a> in a <use> shadow tree is the <use> element","status":"PASS"},{"name":"sourceElement for an <a> in a closed shadow root is the shadow host","status":"FAIL"},{"name":"sourceElement for an <a> in a open shadow root is the shadow host","status":"FAIL"}]}
