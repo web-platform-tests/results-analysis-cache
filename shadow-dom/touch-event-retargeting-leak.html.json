@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"TouchEvent retargeting does not leak closed shadow-dom nodes to host during capturing","status":"FAIL"},{"name":"TouchEvent retargeting does not leak closed shadow-dom nodes to host during bubbling","status":"PASS"}]}
