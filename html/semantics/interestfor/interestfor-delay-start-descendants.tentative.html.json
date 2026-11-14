@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Moving the pointer between descendants of an invoker does not restart interest-delay-start","status":"FAIL"}]}

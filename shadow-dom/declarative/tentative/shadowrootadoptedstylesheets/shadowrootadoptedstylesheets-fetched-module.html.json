@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Already-fetched module populates adoptedStyleSheets synchronously and applies styles.","status":"FAIL"}]}

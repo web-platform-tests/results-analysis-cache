@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Allow origins check: container=subdomain, origin=same, allow=wildcard","status":"TIMEOUT"}]}
