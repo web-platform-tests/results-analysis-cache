@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Upgrade with another window's global registry and a constructor from this window","status":"PASS"},{"name":"Upgrade with a scoped registry and a constructor from another window","status":"PASS"},{"name":"Constructing directly uses the registry of the HTMLElement constructor's window","status":"PASS"}]}
