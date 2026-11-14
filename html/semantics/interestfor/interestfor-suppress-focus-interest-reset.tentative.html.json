@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Focus interest isn't suppressed after focus restoration fails (display:none)","status":"FAIL"},{"name":"Focus interest isn't suppressed after focus restoration fails (inert)","status":"FAIL"}]}

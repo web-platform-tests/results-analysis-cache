@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"A plain object can be posted to a cross-site iframe","status":"PASS"},{"name":"MediaStreamTrackHandle can be transferred to a same-origin iframe","status":"PASS"},{"name":"MediaStreamTrackHandle cannot be transferred to a cross-site iframe","status":"PASS"}]}
