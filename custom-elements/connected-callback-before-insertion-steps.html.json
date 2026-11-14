@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"Inserting an open details element into a group with another open one calls connectedCallback before attributeChangedCallback","status":"FAIL"}]}
