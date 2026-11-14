@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"Removing import while a connected module link's successful fetch is pending ignores its completion.","status":"TIMEOUT"},{"name":"Removing import while a connected module link's failed fetch is pending ignores its completion.","status":"NOTRUN"}]}

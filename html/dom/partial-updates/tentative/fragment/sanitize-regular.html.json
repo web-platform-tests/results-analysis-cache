@@ -1,0 +1,1 @@
+{"status":"OK","subtests":[{"name":"The sanitize attribute only applies when src is present","status":"FAIL"}]}

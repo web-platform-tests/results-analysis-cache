@@ -1,0 +1,1 @@
+{"status":"TIMEOUT","subtests":[{"name":"JavaScript loads a CSS module first: the other consumer reuses the module map.","status":"TIMEOUT"},{"name":"link loads a CSS module first: the other consumer reuses the module map.","status":"NOTRUN"},{"name":"A script-added import map resolves a module link and shares its module with JavaScript.","status":"NOTRUN"}]}
